@@ -1,0 +1,840 @@
+[
+  {
+    "id": 423,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Bianco_Greco_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-06T23:52:09.017756+00:00",
+    "last_update": "2024-12-13T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Iris Ceramica Group",
+    "product_name": "Fragmenta Bianco Greco",
+    "product_code": "4850 & 4854",
+    "product_description": "Full-body stone effect tile enriched by a mosaic of grey, black and transparent grains",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "600x600mm and 600x1200mm",
+    "price_per_unit": 127.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $127/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1026,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/certificates/Iris_Porce_Silve_CERT5397_2024-07-16_85733.pdf",
+        "link": "",
+        "rating": "Silver",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1027,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/certificates/Ariostea_EPD_1_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1028,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/certificates/GREENGUARD_Gold_Certification_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1029,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/certificates/GREENGUARD_Certification_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 13.1,
+    "upfront_carbon_emissions": 13.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Post-consumer material, weight % is approximately 29%. \r\nPre and post consumer material, weight >40%.  The exact percentage is unknown however is compliant with BREEAM and LEED criteria. \r\nRefer to pg. 22 of the EPD.",
+    "recycling_process_description": "All the materials at the end of their life cycle do not require treatments since, by virtue of the high chemical inertia, do not release substances into the environment. For this reason, they are considered to all effects inert materials. They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes - Manufacturing is closed-circuit, and all raw materials waste and wastewater are reused in the production process.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Please refer to section 6 and 7 of the ICG Sustainability Report which outlines supply chain risk and the wellbeing, health and safety of Iris Ceramica Group's workers.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1026,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/certificates/Iris_Porce_Silve_CERT5397_2024-07-16_85733.pdf",
+        "link": "",
+        "rating": "Silver"
+      },
+      {
+        "id": 1027,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/certificates/Ariostea_EPD_1_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1028,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/certificates/GREENGUARD_Gold_Certification_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1029,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/certificates/GREENGUARD_Certification_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Textured Finish (Slip Rating P3), also available in 600x1200mm in Grigio Luminoso.\r\n\r\nIn/Out Matt Finish (Slip Rating P5) only available in Arlecchino and Grigio Luminoso.",
+    "manufacturing_locations": [
+      {
+        "id": 568,
+        "location_name": "Roteglia, Province of Reggio Emilia, Italy",
+        "location_lat": 44.48569,
+        "location_lon": 10.684723,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 801,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Auxiliary Additives",
+        "product_percentage": 0.6
+      },
+      {
+        "id": 802,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Colouring Pigments, Inks and/or Glazes",
+        "product_percentage": 1.4
+      },
+      {
+        "id": 800,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Mineral Raw Materials (Clay, Feldspar, Kaolin, Sand, Others)",
+        "product_percentage": 98.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 671,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 638,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/compliance/NATA_Slip_Test_Report_S230029_Fragmenta_Textured_Series_-_Slider_55_1.pdf",
+        "link": "",
+        "rating": "P3"
+      }
+    ],
+    "type_of_packaging": "The packaging materials are cardboard, polyethylene stretch film and wood.",
+    "files": [
+      {
+        "id": 2478,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/ModernSlaveryActionPlan/Supplier_Code_of_Conduct_en_ICG.pdf"
+      },
+      {
+        "id": 803,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/ModernSlaveryAssessment/ICG_Sustainability_Report_2022.pdf"
+      },
+      {
+        "id": 800,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/VOC/GREENGUARD_Gold_Certification_1.pdf"
+      },
+      {
+        "id": 801,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/LCA/Ariostea_EPD_1_1.pdf"
+      },
+      {
+        "id": 805,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/RecycledContent/ariostea_leed_recycled_content.pdf"
+      },
+      {
+        "id": 802,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Bianco%20Greco/RecycledContent/Ariostea_EPD_1_1.pdf"
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Grigio_Luminoso.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-07T01:14:25.721142+00:00",
+    "last_update": "2024-12-13T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Iris Ceramica Group",
+    "product_name": "Fragmenta Grigio Luminoso",
+    "product_code": "4851 & 4852",
+    "product_description": "Full-body stone effect tile enriched by a mosaic of grey, black and transparent grains",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "600x600mm and 600x1200mm",
+    "price_per_unit": 127.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $127/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1034,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/certificates/C2C_Iris_Porce_Silve_CERT5397_2024-07-16_85733.pdf",
+        "link": "",
+        "rating": "Silver",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1035,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/certificates/Ariostea_EPD_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1036,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/certificates/GREENGUARD_Gold_Certification.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1037,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/certificates/GREENGUARD_Certification.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 13.1,
+    "upfront_carbon_emissions": 13.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Post-consumer material, weight % is approximately 29%. \r\nPre and post consumer material, weight >40%.  The exact percentage is unknown however is compliant with BREEAM and LEED criteria. \r\nRefer to pg. 22 of the EPD.",
+    "recycling_process_description": "All the materials at the end of their life cycle do not require treatments since, by virtue of the high chemical inertia, do not release substances into the environment. For this reason, they are considered to all effects inert materials. They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes - Manufacturing is closed-circuit, and all raw materials waste and wastewater are reused in the production process.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Please refer to section 6 and 7 of the ICG Sustainability Report which outlines supply chain risk and the wellbeing, health and safety of Iris Ceramica Group's workers.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1034,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/certificates/C2C_Iris_Porce_Silve_CERT5397_2024-07-16_85733.pdf",
+        "link": "",
+        "rating": "Silver"
+      },
+      {
+        "id": 1035,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/certificates/Ariostea_EPD_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1036,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/certificates/GREENGUARD_Gold_Certification.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1037,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/certificates/GREENGUARD_Certification.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "In/Out Matt Finish (Slip Rating P5), also available in Arlecchino.\r\n\r\nTextured Finish (Slip Rating P3), also available in Bianco Greco.",
+    "manufacturing_locations": [
+      {
+        "id": 569,
+        "location_name": "Roteglia, Province of Reggio Emilia, Italy",
+        "location_lat": 44.48569,
+        "location_lon": 10.684723,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 803,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Auxiliary Additives",
+        "product_percentage": 0.6
+      },
+      {
+        "id": 804,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Colouring Pigments, Inks and/or Glazes",
+        "product_percentage": 1.4
+      },
+      {
+        "id": 805,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Mineral Raw Materials (Clay, Feldspar, Kaolin, Sand, Others)",
+        "product_percentage": 98.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 672,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 640,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/compliance/NATA_Slip_Test_Report_S230029_Fragmenta_Textured_Series_-_Slider_55_olXzpcu.pdf",
+        "link": "",
+        "rating": "P3"
+      },
+      {
+        "id": 641,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/compliance/FRAGMENTA_Soft_P5___R26218a_-_Slip_Check_600x600_BST300060_1.pdf",
+        "link": "",
+        "rating": "P5"
+      }
+    ],
+    "type_of_packaging": "The packaging materials are cardboard, polyethylene stretch film and wood.",
+    "files": [
+      {
+        "id": 2479,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/ModernSlaveryActionPlan/Supplier_Code_of_Conduct_en_ICG.pdf"
+      },
+      {
+        "id": 812,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/VOC/GREENGUARD_Gold_Certification.pdf"
+      },
+      {
+        "id": 813,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/LCA/Ariostea_EPD_1_POTBdbU.pdf"
+      },
+      {
+        "id": 814,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/RecycledContent/Ariostea_EPD_1_Ba8lb5h.pdf"
+      },
+      {
+        "id": 815,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/RecycledContent/ariostea_leed_recycled_content.pdf"
+      },
+      {
+        "id": 816,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Grigio%20Luminoso/ModernSlaveryAssessment/ICG_Sustainability_Report_2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Arlecchino_OMZcu2Z.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-07T01:45:08.539976+00:00",
+    "last_update": "2024-12-13T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Iris Ceramica Group",
+    "product_name": "Fragmenta Arlecchino",
+    "product_code": "4853",
+    "product_description": "Full-body stone effect tile enriched by a mosaic of grey, black and transparent grains",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "600x600mm",
+    "price_per_unit": 120.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $120/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1042,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/certificates/C2C_Iris_Porce_Silve_CERT5397_2024-07-16_85733.pdf",
+        "link": "",
+        "rating": "Silver",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1043,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/certificates/Ariostea_EPD_1_HzjW5Sm.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1045,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/certificates/GREENGUARD_Certification_cEkiZzI.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1044,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/certificates/GREENGUARD_Gold_Certification_ZyzWcvg.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 13.1,
+    "upfront_carbon_emissions": 13.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Post-consumer material, weight % is approximately 29%. \r\nPre and post consumer material, weight >40%.  The exact percentage is unknown however is compliant with BREEAM and LEED criteria. \r\nRefer to pg. 22 of the EPD.",
+    "recycling_process_description": "All the materials at the end of their life cycle do not require treatments since, by virtue of the high chemical inertia, do not release substances into the environment. For this reason, they are considered to all effects inert materials. They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes - Manufacturing is closed-circuit, and all raw materials waste and wastewater are reused in the production process.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Please refer to section 6 and 7 of the ICG Sustainability Report which outlines supply chain risk and the wellbeing, health and safety of Iris Ceramica Group's workers.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1042,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/certificates/C2C_Iris_Porce_Silve_CERT5397_2024-07-16_85733.pdf",
+        "link": "",
+        "rating": "Silver"
+      },
+      {
+        "id": 1043,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/certificates/Ariostea_EPD_1_HzjW5Sm.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1045,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/certificates/GREENGUARD_Certification_cEkiZzI.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1044,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/certificates/GREENGUARD_Gold_Certification_ZyzWcvg.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "In/Out Matt Finish (Slip Rating P5), also available in Grigio Luminoso.\r\n\r\nTextured Finish (Slip Rating P3), only available in Bianco Greco and Grigio Luminoso.",
+    "manufacturing_locations": [
+      {
+        "id": 570,
+        "location_name": "Roteglia, Province of Reggio Emilia, Italy",
+        "location_lat": 44.48569,
+        "location_lon": 10.684723,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 806,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Auxiliary Additives",
+        "product_percentage": 0.6
+      },
+      {
+        "id": 807,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Colouring Pigments, Inks and/or Glazes",
+        "product_percentage": 1.4
+      },
+      {
+        "id": 808,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Mineral Raw Materials (Clay, Feldspar, Kaolin, Sand, Others)",
+        "product_percentage": 98.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 673,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 644,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/compliance/FRAGMENTA_Soft_P5___R26218a_-_Slip_Check_600x600_BST300060_1.pdf",
+        "link": "",
+        "rating": "P5"
+      }
+    ],
+    "type_of_packaging": "The packaging materials are cardboard, polyethylene stretch film and wood.",
+    "files": [
+      {
+        "id": 2477,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/ModernSlaveryActionPlan/Supplier_Code_of_Conduct_en_ICG.pdf"
+      },
+      {
+        "id": 825,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/RecycledContent/ariostea_leed_recycled_content.pdf"
+      },
+      {
+        "id": 822,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/VOC/GREENGUARD_Gold_Certification.pdf"
+      },
+      {
+        "id": 826,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/ModernSlaveryAssessment/ICG_Sustainability_Report_2022.pdf"
+      },
+      {
+        "id": 823,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/LCA/Ariostea_EPD_1_180ZqEF.pdf"
+      },
+      {
+        "id": 824,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Fragmenta%20Arlecchino/RecycledContent/Ariostea_EPD_1_n63hYUJ.pdf"
+      }
+    ]
+  }
+]

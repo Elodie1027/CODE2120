@@ -1,0 +1,285 @@
+[
+  {
+    "id": 471,
+    "company": {
+      "id": 116,
+      "name": "HEMPEL"
+    },
+    "image": "products/HEMPEL/Wattyl_ID_Advanced_Satin_4L.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-19T03:55:41.407593+00:00",
+    "last_update": "2024-10-01T14:00:00+00:00",
+    "created_by": {
+      "id": 1223,
+      "email": "chrro@hempel.com"
+    },
+    "updated_by": {
+      "id": 1223,
+      "email": "chrro@hempel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Hempel (Wattyl) Australia Pty Ltd",
+    "product_name": "Wattyl I.D Advanced",
+    "product_code": "Low Sheen",
+    "product_description": "An ultra-low VOC formula at less than 1g/L, Wattyl I.D Advanced exceeds green-building requirements",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "Available",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1226,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Wattyl%20I.D%20Advanced/certificates/1904HempelWattyl.WattylIDAdvancedLowSheen.CLASSI.AP-S0215-3V13AP-S0260-3V5.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1227,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Wattyl%20I.D%20Advanced/certificates/Wattyl_Certificate_EC-07_to_Jan_25.jpg",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1229,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Wattyl%20I.D%20Advanced/certificates/GECA_Certification_2024_-27.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Through Paintback Scheme",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Paintback Scheme",
+    "water_reduction_techniques": "Recycled Water",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Accurately measure the area you need to paint to order the required amount of paint through Wattyl's calculator https://wattylreadytogo.com.au/paint-calculator/",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1226,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Wattyl%20I.D%20Advanced/certificates/1904HempelWattyl.WattylIDAdvancedLowSheen.CLASSI.AP-S0215-3V13AP-S0260-3V5.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1227,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Wattyl%20I.D%20Advanced/certificates/Wattyl_Certificate_EC-07_to_Jan_25.jpg",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1229,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Wattyl%20I.D%20Advanced/certificates/GECA_Certification_2024_-27.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 653,
+        "location_name": "Kilburn SA, Australia",
+        "location_lat": -34.858113,
+        "location_lon": 138.583101,
+        "component": "Paint",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 930,
+        "location_name": "Kilburn South Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 731,
+        "location_name": "West Footscray VIC, Australia",
+        "location_lat": -37.800671,
+        "location_lon": 144.871665,
+        "location_state": " Australia",
+        "location_city": "West Footscray VIC"
+      },
+      {
+        "id": 733,
+        "location_name": "Blacktown NSW, Australia",
+        "location_lat": -33.766098,
+        "location_lon": 150.912693,
+        "location_state": " Australia",
+        "location_city": "Blacktown NSW"
+      },
+      {
+        "id": 735,
+        "location_name": "Launceston TAS, Australia",
+        "location_lat": -41.433221,
+        "location_lon": 147.144088,
+        "location_state": " Australia",
+        "location_city": "Launceston TAS"
+      },
+      {
+        "id": 732,
+        "location_name": "Kilburn SA, Australia",
+        "location_lat": -34.858113,
+        "location_lon": 138.583101,
+        "location_state": " Australia",
+        "location_city": "Kilburn SA"
+      },
+      {
+        "id": 734,
+        "location_name": "Bayswater WA, Australia",
+        "location_lat": -31.915527,
+        "location_lon": 115.920593,
+        "location_state": " Australia",
+        "location_city": "Bayswater WA"
+      },
+      {
+        "id": 736,
+        "location_name": "Townsville QLD, Australia",
+        "location_lat": -19.258964,
+        "location_lon": 146.816948,
+        "location_state": " Australia",
+        "location_city": "Townsville QLD"
+      },
+      {
+        "id": 737,
+        "location_name": "Altona North VIC, Australia",
+        "location_lat": -37.834714,
+        "location_lon": 144.847594,
+        "location_state": " Australia",
+        "location_city": "Altona North VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "VOC < 1g/Litre. The VOC level has been calculated theoretically from raw material information in accordance with APAS D181.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 689,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Wattyl%20I.D%20Advanced/compliance/Wattyl_I.D_Advanced_Low_Sheen_Safety_Data_Sheet.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Steel cans with labels, pallets",
+    "files": [
+      {
+        "id": 963,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Wattyl%20I.D%20Advanced/ModernSlaveryActionPlan/Appendix_A_-_Hempel_Australia_-_Modern_Slavery_Report_-_2022_final_1.pdf"
+      },
+      {
+        "id": 939,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Wattyl%20I.D%20Advanced/VOC/GECA_Certification_2024_-27.pdf"
+      },
+      {
+        "id": 964,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Wattyl%20I.D%20Advanced/VOC/1904HempelWattyl.WattylIDAdvancedLowSheen.CLASSI.AP-S0215-3V13AP-S0260-3V5.pdf"
+      },
+      {
+        "id": 1108,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Wattyl%20I.D%20Advanced/ModernSlaveryAssessment/Appendix_E_-_Hempel_Business_Ethics_Policy_SJPQu6G.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2117 @@
+[
+  {
+    "id": 126,
+    "company": {
+      "id": 17,
+      "name": "FORESTONE"
+    },
+    "image": "products/FORESTONE/02PI_PR_PH_fur_eurolight_50mm_H3170_Reduced.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-08T00:32:36.535732+00:00",
+    "last_update": "2024-07-10T14:00:00+00:00",
+    "created_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "updated_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Fritz EGGER GmbH & CO.",
+    "product_name": "Eurolight Decorative Faced 2800 X 2070 X 50Mm Light-Weight Composite Panel",
+    "product_code": "EGGEREURLGHT",
+    "product_description": "Eurolight decor is a decorative composite board consisting of melamine-resin-coated thin chipboard.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "2800 x 2070 x 50mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 223,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 224,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/CF_EGGER_Eurodekor_JP_F03_VOC_T%C3%9CV_PROFiCERT_Unterradlberg_en.pdf",
+        "link": "",
+        "rating": "0.3mg/l Formaldehyde (No VOC)",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 225,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/ISO_Certificate_14001_IQNet_2024.pdf",
+        "link": "",
+        "rating": "ISO 14001 Compliance",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 226,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/Confirmation_for_compliance_of_REACH_order_1907-2006-EC_SVHC_List.pdf",
+        "link": "",
+        "rating": "Compliance with REACH",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 227,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 228,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/BR_Sustainability_Report_2022_EN.pdf",
+        "link": "",
+        "rating": "EGGER Sustainability Report",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 46.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 1.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -7.86,
+    "upfront_carbon_emissions": -7.86,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Recyling way stations",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "No conditions, both the chipboard and the cardboard core can be recycled",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "EHD Eurolight - ISO 14021",
+    "recycling_process_description": "Honeycomb core can be recycled back into a paper product and particleboard recycled back into particleboard.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure of %. EGGER use rainwater and cleaning of water from production using bacteria rather than checmicals.",
+    "transport_emissions_minimisation_techniques": "Hybrid trucks",
+    "minimisation_design_strategy": "design to suit sheets size based on application",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "EGGER and ForestOne both have policies. EGGER is a participant of the UN Global Compact, UN 17SDGs and EcoVadis audited.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 223,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 224,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/CF_EGGER_Eurodekor_JP_F03_VOC_T%C3%9CV_PROFiCERT_Unterradlberg_en.pdf",
+        "link": "",
+        "rating": "0.3mg/l Formaldehyde (No VOC)"
+      },
+      {
+        "id": 225,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/ISO_Certificate_14001_IQNet_2024.pdf",
+        "link": "",
+        "rating": "ISO 14001 Compliance"
+      },
+      {
+        "id": 226,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/Confirmation_for_compliance_of_REACH_order_1907-2006-EC_SVHC_List.pdf",
+        "link": "",
+        "rating": "Compliance with REACH"
+      },
+      {
+        "id": 227,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 228,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/BR_Sustainability_Report_2022_EN.pdf",
+        "link": "",
+        "rating": "EGGER Sustainability Report"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 40,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Available in multiple decors option that match the EGGER range.",
+    "manufacturing_locations": [
+      {
+        "id": 129,
+        "location_name": "Wörgl, Austria",
+        "location_lat": 47.48561,
+        "location_lon": 12.064947,
+        "component": "Chipboard",
+        "component_percentage": 30.0
+      },
+      {
+        "id": 130,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "component": "Honeycomb Cardboard core",
+        "component_percentage": 70.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 163,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Chipboard",
+        "product_percentage": 30.0
+      },
+      {
+        "id": 164,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Honeycomb Cardboard core",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 155,
+        "location_name": "Derrimut VIC, Australia",
+        "location_lat": -37.792708,
+        "location_lon": 144.771556,
+        "location_state": " Australia",
+        "location_city": "Derrimut VIC"
+      },
+      {
+        "id": 156,
+        "location_name": "Wetherill Park NSW, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW"
+      },
+      {
+        "id": 157,
+        "location_name": "Berrinba QLD, Australia",
+        "location_lat": -27.658462,
+        "location_lon": 153.080652,
+        "location_state": " Australia",
+        "location_city": "Berrinba QLD"
+      },
+      {
+        "id": 158,
+        "location_name": "Cairns QLD, Australia",
+        "location_lat": -16.920348,
+        "location_lon": 145.770953,
+        "location_state": " Australia",
+        "location_city": "Cairns QLD"
+      },
+      {
+        "id": 159,
+        "location_name": "Townsville QLD, Australia",
+        "location_lat": -19.258964,
+        "location_lon": 146.816948,
+        "location_state": " Australia",
+        "location_city": "Townsville QLD"
+      },
+      {
+        "id": 160,
+        "location_name": "Wingfield SA, Australia",
+        "location_lat": -34.841354,
+        "location_lon": 138.54613,
+        "location_state": " Australia",
+        "location_city": "Wingfield SA"
+      },
+      {
+        "id": 161,
+        "location_name": "Welshpool WA, Australia",
+        "location_lat": -31.99344,
+        "location_lon": 115.944354,
+        "location_state": " Australia",
+        "location_city": "Welshpool WA"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "EGGER is a UN Global Compact participant, UN 17 SDGs, ISS Prime and EcoVadis Audited. \r\n\r\nForestOne are in the process of going forward with policy and actions to meet the climate risks. All company cars are hybrids, starting with additonal trucks for deliveries changed to hybrids to lower impact.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "PP Straps and timber battens",
+    "files": [
+      {
+        "id": 94,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/LCA/EPD_EGGER_Eurolight_Decor_en.pdf"
+      },
+      {
+        "id": 95,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/RecycledContent/EHD_Eurolight_Chipboard_2024_en.pdf"
+      },
+      {
+        "id": 96,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/ModernSlaveryAssessment/ForestOne_Modern_Slavery_Statement_2023.pdf"
+      },
+      {
+        "id": 97,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/VOC/CF_EGGER_Eurodekor_JP_F03_VOC_T%C3%9CV_PROFiCERT_Unterradlberg_en.pdf"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "company": {
+      "id": 17,
+      "name": "FORESTONE"
+    },
+    "image": "products/FORESTONE/02PI_PR_PH_fur_eurodekor_melamine_faced_chipboard_H3170.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-14T08:03:32.135310+00:00",
+    "last_update": "2024-05-09T04:00:42.734527+00:00",
+    "created_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "updated_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Fritz EGGER GmbH & CO.",
+    "product_name": "Eurodekor Decorative Faced Particleboard",
+    "product_code": "EURODECOR",
+    "product_description": "Eurodekor decor is a decorative melamine-resin-coated particlboard.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": "2800 x 2070 x 18 and 25mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 233,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 236,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/certificates/CF_EGGER_PEFC_EN.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 283,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/certificates/Confirmation_for_compliance_of_REACH_order_1907-2006-EC_SVHC_List_iArVUQf.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 284,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/certificates/CF_EGGER_Laminate_Antibacterial_Hohenstein_HD-521514_Z_en.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 285,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/certificates/CF_EGGER_Eurodekor_Antimicrobial_Activity_Hohenstein_en.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": -201.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 1.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -13.88,
+    "upfront_carbon_emissions": -13.88,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Through wood fibre disposal sites, like Repurpose IT.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "No conditions",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure of %. EGGER use rainwater and cleaning of water from production using bacteria rather than chemicals.",
+    "transport_emissions_minimisation_techniques": "Hybrid trucks",
+    "minimisation_design_strategy": "Design based on suit sheets size based on application.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "EGGER and ForestOne both have policies. EGGER is a participant of the UN Global Compact, UN 17SDGs and EcoVadis audited.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 233,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 236,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/certificates/CF_EGGER_PEFC_EN.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 283,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/certificates/Confirmation_for_compliance_of_REACH_order_1907-2006-EC_SVHC_List_iArVUQf.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 284,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/certificates/CF_EGGER_Laminate_Antibacterial_Hohenstein_HD-521514_Z_en.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 285,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/certificates/CF_EGGER_Eurodekor_Antimicrobial_Activity_Hohenstein_en.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 40,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Available in a full range of 18mm thick decor options and a range of 25mm options that match the EGGER range.",
+    "manufacturing_locations": [
+      {
+        "id": 166,
+        "location_name": "Unterradl, Austria",
+        "location_lat": 48.14335,
+        "location_lon": 15.46863,
+        "component": "Dry Wood Fibres",
+        "component_percentage": 83.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 212,
+        "location_name": "Unterradl, Austria",
+        "location_lat": 48.14335,
+        "location_lon": 15.46863,
+        "material": "Dry Wood fibres",
+        "product_percentage": 83.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 166,
+        "location_name": "Derrimut VIC, Australia",
+        "location_lat": -37.792708,
+        "location_lon": 144.771556,
+        "location_state": " Australia",
+        "location_city": "Derrimut VIC"
+      },
+      {
+        "id": 167,
+        "location_name": "Wetherill Park NSW, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW"
+      },
+      {
+        "id": 168,
+        "location_name": "Berrinba QLD, Australia",
+        "location_lat": -27.658462,
+        "location_lon": 153.080652,
+        "location_state": " Australia",
+        "location_city": "Berrinba QLD"
+      },
+      {
+        "id": 169,
+        "location_name": "Cairns QLD, Australia",
+        "location_lat": -16.920348,
+        "location_lon": 145.770953,
+        "location_state": " Australia",
+        "location_city": "Cairns QLD"
+      },
+      {
+        "id": 170,
+        "location_name": "Townsville QLD, Australia",
+        "location_lat": -19.258964,
+        "location_lon": 146.816948,
+        "location_state": " Australia",
+        "location_city": "Townsville QLD"
+      },
+      {
+        "id": 171,
+        "location_name": "Wingfield SA, Australia",
+        "location_lat": -34.841354,
+        "location_lon": 138.54613,
+        "location_state": " Australia",
+        "location_city": "Wingfield SA"
+      },
+      {
+        "id": 172,
+        "location_name": "Welshpool WA, Australia",
+        "location_lat": -31.99344,
+        "location_lon": 115.944354,
+        "location_state": " Australia",
+        "location_city": "Welshpool WA"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "EGGER is a UN Global Compact participant, UN 17 SDGs, ISS Prime and EcoVadis Audited. \r\n\r\nForestOne are in the process of going forward with policy and actions to meet the climate risks. All company cars are hybrids, starting with additonal trucks for deliveries changed to hybrids to lower impact.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 144,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/compliance/Eurodekor_MFC_F4_19-001899_Grp_3_UOYhUZJ.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "PP Straps and timber battens",
+    "files": [
+      {
+        "id": 98,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/LCA/EPD_EGGER_Eurolight_Decor_en.pdf"
+      },
+      {
+        "id": 99,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/RecycledContent/EHD_Eurolight_Chipboard_2024_en.pdf"
+      },
+      {
+        "id": 100,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/ModernSlaveryAssessment/ForestOne_Modern_Slavery_Statement_2023.pdf"
+      },
+      {
+        "id": 101,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/VOC/CF_EGGER_Eurodekor_JP_F03_VOC_T%C3%9CV_PROFiCERT_Unterradlberg_en.pdf"
+      },
+      {
+        "id": 102,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/LCA/EPD_EGGER_Eurodekor_en.pdf"
+      },
+      {
+        "id": 103,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/RecycledContent/EHD_Eurodekor_Chipboard_2024_en.pdf"
+      },
+      {
+        "id": 141,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/LCA/Environmental_product_declaration_OSB.pdf"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "company": {
+      "id": 17,
+      "name": "FORESTONE"
+    },
+    "image": "products/FORESTONE/02PI_PR_PH_fur_laminate_H3170_RESIZE_SJ5rqEk.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-22T05:42:24.214117+00:00",
+    "last_update": "2024-05-09T04:48:01.905076+00:00",
+    "created_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "updated_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Fritz EGGER GmbH & CO.",
+    "product_name": "Egger Laminate 0.8Mm",
+    "product_code": "EGGERLAMINATE",
+    "product_description": "EGGER Decorative Laminate 0.8mm",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "3650 x 1310 x 0.8mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 250,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 256,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_Food_regulatory_assessment_en.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 257,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_T%C3%9CV_ProfiCert-product_Interior_certification_Premium_en.pdf",
+        "link": "",
+        "rating": "Indoor air-quality",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 258,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/TL_EGGER_Laminate_Resistance_to_chemicals_en.pdf",
+        "link": "",
+        "rating": "Group 1, 2 & 3",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 259,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/Laminate_Antibac_Certificate.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 31.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 1.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 2.03,
+    "upfront_carbon_emissions": 2.03,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "No conditions, the chipboard can be recycled",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "EHD Eurodekor - ISO 14021",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure of %. EGGER use rainwater and cleaning of water from production using bacteria rather than checmicals.",
+    "transport_emissions_minimisation_techniques": "Hybrid trucks",
+    "minimisation_design_strategy": "design to suit sheets size based on application",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "EGGER and ForestOne both have policies. EGGER is a participant of the UN Global Compact, UN 17SDGs and EcoVadis audited.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 250,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 256,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_Food_regulatory_assessment_en.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 257,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_T%C3%9CV_ProfiCert-product_Interior_certification_Premium_en.pdf",
+        "link": "",
+        "rating": "Indoor air-quality"
+      },
+      {
+        "id": 258,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/TL_EGGER_Laminate_Resistance_to_chemicals_en.pdf",
+        "link": "",
+        "rating": "Group 1, 2 & 3"
+      },
+      {
+        "id": 259,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/Laminate_Antibac_Certificate.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 40,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Available in a full range of 0.8mm thick decor laminate options that match the wider EGGER range.",
+    "manufacturing_locations": [
+      {
+        "id": 151,
+        "location_name": "Gifhorn, Germany",
+        "location_lat": 52.480909,
+        "location_lon": 10.550783,
+        "component": "Paper core layers, decorative layer and overlay with resin impregnation ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 183,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Melamine- formaldehyde resin",
+        "product_percentage": 11.0
+      },
+      {
+        "id": 185,
+        "location_name": "Gifhorn, Germany",
+        "location_lat": 52.480909,
+        "location_lon": 10.550783,
+        "material": "Phenole formaldehyde resin",
+        "product_percentage": 21.0
+      },
+      {
+        "id": 186,
+        "location_name": "Gifhorn, Germany",
+        "location_lat": 52.480909,
+        "location_lon": 10.550783,
+        "material": "Melamine- formaldehyde resin",
+        "product_percentage": 11.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 183,
+        "location_name": "Derrimut VIC, Australia",
+        "location_lat": -37.792708,
+        "location_lon": 144.771556,
+        "location_state": " Australia",
+        "location_city": "Derrimut VIC"
+      },
+      {
+        "id": 184,
+        "location_name": "Wetherill Park NSW, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW"
+      },
+      {
+        "id": 185,
+        "location_name": "Berrinba QLD, Australia",
+        "location_lat": -27.658462,
+        "location_lon": 153.080652,
+        "location_state": " Australia",
+        "location_city": "Berrinba QLD"
+      },
+      {
+        "id": 186,
+        "location_name": "Cairns QLD, Australia",
+        "location_lat": -16.920348,
+        "location_lon": 145.770953,
+        "location_state": " Australia",
+        "location_city": "Cairns QLD"
+      },
+      {
+        "id": 187,
+        "location_name": "Townsville QLD, Australia",
+        "location_lat": -19.258964,
+        "location_lon": 146.816948,
+        "location_state": " Australia",
+        "location_city": "Townsville QLD"
+      },
+      {
+        "id": 188,
+        "location_name": "Wingfield SA, Australia",
+        "location_lat": -34.841354,
+        "location_lon": 138.54613,
+        "location_state": " Australia",
+        "location_city": "Wingfield SA"
+      },
+      {
+        "id": 189,
+        "location_name": "Welshpool WA, Australia",
+        "location_lat": -31.99344,
+        "location_lon": 115.944354,
+        "location_state": " Australia",
+        "location_city": "Welshpool WA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "EGGER is a UN Global Compact participant, UN 17 SDGs, ISS Prime and EcoVadis Audited. \r\n\r\nForestOne are in the process of going forward with policy and actions to meet the climate risks. All company cars are hybrids, starting with additonal trucks for deliveries changed to hybrids to lower impact.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 133,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/compliance/Laminate_19-001911_Grp_3.pdf",
+        "link": "",
+        "rating": "AS5637 - Group 3"
+      }
+    ],
+    "type_of_packaging": "PP Straps and timber battens",
+    "files": [
+      {
+        "id": 113,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/LCA/EPD_EGGER_Eurolight_Decor_en.pdf"
+      },
+      {
+        "id": 114,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/RecycledContent/EHD_Eurolight_Chipboard_2024_en.pdf"
+      },
+      {
+        "id": 115,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/ModernSlaveryAssessment/ForestOne_Modern_Slavery_Statement_2023.pdf"
+      },
+      {
+        "id": 116,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/VOC/CF_EGGER_Eurodekor_JP_F03_VOC_T%C3%9CV_PROFiCERT_Unterradlberg_en.pdf"
+      },
+      {
+        "id": 117,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/LCA/EPD_EGGER_Eurodekor_en.pdf"
+      },
+      {
+        "id": 118,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/RecycledContent/EHD_Eurodekor_Chipboard_2024_en.pdf"
+      },
+      {
+        "id": 119,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/LCA/Environmental_product_declaration_Laminate.pdf"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "company": {
+      "id": 17,
+      "name": "FORESTONE"
+    },
+    "image": "products/FORESTONE/02PI_PR_PH_fur_laminate_H3170_RESIZE_SJ5rqEk.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-22T08:19:58.051181+00:00",
+    "last_update": "2024-05-09T23:24:29.994223+00:00",
+    "created_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "updated_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Fritz EGGER GmbH & CO.",
+    "product_name": "Egger Feelwood Xl Laminate 0.8Mm",
+    "product_code": "EGGERLAMINATE",
+    "product_description": "EGGER Decorative Laminate 0.8mm",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "2790 x 2060 x 0.8mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 260,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 261,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_Food_regulatory_assessment_en.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 262,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_T%C3%9CV_ProfiCert-product_Interior_certification_Premium_en.pdf",
+        "link": "",
+        "rating": "Indoor air-quality",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 263,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/TL_EGGER_Laminate_Resistance_to_chemicals_en.pdf",
+        "link": "",
+        "rating": "Group 1, 2 & 3",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 264,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/Laminate_Antibac_Certificate.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 31.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 1.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 2.03,
+    "upfront_carbon_emissions": 2.03,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "No conditions, the chipboard can be recycled",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "EHD Eurodekor - ISO 14021",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure of %. EGGER use rainwater and cleaning of water from production using bacteria rather than checmicals.",
+    "transport_emissions_minimisation_techniques": "Hybrid trucks",
+    "minimisation_design_strategy": "design to suit sheets size based on application",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "EGGER and ForestOne both have policies. EGGER is a participant of the UN Global Compact, UN 17SDGs and EcoVadis audited.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 260,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 261,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_Food_regulatory_assessment_en.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 262,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_T%C3%9CV_ProfiCert-product_Interior_certification_Premium_en.pdf",
+        "link": "",
+        "rating": "Indoor air-quality"
+      },
+      {
+        "id": 263,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/TL_EGGER_Laminate_Resistance_to_chemicals_en.pdf",
+        "link": "",
+        "rating": "Group 1, 2 & 3"
+      },
+      {
+        "id": 264,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/Laminate_Antibac_Certificate.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 40,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Available in a full range of 0.8mm thick decor laminate options that match the wider EGGER range.",
+    "manufacturing_locations": [
+      {
+        "id": 152,
+        "location_name": "Gifhorn, Germany",
+        "location_lat": 52.480909,
+        "location_lon": 10.550783,
+        "component": "Paper core layers, decorative layer and overlay with resin impregnation ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 187,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Melamine- formaldehyde resin",
+        "product_percentage": 11.0
+      },
+      {
+        "id": 190,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Phenole formaldehyde resin",
+        "product_percentage": 21.0
+      },
+      {
+        "id": 191,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Paper core layers, decorative layer and  overlay",
+        "product_percentage": 68.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 190,
+        "location_name": "Derrimut VIC, Australia",
+        "location_lat": -37.792708,
+        "location_lon": 144.771556,
+        "location_state": " Australia",
+        "location_city": "Derrimut VIC"
+      },
+      {
+        "id": 191,
+        "location_name": "Wetherill Park NSW, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW"
+      },
+      {
+        "id": 192,
+        "location_name": "Berrinba QLD, Australia",
+        "location_lat": -27.658462,
+        "location_lon": 153.080652,
+        "location_state": " Australia",
+        "location_city": "Berrinba QLD"
+      },
+      {
+        "id": 193,
+        "location_name": "Cairns QLD, Australia",
+        "location_lat": -16.920348,
+        "location_lon": 145.770953,
+        "location_state": " Australia",
+        "location_city": "Cairns QLD"
+      },
+      {
+        "id": 194,
+        "location_name": "Townsville QLD, Australia",
+        "location_lat": -19.258964,
+        "location_lon": 146.816948,
+        "location_state": " Australia",
+        "location_city": "Townsville QLD"
+      },
+      {
+        "id": 195,
+        "location_name": "Wingfield SA, Australia",
+        "location_lat": -34.841354,
+        "location_lon": 138.54613,
+        "location_state": " Australia",
+        "location_city": "Wingfield SA"
+      },
+      {
+        "id": 196,
+        "location_name": "Welshpool WA, Australia",
+        "location_lat": -31.99344,
+        "location_lon": 115.944354,
+        "location_state": " Australia",
+        "location_city": "Welshpool WA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "EGGER is a UN Global Compact participant, UN 17 SDGs, ISS Prime and EcoVadis Audited. \r\n\r\nForestOne are in the process of going forward with policy and actions to meet the climate risks. All company cars are hybrids, starting with additonal trucks for deliveries changed to hybrids to lower impact.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 134,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/compliance/Laminate_19-001911_Grp_3.pdf",
+        "link": "",
+        "rating": "AS5637 - Group 3"
+      }
+    ],
+    "type_of_packaging": "PP Straps and timber battens",
+    "files": [
+      {
+        "id": 120,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/LCA/EPD_EGGER_Eurolight_Decor_en.pdf"
+      },
+      {
+        "id": 121,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/RecycledContent/EHD_Eurolight_Chipboard_2024_en.pdf"
+      },
+      {
+        "id": 122,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/ModernSlaveryAssessment/ForestOne_Modern_Slavery_Statement_2023.pdf"
+      },
+      {
+        "id": 123,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/VOC/CF_EGGER_Eurodekor_JP_F03_VOC_T%C3%9CV_PROFiCERT_Unterradlberg_en.pdf"
+      },
+      {
+        "id": 124,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/LCA/EPD_EGGER_Eurodekor_en.pdf"
+      },
+      {
+        "id": 125,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/RecycledContent/EHD_Eurodekor_Chipboard_2024_en.pdf"
+      },
+      {
+        "id": 126,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/LCA/Environmental_product_declaration_Laminate.pdf"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "company": {
+      "id": 17,
+      "name": "FORESTONE"
+    },
+    "image": "products/FORESTONE/02PI_PR_PH_fur_compact_panel_W1000_U630_H1277.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-22T08:24:47.754867+00:00",
+    "last_update": "2024-05-09T03:50:41.253915+00:00",
+    "created_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "updated_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Fritz EGGER GmbH & CO.",
+    "product_name": "Egger Compact Laminate 13Mm",
+    "product_code": "EGGERCOMLAM",
+    "product_description": "EGGER Decorative Compact Laminate 2790 x 2060 x 13mm",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": "2790 x 2060 x 13mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 265,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/certificates/2022_EPD_HPL_Compact_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 266,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/certificates/ForestOne-PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 267,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/certificates/CF_EGGER_Compact_Laminate_Antibacterial_Hohenstein_en.pdf",
+        "link": "",
+        "rating": "Level 3",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 268,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/certificates/TL_EGGER_Compact_Laminate_Resistance_chemicals_SEFA_3_en.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 269,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/certificates/Compact_Laminate_Testing_Report_ENG.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 270,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/certificates/Confirmation_for_compliance_of_REACH_order_1907-2006-EC_SVHC_List.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 5.44,
+    "upfront_carbon_emissions": 5.44,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Part of the design as the product has a strong lifespan",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes but unsure of %.",
+    "transport_emissions_minimisation_techniques": "hybrid trucks",
+    "minimisation_design_strategy": "Use sheet size for best design options",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "EGGER and ForestOne both have policies. EGGER is a participant of the UN Global Compact, UN 17SDGs and EcoVadis audited.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 265,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/certificates/2022_EPD_HPL_Compact_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 266,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/certificates/ForestOne-PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 267,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/certificates/CF_EGGER_Compact_Laminate_Antibacterial_Hohenstein_en.pdf",
+        "link": "",
+        "rating": "Level 3"
+      },
+      {
+        "id": 268,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/certificates/TL_EGGER_Compact_Laminate_Resistance_chemicals_SEFA_3_en.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 269,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/certificates/Compact_Laminate_Testing_Report_ENG.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 270,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/certificates/Confirmation_for_compliance_of_REACH_order_1907-2006-EC_SVHC_List.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 40,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 153,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "component": "Kraft impregnate",
+        "component_percentage": 90.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 192,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Kraft impreegnate",
+        "product_percentage": 90.0
+      },
+      {
+        "id": 193,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Decorative impregnate",
+        "product_percentage": 6.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 197,
+        "location_name": "Derrimut VIC, Australia",
+        "location_lat": -37.792708,
+        "location_lon": 144.771556,
+        "location_state": " Australia",
+        "location_city": "Derrimut VIC"
+      },
+      {
+        "id": 198,
+        "location_name": "Wetherill Park NSW, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW"
+      },
+      {
+        "id": 199,
+        "location_name": "Garbutt QLD, Australia",
+        "location_lat": -19.268852,
+        "location_lon": 146.767324,
+        "location_state": " Australia",
+        "location_city": "Garbutt QLD"
+      },
+      {
+        "id": 200,
+        "location_name": "Berrinba QLD, Australia",
+        "location_lat": -27.658462,
+        "location_lon": 153.080652,
+        "location_state": " Australia",
+        "location_city": "Berrinba QLD"
+      },
+      {
+        "id": 201,
+        "location_name": "Bungalow QLD, Australia",
+        "location_lat": -16.936575,
+        "location_lon": 145.756816,
+        "location_state": " Australia",
+        "location_city": "Bungalow QLD"
+      },
+      {
+        "id": 202,
+        "location_name": "Welshpool WA, Australia",
+        "location_lat": -31.99344,
+        "location_lon": 115.944354,
+        "location_state": " Australia",
+        "location_city": "Welshpool WA"
+      },
+      {
+        "id": 203,
+        "location_name": "Wingfield SA, Australia",
+        "location_lat": -34.841354,
+        "location_lon": 138.54613,
+        "location_state": " Australia",
+        "location_city": "Wingfield SA"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "EGGER is a UN Global Compact participant, UN 17 SDGs, ISS Prime and EcoVadis Audited. ForestOne are in the process of going forward with policy and actions to meet the climate risks. All company cars are hybrids, starting with additonal trucks for deliveries changed to hybrids to lower impact.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 135,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/compliance/Compact_Laminate_13mm_19-001899_Grp_MERGED.pdf",
+        "link": "",
+        "rating": "AS 5637 - Group 3"
+      }
+    ],
+    "type_of_packaging": "PP Straps and timber battens",
+    "files": [
+      {
+        "id": 127,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/VOC/Compact_Laminate_Testing_Report_ENG.pdf"
+      },
+      {
+        "id": 128,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/LCA/2022_EPD_HPL_Compact_1.pdf"
+      },
+      {
+        "id": 129,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Compact%20Laminate%2013Mm/ModernSlaveryAssessment/ForestOne_Modern_Slavery_Statement_2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "company": {
+      "id": 17,
+      "name": "FORESTONE"
+    },
+    "image": "products/FORESTONE/230531-ForestOne-006.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-22T08:55:37.187738+00:00",
+    "last_update": "2024-05-09T02:41:11.862430+00:00",
+    "created_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "updated_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Fritz EGGER GmbH & CO.",
+    "product_name": "Egger Design Pro Greentec Flooring 7.5Mm",
+    "product_code": "EGGERGRNTEC",
+    "product_description": "EGGER Design Pro GreenTec Flooring planks 7.5mm",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "1292 x 193 or 246 x 7.5mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 271,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/certificates/EPD_EGGER_Design_Flooring_EN_A2.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 272,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/certificates/EPD_EGGER_Design_Flooring_EN_A2_nIPpH0G.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 273,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/certificates/CF_EGGER_PEFC_EN.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 274,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/certificates/TL_EGGER_Flooring_Antibacterial__properties_EN.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 106.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 1.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 2.52,
+    "upfront_carbon_emissions": 2.52,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "Post-industrial wood fibre",
+    "recycling_process_description": "when laid as a floating floor, it can be removed, stored and re-layed at next project.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "when laid as a floating floor, it can be removed, stored and re-layed at next project.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "unsure",
+    "transport_emissions_minimisation_techniques": "Hybrid Truck",
+    "minimisation_design_strategy": "Maximising onsite design and cuts",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 271,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/certificates/EPD_EGGER_Design_Flooring_EN_A2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 272,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/certificates/EPD_EGGER_Design_Flooring_EN_A2_nIPpH0G.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 273,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/certificates/CF_EGGER_PEFC_EN.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 274,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/certificates/TL_EGGER_Flooring_Antibacterial__properties_EN.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "MDF would go into landfill or placed into bio-mass disposal",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Woodgrain or Materials decor with a surfcae texture and wear layer",
+    "manufacturing_locations": [
+      {
+        "id": 154,
+        "location_name": "Wismar, Germany",
+        "location_lat": 53.887971,
+        "location_lon": 11.462137,
+        "component": "Dry wood fibres (HDF core board)",
+        "component_percentage": 62.0
+      },
+      {
+        "id": 155,
+        "location_name": "Wismar, Germany",
+        "location_lat": 53.887971,
+        "location_lon": 11.462137,
+        "component": "Glue (HDF core board",
+        "component_percentage": 20.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 194,
+        "location_name": "Wismar, Germany",
+        "location_lat": 53.887971,
+        "location_lon": 11.462137,
+        "material": "Dry wood fibres (HDF core board)",
+        "product_percentage": 62.0
+      },
+      {
+        "id": 195,
+        "location_name": "Wismar, Germany",
+        "location_lat": 53.887971,
+        "location_lon": 11.462137,
+        "material": "Glue (HDF core board",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 196,
+        "location_name": "Wismar, Germany",
+        "location_lat": 53.887971,
+        "location_lon": 11.462137,
+        "material": "Decorative top laye",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 197,
+        "location_name": "Wismar, Germany",
+        "location_lat": 53.887971,
+        "location_lon": 11.462137,
+        "material": " Lamination layer (sealing of the core board)",
+        "product_percentage": 4.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 204,
+        "location_name": "Wingfield SA, Australia",
+        "location_lat": -34.841354,
+        "location_lon": 138.54613,
+        "location_state": " Australia",
+        "location_city": "Wingfield SA"
+      },
+      {
+        "id": 205,
+        "location_name": "Derrimut VIC, Australia",
+        "location_lat": -37.792708,
+        "location_lon": 144.771556,
+        "location_state": " Australia",
+        "location_city": "Derrimut VIC"
+      },
+      {
+        "id": 206,
+        "location_name": "Welshpool WA, Australia",
+        "location_lat": -31.99344,
+        "location_lon": 115.944354,
+        "location_state": " Australia",
+        "location_city": "Welshpool WA"
+      },
+      {
+        "id": 207,
+        "location_name": "Wetherill Park NSW, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW"
+      },
+      {
+        "id": 208,
+        "location_name": "Berrinba QLD, Australia",
+        "location_lat": -27.658462,
+        "location_lon": 153.080652,
+        "location_state": " Australia",
+        "location_city": "Berrinba QLD"
+      },
+      {
+        "id": 209,
+        "location_name": "Garbutt QLD, Australia",
+        "location_lat": -19.268852,
+        "location_lon": 146.767324,
+        "location_state": " Australia",
+        "location_city": "Garbutt QLD"
+      },
+      {
+        "id": 210,
+        "location_name": "Bungalow QLD, Australia",
+        "location_lat": -16.936575,
+        "location_lon": 145.756816,
+        "location_state": " Australia",
+        "location_city": "Bungalow QLD"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "EGGER is a UN Global Compact participant, UN 17 SDGs, ISS Prime and EcoVadis Audited. ForestOne are in the process of going forward with policy and actions to meet the climate risks. All company cars are hybrids, starting with additonal trucks for deliveries changed to hybrids to lower impact.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 136,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/compliance/CF_EGGER_Design_flooring_R10_D1_D2_D3_EN.pdf",
+        "link": "",
+        "rating": "R10"
+      },
+      {
+        "id": 137,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/compliance/M1339_-_Slip_Check_Design_Pro_Flooring_GreenTec_VER1.pdf",
+        "link": "",
+        "rating": "P4"
+      },
+      {
+        "id": 138,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/compliance/CF_EGGER_Design_GreenTec_Reaction_to_fire_-_fully_bonded_DE_EN.pdf",
+        "link": "",
+        "rating": "Fully Bonded - 7.54 kW/m2"
+      },
+      {
+        "id": 139,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/compliance/CF_EGGER_Design_GreenTec_Reaction_to_fire_-_loose_lay_DE_EN.pdf",
+        "link": "",
+        "rating": "Loose Lay - 7,06 kW/m2"
+      },
+      {
+        "id": 140,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/compliance/GreenTec_AS5637_23-004226_eml01.pdf",
+        "link": "",
+        "rating": "AS 5637 - Group 3"
+      }
+    ],
+    "type_of_packaging": "PP Straps, cardboard and recylable plastic",
+    "files": [
+      {
+        "id": 130,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/VOC/Certificate_Blue_Angel_Design_Greentec_en.pdf"
+      },
+      {
+        "id": 131,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/VOC/TuevCert_Design_Flooring_en.pdf"
+      },
+      {
+        "id": 132,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/LCA/EPD_EGGER_Design_Flooring_EN_A2.pdf"
+      },
+      {
+        "id": 133,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/RecycledContent/EHD_Design_Flooring_Greentec_en.pdf"
+      },
+      {
+        "id": 134,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Design%20Pro%20Greentec%20Flooring%207.5Mm/ModernSlaveryAssessment/ForestOne_Modern_Slavery_Statement_2023.pdf"
+      }
+    ]
+  }
+]

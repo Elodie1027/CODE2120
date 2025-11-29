@@ -1,0 +1,1324 @@
+[
+  {
+    "id": 1322,
+    "company": {
+      "id": 140,
+      "name": "DESIGN NATION"
+    },
+    "image": "products/DESIGN NATION/ALO_OUTDOOR_5.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-23T11:41:42.578754+00:00",
+    "last_update": "2025-07-22T14:00:00+00:00",
+    "created_by": {
+      "id": 1457,
+      "email": "janis@designnation.com.au"
+    },
+    "updated_by": {
+      "id": 1457,
+      "email": "janis@designnation.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "ONDARRETA, SPAIN",
+    "product_name": "Alo Outdoor Chair",
+    "product_code": "SALOO",
+    "product_description": "With its well known steel structure and its seat in steel ribbons that seem as if they were floating",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "780 x 580 x 520",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "14-16 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4886,
+        "certification": "Responsible Steel",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/MATERIAL_STEEL_COLOUR_EPOXY.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4887,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/ISO_14006_Certificate_ED-0003-2014_IN_2023-10-19.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4888,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/ISO_14001_Certificate_Environmental_Management_System_2022-2025_IQNET_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4889,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/ISO_9001_Certificate_Quality_Management_2022-2025_IQNET_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "Steel",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "eco-designed and these topics analyzed to facilitate demount-ability",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Reduction of material used in components without compromising strengths, efficiency in production processes, optimization of product design and packaging, new more efficient machinery,",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "We work only with 100% european producers, which ensures that workers work under decent working conditions, covered by collective agreements, they are protected by job security measures, conditions that are far from precarious and avoid child labour or any form of slavery. . We have developed a code of conduct for suppliers, in which they commit to respect human rights, among other issues.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4886,
+        "certification": "Responsible Steel",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/MATERIAL_STEEL_COLOUR_EPOXY.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4887,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/ISO_14006_Certificate_ED-0003-2014_IN_2023-10-19.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4888,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/ISO_14001_Certificate_Environmental_Management_System_2022-2025_IQNET_.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4889,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/ISO_9001_Certificate_Quality_Management_2022-2025_IQNET_.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 9,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": true,
+    "factory_finished_description": "Fully finished and factory-assembled product.",
+    "manufacturing_locations": [
+      {
+        "id": 2457,
+        "location_name": "Irun, España",
+        "location_lat": 43.338147,
+        "location_lon": -1.78885,
+        "component": "Steel",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2989,
+        "location_name": "Irun, España",
+        "location_lat": 43.338147,
+        "location_lon": -1.78885,
+        "material": "Recyclable Steel",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2029,
+        "location_name": "Revesby NSW, Australia",
+        "location_lat": -33.945247,
+        "location_lon": 151.018035,
+        "location_state": " Australia",
+        "location_city": "Revesby NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Customizable colour structure in epoxy finish.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "We work mostly, 80% of purchases are made within 200km, thus supporting the local economy and maintaining close and trusting relationships with our suppliers.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "For packaging we use items that are mainly made from recycled materials. On average, our boxes have 70% recycled content, and several of our references already boast 100% recycled content. All these materials come from responsibly and sustainably managed forests, which is guaranteed by the FSC certificate. As for the bags used to protect our products, we can confirm that 50% of them are made from recycled materials. The materials we use are 100% recyclable and retain their quality and properties after each recycling cycle. To simplify the process and promote sustainability, we avoid using staples in our packaging.",
+    "files": [
+      {
+        "id": 3701,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/RecycledContent/Alo_outdoor_sustainability_EN.pdf"
+      },
+      {
+        "id": 3702,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/ModernSlaveryAssessment/Supplier_Code_of_Conduct.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1323,
+    "company": {
+      "id": 140,
+      "name": "DESIGN NATION"
+    },
+    "image": "products/DESIGN NATION/Hari_Polypropylene_Blue_Clay_14_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-23T12:51:59.918425+00:00",
+    "last_update": "2025-07-23T14:00:00+00:00",
+    "created_by": {
+      "id": 1457,
+      "email": "janis@designnation.com.au"
+    },
+    "updated_by": {
+      "id": 1457,
+      "email": "janis@designnation.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "ONDARRETA, SPAIN",
+    "product_name": "Hari Chair Polypropylene",
+    "product_code": "s",
+    "product_description": "Inspired by the world of textile looms, with a very industrial aesthetic. Designed by estudi{H}ac",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "815 x 475 x 550 mm",
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "14-16 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4890,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14025_EPD_HARI.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4891,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_9001_Certificate_Quality_Management_2022-2025_IQNET__GhCe4Ns.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4892,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14001_Certificate_Environmental_Management_System_2022-2025_IQNET__I1mDz53.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4893,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14006_Certificate_ED-0003-2014_IN_2023-10-19_1h2TuHY.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 22.5,
+    "upfront_carbon_emissions": 22.5,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "80% recycled steel",
+    "recycling_process_description": "Steel and polypropylene",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Eco-designed to facilitate demount-ability",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "We organise our shipments so that trucks leave our premises at full load or with shared loads wherever possible, thus optimising the use of resources and reducing emissions.",
+    "minimisation_design_strategy": "Reduction of material used in components without compromising strengths, efficiency in production processes, optimization of product design and packaging, new more efficient machinery,",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4890,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14025_EPD_HARI.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4891,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_9001_Certificate_Quality_Management_2022-2025_IQNET__GhCe4Ns.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4892,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14001_Certificate_Environmental_Management_System_2022-2025_IQNET__I1mDz53.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4893,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14006_Certificate_ED-0003-2014_IN_2023-10-19_1h2TuHY.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": true,
+    "factory_finished_description": "Fully finished and factory-assembled product.",
+    "manufacturing_locations": [
+      {
+        "id": 2459,
+        "location_name": "Irun, España",
+        "location_lat": 43.338147,
+        "location_lon": -1.78885,
+        "component": "Steel",
+        "component_percentage": 51.0
+      },
+      {
+        "id": 2460,
+        "location_name": "Zarautz, España",
+        "location_lat": 43.284771,
+        "location_lon": -2.171397,
+        "component": "Polypropylene",
+        "component_percentage": 39.0
+      },
+      {
+        "id": 2461,
+        "location_name": "Bergara, España",
+        "location_lat": 43.125927,
+        "location_lon": -2.423206,
+        "component": "Button",
+        "component_percentage": 1.9
+      },
+      {
+        "id": 2462,
+        "location_name": "Getaria, España",
+        "location_lat": 43.302858,
+        "location_lon": -2.204608,
+        "component": "Screws",
+        "component_percentage": 1.5
+      },
+      {
+        "id": 2463,
+        "location_name": "Tarragona, España",
+        "location_lat": 41.118883,
+        "location_lon": 1.244491,
+        "component": "Glides",
+        "component_percentage": 0.15
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2990,
+        "location_name": "Irun, España",
+        "location_lat": 43.338147,
+        "location_lon": -1.78885,
+        "material": "Steel",
+        "product_percentage": 51.0
+      },
+      {
+        "id": 2991,
+        "location_name": "Zarautz, España",
+        "location_lat": 43.284771,
+        "location_lon": -2.171397,
+        "material": "Polypropylene",
+        "product_percentage": 40.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2030,
+        "location_name": "Revesby NSW, Australia",
+        "location_lat": -33.945247,
+        "location_lon": 151.018035,
+        "location_state": " Australia",
+        "location_city": "Revesby NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Customisable colour structure. There are different types of polypropylene compositions for seat and backrest, which vary in the use of recycled materials and colours.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Ondarreta has a long-term commitment to ensuring replacement parts are guaranteed for a minimum of 20 years for HARI family. We work mostly, 80% of purchases are made within 200km, thus supporting the local economy and maintaining close and trusting relationships with our suppliers.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2707,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/compliance/MATERIAL_STEEL_COLOUR_EPOXY_3ut2G96.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "For packaging we use items that are mainly made from recycled materials. On average, our boxes have 70% recycled content, and several of our references already boast 100% recycled content. All these materials come from responsibly and sustainably managed forests, which is guaranteed by the FSC certificate. As for the bags used to protect our products, we can confirm that 50% of them are made from recycled materials. The materials we use are 100% recyclable and retain their quality and properties after each recycling cycle. To simplify the process and promote sustainability, we avoid using staples in our packaging.",
+    "files": [
+      {
+        "id": 3707,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/RecycledContent/Hari_sustainability_EN_CSyEsoa.pdf"
+      },
+      {
+        "id": 3708,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/ModernSlaveryAssessment/Supplier_Code_of_Conduct_875Fiyi.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1324,
+    "company": {
+      "id": 140,
+      "name": "DESIGN NATION"
+    },
+    "image": "products/DESIGN NATION/ANT_47_CAPPUCCINO_EPOXY_MOCHA_14_N9OvdfA.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-23T13:10:56.564960+00:00",
+    "last_update": "2025-07-22T14:00:00+00:00",
+    "created_by": {
+      "id": 1457,
+      "email": "janis@designnation.com.au"
+    },
+    "updated_by": {
+      "id": 1457,
+      "email": "janis@designnation.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "ONDARRETA, SPAIN",
+    "product_name": "Ant Stool 470H",
+    "product_code": "TANTEPV",
+    "product_description": "The Ant stools are characterised by their unique polypropylene seat. Designed by Pascual Salvador",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "530 x 410 x 420 mm",
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "14-16 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4895,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_9001_Certificate_Quality_Management_2022-2025_IQNET__GhCe4Ns.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4896,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14001_Certificate_Environmental_Management_System_2022-2025_IQNET__I1mDz53.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 12.8,
+    "upfront_carbon_emissions": 12.8,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "80% recycled steel",
+    "recycling_process_description": "Steel and polypropylene",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Eco-designed to facilitate demount-ability",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "We organise our shipments so that trucks leave our premises at full load or with shared loads wherever possible, thus optimising the use of resources and reducing emissions.",
+    "minimisation_design_strategy": "Reduction of material used in components without compromising strengths, efficiency in production processes, optimization of product design and packaging, new more efficient machinery,",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4895,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_9001_Certificate_Quality_Management_2022-2025_IQNET__GhCe4Ns.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4896,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14001_Certificate_Environmental_Management_System_2022-2025_IQNET__I1mDz53.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": true,
+    "factory_finished_description": "Fully finished and factory-assembled product.",
+    "manufacturing_locations": [
+      {
+        "id": 2469,
+        "location_name": "Zarautz, España",
+        "location_lat": 43.284771,
+        "location_lon": -2.171397,
+        "component": "Polypropylene",
+        "component_percentage": 18.4
+      },
+      {
+        "id": 2470,
+        "location_name": "Irun, España",
+        "location_lat": 43.338147,
+        "location_lon": -1.78885,
+        "component": "Steel",
+        "component_percentage": 79.3
+      },
+      {
+        "id": 2471,
+        "location_name": "Getaria, España",
+        "location_lat": 43.338147,
+        "location_lon": -1.78885,
+        "component": "Screws",
+        "component_percentage": 1.15
+      },
+      {
+        "id": 2472,
+        "location_name": "Tarragona, España",
+        "location_lat": 41.118883,
+        "location_lon": 1.244491,
+        "component": "Glides ",
+        "component_percentage": 1.15
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2994,
+        "location_name": "Irun, España",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Steel",
+        "product_percentage": 80.0
+      },
+      {
+        "id": 2997,
+        "location_name": "Zarauz, España",
+        "location_lat": 43.284771,
+        "location_lon": -2.171397,
+        "material": "Polypropylene",
+        "product_percentage": 15.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2031,
+        "location_name": "Revesby NSW, Australia",
+        "location_lat": -33.945247,
+        "location_lon": 151.018035,
+        "location_state": " Australia",
+        "location_city": "Revesby NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Available in different colours for structure and seat.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "We work mostly, 80% of purchases are made within 200km, thus supporting the local economy and maintaining close and trusting relationships with our suppliers.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2708,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/compliance/MATERIAL_STEEL_COLOUR_EPOXY_3ut2G96.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "For packaging we use items that are mainly made from recycled materials. On average, our boxes have 70% recycled content, and several of our references already boast 100% recycled content. All these materials come from responsibly and sustainably managed forests, which is guaranteed by the FSC certificate. As for the bags used to protect our products, we can confirm that 50% of them are made from recycled materials. The materials we use are 100% recyclable and retain their quality and properties after each recycling cycle. To simplify the process and promote sustainability, we avoid using staples in our packaging.",
+    "files": [
+      {
+        "id": 3710,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/ModernSlaveryAssessment/Supplier_Code_of_Conduct_875Fiyi.pdf"
+      },
+      {
+        "id": 3711,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Ant%20Stool%20470H/RecycledContent/Ant_sustainability_EN.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1325,
+    "company": {
+      "id": 140,
+      "name": "DESIGN NATION"
+    },
+    "image": "products/DESIGN NATION/HARI_POLYPROPYLENE_STOOL_REWOOD_CARAMEL_4.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-24T02:52:11.034691+00:00",
+    "last_update": "2025-07-23T14:00:00+00:00",
+    "created_by": {
+      "id": 1457,
+      "email": "janis@designnation.com.au"
+    },
+    "updated_by": {
+      "id": 1457,
+      "email": "janis@designnation.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "ONDARRETA, SPAIN",
+    "product_name": "Hari Stool 750H Polypropylene",
+    "product_code": "THAR2EPN",
+    "product_description": "Inspired by the world of textile looms, with a very industrial aesthetic. Designed by estudi{H}ac",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "1050 x 420 x 470 mm",
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "14-16 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4898,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14025_EPD_HARI.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4899,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_9001_Certificate_Quality_Management_2022-2025_IQNET__GhCe4Ns.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4900,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14001_Certificate_Environmental_Management_System_2022-2025_IQNET__I1mDz53.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4901,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14006_Certificate_ED-0003-2014_IN_2023-10-19_1h2TuHY.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 18.3,
+    "upfront_carbon_emissions": 18.3,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "80% recycled steel",
+    "recycling_process_description": "Steel and polypropylene",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Eco-designed to facilitate demount-ability",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "We organise our shipments so that trucks leave our premises at full load or with shared loads wherever possible, thus optimising the use of resources and reducing emissions.",
+    "minimisation_design_strategy": "Reduction of material used in components without compromising strengths, efficiency in production processes, optimization of product design and packaging, new more efficient machinery,",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4898,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14025_EPD_HARI.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4899,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_9001_Certificate_Quality_Management_2022-2025_IQNET__GhCe4Ns.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4900,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14001_Certificate_Environmental_Management_System_2022-2025_IQNET__I1mDz53.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4901,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/certificates/ISO_14006_Certificate_ED-0003-2014_IN_2023-10-19_1h2TuHY.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": true,
+    "factory_finished_description": "Fully finished and factory-assembled product.",
+    "manufacturing_locations": [
+      {
+        "id": 2473,
+        "location_name": "Irun, España",
+        "location_lat": 43.338147,
+        "location_lon": -1.78885,
+        "component": "Steel",
+        "component_percentage": 51.0
+      },
+      {
+        "id": 2474,
+        "location_name": "Zarautz, España",
+        "location_lat": 43.284771,
+        "location_lon": -2.171397,
+        "component": "Polypropylene",
+        "component_percentage": 39.0
+      },
+      {
+        "id": 2475,
+        "location_name": "Bergara, España",
+        "location_lat": 43.125927,
+        "location_lon": -2.423206,
+        "component": "Button",
+        "component_percentage": 1.9
+      },
+      {
+        "id": 2476,
+        "location_name": "Getaria, España",
+        "location_lat": 43.302858,
+        "location_lon": -2.204608,
+        "component": "Screws",
+        "component_percentage": 1.5
+      },
+      {
+        "id": 2477,
+        "location_name": "Tarragona, España",
+        "location_lat": 41.118883,
+        "location_lon": 1.244491,
+        "component": "Glides",
+        "component_percentage": 0.15
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2998,
+        "location_name": "Irun, España",
+        "location_lat": 43.338147,
+        "location_lon": -1.78885,
+        "material": "Steel",
+        "product_percentage": 51.0
+      },
+      {
+        "id": 2999,
+        "location_name": "Zarautz, España",
+        "location_lat": 43.284771,
+        "location_lon": -2.171397,
+        "material": "Polypropylene",
+        "product_percentage": 40.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2032,
+        "location_name": "Revesby NSW, Australia",
+        "location_lat": -33.945247,
+        "location_lon": 151.018035,
+        "location_state": " Australia",
+        "location_city": "Revesby NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Customisable colour structure. There are different types of polypropylene compositions for seat and backrest, which vary in the use of recycled materials and colours.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Ondarreta has a long-term commitment to ensuring replacement parts are guaranteed for a minimum of 20 years for HARI family. We work mostly, 80% of purchases are made within 200km, thus supporting the local economy and maintaining close and trusting relationships with our suppliers.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2709,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/compliance/MATERIAL_STEEL_COLOUR_EPOXY_3ut2G96.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "For packaging we use items that are mainly made from recycled materials. On average, our boxes have 70% recycled content, and several of our references already boast 100% recycled content. All these materials come from responsibly and sustainably managed forests, which is guaranteed by the FSC certificate. As for the bags used to protect our products, we can confirm that 50% of them are made from recycled materials. The materials we use are 100% recyclable and retain their quality and properties after each recycling cycle. To simplify the process and promote sustainability, we avoid using staples in our packaging.",
+    "files": [
+      {
+        "id": 3712,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/RecycledContent/Hari_sustainability_EN_CSyEsoa.pdf"
+      },
+      {
+        "id": 3713,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Hari%20Chair%20Polypropylene/ModernSlaveryAssessment/Supplier_Code_of_Conduct_875Fiyi.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1326,
+    "company": {
+      "id": 140,
+      "name": "DESIGN NATION"
+    },
+    "image": "products/DESIGN NATION/Alo.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-24T03:04:51.073629+00:00",
+    "last_update": "2025-07-23T14:00:00+00:00",
+    "created_by": {
+      "id": 1457,
+      "email": "janis@designnation.com.au"
+    },
+    "updated_by": {
+      "id": 1457,
+      "email": "janis@designnation.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "ONDARRETA, SPAIN",
+    "product_name": "Alo Chair - Stacking",
+    "product_code": "SALOETB",
+    "product_description": "Structure in steel that surrounds a varnished, upholstered or laminated wooden shell.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "780 x 600 x 530 mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "14-16 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4902,
+        "certification": "Responsible Steel",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/MATERIAL_STEEL_COLOUR_EPOXY.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4903,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/ISO_14006_Certificate_ED-0003-2014_IN_2023-10-19.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4904,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/ISO_14001_Certificate_Environmental_Management_System_2022-2025_IQNET_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4905,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/ISO_9001_Certificate_Quality_Management_2022-2025_IQNET_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "51",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "80% recycled steel, recycled fabrics",
+    "recycling_process_description": "Steel and Wood",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "eco-designed and these topics analyzed to facilitate demount-ability",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Reduction of material used in components without compromising strengths, efficiency in production processes, optimization of product design and packaging, new more efficient machinery,",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "We work only with 100% european producers, which ensures that workers work under decent working conditions, covered by collective agreements, they are protected by job security measures, conditions that are far from precarious and avoid child labour or any form of slavery. . We have developed a code of conduct for suppliers, in which they commit to respect human rights, among other issues.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4902,
+        "certification": "Responsible Steel",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/MATERIAL_STEEL_COLOUR_EPOXY.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4903,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/ISO_14006_Certificate_ED-0003-2014_IN_2023-10-19.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4904,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/ISO_14001_Certificate_Environmental_Management_System_2022-2025_IQNET_.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4905,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/certificates/ISO_9001_Certificate_Quality_Management_2022-2025_IQNET_.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 9,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": true,
+    "factory_finished_description": "Fully finished and factory-assembled product.",
+    "manufacturing_locations": [
+      {
+        "id": 2479,
+        "location_name": "Irun, España",
+        "location_lat": 43.338147,
+        "location_lon": -1.78885,
+        "component": "Steel",
+        "component_percentage": 54.9
+      },
+      {
+        "id": 2480,
+        "location_name": "Azpeitia, España",
+        "location_lat": 43.182598,
+        "location_lon": -2.266732,
+        "component": "Wood",
+        "component_percentage": 35.3
+      },
+      {
+        "id": 2481,
+        "location_name": "Barcelona, España",
+        "location_lat": 41.387397,
+        "location_lon": 2.168568,
+        "component": "Fabric",
+        "component_percentage": 8.1
+      },
+      {
+        "id": 2483,
+        "location_name": "Getaria, España",
+        "location_lat": 43.302858,
+        "location_lon": -2.204608,
+        "component": "Screws",
+        "component_percentage": 0.2
+      },
+      {
+        "id": 2482,
+        "location_name": "Tarragona, España",
+        "location_lat": 41.118883,
+        "location_lon": 1.244491,
+        "component": "Glides",
+        "component_percentage": 0.1
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3001,
+        "location_name": "Irun, España",
+        "location_lat": 43.338147,
+        "location_lon": -1.78885,
+        "material": "Steel",
+        "product_percentage": 51.0
+      },
+      {
+        "id": 3002,
+        "location_name": "Azpeitia, España",
+        "location_lat": 43.182598,
+        "location_lon": -2.266732,
+        "material": "Wood",
+        "product_percentage": 40.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2033,
+        "location_name": "Revesby NSW, Australia",
+        "location_lat": -33.945247,
+        "location_lon": 151.018035,
+        "location_state": " Australia",
+        "location_city": "Revesby NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Its structure in steel that surrounds a varnished, upholstered or laminated wooden shell. Availability of different types of finishes",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "We work mostly, 80% of purchases are made within 200km, thus supporting the local economy and maintaining close and trusting relationships with our suppliers.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2710,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Chair%20-%20Stacking/compliance/MATERIAL_STEEL_COLOUR_EPOXY.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "For packaging we use items that are mainly made from recycled materials. On average, our boxes have 70% recycled content, and several of our references already boast 100% recycled content. All these materials come from responsibly and sustainably managed forests, which is guaranteed by the FSC certificate. As for the bags used to protect our products, we can confirm that 50% of them are made from recycled materials. The materials we use are 100% recyclable and retain their quality and properties after each recycling cycle. To simplify the process and promote sustainability, we avoid using staples in our packaging.",
+    "files": [
+      {
+        "id": 3715,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Outdoor%20Chair/ModernSlaveryAssessment/Supplier_Code_of_Conduct.pdf"
+      },
+      {
+        "id": 3716,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Chair%20-%20Stacking/RecycledContent/Alo_sustainability_EN.pdf"
+      },
+      {
+        "id": 3717,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Alo%20Chair%20-%20Stacking/RecycledContent/Alo_sustainability_EN_ANLZydG.pdf"
+      }
+    ]
+  }
+]

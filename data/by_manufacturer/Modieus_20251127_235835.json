@@ -1,0 +1,384 @@
+[
+  {
+    "id": 1312,
+    "company": {
+      "id": 192,
+      "name": "MODIEUS"
+    },
+    "image": "products/MODIEUS/Details-12.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-16T05:13:47.910601+00:00",
+    "last_update": "2025-07-16T14:00:00+00:00",
+    "created_by": {
+      "id": 2570,
+      "email": "marjo@modieus.com"
+    },
+    "updated_by": {
+      "id": 2570,
+      "email": "marjo@modieus.com"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Modieus",
+    "product_name": "Custom Axminster Carpet",
+    "product_code": "AXI",
+    "product_description": "A woven cut pile carpet of 80% wool 20% nylon creating durable intricate designs.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "425cm width maximum",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "12 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4863,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MODIEUS/Custom%20Axminster%20Carpet/certificates/GLP101123_Certificate_2.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4864,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MODIEUS/Custom%20Axminster%20Carpet/certificates/GLP101122_Certificate_2.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "placement design",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4863,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MODIEUS/Custom%20Axminster%20Carpet/certificates/GLP101123_Certificate_2.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4864,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MODIEUS/Custom%20Axminster%20Carpet/certificates/GLP101122_Certificate_2.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2426,
+        "location_name": "Weihai, Shandong, China",
+        "location_lat": 37.51348,
+        "location_lon": 122.12171,
+        "component": "woven carpet",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2965,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Nylon",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 2966,
+        "location_name": "Auckland, New Zealand",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "material": "Wool",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 2967,
+        "location_name": "Norwich, UK",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "material": "Wool",
+        "product_percentage": 40.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2021,
+        "location_name": "Weihai, Shandong, China",
+        "location_lat": 37.51348,
+        "location_lon": 122.12171,
+        "location_state": " Shandong",
+        "location_city": "Weihai"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2696,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MODIEUS/Custom%20Axminster%20Carpet/compliance/8_Row_carpet_slip_resistance_test_ATTAR_Report_11888-1_1_1.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "cardboard",
+    "files": [
+      {
+        "id": 3685,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MODIEUS/Custom%20Axminster%20Carpet/VOC/1001940133-6075902_AX_MT_PR_1.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1313,
+    "company": {
+      "id": 192,
+      "name": "MODIEUS"
+    },
+    "image": "products/MODIEUS/IMG_2051.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-16T23:46:43.568996+00:00",
+    "last_update": "2025-07-16T14:00:00+00:00",
+    "created_by": {
+      "id": 2570,
+      "email": "marjo@modieus.com"
+    },
+    "updated_by": {
+      "id": 2570,
+      "email": "marjo@modieus.com"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Modieus",
+    "product_name": "Hand Tufted Rugs",
+    "product_code": "HT",
+    "product_description": "Can be created to any shape or dimension with unlimited colours and design possibilities.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": null,
+    "price_adjustment_structure": null,
+    "lead_time": "14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "placement design",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2427,
+        "location_name": "Weihai, Shandong, China",
+        "location_lat": 37.51348,
+        "location_lon": 122.12171,
+        "component": "wool",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2968,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "wool",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2020,
+        "location_name": "Weihai, Shandong, China",
+        "location_lat": 37.51348,
+        "location_lon": 122.12171,
+        "location_state": " Shandong",
+        "location_city": "Weihai"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 33,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "cardboard",
+    "files": [
+      {
+        "id": 3686,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MODIEUS/Hand%20Tufted%20Rugs/VOC/1001940133-6075902_AX_MT_PR_1.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "id": 112,
+    "company": {
+      "id": 36,
+      "name": "DCA FACADE"
+    },
+    "image": "products/DCA FACADE/Concrete_Skin.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-23T02:38:10.563813+00:00",
+    "last_update": "2024-07-11T14:00:00+00:00",
+    "created_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "updated_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Rieder",
+    "product_name": "Grc Concrete Skin",
+    "product_code": "GRC Concrete Skin",
+    "product_description": "Large format panels made of glassfibre reinforced concrete",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      }
+    ],
+    "standard_dimensions": "1310mm x 2500/3100/3600mm x 13mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "6-10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 206,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Grc%20Concrete%20Skin/certificates/Environmental_Product_Declaration_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 252.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 2.86,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 20.0,
+    "upfront_carbon_emissions": 20.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "electric forklifts and pool cars, electric cars for sales people",
+    "minimisation_design_strategy": "When creating the facade plan, individual geometries should be optimized based on the standard sizes of the panels (2500/3100/3600 x 1310 mm) in order to minimise waste.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 206,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Grc%20Concrete%20Skin/certificates/Environmental_Product_Declaration_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://cdn.sanity.io/files/3f1jzp9g/development/40eb16908016436859e7b200d926aa7c02aed4f0.pdf?dl=",
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Rieder facade cladding is designed as a mounted, ventilated facade in accordance with DIN 18516-1. This construction method, which distinguishes between thermal insulation and weather protection, is not only advantageous from the point of view of building physics, but also allows the creation of a variety of effects with different types of cladding. Attention must be paid to correct rear ventilation.\r\n\r\nVisible: rivets, screws\r\n\r\nConcealed: bonding, undercut anchor, Rieder Power Anchor",
+    "manufacturing_locations": [
+      {
+        "id": 160,
+        "location_name": "Kolbermoor, Deutschland",
+        "location_lat": 47.848331,
+        "location_lon": 12.061192,
+        "component": "GRC concrete skin",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 204,
+        "location_name": "Rohrdorf, Deutschland",
+        "location_lat": 47.797165,
+        "location_lon": 12.167107,
+        "material": "Sand",
+        "product_percentage": 55.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 218,
+        "location_name": "Kolbermoor, Deutschland",
+        "location_lat": 47.848331,
+        "location_lon": 12.061192,
+        "location_state": " Deutschland",
+        "location_city": "Kolbermoor"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "avoid adhesive fastening",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://cdn.sanity.io/files/3f1jzp9g/development/40eb16908016436859e7b200d926aa7c02aed4f0.pdf?dl=",
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 106,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Grc%20Concrete%20Skin/compliance/Combustibility.pdf",
+        "link": "",
+        "rating": null
+      },
+      {
+        "id": 107,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Grc%20Concrete%20Skin/compliance/BAL.jpg",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Where it is technically possible and makes ecological sense, there will be a gradual reduction of plastic packaging, some of which will be replaced by cardboard\r\npackaging.",
+    "files": []
+  },
+  {
+    "id": 113,
+    "company": {
+      "id": 36,
+      "name": "DCA FACADE"
+    },
+    "image": "products/DCA FACADE/Oko_Skin.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-23T03:20:04.105477+00:00",
+    "last_update": "2024-05-09T03:50:19.425867+00:00",
+    "created_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "updated_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Rieder",
+    "product_name": "Grc Öko Skin",
+    "product_code": "GRC oko skin",
+    "product_description": "Vivid facade slats made of glassfibre reinforced concrete",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      }
+    ],
+    "standard_dimensions": "70-302mm x 700-2500mm x 13mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "6-10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 207,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Grc%20%C3%96ko%20Skin/certificates/Environmental_Product_Declaration_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 252.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 2.86,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 20.0,
+    "upfront_carbon_emissions": 20.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "electric forklifts and pool cars, electric cars for sales people",
+    "minimisation_design_strategy": "When creating the facade plan, individual geometries should be optimized based on the standard sizes of the panels (2500/3100/3600 x 1310 mm) in order to minimise waste.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 207,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Grc%20%C3%96ko%20Skin/certificates/Environmental_Product_Declaration_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://cdn.sanity.io/files/3f1jzp9g/development/40eb16908016436859e7b200d926aa7c02aed4f0.pdf?dl=",
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "The further refined invisible fastening system hidden fix for öko skin facade slats with the format 147 x 1800 mm enables quick and easy installation. With the concealed attachment, the öko skin slats are even more effective, since the overall appearance is not marred by rivets or screws. Rieder supplies all fastening components as well as the öko skin slats. The slats can also be mounted with rivets, screws (on a wooden substructure), undercut anchors, the Rieder Power Anchor, or adhesive.",
+    "manufacturing_locations": [
+      {
+        "id": 161,
+        "location_name": "Kolbermoor, Deutschland",
+        "location_lat": 47.848331,
+        "location_lon": 12.061192,
+        "component": "GRC öko skin",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 205,
+        "location_name": "Rohrdorf, Deutschland",
+        "location_lat": 47.797165,
+        "location_lon": 12.167107,
+        "material": "Sand",
+        "product_percentage": 55.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 219,
+        "location_name": "Kolbermoor, Deutschland",
+        "location_lat": 47.848331,
+        "location_lon": 12.061192,
+        "location_state": " Deutschland",
+        "location_city": "Kolbermoor"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "avoid adhesive fastening",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://cdn.sanity.io/files/3f1jzp9g/development/40eb16908016436859e7b200d926aa7c02aed4f0.pdf?dl=",
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 108,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Grc%20%C3%96ko%20Skin/compliance/Combustibility.pdf",
+        "link": "",
+        "rating": null
+      },
+      {
+        "id": 109,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Grc%20%C3%96ko%20Skin/compliance/BAL.jpg",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Where it is technically possible and makes ecological sense, there will be a gradual reduction of plastic packaging, some of which will be replaced by cardboard\r\npackaging.",
+    "files": []
+  },
+  {
+    "id": 114,
+    "company": {
+      "id": 36,
+      "name": "DCA FACADE"
+    },
+    "image": "products/DCA FACADE/Screenshot_2024-04-30_121606.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-23T03:35:19.688622+00:00",
+    "last_update": "2024-05-09T03:50:04.912634+00:00",
+    "created_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "updated_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Rieder",
+    "product_name": "Grc Formparts",
+    "product_code": "GRC formparts",
+    "product_description": "3D shaped concrete elements",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      }
+    ],
+    "standard_dimensions": "individual sizes and shapes",
+    "price_per_unit": null,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "6-10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 208,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Grc%20Formparts/certificates/Environmental_Product_Declaration_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": 2.86,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "When creating the facade plan, individual geometries should be optimized based on the standard sizes of the panels (2500/3100/3600 x 1310 mm) in order to minimise waste.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 208,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Grc%20Formparts/certificates/Environmental_Product_Declaration_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://cdn.sanity.io/files/3f1jzp9g/development/40eb16908016436859e7b200d926aa7c02aed4f0.pdf?dl=",
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "The shaped concrete elements are available as L or U cross-sections, round arches, and special shapes with a length of up to five meters. plug & play - The jointed formed parts are connected using different mounting brackets depending on size. As a system supplier, Rieder provides coordinated components, resulting in an integrated solution from a single source. The simple anchorage system allows on-site adjustment, high fitting accuracy and concealed mounting. The mounting options are compatible with all standard supporting structures and are a time-saving, economical and sustainable alternative. For the mounting of formparts. Rieder offers a library of standard details with typical vertical and horizontal sections as well as details for fire barriers, connections for glass facades, shutter boxes, ceiling cladding, roof connections and column cladding. Based on project experience, a large collection of prepared special solutions for mounting on a wide variety of building and facade types is also available.",
+    "manufacturing_locations": [
+      {
+        "id": 162,
+        "location_name": "Kolbermoor, Deutschland",
+        "location_lat": 47.848331,
+        "location_lon": 12.061192,
+        "component": "GRC ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 206,
+        "location_name": "Rohrdorf, Deutschland",
+        "location_lat": 47.797165,
+        "location_lon": 12.167107,
+        "material": "sand",
+        "product_percentage": 55.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 220,
+        "location_name": "Kolbermoor, Deutschland",
+        "location_lat": 47.848331,
+        "location_lon": 12.061192,
+        "location_state": " Deutschland",
+        "location_city": "Kolbermoor"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "avoid adhesive fastening",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 75,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 110,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Grc%20Formparts/compliance/Combustibility.pdf",
+        "link": "",
+        "rating": null
+      },
+      {
+        "id": 111,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Grc%20Formparts/compliance/BAL.jpg",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Where it is technically possible and makes ecological sense, there will be a gradual reduction of plastic packaging, some of which will be replaced by cardboard\r\npackaging.",
+    "files": []
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1507,
+    "company": {
+      "id": 117,
+      "name": "KNAUF GYPSUM PTY LTD"
+    },
+    "image": "products/KNAUF GYPSUM PTY LTD/250825_GY_AU_Multistop_media_image_3.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-10-01T03:03:01.916651+00:00",
+    "last_update": "2025-09-30T14:00:00+00:00",
+    "created_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "updated_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "KNAUF GYPSUM Pty Ltd",
+    "product_name": "Multistop™ One 13Mm",
+    "product_code": "1200 x 3600 Recessed Edge (RE)",
+    "product_description": "Lightweight multi-purpose plasterboard with fire, water, sound, mould and high-impact resistance",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Products availabe",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5833,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5834,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/USG1033_Plasterboard_EPD_Multistop_13mm_v5.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 5.67,
+    "upfront_carbon_emissions": 5.67,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Plasterboard may be demountable if designed into projects specifications",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Recycled water or rainwater plant dependent",
+    "transport_emissions_minimisation_techniques": "Products loading on the truck for distribution is maximised and optimised for delivery through our large national distribution network to ensure products leaving the gate to site distance is minimised",
+    "minimisation_design_strategy": "Height and spacing of studs to correlate with standard full sheet sizes for optimised installation and waste",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5833,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5834,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/USG1033_Plasterboard_EPD_Multistop_13mm_v5.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2947,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "component": "Plasterboard ",
+        "component_percentage": 25.0
+      },
+      {
+        "id": 2948,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "component": "Plasterboard",
+        "component_percentage": 30.0
+      },
+      {
+        "id": 2949,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "component": "Plasterboard",
+        "component_percentage": 45.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3500,
+        "location_name": "Thevenard SA, Australia",
+        "location_lat": -32.144834,
+        "location_lon": 133.657554,
+        "material": "Natural gypsum",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2362,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "location_state": " Australia",
+        "location_city": "Port Melbourne VIC"
+      },
+      {
+        "id": 2363,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "location_state": " Australia",
+        "location_city": "Camellia NSW"
+      },
+      {
+        "id": 2364,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "location_state": " Australia",
+        "location_city": "Pinkenba QLD"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Paint system, tiles, vinyl, wall paper, laminates, lead",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Knauf has embraced this challenge with the ambition to become an industry leader in sustainable construction. Our goal is to reach net-zero by 2045 – five years ahead of the Paris agreement. And when Knauf turns 100 in 2034, we will have cut directly controlled CO2 emissions in half.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3099,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/compliance/Multistop_Fire_Hazardous.pdf",
+        "link": "",
+        "rating": "Group 1"
+      },
+      {
+        "id": 3100,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/compliance/13mm_Multistop_water_resistance.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3101,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/13Mm%20Multistop%E2%84%A2/compliance/KNA-001_13mm_Multistop_4_FINAL.pdf",
+        "link": "",
+        "rating": "Various FRL, systems dependent"
+      }
+    ],
+    "type_of_packaging": "The products distributed to construction sites in Australia do not have packaging, products sits on plasterboard billets and strapped down for transport.",
+    "files": [
+      {
+        "id": 4472,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/VOC/VOC_Multistop.pdf"
+      },
+      {
+        "id": 4473,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/LCA/USG1033_Plasterboard_EPD_Multistop_13mm_v5.pdf"
+      },
+      {
+        "id": 4474,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/RecycledContent/Recycled_content_pb_declaration.pdf"
+      },
+      {
+        "id": 4475,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/ModernSlaveryAssessment/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 4476,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/ModernSlaveryActionPlan/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 4477,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTY%20LTD/13Mm%20Multistop%E2%84%A2/ModernSlaveryAssessment/2024_Knauf_Gysum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 4478,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTY%20LTD/13Mm%20Multistop%E2%84%A2/ModernSlaveryActionPlan/2024_Knauf_Gysum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 4479,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTY%20LTD/Multistop%20One%2013Mm/ModernSlaveryAssessment/2024_Knauf_Gysum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 4480,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTY%20LTD/Multistop%20One%2013Mm/ModernSlaveryActionPlan/2024_Knauf_Gysum_Modern_Slavery_Statement.pdf"
+      }
+    ]
+  }
+]

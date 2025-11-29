@@ -1,0 +1,487 @@
+[
+  {
+    "id": 1108,
+    "company": {
+      "id": 126,
+      "name": "LI SURFACES"
+    },
+    "image": "products/LI SURFACES/Innovus_banner.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-30T23:05:58.173421+00:00",
+    "last_update": "2025-04-10T14:00:00+00:00",
+    "created_by": {
+      "id": 1374,
+      "email": "leeann@lisurfaces.com.au"
+    },
+    "updated_by": {
+      "id": 1374,
+      "email": "leeann@lisurfaces.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Surforma Distributed by LI Surfaces",
+    "product_name": "Li Surfaces Hpl (Surforma/Innovus)",
+    "product_code": "Various",
+    "product_description": "High Pressure Laminate (Group 1 Fire, Chemical grade, Postformable)",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "3050x1320 standard (Various sizes available)",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Immediate Dispatch",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4034,
+        "certification": "Forestry Stewardship Council",
+        "file": null,
+        "link": "C1111655 (chain of custody)",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4035,
+        "certification": "GREENGUARD",
+        "file": null,
+        "link": "See Representative",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4036,
+        "certification": "Other",
+        "file": null,
+        "link": "PEFC",
+        "rating": "See Representative",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4037,
+        "certification": "Other",
+        "file": null,
+        "link": "NSF (Safe Food Contact)",
+        "rating": "See Representative",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4039,
+        "certification": "Other",
+        "file": null,
+        "link": "ISO9001",
+        "rating": "See Representative",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4041,
+        "certification": "Other",
+        "file": null,
+        "link": "ISO45001",
+        "rating": "See Representative",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4038,
+        "certification": "Other",
+        "file": null,
+        "link": "EPD (product Environmental Declaration)",
+        "rating": "See Representative",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4040,
+        "certification": "Other",
+        "file": null,
+        "link": "ISO14001",
+        "rating": "See Representative",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "For packaging/gluts etc also for sampling",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Optimise the design to best suit the sheet size to avoid unecessary wasteage",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4034,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "C1111655 (chain of custody)",
+        "rating": "undefined"
+      },
+      {
+        "id": 4035,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "See Representative",
+        "rating": "undefined"
+      },
+      {
+        "id": 4036,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "PEFC",
+        "rating": "See Representative"
+      },
+      {
+        "id": 4037,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "NSF (Safe Food Contact)",
+        "rating": "See Representative"
+      },
+      {
+        "id": 4039,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "ISO9001",
+        "rating": "See Representative"
+      },
+      {
+        "id": 4041,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "ISO45001",
+        "rating": "See Representative"
+      },
+      {
+        "id": 4038,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "EPD (product Environmental Declaration)",
+        "rating": "See Representative"
+      },
+      {
+        "id": 4040,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "ISO14001",
+        "rating": "See Representative"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2046,
+        "location_name": "Arundel QLD, Australia",
+        "location_lat": -27.93614,
+        "location_lon": 153.360318,
+        "component": "Pressed Board (Service)",
+        "component_percentage": 100.0
+      },
+      {
+        "id": 2045,
+        "location_name": "Maia, Portugal",
+        "location_lat": 41.227889,
+        "location_lon": -8.621049,
+        "component": "Paper Core Layers, decorative layer and overlay resin impregnation",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2437,
+        "location_name": "Sines, Portugal",
+        "location_lat": 37.957156,
+        "location_lon": -8.860891,
+        "material": "Kraft paper Impregnated with phenol-formaldheyde resin",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1732,
+        "location_name": "Arundel QLD, Australia",
+        "location_lat": -27.93614,
+        "location_lon": 153.360318,
+        "location_state": " Australia",
+        "location_city": "Arundel QLD"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 25,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 2408,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "See Representative",
+        "rating": "Group1 Fire Rating also certified for Fire Doors 2HR"
+      },
+      {
+        "id": 2409,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "See Representative for all Individual LRV",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard packaging gluts and repurposed stock/boards",
+    "files": [
+      {
+        "id": 3239,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/LI%20SURFACES/Li%20Surfaces%20Hpl%20%28Surforma/Innovus%29/VOC/Surforma_HPL_VOC_Greenguard_to_31_10_25.pdf"
+      },
+      {
+        "id": 3245,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/LI%20SURFACES/Li%20Surfaces%20Hpl%20%28Surforma/Innovus%29/LCA/Surforma_EPD_HPL_to_17_Nov_2027.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1173,
+    "company": {
+      "id": 126,
+      "name": "LI SURFACES"
+    },
+    "image": "products/LI SURFACES/LI_SUrfaces.jpg",
+    "featured": false,
+    "active": true,
+    "timestamp": "2025-04-11T04:14:40.942991+00:00",
+    "last_update": null,
+    "created_by": {
+      "id": 1374,
+      "email": "leeann@lisurfaces.com.au"
+    },
+    "updated_by": {
+      "id": 0,
+      "email": ""
+    },
+    "user_role": null,
+    "manufacturer_name": "Surforma Distributed by LI Surfaces",
+    "product_name": "Li Surfaces Innovus/Surforma Hpl",
+    "product_code": "Various",
+    "product_description": "High Pressure Laminate (Group 1 Fire, Chemical grade, Postformable grade) Fire door certified",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 21,
+        "category_name": "Hardware (Door, Window, Joinery)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": null,
+    "price_adjustment_structure": null,
+    "lead_time": null,
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": null,
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": null,
+    "recycled_content_percentage": null,
+    "recycled_content_description": null,
+    "recycling_process_description": null,
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": null,
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": null,
+    "reusable": null,
+    "reusable_description": null,
+    "end_of_life_program": null,
+    "end_of_life_program_description": null,
+    "water_reduction_techniques": null,
+    "transport_emissions_minimisation_techniques": null,
+    "minimisation_design_strategy": null,
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": null,
+    "modern_slavery_comments": null,
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": null,
+    "installation_risks": null,
+    "installation_risks_description": null,
+    "substances_of_concern": null,
+    "substances_of_concern_description": null,
+    "volatile_organic_compounds": null,
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": null,
+    "factory_finished": false,
+    "factory_finished_description": null,
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [],
+    "specific_installation": null,
+    "specific_installation_methods": null,
+    "applied_finish_required": false,
+    "applied_finish_required_description": null,
+    "section_A_score": 40,
+    "section_B_score": 0,
+    "section_C_score": 0,
+    "section_D_score": 0,
+    "section_E_score": 0,
+    "section_F_score": 0,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": null,
+    "other_comments": null,
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": null,
+    "files": []
+  }
+]

@@ -1,0 +1,1806 @@
+[
+  {
+    "id": 1194,
+    "company": {
+      "id": 82,
+      "name": "ABOVE LEFT"
+    },
+    "image": "products/ABOVE LEFT/AKI01resize.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-04-29T00:36:38.517661+00:00",
+    "last_update": "2025-04-28T14:00:00+00:00",
+    "created_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "updated_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Carpets Inter",
+    "product_name": "Aspekt",
+    "product_code": "Aspekt",
+    "product_description": "New Collection - Aspekt : Insight With clarity, confidence, and a commitment to innovative design",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "m2",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock in Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4250,
+        "certification": "Carpet Institute - ECS",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4251,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4252,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": 0.01,
+    "carbon_functional_unit": null,
+    "embodied_energy": 0.42,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.07,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 8.09,
+    "upfront_carbon_emissions": 8.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Product can be used as an RDF for energy & cement production",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Can be upcycled in to a Sound Insulation product or into RDF",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Used as an RDF",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "ReCover Program ECS Level 4 compliant",
+    "water_reduction_techniques": "On site harvested rainwater",
+    "transport_emissions_minimisation_techniques": "Since 2014 the company has recycled 940 million discarded single use PET bottles - offsetting tonnes of CO2 emissions",
+    "minimisation_design_strategy": "No Considerations are required",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4250,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4251,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined"
+      },
+      {
+        "id": 4252,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Recycled PET Cushion & Acoustic Back Carpet Tiles Cradle to Cradle & Green Manufacturer Certified",
+    "manufacturing_locations": [
+      {
+        "id": 2280,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "component": "Refer to EPD or Declare Label ",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2661,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "Refer to EPD or Declare Label ",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1832,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Pressure sensitive adhesive can be applied for easy uplift of product at end of life",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 10.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Carpets Inter are fully aligned and support the Paris Climate Agreement & UNITED NATIONS Sustainability Goals. We are dedicated to achieving Net Carbon Zero at source via manufacturing innovation. Investment in factory produced HUMUS + Onsite Energy Production programs will offset CO2 emissions.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2499,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2024/05/Breathe__fire_test_cert-1.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled Carboard",
+    "files": [
+      {
+        "id": 3413,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/LCA/EPD_-_EcoSoft.pdf"
+      },
+      {
+        "id": 3414,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/RecycledContent/EPD_-_EcoSoft.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1195,
+    "company": {
+      "id": 82,
+      "name": "ABOVE LEFT"
+    },
+    "image": "products/ABOVE LEFT/Capture.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-04-29T01:27:26.547348+00:00",
+    "last_update": "2025-04-28T14:00:00+00:00",
+    "created_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "updated_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Carpets Inter",
+    "product_name": "Architexture Connect",
+    "product_code": "Architexture Connect",
+    "product_description": "New Collection - Architexture Connect on Ecosoft",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "m2",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock in Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4253,
+        "certification": "Carpet Institute - ECS",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4254,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4255,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": 0.01,
+    "carbon_functional_unit": null,
+    "embodied_energy": 0.42,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.07,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 8.09,
+    "upfront_carbon_emissions": 8.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Product can be used as an RDF for energy & cement production",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Can be upcycled in to a Sound Insulation product or into RDF",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Used as an RDF",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "ReCover Program ECS Level 4 compliant",
+    "water_reduction_techniques": "On site harvested rainwater",
+    "transport_emissions_minimisation_techniques": "Since 2014 the company has recycled 940 million discarded single use PET bottles - offsetting tonnes of CO2 emissions",
+    "minimisation_design_strategy": "No Considerations are required",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4253,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4254,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined"
+      },
+      {
+        "id": 4255,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Recycled PET Cushion & Acoustic Back Carpet Tiles Cradle to Cradle & Green Manufacturer Certified",
+    "manufacturing_locations": [
+      {
+        "id": 2281,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "component": "Refer to EPD or Declare Label ",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2662,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "Refer to EPD or Declare Label ",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1833,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Pressure sensitive adhesive can be applied for easy uplift of product at end of life",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 21.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Carpets Inter are fully aligned and support the Paris Climate Agreement & UNITED NATIONS Sustainability Goals. We are dedicated to achieving Net Carbon Zero at source via manufacturing innovation. Investment in factory produced HUMUS + Onsite Energy Production programs will offset CO2 emissions.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2500,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2024/05/Breathe__fire_test_cert-1.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled Carboard",
+    "files": [
+      {
+        "id": 3415,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/LCA/EPD_-_EcoSoft.pdf"
+      },
+      {
+        "id": 3416,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/RecycledContent/EPD_-_EcoSoft.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1196,
+    "company": {
+      "id": 82,
+      "name": "ABOVE LEFT"
+    },
+    "image": "products/ABOVE LEFT/Breathe_Couch__Coffee.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-04-29T01:32:18.814402+00:00",
+    "last_update": "2025-04-28T14:00:00+00:00",
+    "created_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "updated_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Carpets Inter",
+    "product_name": "Mesa Alto",
+    "product_code": "Mesa Alto",
+    "product_description": "New Collection - Mesa Alto",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "m2",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4256,
+        "certification": "Carpet Institute - ECS",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4257,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4258,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": 0.01,
+    "carbon_functional_unit": null,
+    "embodied_energy": 0.42,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.07,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 8.09,
+    "upfront_carbon_emissions": 8.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Product can be used as an RDF for energy & cement production",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Can be upcycled in to a Sound Insulation product or into RDF",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Used as an RDF",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "ReCover Program ECS Level 4 compliant",
+    "water_reduction_techniques": "On site harvested rainwater",
+    "transport_emissions_minimisation_techniques": "Since 2014 the company has recycled 940 million discarded single use PET bottles - offsetting tonnes of CO2 emissions",
+    "minimisation_design_strategy": "No Considerations are required",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4256,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4257,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined"
+      },
+      {
+        "id": 4258,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Recycled PET Cushion & Acoustic Back Carpet Tiles Cradle to Cradle & Green Manufacturer Certified",
+    "manufacturing_locations": [
+      {
+        "id": 2282,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "component": "Refer to EPD or Declare Label ",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2663,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "Refer to EPD or Declare Label ",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1834,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Pressure sensitive adhesive can be applied for easy uplift of product at end of life",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 21.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Carpets Inter are fully aligned and support the Paris Climate Agreement & UNITED NATIONS Sustainability Goals. We are dedicated to achieving Net Carbon Zero at source via manufacturing innovation. Investment in factory produced HUMUS + Onsite Energy Production programs will offset CO2 emissions.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2501,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2024/05/Breathe__fire_test_cert-1.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled Carboard",
+    "files": [
+      {
+        "id": 3417,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/LCA/EPD_-_EcoSoft.pdf"
+      },
+      {
+        "id": 3418,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/RecycledContent/EPD_-_EcoSoft.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1197,
+    "company": {
+      "id": 82,
+      "name": "ABOVE LEFT"
+    },
+    "image": "products/ABOVE LEFT/Headlands_2.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-04-29T01:34:15.332699+00:00",
+    "last_update": "2025-04-28T14:00:00+00:00",
+    "created_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "updated_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Carpets Inter",
+    "product_name": "Headlands",
+    "product_code": "Headlands",
+    "product_description": "New Collection - Headlands on EcoSoft",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "m2",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4259,
+        "certification": "Carpet Institute - ECS",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4260,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4261,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": 0.01,
+    "carbon_functional_unit": null,
+    "embodied_energy": 0.42,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.07,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 8.09,
+    "upfront_carbon_emissions": 8.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Product can be used as an RDF for energy & cement production",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Can be upcycled in to a Sound Insulation product or into RDF",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Used as an RDF",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "ReCover Program ECS Level 4 compliant",
+    "water_reduction_techniques": "On site harvested rainwater",
+    "transport_emissions_minimisation_techniques": "Since 2014 the company has recycled 940 million discarded single use PET bottles - offsetting tonnes of CO2 emissions",
+    "minimisation_design_strategy": "No Considerations are required",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4259,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4260,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined"
+      },
+      {
+        "id": 4261,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Recycled PET Cushion & Acoustic Back Carpet Tiles Cradle to Cradle & Green Manufacturer Certified",
+    "manufacturing_locations": [
+      {
+        "id": 2283,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "component": "Refer to EPD or Declare Label ",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2664,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "Refer to EPD or Declare Label ",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1835,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Pressure sensitive adhesive can be applied for easy uplift of product at end of life",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 21.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Carpets Inter are fully aligned and support the Paris Climate Agreement & UNITED NATIONS Sustainability Goals. We are dedicated to achieving Net Carbon Zero at source via manufacturing innovation. Investment in factory produced HUMUS + Onsite Energy Production programs will offset CO2 emissions.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2502,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2024/05/Breathe__fire_test_cert-1.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled Carboard",
+    "files": [
+      {
+        "id": 3419,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/LCA/EPD_-_EcoSoft.pdf"
+      },
+      {
+        "id": 3420,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/RecycledContent/EPD_-_EcoSoft.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1288,
+    "company": {
+      "id": 82,
+      "name": "ABOVE LEFT"
+    },
+    "image": "products/ABOVE LEFT/Groundwork_GW04_resize.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-02T04:02:35.806810+00:00",
+    "last_update": "2025-07-01T14:00:00+00:00",
+    "created_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "updated_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Carpets Inter",
+    "product_name": "Groundwork",
+    "product_code": "Groundwork",
+    "product_description": "New Collection - Groundwork on EcoSoft",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "m2",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock in Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4690,
+        "certification": "Carpet Institute - ECS",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4691,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4692,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": 0.01,
+    "carbon_functional_unit": null,
+    "embodied_energy": 0.42,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.07,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 8.09,
+    "upfront_carbon_emissions": 8.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Product can be used as an RDF for energy & cement production",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Can be upcycled in to a Sound Insulation product or into RDF",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Used as an RDF",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "ReCover Program ECS Level 4 compliant",
+    "water_reduction_techniques": "On site harvested rainwater",
+    "transport_emissions_minimisation_techniques": "Since 2014 the company has recycled 940 million discarded single use PET bottles - offsetting tonnes of CO2 emissions",
+    "minimisation_design_strategy": "No Considerations are required",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4690,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4691,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined"
+      },
+      {
+        "id": 4692,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Recycled PET Cushion & Acoustic Back Carpet Tiles Cradle to Cradle & Green Manufacturer Certified",
+    "manufacturing_locations": [
+      {
+        "id": 2394,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "component": "Refer to EPD or Declare Label ",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2922,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "Refer to EPD or Declare Label ",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1975,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Pressure sensitive adhesive can be applied for easy uplift of product at end of life",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 10.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Carpets Inter are fully aligned and support the Paris Climate Agreement & UNITED NATIONS Sustainability Goals. We are dedicated to achieving Net Carbon Zero at source via manufacturing innovation. Investment in factory produced HUMUS + Onsite Energy Production programs will offset CO2 emissions.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2659,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2024/05/Breathe__fire_test_cert-1.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled Carboard",
+    "files": [
+      {
+        "id": 3624,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/LCA/EPD_-_EcoSoft.pdf"
+      },
+      {
+        "id": 3625,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/RecycledContent/EPD_-_EcoSoft.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1289,
+    "company": {
+      "id": 82,
+      "name": "ABOVE LEFT"
+    },
+    "image": "products/ABOVE LEFT/upstream4566.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-02T04:07:16.816983+00:00",
+    "last_update": "2025-07-01T14:00:00+00:00",
+    "created_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "updated_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Carpets Inter",
+    "product_name": "Upstream",
+    "product_code": "Upstream",
+    "product_description": "New Collection - Upstream on EcoSoft",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "m2",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock in Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4693,
+        "certification": "Carpet Institute - ECS",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4694,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4695,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": 0.01,
+    "carbon_functional_unit": null,
+    "embodied_energy": 0.42,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.07,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 8.09,
+    "upfront_carbon_emissions": 8.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Product can be used as an RDF for energy & cement production",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Can be upcycled in to a Sound Insulation product or into RDF",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Used as an RDF",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "ReCover Program ECS Level 4 compliant",
+    "water_reduction_techniques": "On site harvested rainwater",
+    "transport_emissions_minimisation_techniques": "Since 2014 the company has recycled 940 million discarded single use PET bottles - offsetting tonnes of CO2 emissions",
+    "minimisation_design_strategy": "No Considerations are required",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4693,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4694,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined"
+      },
+      {
+        "id": 4695,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Recycled PET Cushion & Acoustic Back Carpet Tiles Cradle to Cradle & Green Manufacturer Certified",
+    "manufacturing_locations": [
+      {
+        "id": 2395,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "component": "Refer to EPD or Declare Label ",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2923,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "Refer to EPD or Declare Label ",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1976,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Pressure sensitive adhesive can be applied for easy uplift of product at end of life",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 10.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Carpets Inter are fully aligned and support the Paris Climate Agreement & UNITED NATIONS Sustainability Goals. We are dedicated to achieving Net Carbon Zero at source via manufacturing innovation. Investment in factory produced HUMUS + Onsite Energy Production programs will offset CO2 emissions.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2660,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2024/05/Breathe__fire_test_cert-1.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled Carboard",
+    "files": [
+      {
+        "id": 3626,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/LCA/EPD_-_EcoSoft.pdf"
+      },
+      {
+        "id": 3627,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/RecycledContent/EPD_-_EcoSoft.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1290,
+    "company": {
+      "id": 82,
+      "name": "ABOVE LEFT"
+    },
+    "image": "products/ABOVE LEFT/1749436663309.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-02T04:08:50.227456+00:00",
+    "last_update": "2025-07-01T14:00:00+00:00",
+    "created_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "updated_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Carpets Inter",
+    "product_name": "Breathe",
+    "product_code": "Breathe",
+    "product_description": "New Collection - Breathe",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "m2",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock in Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4696,
+        "certification": "Carpet Institute - ECS",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4697,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4698,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": 0.01,
+    "carbon_functional_unit": null,
+    "embodied_energy": 0.42,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.07,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 8.09,
+    "upfront_carbon_emissions": 8.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Product can be used as an RDF for energy & cement production",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Can be upcycled in to a Sound Insulation product or into RDF",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Used as an RDF",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "ReCover Program ECS Level 4 compliant",
+    "water_reduction_techniques": "On site harvested rainwater",
+    "transport_emissions_minimisation_techniques": "Since 2014 the company has recycled 940 million discarded single use PET bottles - offsetting tonnes of CO2 emissions",
+    "minimisation_design_strategy": "No Considerations are required",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4696,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4697,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined"
+      },
+      {
+        "id": 4698,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Recycled PET Cushion & Acoustic Back Carpet Tiles Cradle to Cradle & Green Manufacturer Certified",
+    "manufacturing_locations": [
+      {
+        "id": 2396,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "component": "Refer to EPD or Declare Label ",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2924,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "Refer to EPD or Declare Label ",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1977,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Pressure sensitive adhesive can be applied for easy uplift of product at end of life",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 10.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Carpets Inter are fully aligned and support the Paris Climate Agreement & UNITED NATIONS Sustainability Goals. We are dedicated to achieving Net Carbon Zero at source via manufacturing innovation. Investment in factory produced HUMUS + Onsite Energy Production programs will offset CO2 emissions.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2661,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2024/05/Breathe__fire_test_cert-1.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled Carboard",
+    "files": [
+      {
+        "id": 3628,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/LCA/EPD_-_EcoSoft.pdf"
+      },
+      {
+        "id": 3629,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/RecycledContent/EPD_-_EcoSoft.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1291,
+    "company": {
+      "id": 82,
+      "name": "ABOVE LEFT"
+    },
+    "image": "products/ABOVE LEFT/Capture.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-02T04:12:45.108264+00:00",
+    "last_update": "2025-07-01T14:00:00+00:00",
+    "created_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "updated_by": {
+      "id": 657,
+      "email": "clsinclair@aboveleft.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Carpets Inter",
+    "product_name": "Flatlands",
+    "product_code": "Flatlands",
+    "product_description": "New Collection - Flatlands on EcoSoft",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "m2",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock in Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4699,
+        "certification": "Carpet Institute - ECS",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4700,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4701,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": 0.01,
+    "carbon_functional_unit": null,
+    "embodied_energy": 0.42,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.07,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 8.09,
+    "upfront_carbon_emissions": 8.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Product can be used as an RDF for energy & cement production",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Can be upcycled in to a Sound Insulation product or into RDF",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Used as an RDF",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "ReCover Program ECS Level 4 compliant",
+    "water_reduction_techniques": "On site harvested rainwater",
+    "transport_emissions_minimisation_techniques": "Since 2014 the company has recycled 940 million discarded single use PET bottles - offsetting tonnes of CO2 emissions",
+    "minimisation_design_strategy": "No Considerations are required",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4699,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4700,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/nylon-ecosoft",
+        "rating": "undefined"
+      },
+      {
+        "id": 4701,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/certificates/EPD_-_EcoSoft.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.aboveleft.com.au/wp-content/uploads/2023/08/ECSL4_Breathe_1.pdf",
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Recycled PET Cushion & Acoustic Back Carpet Tiles Cradle to Cradle & Green Manufacturer Certified",
+    "manufacturing_locations": [
+      {
+        "id": 2397,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "component": "Refer to EPD or Declare Label ",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2925,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "Refer to EPD or Declare Label ",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1978,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Pressure sensitive adhesive can be applied for easy uplift of product at end of life",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 21.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Carpets Inter are fully aligned and support the Paris Climate Agreement & UNITED NATIONS Sustainability Goals. We are dedicated to achieving Net Carbon Zero at source via manufacturing innovation. Investment in factory produced HUMUS + Onsite Energy Production programs will offset CO2 emissions.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2662,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://www.aboveleft.com.au/wp-content/uploads/2024/05/Breathe__fire_test_cert-1.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled Carboard",
+    "files": [
+      {
+        "id": 3630,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/LCA/EPD_-_EcoSoft.pdf"
+      },
+      {
+        "id": 3631,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ABOVE%20LEFT/Ecosoft%20Carpet%20Tiles/RecycledContent/EPD_-_EcoSoft.pdf"
+      }
+    ]
+  }
+]

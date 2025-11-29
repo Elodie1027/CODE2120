@@ -1,0 +1,272 @@
+[
+  {
+    "id": 918,
+    "company": {
+      "id": 13,
+      "name": "Tarkett"
+    },
+    "image": "products/Tarkett/IN_HP_LI_Floors_Trentino_14602505_Veneto_14172400_001.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-19T00:04:22.466640+00:00",
+    "last_update": "2024-12-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1521,
+      "email": "jarrod.casey@tarkett.com"
+    },
+    "updated_by": {
+      "id": 1521,
+      "email": "jarrod.casey@tarkett.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "47.7",
+    "product_name": "Trentino Xf2 2.5Mm",
+    "product_code": "14602",
+    "product_description": "Linoleum is made from natural constituents and enriched by more than a century of heritage.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "2m W x 32m L",
+    "price_per_unit": 47.7,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "m2",
+    "lead_time": "14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3248,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Veneto%20Xf2%202.5Mm/certificates/CR_INT_C2C_SILVER_LINO.pdf",
+        "link": "https://media.tarkett-image.com/docs/CR_INT_C2C_SILVER_LINO.pdf",
+        "rating": "Silver",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3252,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Trentino%20Xf2%202.5Mm/certificates/DS_AU_Linoleum_Trentino.pdf",
+        "link": "https://media.tarkett-image.com/docs/DS_AU_Linoleum_Trentino.pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3253,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Trentino%20Xf2%202.5Mm/certificates/GBC-Tarkett-trentino_xf2_2_5mm-en_INTL.pdf",
+        "link": "https://media.tarkett-image.com/docs/GBC-Tarkett-trentino_xf2_2_5mm-en_INTL.pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3350,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "media.tarkett-image.com/docs/EPD_Linoleum.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 43.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -0.6,
+    "upfront_carbon_emissions": -0.6,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Recyclable through Resiloop",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Recyclable through Resiloop- Contact your Tarkett representative.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "One of the most sustainable flooring solutions on the market, our linoleum is made with up to 97% of natural raw materials",
+    "recycling_process_description": "This product is able to be recycled into new flooring or other suitable products.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Installation offcuts can be used.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Resiloop for installation off-cuts.",
+    "water_reduction_techniques": "100",
+    "transport_emissions_minimisation_techniques": "Recycled packaging. Low carbon carriers",
+    "minimisation_design_strategy": "Engage with Tarkett and insist flooring contractors collect and return waste.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "UN Global Compact Early Adopter program",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": "https://media.tarkett-image.com/docs/EPD_Linoleum.pdf",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3248,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Veneto%20Xf2%202.5Mm/certificates/CR_INT_C2C_SILVER_LINO.pdf",
+        "link": "https://media.tarkett-image.com/docs/CR_INT_C2C_SILVER_LINO.pdf",
+        "rating": "Silver"
+      },
+      {
+        "id": 3252,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Trentino%20Xf2%202.5Mm/certificates/DS_AU_Linoleum_Trentino.pdf",
+        "link": "https://media.tarkett-image.com/docs/DS_AU_Linoleum_Trentino.pdf",
+        "rating": ""
+      },
+      {
+        "id": 3253,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Trentino%20Xf2%202.5Mm/certificates/GBC-Tarkett-trentino_xf2_2_5mm-en_INTL.pdf",
+        "link": "https://media.tarkett-image.com/docs/GBC-Tarkett-trentino_xf2_2_5mm-en_INTL.pdf",
+        "rating": ""
+      },
+      {
+        "id": 3350,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "media.tarkett-image.com/docs/EPD_Linoleum.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://media.tarkett-image.com/docs/DS_AU_Linoleum_Trentino.pdf",
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Superb durability from our xf2™ finish, with excellent resistance to mechanical wear and stains, ideal for demanding environments.",
+    "manufacturing_locations": [
+      {
+        "id": 1493,
+        "location_name": "Narni, Province of Terni, Italy",
+        "location_lat": 42.517738,
+        "location_lon": 12.515874,
+        "component": "Linoleum",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1968,
+        "location_name": "Narni, Province of Terni, Italy",
+        "location_lat": 42.517738,
+        "location_lon": 12.515874,
+        "material": "Linoleum",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1345,
+        "location_name": "Narni, Province of Terni, Italy",
+        "location_lat": 42.517738,
+        "location_lon": 12.515874,
+        "location_state": " Province of Terni",
+        "location_city": "Narni"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://media.tarkett-image.com/docs/EPD_Linoleum.pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1705,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Veneto%20Xf2%202.5Mm/compliance/BR_AU_LRV_Sheet_Products.pdf",
+        "link": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Iq%20Granit/compliance/BR_AU_LRV_Sheet_Products.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 1706,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Veneto%20Xf2%202.5Mm/compliance/CR_AU_Linoleum_Fire_Certificate.pdf",
+        "link": "https://media.tarkett-image.com/docs/CR_AU_Linoleum_Fire_Certificate.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 1707,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Veneto%20Xf2%202.5Mm/compliance/CR_AU_Linoleum_Slip_Certificate.pdf",
+        "link": "https://media.tarkett-image.com/docs/CR_AU_Linoleum_Slip_Certificate.pdf",
+        "rating": "P4"
+      }
+    ],
+    "type_of_packaging": "Recycled cardboard",
+    "files": [
+      {
+        "id": 2715,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Veneto%20Xf2%202.5Mm/LCA/EPD_Linoleum.pdf"
+      },
+      {
+        "id": 2716,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Veneto%20Xf2%202.5Mm/RecycledContent/EPD_Linoleum.pdf"
+      },
+      {
+        "id": 2717,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Veneto%20Xf2%202.5Mm/ModernSlaveryAssessment/EPD_Linoleum.pdf"
+      },
+      {
+        "id": 2718,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Veneto%20Xf2%202.5Mm/ModernSlaveryActionPlan/EPD_Linoleum.pdf"
+      },
+      {
+        "id": 2719,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Tarkett/Trentino%20Xf2%202.5Mm/VOC/DS_AU_Linoleum_Trentino.pdf"
+      }
+    ]
+  }
+]

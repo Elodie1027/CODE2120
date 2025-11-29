@@ -1,0 +1,401 @@
+[
+  {
+    "id": 90,
+    "company": {
+      "id": 10,
+      "name": "Siniat Australia"
+    },
+    "image": "products/Siniat Australia/Screenshot_2024-02-26_163422_uh9YfBa.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-11T23:58:34.605278+00:00",
+    "last_update": "2024-05-03T00:37:20.825019+00:00",
+    "created_by": {
+      "id": 77,
+      "email": "nazli.almasirad@etexgroup.com"
+    },
+    "updated_by": {
+      "id": 77,
+      "email": "nazli.almasirad@etexgroup.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Siniat Australia",
+    "product_name": "Siniat Opt2Act Products (Internal Walls & Ceilings)",
+    "product_code": "Siniat Carbon Neutral Climate Active Certified Plasterboard Products",
+    "product_description": null,
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "1200x2400x13 mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "7-10 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 110,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://516331.fs1.hubspotusercontent-na1.net/hubfs/516331/Sustainability/SP07445-Etex-Siniat-Plasterboard-280623.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 111,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "https://media.siniat.com/pd36687/original/327989682/230309_ete_shield-range_level-a_005_v10.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 3.16,
+    "upfront_carbon_emissions": 3.16,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Third party plasterboard recycling companies, they take back job site plasterboard waste and demolition waste and recycle it for agricultural market.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Third Party companies to collect waste from project site.",
+    "recycled_content_percentage": "1",
+    "recycled_content_description": "Flyash and recycled paper as well as onsite plasterboard waste recycled",
+    "recycling_process_description": "90% of plasterboard can be reprocessed to produce reclaimed gypsum.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Plasterboard is demountable but it is not a standard practice.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "1-2%",
+    "transport_emissions_minimisation_techniques": "We maximise the loading on the truck for distribution of our products to optimise the emissions associated with deliveries.",
+    "minimisation_design_strategy": "dimensions of the space and the wall height to be considered.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "We have undertaken Modern Slavery assessment of our global supply chain and we have published.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://media.siniat.com/pd44326/original/249708887/modern-slavery-statement-2022.pdf",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 110,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://516331.fs1.hubspotusercontent-na1.net/hubfs/516331/Sustainability/SP07445-Etex-Siniat-Plasterboard-280623.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 111,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://media.siniat.com/pd36687/original/327989682/230309_ete_shield-range_level-a_005_v10.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.siniat.com.au/en-au/downloads/?filter=search(voc)&page=2&page_size=9&sort=Id&sort_type=desc&view_size=9",
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 88,
+        "location_name": "Matraville NSW, Australia",
+        "location_lat": -33.9613,
+        "location_lon": 151.2315,
+        "component": "Plasterboard",
+        "component_percentage": 40.0
+      },
+      {
+        "id": 89,
+        "location_name": "Altona VIC, Australia",
+        "location_lat": -37.864525,
+        "location_lon": 144.830951,
+        "component": "Plasterboard",
+        "component_percentage": 39.0
+      },
+      {
+        "id": 90,
+        "location_name": "Bundaberg QLD, Australia",
+        "location_lat": -24.866081,
+        "location_lon": 152.348865,
+        "component": "Plasterboard",
+        "component_percentage": 21.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 110,
+        "location_name": "Australia Plains SA, Australia",
+        "location_lat": -34.093363,
+        "location_lon": 139.172121,
+        "material": "Gypsum",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 85,
+        "location_name": "Matraville NSW, Australia",
+        "location_lat": -33.9613,
+        "location_lon": 151.2315,
+        "location_state": " Australia",
+        "location_city": "Matraville NSW"
+      },
+      {
+        "id": 86,
+        "location_name": "Altona VIC, Australia",
+        "location_lat": -37.864525,
+        "location_lon": 144.830951,
+        "location_state": " Australia",
+        "location_city": "Altona VIC"
+      },
+      {
+        "id": 87,
+        "location_name": "Bundaberg QLD, Australia",
+        "location_lat": -24.866081,
+        "location_lon": 152.348865,
+        "location_state": " Australia",
+        "location_city": "Bundaberg QLD"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Paint Finish",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://516331.fs1.hubspotusercontent-na1.net/hubfs/516331/Sustainability/SP07445-Etex-Siniat-Plasterboard-280623.pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "We have Etex Road to Sustainability 2030 published with clear goals to our environmental and social sustainability ambitions.  \r\nhttps://www.siniat.com.au/en-au/news/330633/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 64,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://media.siniat.com/pd36676/original/936307234/far-4659-siniat-fire-hazard-properties-1.pdf",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Plasterboard gluts & glut wraps (fully recyclable).",
+    "files": [
+      {
+        "id": 64,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Siniat%20Australia/Siniat%20Opt2Act%20Products/ModernSlaveryAssessment/modern-slavery_flagk69.pdf"
+      },
+      {
+        "id": 65,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Siniat%20Australia/Siniat%20Opt2Act%20Products/ModernSlaveryActionPlan/modern-slavery_IqqIrK0.pdf"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "company": {
+      "id": 10,
+      "name": "Siniat Australia"
+    },
+    "image": "products/Siniat Australia/Screenshot_2024-02-26_163422_uh9YfBa.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-12T00:00:31.803871+00:00",
+    "last_update": "2024-05-07T05:39:33.851878+00:00",
+    "created_by": {
+      "id": 77,
+      "email": "nazli.almasirad@etexgroup.com"
+    },
+    "updated_by": {
+      "id": 77,
+      "email": "nazli.almasirad@etexgroup.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Siniat Australia",
+    "product_name": "Siniat Opt2Act Products _Internal Walls & Ceilings",
+    "product_code": "Siniat Carbon Neutral Climate Active Certified Metal Framing Products",
+    "product_description": null,
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "150x3000 L/M",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "Available in Stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 112,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://516331.fs1.hubspotusercontent-na1.net/hubfs/516331/Sustainability/SP07445-Etex-Siniat-Plasterboard-280623.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 2.04,
+    "upfront_carbon_emissions": 2.04,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "metal can be fully recycled by third party recycling companies.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Third Party companies to collect waste from project site.",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "recycled metal used for the raw material",
+    "recycling_process_description": "100% of metal framings can be reprocessed to produce reclaimed gypsum.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "metal framings can be re used or demounted.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "no water used for the manufacturing of the product.",
+    "transport_emissions_minimisation_techniques": "We maximise the loading on the truck for distribution of our products to optimise the emissions associated with deliveries.",
+    "minimisation_design_strategy": "dimensions of the space and the wall height to be considered.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "We have undertaken Modern Slavery assessment of our global supply chain and we have published.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://media.siniat.com/pd44326/original/249708887/modern-slavery-statement-2022.pdf",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 112,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://516331.fs1.hubspotusercontent-na1.net/hubfs/516331/Sustainability/SP07445-Etex-Siniat-Plasterboard-280623.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.siniat.com.au/en-au/downloads/?filter=search(voc)&page=2&page_size=9&sort=Id&sort_type=desc&view_size=9",
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "ZINCALUME steel",
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "Paint Finish",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://media.siniat.com/pd47235/original/2146329284/etex-australia-metal---pds.pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "We have Etex Road to Sustainability 2030 published with clear goals to our environmental and social sustainability ambitions.  \r\nhttps://www.siniat.com.au/en-au/news/330633/\r\nwe also have EPDs available for our metal framing products:\r\nhttps://epd-australasia.com/epd/siniat-metal-framing/\r\n\r\ncarbon neutral climate active certified metal profiles are also available under Siniat Opt2Act program:\r\nhttps://media.siniat.com/pd44316/original/356864100/siniat-carbon-neutral-brochure-nov2022_-final.pdf",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "timber pallets and PET strapping and cardboard pieces (fully recyclable).",
+    "files": [
+      {
+        "id": 66,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Siniat%20Australia/Siniat%20Opt2Act%20Products/ModernSlaveryAssessment/modern-slavery_flagk69.pdf"
+      },
+      {
+        "id": 67,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Siniat%20Australia/Siniat%20Opt2Act%20Products/ModernSlaveryActionPlan/modern-slavery_IqqIrK0.pdf"
+      }
+    ]
+  }
+]

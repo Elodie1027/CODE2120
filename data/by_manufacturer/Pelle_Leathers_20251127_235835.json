@@ -1,0 +1,4655 @@
+[
+  {
+    "id": 283,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Vienna_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-09T02:44:12.524692+00:00",
+    "last_update": "2025-01-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Vienna",
+    "product_code": "Vienna",
+    "product_description": "Vienna is a full grain  Semi Aniline leather GreenTag certified",
+    "product_categories": [
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5.70 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 513,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/certificates/GreenTag_Certificate_2024-2025_Vienna_Savannah_Danube_and_Spectrum_Level_B_.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2255,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/certificates/GreenTag__Certification_Letter_Pelle_Leathers.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2256,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/certificates/GreenTag__Certification_Letter_Pelle_Leathers_R8JwcvK.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2257,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/certificates/GreenTag__Certification_Letter_Pelle_Leathers_sWdW41Q.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Tannery has its own watewater treatment plant",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery in Bavaria and Northern Austria. These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 513,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/certificates/GreenTag_Certificate_2024-2025_Vienna_Savannah_Danube_and_Spectrum_Level_B_.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2255,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/certificates/GreenTag__Certification_Letter_Pelle_Leathers.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2256,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/certificates/GreenTag__Certification_Letter_Pelle_Leathers_R8JwcvK.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2257,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/certificates/GreenTag__Certification_Letter_Pelle_Leathers_sWdW41Q.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.globalgreentag.com/products/vienna-savannah-danube-and-spectrum-leather/",
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Full grain Semi Aniline upholstery leather.  It is evenly coloured and protected for high light fastness and durability.",
+    "manufacturing_locations": [
+      {
+        "id": 330,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "component": "finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1930,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "South German Cattle hides @ Großbottwar, Germany ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 384,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 332,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/compliance/Vienna_AS3837_Fire_Test.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 333,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/compliance/Vienna_AS3837_BCA_Group_Classification.pdf",
+        "link": "",
+        "rating": "1"
+      },
+      {
+        "id": 336,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/compliance/Vienna_AS3837_Fire_Test_dumSSOo.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 422,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/VOC/GreenTag_Certificate_2024-2025_Vienna_Savannah_Danube_and_Spectrum_Level_B_.pdf"
+      },
+      {
+        "id": 423,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 424,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 767,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Savannah_brochure_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-11-08T05:41:29.011521+00:00",
+    "last_update": "2024-12-17T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Savannah",
+    "product_code": "Savannah",
+    "product_description": "Savannah is a full grain German Semi-Aniline leather.",
+    "product_categories": [
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5.50 Sqm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2245,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Savannah/certificates/GreenTag_Certificate_2024-2025_Vienna_Savannah_Danube_and_Spectrum_Level_B_.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2246,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Savannah/certificates/GreenTag__Certification_Letter_Pelle_Leathers.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Tannery has its own wastewater treatment plant",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery in Bavaria and Northern Austria. These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2245,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Savannah/certificates/GreenTag_Certificate_2024-2025_Vienna_Savannah_Danube_and_Spectrum_Level_B_.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2246,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Savannah/certificates/GreenTag__Certification_Letter_Pelle_Leathers.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1068,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "component": "Finished Product ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1698,
+        "location_name": "Bavaria",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "South German Cattle hides",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1169,
+        "location_name": "Artarmon NSW, Australia",
+        "location_lat": -33.809331,
+        "location_lon": 151.185647,
+        "location_state": " Australia",
+        "location_city": "Artarmon NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 88,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1558,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Savannah/compliance/Rhine_AS_NZS_1530.3_certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1559,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Savannah/compliance/RHINE_AS3837_Group_Classification.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 1966,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Savannah/VOC/GreenTag_Certificate_2024-2025_Vienna_Savannah_Danube_and_Spectrum_Level_B_.pdf"
+      },
+      {
+        "id": 1967,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Savannah/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 1968,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Savannah/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 787,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Panorama_Product_aware.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-11-22T03:37:52.396781+00:00",
+    "last_update": "2024-12-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Panorama",
+    "product_code": "Panorama",
+    "product_description": "Panorama is superb pigmented leather in which the natural grain has been retained",
+    "product_categories": [
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2325,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/certificates/Casa_Panorama_and_Portofino_-_Environmental_Info.pdf",
+        "link": "",
+        "rating": "Blue Angel Eco label",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The tannery has its own wastewater treatment plant.",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery . These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2325,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/certificates/Casa_Panorama_and_Portofino_-_Environmental_Info.pdf",
+        "link": "",
+        "rating": "Blue Angel Eco label"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Pigmented leather made from European raw hides wiht high durability",
+    "manufacturing_locations": [
+      {
+        "id": 1094,
+        "location_name": "Arzignano, Province of Vicenza, Italy",
+        "location_lat": 45.521778,
+        "location_lon": 11.335529,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1732,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "European cattle hides",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1190,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1317,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/compliance/Panorama_AS_3837_Group_Classification_-_2022.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1318,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/compliance/Panorama_AS_3837_Group_Classification_-_2022_X2Yowpc.pdf",
+        "link": "",
+        "rating": "1"
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2057,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2058,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2059,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/VOC/Casa_Panorama_and_Portofino_-_Environmental_Info.pdf"
+      }
+    ]
+  },
+  {
+    "id": 788,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Casa_Product_aware_oyCobxP.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-11-22T04:44:10.097608+00:00",
+    "last_update": "2024-12-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Casa",
+    "product_code": "Casa",
+    "product_description": "Casa is a superior corrected grain leather Produced in Italy on European raw hides.",
+    "product_categories": [
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2326,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/certificates/Casa_Panorama_and_Portofino_-_Environmental_Info.pdf",
+        "link": "",
+        "rating": "Blue Angel Eco label",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2327,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Casa/certificates/Casa_Panorama_and_Portofino_-_Environmental_Info.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2328,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Casa/certificates/Casa_Panorama_and_Portofino_-_Environmental_Info_ETRZFT3.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The tannery has its own wastewater treatment plant.",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery . These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2326,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/certificates/Casa_Panorama_and_Portofino_-_Environmental_Info.pdf",
+        "link": "",
+        "rating": "Blue Angel Eco label"
+      },
+      {
+        "id": 2327,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Casa/certificates/Casa_Panorama_and_Portofino_-_Environmental_Info.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2328,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Casa/certificates/Casa_Panorama_and_Portofino_-_Environmental_Info_ETRZFT3.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Corrected Grain leather made from European raw hides wiht high durability",
+    "manufacturing_locations": [
+      {
+        "id": 1095,
+        "location_name": "Arzignano, Province of Vicenza, Italy",
+        "location_lat": 45.521778,
+        "location_lon": 11.335529,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1734,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "European cattle hides",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1191,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1321,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Casa/compliance/CASA__AS1530.3_-_1999.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1322,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Casa/compliance/CASA_AS3837_Group_Classification_2022.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2060,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2061,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2062,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/VOC/Casa_Panorama_and_Portofino_-_Environmental_Info.pdf"
+      }
+    ]
+  },
+  {
+    "id": 854,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/HCP_200129_RossGardam_019_Final.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-12T23:20:56.583032+00:00",
+    "last_update": "2024-12-12T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Toledo",
+    "product_code": "Toledo",
+    "product_description": "Toledo is an exquisite vacuum dried Aniline leather with a soft waxed surface.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "4.5-5.0 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2882,
+        "certification": "OEKO-TEX",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Toledo/certificates/Toledo_Colorado_and_Sorrento_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2883,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Toledo/certificates/Toledo_Colorado_and_Sorrento_Environmental_information_I0XgrFE.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The tannery has its own wastewater treatment plant.",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery . These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2882,
+        "certification": "OEKO-TEX",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Toledo/certificates/Toledo_Colorado_and_Sorrento_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2883,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Toledo/certificates/Toledo_Colorado_and_Sorrento_Environmental_information_I0XgrFE.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Aniline leather made from European raw hides with high seating comfort and durability",
+    "manufacturing_locations": [
+      {
+        "id": 1358,
+        "location_name": "Arzignano, Province of Vicenza, Italy",
+        "location_lat": 45.521778,
+        "location_lon": 11.335529,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1845,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "European cattle hides",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1271,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 88,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2459,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Toledo/VOC/Toledo_Colorado_and_Sorrento_Environmental_information.pdf"
+      },
+      {
+        "id": 2460,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Toledo/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2461,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Toledo/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 856,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Bio-Pelle_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-13T00:03:28.918388+00:00",
+    "last_update": "2024-12-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Bio-Pelle",
+    "product_code": "Bio-Pelle",
+    "product_description": "Bio-Pelle is a pigmented leather  with the latest innovative anti-bacterial and antiviral treatment.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2889,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bio-Pelle/certificates/BIOPELLE_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The tannery has its own wastewater treatment plant.",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery . These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2889,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bio-Pelle/certificates/BIOPELLE_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Pigmented leather made from European raw hides with high durability",
+    "manufacturing_locations": [
+      {
+        "id": 1360,
+        "location_name": "Arzignano, Province of Vicenza, Italy",
+        "location_lat": 45.521778,
+        "location_lon": 11.335529,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1847,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "European cattle hides",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1273,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1523,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bio-Pelle/compliance/Biopelle_AS1530.3.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1524,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bio-Pelle/compliance/Bio_Pelle_AS3837_Group_Classification.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2469,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bio-Pelle/VOC/BIOPELLE_Environmental_information.pdf"
+      },
+      {
+        "id": 2470,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bio-Pelle/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2471,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bio-Pelle/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 874,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Rhine_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-15T21:48:06.417919+00:00",
+    "last_update": "2024-12-15T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Rhine",
+    "product_code": "Rhine",
+    "product_description": "Rhine is a protected Aniline leather produced on premium South German rawhides.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5.50 Sqm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3029,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Rhine/certificates/Rhine_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3030,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Rhine/certificates/Rhine_Environmental_information_uPfCyIS.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Tannery has its own wastewater treatment plant",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery in Bavaria and Northern Austria. These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3029,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Rhine/certificates/Rhine_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3030,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Rhine/certificates/Rhine_Environmental_information_uPfCyIS.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1401,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "component": "Finished Product ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1914,
+        "location_name": "Bavaria",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "South German Cattle hides",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1294,
+        "location_name": "Artarmon NSW, Australia",
+        "location_lat": -33.809331,
+        "location_lon": 151.185647,
+        "location_state": " Australia",
+        "location_city": "Artarmon NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 88,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1562,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Rhine/compliance/Rhine_AS_NZS_1530.3_certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1563,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Rhine/compliance/RHINE_AS3837_Group_Classification.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2556,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Rhine/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2554,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Rhine/VOC/Rhine_Environmental_information.pdf"
+      },
+      {
+        "id": 2555,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Rhine/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 876,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Bavarian.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-15T22:27:00.179530+00:00",
+    "last_update": "2024-12-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Bavarian",
+    "product_code": "Bavarian",
+    "product_description": "Bavarian is an Aniline leather that has a natural vintage appearance with a velvety, soft handle.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5.60 Sqm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3043,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bavarian/certificates/BAVARIAN_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3044,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bavarian/certificates/BAVARIAN_Environmental_information_Rax5ULV.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Tannery has its own wastewater treatment plant",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery in Bavaria and Northern Austria. These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3043,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bavarian/certificates/BAVARIAN_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3044,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bavarian/certificates/BAVARIAN_Environmental_information_Rax5ULV.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1419,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "component": "Finished Product ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1916,
+        "location_name": "Bavaria",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "South German Cattle hides",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1298,
+        "location_name": "Artarmon NSW, Australia",
+        "location_lat": -33.809331,
+        "location_lon": 151.185647,
+        "location_state": " Australia",
+        "location_city": "Artarmon NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1568,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bavarian/compliance/Bavarian_AS1530.3_test_report.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1569,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bavarian/compliance/Bavarian_AS3837_Group_Classification.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2566,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bavarian/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2568,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bavarian/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2565,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Bavarian/VOC/BAVARIAN_Environmental_information.pdf"
+      }
+    ]
+  },
+  {
+    "id": 877,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Drover_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-15T22:55:21.771119+00:00",
+    "last_update": "2024-12-16T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Drover",
+    "product_code": "Drover",
+    "product_description": "Drover is a superb Semi-Aniline leather with a hand polished, antique finish.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5.60 Sqm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3054,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Drover/certificates/Drover_environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Tannery has its own wastewater treatment plant",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery in Bavaria and Northern Austria. These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3054,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Drover/certificates/Drover_environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1445,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "component": "Finished Product ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1917,
+        "location_name": "Bavaria",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "South German Cattle hides",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1301,
+        "location_name": "Artarmon NSW, Australia",
+        "location_lat": -33.809331,
+        "location_lon": 151.185647,
+        "location_state": " Australia",
+        "location_city": "Artarmon NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 88,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1572,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Drover/compliance/Drover_AS1530.3.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1573,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Drover/compliance/Drover_BCA.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2575,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Drover/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2576,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Drover/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2574,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Drover/VOC/Drover_environmental_information.pdf"
+      }
+    ]
+  },
+  {
+    "id": 885,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Spectrum_Image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-16T21:18:59.570236+00:00",
+    "last_update": "2024-12-16T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Spectrum",
+    "product_code": "Spectrum",
+    "product_description": "Spectrum is a superb range of pigmented leather with an expansive palate of 54 vibrant colours.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5.50 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3102,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/certificates/GreenTag__Certification_Letter_Pelle_Leathers.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3103,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/certificates/GreenTag_Certificate_2024-2025_Vienna_Savannah_Danube_and_Spectrum_Level_B_.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3104,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/certificates/Spectrum_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cuts are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Tannery has its own watewater treatment plant",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery in Bavaria and Northern Austria. These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3102,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/certificates/GreenTag__Certification_Letter_Pelle_Leathers.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3103,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/certificates/GreenTag_Certificate_2024-2025_Vienna_Savannah_Danube_and_Spectrum_Level_B_.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3104,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/certificates/Spectrum_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.globalgreentag.com/products/vienna-savannah-danube-and-spectrum-leather/",
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Pigmented upholstery leather.  It is evenly coloured and protected for high light fastness and durability.",
+    "manufacturing_locations": [
+      {
+        "id": 1453,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "component": "finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1925,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "material": "South German Cattle hides",
+        "product_percentage": 80.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1309,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 88,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1600,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/compliance/Spectrum_AS3837_Group_Classification_2022.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1601,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/compliance/SPECTRUM_AS1530.3_TEST13042010_00000.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2610,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/VOC/GreenTag_Certificate_2024-2025_Vienna_Savannah_Danube_and_Spectrum_Level_B_.pdf"
+      },
+      {
+        "id": 2613,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2614,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 886,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Danube_brochure_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-16T21:36:56.751555+00:00",
+    "last_update": "2025-02-06T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Danube",
+    "product_code": "Danube",
+    "product_description": "Danube is a heavy weight soft, supple pigmented leather.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5.50 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3105,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/certificates/GreenTag__Certification_Letter_Pelle_Leathers.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3106,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/certificates/GreenTag_Certificate_2024-2025_Vienna_Savannah_Danube_and_Spectrum_Level_B_.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3108,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Danube/certificates/Danube_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cuts are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Tannery has its own watewater treatment plant",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery in Bavaria and Northern Austria. These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3105,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/certificates/GreenTag__Certification_Letter_Pelle_Leathers.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3106,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Spectrum/certificates/GreenTag_Certificate_2024-2025_Vienna_Savannah_Danube_and_Spectrum_Level_B_.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3108,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Danube/certificates/Danube_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.globalgreentag.com/products/vienna-savannah-danube-and-spectrum-leather/",
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Pigmented upholstery leather.  It is evenly coloured and protected for high light fastness and durability.",
+    "manufacturing_locations": [
+      {
+        "id": 1454,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "component": "finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1926,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "material": "South German Cattle hides",
+        "product_percentage": 80.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1310,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 88,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1605,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Danube/compliance/DANUBE_AS1530.3-199927082009_00000.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1604,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Danube/compliance/Danube_AS3837_AWTA_Group_Classification.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2615,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Vienna/VOC/GreenTag_Certificate_2024-2025_Vienna_Savannah_Danube_and_Spectrum_Level_B_.pdf"
+      },
+      {
+        "id": 2618,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Danube/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2619,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Danube/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 887,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Outback_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-16T21:49:07.098855+00:00",
+    "last_update": "2024-12-16T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Outback",
+    "product_code": "Outback",
+    "product_description": "Outback is a German Nubuck leather in a range of 11 natural earth tones.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5.60 Sqm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3110,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Outback/certificates/Outback_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Tannery has its own wastewater treatment plant",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery in Bavaria and Northern Austria. These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3110,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Outback/certificates/Outback_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1455,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "component": "Finished Product ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1927,
+        "location_name": "Bavaria",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "South German Cattle hides",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1311,
+        "location_name": "Artarmon NSW, Australia",
+        "location_lat": -33.809331,
+        "location_lon": 151.185647,
+        "location_state": " Australia",
+        "location_city": "Artarmon NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 88,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1609,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Outback/compliance/VIENNA_AS1530.302022011_00000.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1608,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Outback/compliance/Outback_bca_materials_classification_revisedfeb03RevAug04_00000002.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2623,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Outback/VOC/Outback_Environmental_information.pdf"
+      },
+      {
+        "id": 2624,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Outback/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2625,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Outback/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 888,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Tanzania_brochure_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-16T22:00:48.858856+00:00",
+    "last_update": "2024-12-16T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Tanzania",
+    "product_code": "Tanzania",
+    "product_description": "Tanzania is a pure Aniline leather produced from the high-grade South German raw hides",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5.50 Sqm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3113,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Tanzania/certificates/Tanzania_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3114,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Tanzania/certificates/Tanzania_Environmental_information_foZfwGA.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Tannery has its own wastewater treatment plant",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery in Bavaria and Northern Austria. These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3113,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Tanzania/certificates/Tanzania_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3114,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Tanzania/certificates/Tanzania_Environmental_information_foZfwGA.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1456,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "component": "Finished Product ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1928,
+        "location_name": "Bavaria",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "South German Cattle hides",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1312,
+        "location_name": "Artarmon NSW, Australia",
+        "location_lat": -33.809331,
+        "location_lon": 151.185647,
+        "location_state": " Australia",
+        "location_city": "Artarmon NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 75,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1613,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Tanzania/compliance/Tanzania_ASNZ_1530.3_Test_Report.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1612,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Tanzania/compliance/Tanzania_Group_Number.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2629,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Tanzania/VOC/Tanzania_Environmental_information.pdf"
+      },
+      {
+        "id": 2630,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Tanzania/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2631,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Tanzania/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 913,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Nevada_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-18T07:00:24.691512+00:00",
+    "last_update": "2024-12-17T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Nevada",
+    "product_code": "Nevada",
+    "product_description": "Nevada is a Pull Up Aniline leather with  an aged, distressed appearance",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3226,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Nevada/certificates/Nevada_Environmental_infirmation.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The tannery has its own wastewater treatment plant.",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery . These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3226,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Nevada/certificates/Nevada_Environmental_infirmation.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Nevada is a Pull Up Aniline leather",
+    "manufacturing_locations": [
+      {
+        "id": 1483,
+        "location_name": "Arzignano, Province of Vicenza, Italy",
+        "location_lat": 45.521778,
+        "location_lon": 11.335529,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1960,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "European cattle hides",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1339,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 88,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1690,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Nevada/compliance/NEVADA_AS3837_Group_Classification_2022.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1691,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Nevada/compliance/NEVADA_AS_1530.3_7-590145-BN.PDF.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2684,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Nevada/VOC/Nevada_Environmental_information.pdf"
+      },
+      {
+        "id": 2685,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Nevada/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2686,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Nevada/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 914,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Contract_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-18T07:29:54.452970+00:00",
+    "last_update": "2024-12-17T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Contract",
+    "product_code": "Contract",
+    "product_description": "The Contract range is a specifically developed pigmented leather produced with a UV treated finish.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5.50 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3230,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Contract/certificates/Contract_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cuts are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Tannery has its own watewater treatment plant",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery in Bavaria and Northern Austria. These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3230,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Contract/certificates/Contract_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.globalgreentag.com/products/vienna-savannah-danube-and-spectrum-leather/",
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Pigmented  Uv treated upholstery leather.  It is evenly coloured and protected for high light fastness and durability.",
+    "manufacturing_locations": [
+      {
+        "id": 1484,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "component": "finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1963,
+        "location_name": "Großbottwar, Germany",
+        "location_lat": 49.001906,
+        "location_lon": 9.293948,
+        "material": "South German Cattle hides",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1340,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 88,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1694,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Contract/compliance/Contract_AS3837_Group_Classification.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1695,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Contract/compliance/CONTRACT_AS1530.3_CERTIFICATE21092010_00000.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2690,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Contract/VOC/Contract_Environmental_information.pdf"
+      },
+      {
+        "id": 2691,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Contract/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2692,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Contract/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 928,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Colorado_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-19T21:11:59.506977+00:00",
+    "last_update": "2024-12-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Colorado",
+    "product_code": "Colorado",
+    "product_description": "Colorado is a European leather finished with a blend of oils and waxes and aged effect",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "4.5-5.0 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3307,
+        "certification": "OEKO-TEX",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Toledo/certificates/Toledo_Colorado_and_Sorrento_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3308,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Toledo/certificates/Toledo_Colorado_and_Sorrento_Environmental_information_I0XgrFE.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cuts are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The tannery has its own wastewater treatment plant.",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery . These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3307,
+        "certification": "OEKO-TEX",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Toledo/certificates/Toledo_Colorado_and_Sorrento_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3308,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Toledo/certificates/Toledo_Colorado_and_Sorrento_Environmental_information_I0XgrFE.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Semi Aniline leather made from European raw hides with wax and oiled aged affect",
+    "manufacturing_locations": [
+      {
+        "id": 1503,
+        "location_name": "Arzignano, Province of Vicenza, Italy",
+        "location_lat": 45.521778,
+        "location_lon": 11.335529,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1978,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "European cattle hides",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1355,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1738,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Colorado/compliance/Colorado_AS3837_Group_Classification_-_Copy.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1739,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Colorado/compliance/COLORADO_AS153.30_test7-583977-CN.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2777,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Toledo/VOC/Toledo_Colorado_and_Sorrento_Environmental_information.pdf"
+      },
+      {
+        "id": 2780,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Colorado/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2781,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Colorado/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 929,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Portofino_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-19T21:29:01.157160+00:00",
+    "last_update": "2024-12-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Portofino",
+    "product_code": "Portofino",
+    "product_description": "Portofino is a supple Italian pigmented leather with a natural grain.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3310,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Portofino/certificates/Casa_Panorama_and_Portofino_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3311,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Portofino/certificates/Casa_Panorama_and_Portofino_Environmental_information_0hOJwQ9.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The tannery has its own wastewater treatment plant.",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery . These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3310,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Portofino/certificates/Casa_Panorama_and_Portofino_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3311,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Portofino/certificates/Casa_Panorama_and_Portofino_Environmental_information_0hOJwQ9.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Pigmented leather made from European raw hides with high durability.",
+    "manufacturing_locations": [
+      {
+        "id": 1504,
+        "location_name": "Arzignano, Province of Vicenza, Italy",
+        "location_lat": 45.521778,
+        "location_lon": 11.335529,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1979,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "European cattle hides",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1356,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1742,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Portofino/compliance/Portofino_AS3837_Group_Classification.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1743,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Portofino/compliance/Portofino_AS1530.3_fire_test_certifcate.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2782,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2783,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2784,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Panorama/VOC/Casa_Panorama_and_Portofino_-_Environmental_Info.pdf"
+      }
+    ]
+  },
+  {
+    "id": 930,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Barolo_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-19T21:49:14.741208+00:00",
+    "last_update": "2024-12-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Barolo",
+    "product_code": "Barolo",
+    "product_description": "Barolo is a sumptuous Aniline leather with a smooth, matt appearance.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3316,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Barolo/certificates/Barolo_Environmental_Information_Certifications.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The tannery has its own wastewater treatment plant.",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery . These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3316,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Barolo/certificates/Barolo_Environmental_Information_Certifications.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Barolo is a sumptuous Aniline leather with a smooth, matt appearance.",
+    "manufacturing_locations": [
+      {
+        "id": 1505,
+        "location_name": "Arzignano, Province of Vicenza, Italy",
+        "location_lat": 45.521778,
+        "location_lon": 11.335529,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1980,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "European cattle hides",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1357,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1749,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Barolo/compliance/Barolo_AS3837_Group_Classification.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1750,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Barolo/compliance/Barolo_AS1530.3.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2788,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Barolo/VOC/Barolo_Environmental_Information_Certifications.doc"
+      },
+      {
+        "id": 2789,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Barolo/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2790,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Barolo/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 931,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Pamplona_Image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-19T22:11:41.599945+00:00",
+    "last_update": "2024-12-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Pamplona",
+    "product_code": "Pamplona",
+    "product_description": "Pamplona proudly exhibits all of the natural characteristics of a pure aniline leather.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3321,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Pamplona/certificates/Pamplona_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3322,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Pamplona/certificates/Pamplona_Environmental_information_AHIYjYN.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cuts are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The tannery has its own wastewater treatment plant.",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery . These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3321,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Pamplona/certificates/Pamplona_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3322,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Pamplona/certificates/Pamplona_Environmental_information_AHIYjYN.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Barolo is a sumptuous Aniline leather with a smooth, matt appearance.",
+    "manufacturing_locations": [
+      {
+        "id": 1508,
+        "location_name": "Arzignano, Province of Vicenza, Italy",
+        "location_lat": 45.521778,
+        "location_lon": 11.335529,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1983,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "European cattle hides",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1360,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1756,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Pamplona/compliance/Pamplona_AS_3837_Fire_certificate.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1757,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Pamplona/compliance/PAMPLONA__AS1530.3_TEST.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2796,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Pamplona/VOC/Pamplona_Environmental_information.pdf"
+      },
+      {
+        "id": 2797,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Pamplona/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2798,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Pamplona/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 932,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Ascona_image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-19T22:26:21.918190+00:00",
+    "last_update": "2024-12-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Ascona",
+    "product_code": "Ascona",
+    "product_description": "Ascona is a pure Italian aniline leather with a contemporary rustic appearance.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "Ex stock our Sydney warehouse",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3324,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Ascona/certificates/Ascona_Environmental_Information_Certifications.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The tannery has its own wastewater treatment plant.",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery . These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3324,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Ascona/certificates/Ascona_Environmental_Information_Certifications.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Ascona is a pure Italian aniline leather with a contemporary rustic appearance. It has been vacuum dried.",
+    "manufacturing_locations": [
+      {
+        "id": 1509,
+        "location_name": "Arzignano, Province of Vicenza, Italy",
+        "location_lat": 45.521778,
+        "location_lon": 11.335529,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1984,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "European cattle hides",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1361,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1759,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Barolo/compliance/Barolo_AS1530.3.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1760,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Ascona/compliance/Ascona_AS3837_Group_Classification.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1761,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Ascona/compliance/ASCONA_AS1530.3_TEST_REPORT14022011_00001.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2804,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Ascona/VOC/Ascona_Environmental_Information_Certifications.pdf"
+      },
+      {
+        "id": 2805,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Ascona/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2806,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Ascona/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  },
+  {
+    "id": 933,
+    "company": {
+      "id": 104,
+      "name": "PELLE LEATHERS"
+    },
+    "image": "products/PELLE LEATHERS/Sardinia_Image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-19T22:44:11.658239+00:00",
+    "last_update": "2024-12-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "updated_by": {
+      "id": 1137,
+      "email": "andrew@pelleleathers.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pelle Leathers",
+    "product_name": "Sardinia",
+    "product_code": "Sardinia",
+    "product_description": "Pure Aniline with a luxurious sitting comfort displays all the natural characteristics.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "5 Sqm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "1.5-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3326,
+        "certification": "Leather Working Group Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Sardinia/certificates/Sardinia_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3327,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Sardinia/certificates/Sardinia_Environmental_information_z8pJesH.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The off-cut are and can be used for leathercraft",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The tannery has its own wastewater treatment plant.",
+    "transport_emissions_minimisation_techniques": "All Raw material (hides) are sourced within 500 km of the tannery . These are transported by Road freight to the tannery.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any leather it is recommendedto have accurate measurements and cutting methods, and  patterns to maximise leather usage. Using a professional upholsterer who understands the characteristics and performance of the leather and can provide an accurate material requirement. The Pelle Leathers team can assist with cutting yield for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3326,
+        "certification": "Leather Working Group Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Sardinia/certificates/Sardinia_Environmental_information.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3327,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Sardinia/certificates/Sardinia_Environmental_information_z8pJesH.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Pure Aniline leather displaying natural characteristics.",
+    "manufacturing_locations": [
+      {
+        "id": 1510,
+        "location_name": "Arzignano, Province of Vicenza, Italy",
+        "location_lat": 45.521778,
+        "location_lon": 11.335529,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1985,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "European cattle hides",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1362,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1764,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Sardinia/compliance/SARDINIA_AS1530.3_FIRE_TEST_CERTIFICATE.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled plastic covering and cardboard boxes",
+    "files": [
+      {
+        "id": 2810,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Sardinia/VOC/Sardinia_Environmental_information.pdf"
+      },
+      {
+        "id": 2811,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Sardinia/ModernSlaveryAssessment/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      },
+      {
+        "id": 2812,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PELLE%20LEATHERS/Sardinia/ModernSlaveryActionPlan/Modern_Slavery_Statement_-Pelle_Leathers.pdf"
+      }
+    ]
+  }
+]

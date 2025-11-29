@@ -1,0 +1,468 @@
+[
+  {
+    "id": 1137,
+    "company": {
+      "id": 15,
+      "name": "METZ SPECIALITY MATERIALS"
+    },
+    "image": "products/METZ SPECIALITY MATERIALS/Flundran_-_IMG_30711.jpeg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-04-02T21:35:15.530479+00:00",
+    "last_update": "2025-04-23T14:00:00+00:00",
+    "created_by": {
+      "id": 2217,
+      "email": "enver@metztiles.com.au"
+    },
+    "updated_by": {
+      "id": 2217,
+      "email": "enver@metztiles.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "BBfiberbeton",
+    "product_name": "Grc By Bbfiberbeton",
+    "product_code": "GRC by BBfiberbeton",
+    "product_description": "Custom made large format sprayed Glassfibre Reinforced Concrete products",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      }
+    ],
+    "standard_dimensions": "min 12 mm thick custom shapes",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4071,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/certificates/EPD_-_BB_fiberbeton_-_2021.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4072,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/certificates/BB_Fiberbeton_AS_-_2025_-_DK_Wind_Solar_Certifikat.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 24.08,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 2.5,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 19.06,
+    "upfront_carbon_emissions": 19.06,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "recycled as crushed concrete",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "electric forklifts and delivery vehicles",
+    "minimisation_design_strategy": "Maximum sizes is limited to handling, transport and installation. We can manufacture in all sizes. There will be no waste.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4071,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/certificates/EPD_-_BB_fiberbeton_-_2021.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4072,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/certificates/BB_Fiberbeton_AS_-_2025_-_DK_Wind_Solar_Certifikat.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "BBfiberbeton custom sprayed GRC panels offer products with unique geometric 3D shapes for ventilated facade applications including the embedded fixing brackets, stud frame systems or bigheads as required.",
+    "manufacturing_locations": [
+      {
+        "id": 2108,
+        "location_name": "Copenhagen, Denmark",
+        "location_lat": 55.676097,
+        "location_lon": 12.568337,
+        "component": "GRC products",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2520,
+        "location_name": "Copenhagen, Denmark",
+        "location_lat": 55.676097,
+        "location_lon": 12.568337,
+        "material": "Sand",
+        "product_percentage": 38.0
+      },
+      {
+        "id": 2521,
+        "location_name": "Copenhagen, Denmark",
+        "location_lat": 55.676097,
+        "location_lon": 12.568337,
+        "material": "Cement",
+        "product_percentage": 38.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1763,
+        "location_name": "Copenhagen, Denmark",
+        "location_lat": 55.676097,
+        "location_lon": 12.568337,
+        "location_state": " Denmark",
+        "location_city": "Copenhagen"
+      },
+      {
+        "id": 1764,
+        "location_name": "Huntingwood NSW, Australia",
+        "location_lat": -33.797307,
+        "location_lon": 150.876739,
+        "location_state": " Australia",
+        "location_city": "Huntingwood NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "avoid adhesive fixing",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2442,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/compliance/Fire_Classification_A1_-_BB_fiberbeton.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Timber pallets, box and cardboard",
+    "files": [
+      {
+        "id": 3272,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/VOC/EPD_-_BB_fiberbeton_-_2021.pdf"
+      },
+      {
+        "id": 3273,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/LCA/EPD_-_BB_fiberbeton_-_2021.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1138,
+    "company": {
+      "id": 15,
+      "name": "METZ SPECIALITY MATERIALS"
+    },
+    "image": "products/METZ SPECIALITY MATERIALS/01_pwoXk7l.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-04-02T22:49:36.705872+00:00",
+    "last_update": "2025-04-23T14:00:00+00:00",
+    "created_by": {
+      "id": 2217,
+      "email": "enver@metztiles.com.au"
+    },
+    "updated_by": {
+      "id": 2217,
+      "email": "enver@metztiles.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "BBfiberbeton",
+    "product_name": "Grc Bricks By Bbfiberbeton",
+    "product_code": "GRC Bricks by BBfiberbeton",
+    "product_description": "Custom made large format sprayed Glassfibre Reinforced Concrete Brick and Brick-a-like products",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      }
+    ],
+    "standard_dimensions": "min 12 mm thick custom shapes",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4073,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/certificates/EPD_-_BB_fiberbeton_-_2021.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4074,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/certificates/BB_Fiberbeton_AS_-_2025_-_DK_Wind_Solar_Certifikat.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4075,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20Bricks%20By%20Bbfiberbeton/certificates/Datasheet_on_the_carbon_footprint_of_BRiCK_CLASSIC_and_BRiCK-A-LIKE.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 24.08,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 2.5,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 19.06,
+    "upfront_carbon_emissions": 19.06,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "recycled as crushed concrete",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "electric forklifts and delivery vehicles",
+    "minimisation_design_strategy": "Maximum sizes is limited to handling, transport and installation. We can manufacture in all sizes. There will be no waste.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4073,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/certificates/EPD_-_BB_fiberbeton_-_2021.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4074,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/certificates/BB_Fiberbeton_AS_-_2025_-_DK_Wind_Solar_Certifikat.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4075,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20Bricks%20By%20Bbfiberbeton/certificates/Datasheet_on_the_carbon_footprint_of_BRiCK_CLASSIC_and_BRiCK-A-LIKE.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "BBfiberbeton custom sprayed GRC Brick and Brick-a-like panels for ventilated facade applications including the embedded fixing brackets, stud frame systems or bigheads as required.",
+    "manufacturing_locations": [
+      {
+        "id": 2122,
+        "location_name": "Copenhagen, Denmark",
+        "location_lat": 55.676097,
+        "location_lon": 12.568337,
+        "component": "GRC Brick Products",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2522,
+        "location_name": "Copenhagen, Denmark",
+        "location_lat": 55.676097,
+        "location_lon": 12.568337,
+        "material": "Sand",
+        "product_percentage": 38.0
+      },
+      {
+        "id": 2523,
+        "location_name": "Copenhagen, Denmark",
+        "location_lat": 55.676097,
+        "location_lon": 12.568337,
+        "material": "Cement",
+        "product_percentage": 38.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1765,
+        "location_name": "Copenhagen, Denmark",
+        "location_lat": 55.676097,
+        "location_lon": 12.568337,
+        "location_state": " Denmark",
+        "location_city": "Copenhagen"
+      },
+      {
+        "id": 1766,
+        "location_name": "Huntingwood NSW, Australia",
+        "location_lat": -33.797307,
+        "location_lon": 150.876739,
+        "location_state": " Australia",
+        "location_city": "Huntingwood NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "avoid adhesive fixing",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2443,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/compliance/Fire_Classification_A1_-_BB_fiberbeton.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Timber pallets, box and cardboard",
+    "files": [
+      {
+        "id": 3285,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/VOC/EPD_-_BB_fiberbeton_-_2021.pdf"
+      },
+      {
+        "id": 3286,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Grc%20By%20Bbfiberbeton/LCA/EPD_-_BB_fiberbeton_-_2021.pdf"
+      }
+    ]
+  }
+]

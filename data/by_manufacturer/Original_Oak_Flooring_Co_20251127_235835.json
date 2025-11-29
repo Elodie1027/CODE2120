@@ -1,0 +1,191 @@
+[
+  {
+    "id": 308,
+    "company": {
+      "id": 112,
+      "name": "ORIGINAL OAK FLOORS CO."
+    },
+    "image": "products/ORIGINAL OAK FLOORS CO./Lauzon.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-16T03:03:29.457335+00:00",
+    "last_update": "2024-07-16T14:00:00+00:00",
+    "created_by": {
+      "id": 1204,
+      "email": "nina@originaloakfloors.com.au"
+    },
+    "updated_by": {
+      "id": 1204,
+      "email": "nina@originaloakfloors.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Original Oak Flooring Co",
+    "product_name": "Lauzon",
+    "product_code": "Signature Series",
+    "product_description": "290 x 2450mm",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "290x2450",
+    "price_per_unit": 99.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price per sqm, determined on SQM required",
+    "lead_time": "6-8 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Can be used in cupboards or other applications such as furniture",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the product",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 20,
+    "factory_finished": true,
+    "factory_finished_description": "Bona Natural UV Lacquer",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 525,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Additives",
+        "product_percentage": 1.0
+      },
+      {
+        "id": 529,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Wood",
+        "product_percentage": 98.0
+      },
+      {
+        "id": 524,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Adhesive",
+        "product_percentage": 1.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 437,
+        "location_name": "Pakenham VIC, Australia",
+        "location_lat": -38.077671,
+        "location_lon": 145.481872,
+        "location_state": " Australia",
+        "location_city": "Pakenham VIC"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 88,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 33,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 375,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORIGINAL%20OAK%20FLOORS%20CO./Lauzon/compliance/Fire_testing_1_test_report.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 376,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORIGINAL%20OAK%20FLOORS%20CO./Lauzon/compliance/Fire_testing_2_test_report.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 377,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORIGINAL%20OAK%20FLOORS%20CO./Lauzon/compliance/Slip_Resistance_test_report.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recyclable carboard and plastic",
+    "files": []
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 558,
+    "company": {
+      "id": 129,
+      "name": "GEORGE FETHERS"
+    },
+    "image": "products/GEORGE FETHERS/gf-vl-s01-livingRoom-alpineAsh-p01.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-21T01:11:49.995966+00:00",
+    "last_update": "2024-11-17T13:00:00+00:00",
+    "created_by": {
+      "id": 1418,
+      "email": "wjames@gfethers.com.au"
+    },
+    "updated_by": {
+      "id": 1418,
+      "email": "wjames@gfethers.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Leeuwenburgh Fineer BV",
+    "product_name": "Lignapal",
+    "product_code": "48 decors",
+    "product_description": "Prefinished Natural timber veneer pressed on Kraft paper laminate and coated acrylic polyurethane",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 18,
+        "category_name": "Stairs, railings and balustrades"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "3000mm x 1200xx",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1497,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/PEFC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1498,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/FSC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1499,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/FSC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0_w067sIM.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1500,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/PEFC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0_9CM9bde.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "N/A",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Sheet size is 3000mm x 1200mm",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1497,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/PEFC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1498,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/FSC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1499,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/FSC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0_w067sIM.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1500,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/PEFC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0_9CM9bde.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Acrylic Polyurethane",
+    "manufacturing_locations": [
+      {
+        "id": 767,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "component": "Pressing on MDF substrate",
+        "component_percentage": 95.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1112,
+        "location_name": "Raamsdonksveer, Netherlands",
+        "location_lat": 51.697344,
+        "location_lon": 4.874229,
+        "material": "Laminate Backer",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 932,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "location_state": " Australia",
+        "location_city": "Port Melbourne VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 851,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/compliance/Lignapal_2020_Fire_Test_Group_Number.pdf",
+        "link": "",
+        "rating": "3"
+      }
+    ],
+    "type_of_packaging": "Cardboard and plastic strapping",
+    "files": [
+      {
+        "id": 1328,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/VOC/Lignapal_VOC_test_-_E0.pdf"
+      }
+    ]
+  }
+]

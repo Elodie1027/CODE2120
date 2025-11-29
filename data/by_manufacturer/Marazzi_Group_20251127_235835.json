@@ -1,0 +1,1381 @@
+[
+  {
+    "id": 781,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/2449.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-11-16T00:02:05.417363+00:00",
+    "last_update": "2024-11-15T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Marazzi Group",
+    "product_name": "Calacatta Michelangelo Marble Look",
+    "product_code": "2449",
+    "product_description": "Marble's natural aesthetic reimagined in a strikingly contemporary style",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "1200x2780x6mm",
+    "price_per_unit": 138.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $138/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2277,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2278,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_EPD_Big-Slabs.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2279,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/GREENGUARD_Gold_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2281,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_9001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2282,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_45001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2283,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_14001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2284,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_50001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2285,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/GREENGUARD_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2295,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/HPD_Marazzi_Group_Slabs.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 10.8,
+    "upfront_carbon_emissions": 10.8,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be crushed and used as concrete aggregates or road construction.",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "After demolition and deconstruction, ceramic tiles can be crushed and used in a wide range of different applications, such as concrete aggregates or road construction.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "100% - In Marazzi Group plants, all industrial water is completely recycled back into production.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "The Group has committed to identifying, managing and mitigating modern slavery risks in their supply chain. More information can be found through their Modern Slavery Report in Australia. Other impacts can be found in their impact report.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2277,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2278,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_EPD_Big-Slabs.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2279,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/GREENGUARD_Gold_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2281,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_9001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2282,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_45001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2283,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_14001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2284,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_50001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2285,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/GREENGUARD_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2295,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/HPD_Marazzi_Group_Slabs.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 60,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish, also available in 600x1200mm",
+    "manufacturing_locations": [
+      {
+        "id": 1088,
+        "location_name": "Fiorano Modenese, Province of Modena, Italy",
+        "location_lat": 44.538453,
+        "location_lon": 10.833902,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1726,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including quartz, mullite, feldspar, zirconium and corundum)",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1183,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1306,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/compliance/A08W-04_INCANTO_NATURAL_-_120X278_RT_-_120X120_RT_-_60X120_RT_06_-_GL_BIA_-_EN.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The slabs are placed by means of automatic suction cups on trestles or inside wooden crates which, once completed, are picked up by laser-guided vehicles and transported to a storage area where airbags are placed inside the crate on the sides of the slabs or cardboard corners on the sides of the slabs placed on the trestle. The packaging is placed on roller conveyors, through which it is hooded by applying a suitable cap and then conveyed to the oven for the application of shrink film.",
+    "files": [
+      {
+        "id": 2016,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/VOC/Marazzi_Group_Declare_Label.jpg"
+      },
+      {
+        "id": 2017,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/LCA/Marazzi_Group_EPD_Big-Slabs.pdf"
+      },
+      {
+        "id": 2018,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/ModernSlaveryAssessment/Mohawk_2023_Impact_Report.pdf"
+      },
+      {
+        "id": 2019,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/ModernSlaveryAssessment/MOHAWK_INDUSTRIES_Human_Rights_Policy_marazzi_group.pdf"
+      },
+      {
+        "id": 2020,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/ModernSlaveryAssessment/morazzi_supplier_code_of_conduct.pdf"
+      }
+    ]
+  },
+  {
+    "id": 782,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Ragno_Clayton_010.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-11-16T02:37:40.202653+00:00",
+    "last_update": "2024-11-15T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Marazzi Group",
+    "product_name": "Calacatta Michelangelo Marble Look Matt",
+    "product_code": "2450",
+    "product_description": "Marble's natural aesthetic reimagined in a strikingly contemporary style",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "600x1200mm",
+    "price_per_unit": 91.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $91/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2286,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2287,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_EPD_Sassuolo.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2288,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/GREENGUARD_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2289,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/GREENGUARD_Gold_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2290,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/HPD_Marazzi_Group_Tiles.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2291,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_9001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2292,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_45001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2293,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_14001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2294,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_50001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 17.9,
+    "upfront_carbon_emissions": 17.9,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be crushed and used as concrete aggregates or road construction.",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "After demolition and deconstruction, ceramic tiles can be crushed and used in a wide range of different applications, such as concrete aggregates or road construction.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "100% - In Marazzi Group plants, all industrial water is completely recycled back into production.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "The Group has committed to identifying, managing and mitigating modern slavery risks in their supply chain. More information can be found through their Modern Slavery Report in Australia. Other impacts can be found in their impact report.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2286,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2287,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_EPD_Sassuolo.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2288,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/GREENGUARD_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2289,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/GREENGUARD_Gold_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2290,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/HPD_Marazzi_Group_Tiles.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2291,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_9001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2292,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_45001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2293,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_14001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2294,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_50001.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 60,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish, also available in 1200x2780x6mm",
+    "manufacturing_locations": [
+      {
+        "id": 1089,
+        "location_name": "Sassuolo, Province of Modena, Italy",
+        "location_lat": 44.544473,
+        "location_lon": 10.784894,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1727,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, sand and feldspar)",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1184,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1307,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/compliance/A08W-04_INCANTO_NATURAL_-_120X278_RT_-_120X120_RT_-_60X120_RT_06_-_GL_BIA_-_EN.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped in polyethylene film and plastic strapping, and then stacked on wooden pallets. The amount of packaging material can vary depending on the size of the tiles. The cardboard and the PET film used for the packaging of the final product contain recycled material.",
+    "files": [
+      {
+        "id": 2021,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/VOC/Marazzi_Group_Declare_Label.jpg"
+      },
+      {
+        "id": 2022,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/LCA/Marazzi_Group_EPD_Sassuolo.pdf"
+      },
+      {
+        "id": 2023,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/ModernSlaveryAssessment/Mohawk_2023_Impact_Report.pdf"
+      },
+      {
+        "id": 2024,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/ModernSlaveryAssessment/MOHAWK_INDUSTRIES_Human_Rights_Policy_marazzi_group.pdf"
+      }
+    ]
+  },
+  {
+    "id": 783,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/ragno_incanto_008.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-11-16T03:22:38.514443+00:00",
+    "last_update": "2024-11-15T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Marazzi Group",
+    "product_name": "Breccia Pernice Marble Look",
+    "product_code": "2498",
+    "product_description": "Marble's natural aesthetic reimagined in a strikingly contemporary style",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "1200x2780",
+    "price_per_unit": 150.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $150/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2304,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/HPD_Marazzi_Group_Slabs.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2296,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2297,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_EPD_Big-Slabs.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2298,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/GREENGUARD_Gold_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2299,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_9001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2300,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_45001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2301,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_14001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2302,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_50001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2303,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/GREENGUARD_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 10.8,
+    "upfront_carbon_emissions": 10.8,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be crushed and used as concrete aggregates or road construction.",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "After demolition and deconstruction, ceramic tiles can be crushed and used in a wide range of different applications, such as concrete aggregates or road construction.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "100% - In Marazzi Group plants, all industrial water is completely recycled back into production.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "The Group has committed to identifying, managing and mitigating modern slavery risks in their supply chain. More information can be found through their Modern Slavery Report in Australia. Other impacts can be found in their impact report.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2304,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/HPD_Marazzi_Group_Slabs.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2296,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2297,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_EPD_Big-Slabs.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2298,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/GREENGUARD_Gold_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2299,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_9001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2300,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_45001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2301,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_14001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2302,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/Marazzi_Group_ISO_50001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2303,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/certificates/GREENGUARD_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 60,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Polished finish. Also available in a 750x1500mm matt finish.",
+    "manufacturing_locations": [
+      {
+        "id": 1090,
+        "location_name": "Fiorano Modenese, Province of Modena, Italy",
+        "location_lat": 44.538453,
+        "location_lon": 10.833902,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1728,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including quartz, mullite, feldspar, zirconium and corundum)",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1185,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1308,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look/compliance/A08W-04_INCANTO_NATURAL_-_120X278_RT_-_120X120_RT_-_60X120_RT_06_-_GL_BIA_-_EN.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The slabs are placed by means of automatic suction cups on trestles or inside wooden crates which, once completed, are picked up by laser-guided vehicles and transported to a storage area where airbags are placed inside the crate on the sides of the slabs or cardboard corners on the sides of the slabs placed on the trestle. The packaging is placed on roller conveyors, through which it is hooded by applying a suitable cap and then conveyed to the oven for the application of shrink film.",
+    "files": [
+      {
+        "id": 2030,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Breccia%20Pernice%20Marble%20Look/VOC/Marazzi_Group_Declare_Label.jpg"
+      },
+      {
+        "id": 2031,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Breccia%20Pernice%20Marble%20Look/LCA/Marazzi_Group_EPD_Big-Slabs.pdf"
+      },
+      {
+        "id": 2032,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Breccia%20Pernice%20Marble%20Look/ModernSlaveryAssessment/morazzi_supplier_code_of_conduct.pdf"
+      },
+      {
+        "id": 2033,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Breccia%20Pernice%20Marble%20Look/ModernSlaveryAssessment/MOHAWK_INDUSTRIES_Human_Rights_Policy_marazzi_group.pdf"
+      },
+      {
+        "id": 2034,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Breccia%20Pernice%20Marble%20Look/ModernSlaveryAssessment/Mohawk_2023_Impact_Report.pdf"
+      }
+    ]
+  },
+  {
+    "id": 784,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/ragno_incanto_002.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-11-16T03:40:04.900344+00:00",
+    "last_update": "2024-11-15T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Marazzi Group",
+    "product_name": "Breccia Pernice Marble Look Matt",
+    "product_code": "2499",
+    "product_description": "Marble's natural aesthetic reimagined in a strikingly contemporary style",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "750x1500mm",
+    "price_per_unit": 95.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $95/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2305,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2306,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_EPD_Sassuolo.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2307,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/GREENGUARD_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2308,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/GREENGUARD_Gold_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2309,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/HPD_Marazzi_Group_Tiles.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2310,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_9001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2311,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_45001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2312,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_14001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2313,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_50001.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 17.9,
+    "upfront_carbon_emissions": 17.9,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be crushed and used as concrete aggregates or road construction.",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "After demolition and deconstruction, ceramic tiles can be crushed and used in a wide range of different applications, such as concrete aggregates or road construction.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "100% - In Marazzi Group plants, all industrial water is completely recycled back into production.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "The Group has committed to identifying, managing and mitigating modern slavery risks in their supply chain. More information can be found through their Modern Slavery Report in Australia. Other impacts can be found in their impact report.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2305,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2306,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_EPD_Sassuolo.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2307,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/GREENGUARD_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2308,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/GREENGUARD_Gold_Certification_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2309,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/HPD_Marazzi_Group_Tiles.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2310,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_9001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2311,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_45001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2312,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_14001.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2313,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/certificates/Marazzi_Group_ISO_50001.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 60,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish. Also available in 1200x2780x6mm polished finish.",
+    "manufacturing_locations": [
+      {
+        "id": 1091,
+        "location_name": "Sassuolo, Province of Modena, Italy",
+        "location_lat": 44.544473,
+        "location_lon": 10.784894,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1729,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, sand and feldspar)",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1186,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1309,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Calacatta%20Michelangelo%20Marble%20Look%20Matt/compliance/A08W-04_INCANTO_NATURAL_-_120X278_RT_-_120X120_RT_-_60X120_RT_06_-_GL_BIA_-_EN.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped in polyethylene film and plastic strapping, and then stacked on wooden pallets. The amount of packaging material can vary depending on the size of the tiles. The cardboard and the PET film used for the packaging of the final product contain recycled material.",
+    "files": [
+      {
+        "id": 2039,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Breccia%20Pernice%20Marble%20Look%20Matt/VOC/Marazzi_Group_Declare_Label.jpg"
+      },
+      {
+        "id": 2040,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Breccia%20Pernice%20Marble%20Look%20Matt/LCA/Marazzi_Group_EPD_Sassuolo.pdf"
+      },
+      {
+        "id": 2041,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Breccia%20Pernice%20Marble%20Look%20Matt/ModernSlaveryAssessment/Mohawk_2023_Impact_Report.pdf"
+      },
+      {
+        "id": 2042,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Breccia%20Pernice%20Marble%20Look%20Matt/ModernSlaveryAssessment/MOHAWK_INDUSTRIES_Human_Rights_Policy_marazzi_group.pdf"
+      },
+      {
+        "id": 2043,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Breccia%20Pernice%20Marble%20Look%20Matt/ModernSlaveryAssessment/morazzi_supplier_code_of_conduct.pdf"
+      }
+    ]
+  }
+]

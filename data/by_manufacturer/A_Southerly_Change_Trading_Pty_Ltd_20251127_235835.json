@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1314,
+    "company": {
+      "id": 194,
+      "name": "A SOUTHERLY CHANGE TRADING"
+    },
+    "image": "products/A SOUTHERLY CHANGE TRADING/OC2.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-20T22:33:54.008452+00:00",
+    "last_update": "2025-07-20T14:00:00+00:00",
+    "created_by": {
+      "id": 2581,
+      "email": "sales@asoutherlychangetrading.com"
+    },
+    "updated_by": {
+      "id": 2581,
+      "email": "sales@asoutherlychangetrading.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "A Southerly Change Trading Pty Ltd",
+    "product_name": "Ot Clay Plaster",
+    "product_code": "otclay",
+    "product_description": "Ot Clay is a natural, zero VOC, clay plaster made on the Surf Coast from local materials.",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": 35.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1-4 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4865,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/A%20SOUTHERLY%20CHANGE%20TRADING/Ot%20Clay%20Plaster/certificates/VOC_content_test_certificate_A_Southerly_Change_Trading__OTCLAY_Plaster.pdf",
+        "link": "",
+        "rating": "0 VOC ",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": 0.0,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Our recycled glass product uses 30% recycled content.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "The plaster itself, due to the natural content, is compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "The Applicator can site mix only what is to be used. Any spare can be returned and refunded.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "All materials are Australia made and sourced.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4865,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/A%20SOUTHERLY%20CHANGE%20TRADING/Ot%20Clay%20Plaster/certificates/VOC_content_test_certificate_A_Southerly_Change_Trading__OTCLAY_Plaster.pdf",
+        "link": "",
+        "rating": "0 VOC "
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2429,
+        "location_name": "Torquay VIC, Australia",
+        "location_lat": -38.314775,
+        "location_lon": 144.31835,
+        "component": "Plaster ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2970,
+        "location_name": "Bendigo VIC, Australia",
+        "location_lat": -36.757016,
+        "location_lon": 144.279391,
+        "material": "Clay ",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 2971,
+        "location_name": "Launceston TAS, Australia",
+        "location_lat": -41.433221,
+        "location_lon": 147.144088,
+        "material": "Aggregate ",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2022,
+        "location_name": "Torquay VIC, Australia",
+        "location_lat": -38.314775,
+        "location_lon": 144.31835,
+        "location_state": " Australia",
+        "location_city": "Torquay VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2697,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/A%20SOUTHERLY%20CHANGE%20TRADING/Ot%20Clay%20Plaster/compliance/TestCert_Fire_testing_AS3837_A_Southerly_Change_Trading_Pty_Ltd_ASCT_Otway_Clay.pdf",
+        "link": "",
+        "rating": "Group 1 "
+      },
+      {
+        "id": 2698,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/A%20SOUTHERLY%20CHANGE%20TRADING/Ot%20Clay%20Plaster/compliance/TestCert_Fire_testing_AS3837_A_Southerly_Change_Trading_Pty_Ltd_ASCT_Otway_Clay_dznpolD.pdf",
+        "link": "",
+        "rating": "Group 1 "
+      },
+      {
+        "id": 2699,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/A%20SOUTHERLY%20CHANGE%20TRADING/Ot%20Clay%20Plaster/compliance/TestCert_Fire_testing_AS3837_A_Southerly_Change_Trading_Pty_Ltd_ASCT_Otway_Clay_CpQ3G81.pdf",
+        "link": "",
+        "rating": "Group 1 "
+      }
+    ],
+    "type_of_packaging": "Paper sacks.",
+    "files": [
+      {
+        "id": 3687,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/A%20SOUTHERLY%20CHANGE%20TRADING/Ot%20Clay%20Plaster/VOC/VOC_content_test_certificate_A_Southerly_Change_Trading__OTCLAY_Plaster.pdf"
+      }
+    ]
+  }
+]

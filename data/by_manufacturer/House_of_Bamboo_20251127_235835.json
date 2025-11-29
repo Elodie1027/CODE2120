@@ -1,0 +1,687 @@
+[
+  {
+    "id": 29,
+    "company": {
+      "id": 3,
+      "name": "HOUSE OF BAMBOO"
+    },
+    "image": "products/House of Bamboo/Seachange-noosa-raw_sample_house-of-bamboo_5.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-01-24T00:55:33.184266+00:00",
+    "last_update": "2024-05-30T14:00:00+00:00",
+    "created_by": {
+      "id": 20,
+      "email": "operations@houseofbamboo.com.au"
+    },
+    "updated_by": {
+      "id": 20,
+      "email": "operations@houseofbamboo.com.au"
+    },
+    "user_role": null,
+    "manufacturer_name": "House of Bamboo",
+    "product_name": "Seachange Series - Noosa Batten Screens",
+    "product_code": "BATT-SEAC-NOOSA-W400-H2400-N",
+    "product_description": "Engineered bamboo batten screen with anodized aluminum strips. 2400 x 400 x 40 mm. Natural",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": null,
+    "price_adjustment_structure": null,
+    "lead_time": null,
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 322,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Seachange%20Series%20-%20Noosa%20Batten%20Screens/certificates/231108_HOB_Engineered_Laminated_Bamboo_Level_A_HO01_v6.pdf",
+        "link": "https://www.globalgreentag.com/certificate/1418/231108_HOB_Engineered%20Laminated%20Bamboo_Level%20A_HO01_v6.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 323,
+        "certification": "GreenTag – Health Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Seachange%20Series%20-%20Noosa%20Batten%20Screens/certificates/231124_HOB_engineered_laminated_bamboo_PHD_Certificate_v6.pdf",
+        "link": "https://www.globalgreentag.com/certificate/1419/231124_HOB_engineered%20laminated%20bamboo_PHD%20Certificate_v6.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 322,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Seachange%20Series%20-%20Noosa%20Batten%20Screens/certificates/231108_HOB_Engineered_Laminated_Bamboo_Level_A_HO01_v6.pdf",
+        "link": "https://www.globalgreentag.com/certificate/1418/231108_HOB_Engineered%20Laminated%20Bamboo_Level%20A_HO01_v6.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 323,
+        "certification": "GreenTag – Health Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Seachange%20Series%20-%20Noosa%20Batten%20Screens/certificates/231124_HOB_engineered_laminated_bamboo_PHD_Certificate_v6.pdf",
+        "link": "https://www.globalgreentag.com/certificate/1419/231124_HOB_engineered%20laminated%20bamboo_PHD%20Certificate_v6.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": null,
+    "installation_risks_description": "",
+    "substances_of_concern": null,
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": null,
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": null,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 40,
+    "section_B_score": 0,
+    "section_C_score": 0,
+    "section_D_score": 25,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "",
+    "files": []
+  },
+  {
+    "id": 543,
+    "company": {
+      "id": 3,
+      "name": "HOUSE OF BAMBOO"
+    },
+    "image": "products/House of Bamboo/POST__BeamA_1.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-11T04:54:42.028229+00:00",
+    "last_update": "2025-03-17T13:00:00+00:00",
+    "created_by": {
+      "id": 20,
+      "email": "operations@houseofbamboo.com.au"
+    },
+    "updated_by": {
+      "id": 20,
+      "email": "operations@houseofbamboo.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "House of Bamboo",
+    "product_name": "Engineered Laminated Bamboo",
+    "product_code": "BEAM-VERT-CUSTOM-R",
+    "product_description": "Contemporary Engineered Laminated Bamboo with an optional Oil or UV Finish.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "5800mm/600mm x 200mm x 20mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m3",
+    "price_adjustment_structure": null,
+    "lead_time": "12 - 16 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1441,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/certificates/231110_HOB_Engineered_Laminated_Bamboo_with_Glue_Level_A_HO02_v6_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1443,
+        "certification": "GreenTag - Product Health Declaration",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/certificates/231116_HOB_Engineered_Bamboo_with_Glue_PHD_Building_products_Certificate_v3_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1488,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/certificates/Jiangxi_Xiangnan_Bamboo_FSC_certificate_Bzow4yF.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1489,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/certificates/Yifeng_Huang_ken_Forest_FSC_certificate.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2624,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/certificates/Engineered_Laminated_Bamboo_Label.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3982,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/certificates/TestCert_TVOC_Emission__House_of_Bamboo_Engineered_Bamboo_with_Resin_Panel.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Due to the high organic material composition of the product it allows it to be 100% recycled.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Yes, offcuts from House of Bamboo products can be recycled or upcycled to avoid being sent to landfill. By adhering to sustainable practices, House of Bamboo ensures that excess materials are either reused in other projects or repurposed, aligning with our commitment to minimal wastage and environmental responsibility.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Product can be reused it would depend on end product use and users design and intent. Bamboo panels that remain in good condition can be repurposed for similar projects or donated to educational facilities, especially those in underserved communities. House of Bamboo is committed to reducing waste and extending the life of its products through these initiatives.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "House of Bamboo is committed to providing sustainable solutions through its products. By working with bespoke designs that follow our product specifications, minimal wastage is achieved. Designers who work within the sizes provided in our product specifications contribute to reduced offcuts, further enhancing our sustainability efforts and minimizing environmental impact.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "House of Bamboo is dedicated to upholding the highest standards of ethical business practices, with a firm commitment to eliminating modern slavery in all forms. We ensure transparency and social responsibility in our operations and supply chains. As part of our ethical procurement processes, we conduct regular risk assessments to identify potential human rights or modern slavery risks, particularly in our supply chain. While we currently source bamboo locally and internationally, our commitment is to partner only with suppliers who adhere to strict ethical and legal standards.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1441,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/certificates/231110_HOB_Engineered_Laminated_Bamboo_with_Glue_Level_A_HO02_v6_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1443,
+        "certification": "GreenTag - Product Health Declaration",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/certificates/231116_HOB_Engineered_Bamboo_with_Glue_PHD_Building_products_Certificate_v3_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1488,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/certificates/Jiangxi_Xiangnan_Bamboo_FSC_certificate_Bzow4yF.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1489,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/certificates/Yifeng_Huang_ken_Forest_FSC_certificate.jpg",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2624,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/certificates/Engineered_Laminated_Bamboo_Label.jpg",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3982,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/certificates/TestCert_TVOC_Emission__House_of_Bamboo_Engineered_Bamboo_with_Resin_Panel.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "1.2% Ammoniated Compound for the Bio Hardener",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 741,
+        "location_name": "Beijing, China",
+        "location_lat": 39.904211,
+        "location_lon": 116.407395,
+        "component": "Bio Glue",
+        "component_percentage": 4.0
+      },
+      {
+        "id": 742,
+        "location_name": "Jiangxia District, Wuhan, Hubei, China",
+        "location_lat": 30.37559,
+        "location_lon": 114.32168,
+        "component": "Mould Treatment H3",
+        "component_percentage": 1.0
+      },
+      {
+        "id": 762,
+        "location_name": "Ganzhou, Jiangxi, China",
+        "location_lat": 25.83109,
+        "location_lon": 114.93476,
+        "component": "Bamboo Fibre",
+        "component_percentage": 94.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1071,
+        "location_name": "Beijing, China",
+        "location_lat": 39.904211,
+        "location_lon": 116.407395,
+        "material": "Bio Glue",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 1072,
+        "location_name": "Jiangxia District, Wuhan, Hubei, China",
+        "location_lat": 30.37559,
+        "location_lon": 114.32168,
+        "material": "IPBC",
+        "product_percentage": 1.0
+      },
+      {
+        "id": 1106,
+        "location_name": "Ganzhou, Jiangxi, China",
+        "location_lat": 25.83109,
+        "location_lon": 114.93476,
+        "material": "Bamboo Fibre",
+        "product_percentage": 94.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 885,
+        "location_name": "Botany NSW, Australia",
+        "location_lat": -33.946927,
+        "location_lon": 151.197317,
+        "location_state": " Australia",
+        "location_city": "Botany NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "The product will need to utilis",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "House of Bamboo emphasizes several notable features of its products, highlighting sustainability, human health, and social responsibility. Their bamboo products contribute to land restoration, climate change mitigation, and sustainable development. Ethically sourced and designed for minimal waste, these products promote biodiversity and align with circular economy principles. House of Bamboo also supports fair labor practices and ensures transparency across their supply chains. Their focus on bespoke, sustainable solutions ensures minimal environmental impact while maintaining high social and ethical standards.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 846,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/compliance/Vertical_Laminated_Bamboo_Test_Report_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 847,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/compliance/Vertical_Laminated_Bamboo_Group_Number_1.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "House of Bamboo uses sustainable packaging for transport and distribution. Our packaging is designed to be recyclable, reusable, and in some cases compostable, ensuring that it aligns with our commitment to environmental responsibility. By opting for eco-friendly packaging solutions, we minimize waste and contribute to a more sustainable supply chain.",
+    "files": [
+      {
+        "id": 1324,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/VOC/231116_HOB_Engineered_Bamboo_with_Glue_PHD_Building_products_Certificate_v3_1.pdf"
+      },
+      {
+        "id": 1325,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/House%20of%20Bamboo/Engineered%20Laminated%20Bamboo/ModernSlaveryAssessment/231110_HOB_Engineered_Laminated_Bamboo_with_Glue_Level_A_HO02_v6_1.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1331,
+    "company": {
+      "id": 3,
+      "name": "HOUSE OF BAMBOO"
+    },
+    "image": "products/HOUSE OF BAMBOO/Symphony-cello-5-raw_sample_house-of-bamboo_9_web.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-29T04:25:38.929568+00:00",
+    "last_update": "2025-07-30T14:00:00+00:00",
+    "created_by": {
+      "id": 20,
+      "email": "operations@houseofbamboo.com.au"
+    },
+    "updated_by": {
+      "id": 20,
+      "email": "operations@houseofbamboo.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "House of Bamboo",
+    "product_name": "Cello 5",
+    "product_code": "CLAD-SYMP-CELLO-5S",
+    "product_description": null,
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "5800 cm x 140 cm x 18 cm",
+    "price_per_unit": 281.81,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1-12 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4932,
+        "certification": "GreenTag - Product Health Declaration",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HOUSE%20OF%20BAMBOO/Cello%205/certificates/2022_Eng_Lam_GreenTag_Platinum_Health.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4933,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HOUSE%20OF%20BAMBOO/Cello%205/certificates/Engineered_Laminated_Bamboo_Label.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Offcuts can be made into samples",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "If product is not damaged or altered, it can be reused in other purposes",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Clients are encouraged to return goods to the House of Bamboo showroom, where boards are able to be repurposed internally",
+    "water_reduction_techniques": "n/a",
+    "transport_emissions_minimisation_techniques": "Current emission reduction goals centre on increasing efficiency of transport, and ensuring deliveries are made with full containers",
+    "minimisation_design_strategy": "Products can be made to custom dimensions, to reduce any wastage",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4932,
+        "certification": "GreenTag - Product Health Declaration",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HOUSE%20OF%20BAMBOO/Cello%205/certificates/2022_Eng_Lam_GreenTag_Platinum_Health.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4933,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HOUSE%20OF%20BAMBOO/Cello%205/certificates/Engineered_Laminated_Bamboo_Label.jpg",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 20,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": true,
+    "factory_finished_description": "Mould proof treated-H3 as per Australian Standards AS 1604\r\n\r\nWoca Oil Finish available for $32/m2",
+    "manufacturing_locations": [
+      {
+        "id": 2492,
+        "location_name": "Ganzhou, Jiangxi, China",
+        "location_lat": 25.83109,
+        "location_lon": 114.93476,
+        "component": "laminated bamboo",
+        "component_percentage": 98.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3007,
+        "location_name": "Ganzhou, Jiangxi, China",
+        "location_lat": 25.83109,
+        "location_lon": 114.93476,
+        "material": "Bamboo",
+        "product_percentage": 98.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2038,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2715,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HOUSE%20OF%20BAMBOO/Cello%205/compliance/Vertical_Laminated_Bamboo_Group_Number.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "boards are packaged in cardboard",
+    "files": []
+  }
+]

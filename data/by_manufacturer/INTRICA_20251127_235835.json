@@ -1,0 +1,1448 @@
+[
+  {
+    "id": 1204,
+    "company": {
+      "id": 177,
+      "name": "INTRICA PTY LTD"
+    },
+    "image": "products/INTRICA PTY LTD/NX2202.PNG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-03T03:22:59.298558+00:00",
+    "last_update": "2025-05-05T14:00:00+00:00",
+    "created_by": {
+      "id": 2253,
+      "email": "hello@intrica.com.au"
+    },
+    "updated_by": {
+      "id": 2253,
+      "email": "hello@intrica.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Intrica",
+    "product_name": "White Chestnut",
+    "product_code": "NX2202",
+    "product_description": "Realistic high performance wall panels with natural grain finish.",
+    "product_categories": [
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "600 x 3000mm/ 158 x 3000mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4270,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/White%20Chestnut/certificates/NX_GreenGuard-1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4271,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/White%20Chestnut/certificates/Australian-Made-Oct-24-Oct-25.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4272,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/White%20Chestnut/certificates/NX_GreenGuard-1_xj93HrR.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4273,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/White%20Chestnut/certificates/DecorativePanels_Warranty.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4274,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/White%20Chestnut/certificates/UR_CarbonNeutral.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Training and product manual to be provided",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "N/A",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4270,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/White%20Chestnut/certificates/NX_GreenGuard-1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4271,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/White%20Chestnut/certificates/Australian-Made-Oct-24-Oct-25.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4272,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/White%20Chestnut/certificates/NX_GreenGuard-1_xj93HrR.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4273,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/White%20Chestnut/certificates/DecorativePanels_Warranty.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4274,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/White%20Chestnut/certificates/UR_CarbonNeutral.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Final Wall Panel supply",
+    "manufacturing_locations": [
+      {
+        "id": 2288,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "component": "Diatom Composite",
+        "component_percentage": 52.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2685,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "Diatom Composite ",
+        "product_percentage": 52.0
+      },
+      {
+        "id": 2686,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Calcium carbonate ",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 2687,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Wood Powder",
+        "product_percentage": 8.0
+      },
+      {
+        "id": 2688,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Flame retardant 1 ",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 2689,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Flame retardant 2",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 2690,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Foaming agent",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1842,
+        "location_name": "Campbellfield VIC, Australia",
+        "location_lat": -37.671459,
+        "location_lon": 144.955648,
+        "location_state": " Australia",
+        "location_city": "Campbellfield VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Training and product manual will be provided",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "N/A",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2508,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/White%20Chestnut/compliance/UR_FireRating.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recyclable/Reusable cardboards",
+    "files": []
+  },
+  {
+    "id": 1205,
+    "company": {
+      "id": 177,
+      "name": "INTRICA PTY LTD"
+    },
+    "image": "products/INTRICA PTY LTD/NX2203.PNG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-03T03:37:34.969354+00:00",
+    "last_update": "2025-05-05T14:00:00+00:00",
+    "created_by": {
+      "id": 2253,
+      "email": "hello@intrica.com.au"
+    },
+    "updated_by": {
+      "id": 2253,
+      "email": "hello@intrica.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Intrica",
+    "product_name": "Monte Carlo Brown",
+    "product_code": "NX2203",
+    "product_description": "Realistic high performance wall panels with natural grain finish.",
+    "product_categories": [
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "600 x 3000mm/ 158 x 3000mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4275,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/NX_GreenGuard-1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4276,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/NX_GreenGuard-1_LV6zw4q.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4277,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/NX_GreenGuard-1_x23qVtf.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4278,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/NX_GreenGuard-1_O3BwF30.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4280,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/UR_CarbonNeutral_9T4zFJE.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4279,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/UR_CarbonNeutral.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4281,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/Australian-Made-Oct-24-Oct-25.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4282,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/DecorativePanels_Warranty.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Training and product manual to be provided",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "N/A",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4275,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/NX_GreenGuard-1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4276,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/NX_GreenGuard-1_LV6zw4q.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4277,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/NX_GreenGuard-1_x23qVtf.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4278,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/NX_GreenGuard-1_O3BwF30.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4280,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/UR_CarbonNeutral_9T4zFJE.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4279,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/UR_CarbonNeutral.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4281,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/Australian-Made-Oct-24-Oct-25.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4282,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/certificates/DecorativePanels_Warranty.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Final Wall Panel supply",
+    "manufacturing_locations": [
+      {
+        "id": 2289,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "component": "Diatom Composite",
+        "component_percentage": 52.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2691,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "Diatom Composite",
+        "product_percentage": 52.0
+      },
+      {
+        "id": 2692,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Calcium carbonate ",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 2693,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Wood Powder ",
+        "product_percentage": 8.0
+      },
+      {
+        "id": 2694,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Flame retardant 1 ",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 2695,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Flame retardant 2",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 2696,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Foaming agent",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1843,
+        "location_name": "Campbellfield VIC, Australia",
+        "location_lat": -37.671459,
+        "location_lon": 144.955648,
+        "location_state": " Australia",
+        "location_city": "Campbellfield VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Training and product manual will be provided",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "N/A",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2509,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Monte%20Carlo%20Brown/compliance/UR_FireRating.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recyclable/Reusable cardboards",
+    "files": []
+  },
+  {
+    "id": 1206,
+    "company": {
+      "id": 177,
+      "name": "INTRICA PTY LTD"
+    },
+    "image": "products/INTRICA PTY LTD/NX2204.PNG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-03T03:46:57.383682+00:00",
+    "last_update": "2025-05-05T14:00:00+00:00",
+    "created_by": {
+      "id": 2253,
+      "email": "hello@intrica.com.au"
+    },
+    "updated_by": {
+      "id": 2253,
+      "email": "hello@intrica.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Intrica",
+    "product_name": "Lagoda Marrone",
+    "product_code": "NX2204",
+    "product_description": "Realistic high performance wall panels with natural grain finish.",
+    "product_categories": [
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "600 x 3000mm/ 158 x 3000mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4283,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Lagoda%20Marrone/certificates/NX_GreenGuard-1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4284,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Lagoda%20Marrone/certificates/UR_CarbonNeutral.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4285,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Lagoda%20Marrone/certificates/Australian-Made-Oct-24-Oct-25.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4286,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Lagoda%20Marrone/certificates/DecorativePanels_Warranty.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Training and product manual to be provided",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "N/A",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4283,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Lagoda%20Marrone/certificates/NX_GreenGuard-1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4284,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Lagoda%20Marrone/certificates/UR_CarbonNeutral.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4285,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Lagoda%20Marrone/certificates/Australian-Made-Oct-24-Oct-25.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4286,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Lagoda%20Marrone/certificates/DecorativePanels_Warranty.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Final Wall Panel supply",
+    "manufacturing_locations": [
+      {
+        "id": 2290,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "component": "Diatom Composite",
+        "component_percentage": 52.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2697,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "Diatom Composite",
+        "product_percentage": 52.0
+      },
+      {
+        "id": 2698,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Calcium carbonate",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 2699,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Wood Powder",
+        "product_percentage": 8.0
+      },
+      {
+        "id": 2700,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Flame retardant 1 ",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 2701,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Flame retardant 2",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 2702,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Foaming agent ",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1844,
+        "location_name": "Campbellfield VIC, Australia",
+        "location_lat": -37.671459,
+        "location_lon": 144.955648,
+        "location_state": " Australia",
+        "location_city": "Campbellfield VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Training and product manual will be provided",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "600 x 3000mm - Flat Panel\r\n158 x 3000mm - Batten Panel",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "N/A",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2510,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Lagoda%20Marrone/compliance/UR_FireRating.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recyclable/Reusable cardboards",
+    "files": []
+  },
+  {
+    "id": 1207,
+    "company": {
+      "id": 177,
+      "name": "INTRICA PTY LTD"
+    },
+    "image": "products/INTRICA PTY LTD/NX2205.PNG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-03T04:02:36.175563+00:00",
+    "last_update": "2025-05-05T14:00:00+00:00",
+    "created_by": {
+      "id": 2253,
+      "email": "hello@intrica.com.au"
+    },
+    "updated_by": {
+      "id": 2253,
+      "email": "hello@intrica.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Intrica",
+    "product_name": "Amberes Oak",
+    "product_code": "NX2205",
+    "product_description": "Realistic high performance wall panels with natural grain finish.",
+    "product_categories": [
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "600 x 3000mm/ 158 x 3000mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4287,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Amberes%20Oak/certificates/NX_GreenGuard-1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4288,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Amberes%20Oak/certificates/NX_GreenGuard-1_nSOllIl.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4289,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Amberes%20Oak/certificates/Australian-Made-Oct-24-Oct-25.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4290,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Amberes%20Oak/certificates/DecorativePanels_Warranty.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4291,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Amberes%20Oak/certificates/UR_CarbonNeutral.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Training and product manual to be provided",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "N/A",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4287,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Amberes%20Oak/certificates/NX_GreenGuard-1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4288,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Amberes%20Oak/certificates/NX_GreenGuard-1_nSOllIl.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4289,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Amberes%20Oak/certificates/Australian-Made-Oct-24-Oct-25.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4290,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Amberes%20Oak/certificates/DecorativePanels_Warranty.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4291,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Amberes%20Oak/certificates/UR_CarbonNeutral.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Final Wall Panel supply",
+    "manufacturing_locations": [
+      {
+        "id": 2291,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "component": "Diatom Composite ",
+        "component_percentage": 52.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2703,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "Diatom Composite ",
+        "product_percentage": 52.0
+      },
+      {
+        "id": 2704,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Calcium carbonate",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 2705,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Wood Powder ",
+        "product_percentage": 8.0
+      },
+      {
+        "id": 2706,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Flame retardant 1 ",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 2707,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Flame retardant 2",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 2708,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Foaming agent ",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1845,
+        "location_name": "Campbellfield VIC, Australia",
+        "location_lat": -37.671459,
+        "location_lon": 144.955648,
+        "location_state": " Australia",
+        "location_city": "Campbellfield VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Training and product manual will be provided",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "600 x 3000mm - Flat Panel 1\r\n58 x 3000mm - Batten Panel",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "N/A",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2511,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Amberes%20Oak/compliance/UR_FireRating.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recyclable/Reusable cardboards",
+    "files": []
+  },
+  {
+    "id": 1208,
+    "company": {
+      "id": 177,
+      "name": "INTRICA PTY LTD"
+    },
+    "image": "products/INTRICA PTY LTD/NX2206.PNG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-03T04:10:43.626454+00:00",
+    "last_update": "2025-05-05T14:00:00+00:00",
+    "created_by": {
+      "id": 2253,
+      "email": "hello@intrica.com.au"
+    },
+    "updated_by": {
+      "id": 2253,
+      "email": "hello@intrica.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Intrica",
+    "product_name": "Glacier White Birch",
+    "product_code": "NX2206",
+    "product_description": "Realistic high performance wall panels with natural grain finish.",
+    "product_categories": [
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "600 x 3000mm/ 158 x 3000mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4292,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Glacier%20White%20Birch/certificates/NX_GreenGuard-1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4293,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Glacier%20White%20Birch/certificates/Australian-Made-Oct-24-Oct-25.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4294,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Glacier%20White%20Birch/certificates/DecorativePanels_Warranty.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4295,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Glacier%20White%20Birch/certificates/UR_CarbonNeutral.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Training and product manual to be provided",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "N/A",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4292,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Glacier%20White%20Birch/certificates/NX_GreenGuard-1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4293,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Glacier%20White%20Birch/certificates/Australian-Made-Oct-24-Oct-25.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4294,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Glacier%20White%20Birch/certificates/DecorativePanels_Warranty.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4295,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Glacier%20White%20Birch/certificates/UR_CarbonNeutral.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Final Wall Panel supply",
+    "manufacturing_locations": [
+      {
+        "id": 2292,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "component": "Diatom Composite ",
+        "component_percentage": 52.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2709,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "Diatom Composite",
+        "product_percentage": 52.0
+      },
+      {
+        "id": 2710,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "Calcium carbonate ",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 2711,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Wood Powder ",
+        "product_percentage": 8.0
+      },
+      {
+        "id": 2712,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Flame retardant 1 ",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 2713,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Flame retardant 2",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 2714,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Foaming agen",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1846,
+        "location_name": "Campbellfield VIC, Australia",
+        "location_lat": -37.671459,
+        "location_lon": 144.955648,
+        "location_state": " Australia",
+        "location_city": "Campbellfield VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Training and product manual will be provided",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "600 x 3000mm - Flat Panel\r\n158 x 3000mm - Batten Panel",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "N/A",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2512,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Glacier%20White%20Birch/compliance/UR_FireRating.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recyclable/Reusable cardboards",
+    "files": []
+  }
+]

@@ -1,0 +1,1198 @@
+[
+  {
+    "id": 275,
+    "company": {
+      "id": 22,
+      "name": "Armstrong Ceiling Solutions (Australia) Pty Ltd"
+    },
+    "image": "products/Armstrong Ceiling Solutions (Australia) Pty Ltd/Screenshot_2024-07-05_170545.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-05T07:02:45.469240+00:00",
+    "last_update": "2024-07-11T14:00:00+00:00",
+    "created_by": {
+      "id": 132,
+      "email": "paul.m@armstrongceilings.com.au"
+    },
+    "updated_by": {
+      "id": 132,
+      "email": "paul.m@armstrongceilings.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Knauf Ceiling Solutions GmbH",
+    "product_name": "Heradesign Wood Wool Panels & Tiles",
+    "product_code": "HSAK01120625",
+    "product_description": "High acoustic wood wool panels made from FSC certified wood fibre and bonded with natural magnesite.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "1200x600x15/25/35mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Stock Item",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 493,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/FSC_Cert_Heradesign_Grafeanu_AMF_engl.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 494,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/PEFC_Zert_Heradesign_Grafenau_AMF_engl.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 495,
+        "certification": "C2C Material Health Certificate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/Knauf_HERAD_Gold_MHC4832_2021-05-11_8405.pdf",
+        "link": "",
+        "rating": "GOLD",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 496,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/Knauf_HERAD_Gold_CERT4832_2021-05-11_8232.pdf",
+        "link": "",
+        "rating": "GOLD",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 497,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/Blue_Angle_Ecolable.pdf",
+        "link": "",
+        "rating": "Blue Angel Ecolabel",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 552,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "armstrongceilings.com.au/wp-content/uploads/EPD_Heradesign.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "HERADESIGN is manufactured using wood fibre, water and magnesite. It can be ground up and reused like any other timber product.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Panels can easily be demounted and, if required, repainted.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes. Unsure of percentage.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Custom-size panels can be manufactured up to 625mm(w) x 2400mm(l) if required.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 493,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/FSC_Cert_Heradesign_Grafeanu_AMF_engl.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 494,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/PEFC_Zert_Heradesign_Grafenau_AMF_engl.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 495,
+        "certification": "C2C Material Health Certificate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/Knauf_HERAD_Gold_MHC4832_2021-05-11_8405.pdf",
+        "link": "",
+        "rating": "GOLD"
+      },
+      {
+        "id": 496,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/Knauf_HERAD_Gold_CERT4832_2021-05-11_8232.pdf",
+        "link": "",
+        "rating": "GOLD"
+      },
+      {
+        "id": 497,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/Blue_Angle_Ecolable.pdf",
+        "link": "",
+        "rating": "Blue Angel Ecolabel"
+      },
+      {
+        "id": 552,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "armstrongceilings.com.au/wp-content/uploads/EPD_Heradesign.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "High-density wood wool panels available in 2 textures and white or beige, with custom RAL colours made-to-order.",
+    "manufacturing_locations": [
+      {
+        "id": 318,
+        "location_name": "Ferndorf, Austria",
+        "location_lat": 46.736283,
+        "location_lon": 13.626595,
+        "component": "Magnesite-bonded wood wool",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 428,
+        "location_name": "Ferndorf, Austria",
+        "location_lat": 46.736283,
+        "location_lon": 13.626595,
+        "material": "Magnesite-bonded wood wool",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 373,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 374,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 375,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 400,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 401,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 402,
+        "location_name": "Auckland, New Zealand",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "location_state": " New Zealand",
+        "location_city": "Auckland"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "HERADESIGN wood wool acoustic panels panels provide an increased sense of well-being through the use of high-quality sound absorbing acoustic solutions that are design-oriented, sustainable and ecological.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 355,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "armstrongceilings.com.au/wp-content/uploads/FTC_Heradesign-1.pdf",
+        "rating": "Group 1"
+      }
+    ],
+    "type_of_packaging": "Cardboard cartons and reusable pallets.",
+    "files": [
+      {
+        "id": 395,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/VOC/Heradesign_Emissions_IAC_GOLD.pdf"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "company": {
+      "id": 22,
+      "name": "Armstrong Ceiling Solutions (Australia) Pty Ltd"
+    },
+    "image": "products/Armstrong Ceiling Solutions (Australia) Pty Ltd/Screenshot_2024-07-05_183939.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-05T08:35:29.551056+00:00",
+    "last_update": "2024-07-11T14:00:00+00:00",
+    "created_by": {
+      "id": 132,
+      "email": "paul.m@armstrongceilings.com.au"
+    },
+    "updated_by": {
+      "id": 132,
+      "email": "paul.m@armstrongceilings.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Knauf Ceiling Solutions GmbH",
+    "product_name": "Heradesign Wood Wool Baffle Element Profile",
+    "product_code": "HBAFBF1203_*",
+    "product_description": "High acoustic wood wool baffle made from FSC certified wood fibre and bonded with natural magnesite.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      }
+    ],
+    "standard_dimensions": "1200x600x15/25/35mm",
+    "price_per_unit": null,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "12-16 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 500,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/PEFC_Zert_Heradesign_Grafenau_AMF_engl.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 501,
+        "certification": "C2C Material Health Certificate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/Knauf_HERAD_Gold_MHC4832_2021-05-11_8405.pdf",
+        "link": "",
+        "rating": "GOLD",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 502,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/Knauf_HERAD_Gold_CERT4832_2021-05-11_8232.pdf",
+        "link": "",
+        "rating": "GOLD",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 503,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/Blue_Angle_Ecolable.pdf",
+        "link": "",
+        "rating": "Blue Angel Ecolabel",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 550,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "armstrongceilings.com.au/wp-content/uploads/EPD_Heradesign.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 551,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Baffle%20Element%20Profile/certificates/FSC_Cert_Heradesign_Grafeanu_AMF_engl.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "HERADESIGN is manufactured using wood fibre, water and magnesite. It can be ground up and reused like any other timber product.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Panels can easily be demounted and, if required, repainted.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes. Unsure of percentage.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Custom-size panels can be manufactured up to 625mm(w) x 2400mm(l) if required.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 500,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/PEFC_Zert_Heradesign_Grafenau_AMF_engl.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 501,
+        "certification": "C2C Material Health Certificate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/Knauf_HERAD_Gold_MHC4832_2021-05-11_8405.pdf",
+        "link": "",
+        "rating": "GOLD"
+      },
+      {
+        "id": 502,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/Knauf_HERAD_Gold_CERT4832_2021-05-11_8232.pdf",
+        "link": "",
+        "rating": "GOLD"
+      },
+      {
+        "id": 503,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/certificates/Blue_Angle_Ecolable.pdf",
+        "link": "",
+        "rating": "Blue Angel Ecolabel"
+      },
+      {
+        "id": 550,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "armstrongceilings.com.au/wp-content/uploads/EPD_Heradesign.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 551,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Baffle%20Element%20Profile/certificates/FSC_Cert_Heradesign_Grafeanu_AMF_engl.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "High-density wood wool acoustic baffle available in 2 textures and white, natural, or custom RAL colours.",
+    "manufacturing_locations": [
+      {
+        "id": 319,
+        "location_name": "Ferndorf, Austria",
+        "location_lat": 46.736283,
+        "location_lon": 13.626595,
+        "component": "Magnesite-bonded wood wool",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 429,
+        "location_name": "Ferndorf, Austria",
+        "location_lat": 46.736283,
+        "location_lon": 13.626595,
+        "material": "Magnesite-bonded wood wool",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 376,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 377,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 378,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 403,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 404,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 405,
+        "location_name": "Auckland, New Zealand",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "location_state": " New Zealand",
+        "location_city": "Auckland"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "HERADESIGN wood wool acoustic baffles provide an increased sense of well-being through the use of high-quality sound absorbing acoustic solutions that are design-oriented, sustainable and ecological. Baffles are easily installed as single units or in arrays via an embedded top carrier rail and suspension wire kits.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 354,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "armstrongceilings.com.au/wp-content/uploads/FTC_Heradesign-1.pdf",
+        "rating": "Group 1"
+      }
+    ],
+    "type_of_packaging": "Cardboard cartons and reusable pallets.",
+    "files": [
+      {
+        "id": 396,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Heradesign%20Wood%20Wool%20Panels%20%26%20Tiles/VOC/Heradesign_Emissions_IAC_GOLD.pdf"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "company": {
+      "id": 22,
+      "name": "Armstrong Ceiling Solutions (Australia) Pty Ltd"
+    },
+    "image": "products/Armstrong Ceiling Solutions (Australia) Pty Ltd/Screenshot_2024-07-05_165111.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-09T06:13:53.760901+00:00",
+    "last_update": "2024-07-21T14:00:00+00:00",
+    "created_by": {
+      "id": 132,
+      "email": "paul.m@armstrongceilings.com.au"
+    },
+    "updated_by": {
+      "id": 132,
+      "email": "paul.m@armstrongceilings.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Knauf Ceiling Solutions GmbH",
+    "product_name": "Ultima Acoustic Ceiling Panels",
+    "product_code": "1002",
+    "product_description": "High-acoustic ceiling tiles with smooth, durable, matte facing with high light reflectance.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      }
+    ],
+    "standard_dimensions": "1200x600x19mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "No Lead Time",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 553,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "armstrongceilings.com.au/wp-content/uploads/EPD_Ultima_Bioguard-Acoustic.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 554,
+        "certification": "GreenTag – Health Rate",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/2512/240507_AWI_Ultima,%20Bioguard_PlatinumHealth_001_v8.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 555,
+        "certification": "GreenTag - Product Health Declaration",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/2512/240507_AWI_Ultima,%20Bioguard_PlatinumHealth_001_v8.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 556,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1791/240507_AWI_Ultima_Level%20A_001_v2.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 0.24,
+    "upfront_carbon_emissions": 0.24,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "6",
+    "compostable_conditions": "Represents cellulose and corn starch binder as declared by manufacturer.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The manufacturing of the product uses a closed water cycle. This means 100% of wastewater is treated and reused.",
+    "transport_emissions_minimisation_techniques": "The Ultima Acoustic product is delivered in optimised container shipments from our production facility and warehoused in all capital cities in AUS / NZ via a significant distribution network to reduce transport emissions. Our materials handling equipment in our warehouse facilities is via electric forklifts, powered by solar panels.",
+    "minimisation_design_strategy": "N/A",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 553,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "armstrongceilings.com.au/wp-content/uploads/EPD_Ultima_Bioguard-Acoustic.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 554,
+        "certification": "GreenTag – Health Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/2512/240507_AWI_Ultima,%20Bioguard_PlatinumHealth_001_v8.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 555,
+        "certification": "GreenTag - Product Health Declaration",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/2512/240507_AWI_Ultima,%20Bioguard_PlatinumHealth_001_v8.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 556,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1791/240507_AWI_Ultima_Level%20A_001_v2.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Smooth, matte white finish with high light reflectance.",
+    "manufacturing_locations": [
+      {
+        "id": 332,
+        "location_name": "Wujiang, Suzhou, Jiangsu, China",
+        "location_lat": 31.11131,
+        "location_lon": 120.84753,
+        "component": "Biosoluble Mineral Fibre Panel",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 459,
+        "location_name": "Wujiang, Suzhou, Jiangsu, China",
+        "location_lat": 31.11131,
+        "location_lon": 120.84753,
+        "material": "Biosoluble Mineral Wool, Perlite & Cellulose",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 388,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 389,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 390,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 391,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 392,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 393,
+        "location_name": "Auckland, New Zealand",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "location_state": " New Zealand",
+        "location_city": "Auckland"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 33,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://armstrongceilings.com.au/wp-content/uploads/EPD_Ultima_Bioguard-Acoustic.pdf",
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Ultima acoustic ceiling tiles / panels offer a smooth, light reflective and durable surface with balanced ‘TOTAL ACOUSTICS’ performance. The perfect balance of both sound absorption and sound attenuation. The durable surface of Ultima can be cleaned and disinfected to help prevent the build-up of virulent strains of bacteria, moulds and yeasts.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 356,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "armstrongceilings.com.au/wp-content/uploads/FTC_Mineral-Fibre.pdf",
+        "rating": "Group 1"
+      }
+    ],
+    "type_of_packaging": "Recyclable cardboard cartons.",
+    "files": [
+      {
+        "id": 425,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Ultima/VOC/392-2022-00399101_A_EN_Knauf_Ceiling_Solutions_GmbH__Co_KG_IAC_GOLD.pdf"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "company": {
+      "id": 22,
+      "name": "Armstrong Ceiling Solutions (Australia) Pty Ltd"
+    },
+    "image": "products/Armstrong Ceiling Solutions (Australia) Pty Ltd/Screenshot_2024-07-05_163254.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-09T06:17:54.346248+00:00",
+    "last_update": "2024-07-21T14:00:00+00:00",
+    "created_by": {
+      "id": 132,
+      "email": "paul.m@armstrongceilings.com.au"
+    },
+    "updated_by": {
+      "id": 132,
+      "email": "paul.m@armstrongceilings.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Knauf Ceiling Solutions GmbH",
+    "product_name": "Bioguard Acoustic Ceiling Panels",
+    "product_code": "5187",
+    "product_description": "High Acoustic and durable ceiling panels with antimicrobial & Clean Room ISO3 performance.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      }
+    ],
+    "standard_dimensions": "1200x600x19mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "No Lead Time",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 546,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "armstrongceilings.com.au/wp-content/uploads/EPD_Ultima_Bioguard-Acoustic.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 547,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1685/240507_AWI_Bioguard_Level%20A_001_v2.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 548,
+        "certification": "GreenTag – Health Rate",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/2512/240507_AWI_Ultima,%20Bioguard_PlatinumHealth_001_v8.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 549,
+        "certification": "GreenTag - Product Health Declaration",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/2512/240507_AWI_Ultima,%20Bioguard_PlatinumHealth_001_v8.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 0.24,
+    "upfront_carbon_emissions": 0.24,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "6",
+    "compostable_conditions": "Manufacturer declares cellulose and starch binder are compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The manufacturing of the product uses a closed water cycle. This means 100% of wastewater is treated and reused.",
+    "transport_emissions_minimisation_techniques": "The Bioguard Acoustic product is delivered in optimised container shipments from our production facility and warehoused in all capital cities in AUS / NZ via a significant distribution network to reduce transport emissions. Our materials handling equipment in our warehouse facilities is via electric forklifts, powered by solar panels.",
+    "minimisation_design_strategy": "N/A",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 546,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "armstrongceilings.com.au/wp-content/uploads/EPD_Ultima_Bioguard-Acoustic.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 547,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1685/240507_AWI_Bioguard_Level%20A_001_v2.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 548,
+        "certification": "GreenTag – Health Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/2512/240507_AWI_Ultima,%20Bioguard_PlatinumHealth_001_v8.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 549,
+        "certification": "GreenTag - Product Health Declaration",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/2512/240507_AWI_Ultima,%20Bioguard_PlatinumHealth_001_v8.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Smooth, matte white finish with high light reflectance.",
+    "manufacturing_locations": [
+      {
+        "id": 334,
+        "location_name": "Wujiang, Suzhou, Jiangsu, China",
+        "location_lat": 31.11131,
+        "location_lon": 120.84753,
+        "component": "Biosoluble Mineral Fibre Panels",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 461,
+        "location_name": "Wujiang, Suzhou, Jiangsu, China",
+        "location_lat": 31.11131,
+        "location_lon": 120.84753,
+        "material": "Biosoluble Mineral Wool, Perlite & Cellulose ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 394,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 395,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 396,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 397,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 398,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 399,
+        "location_name": "Auckland, New Zealand",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "location_state": " New Zealand",
+        "location_city": "Auckland"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 33,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://armstrongceilings.com.au/wp-content/uploads/EPD_Ultima_Bioguard-Acoustic.pdf",
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Bioguard Acoustic ceiling tiles / panels are designed for spaces where Total Acoustics performance (NRC + CAC) combined with the control of bio-contamination is essential. Suitable for use in PC1, PC2 and ISO 3 Clean Rooms and throughout the medical / healthcare sector. \r\nThe durable surface of Bioguard Acoustic can be cleaned and disinfected to help prevent the build-up of virulent strains of bacteria, moulds and yeasts.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 353,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "armstrongceilings.com.au/wp-content/uploads/FTC_Mineral-Fibre.pdf",
+        "rating": "Group 1"
+      }
+    ],
+    "type_of_packaging": "Recyclable cardboard cartons.",
+    "files": [
+      {
+        "id": 426,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Armstrong%20Ceiling%20Solutions%20%28Australia%29%20Pty%20Ltd/Bioguard%20Acoustic/VOC/392-2022-00399102_A_EN_Knauf_Ceiling_Solutions_GmbH__Co_KG_IAC_GOLD.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2426 @@
+[
+  {
+    "id": 58,
+    "company": {
+      "id": 25,
+      "name": "WILKHAHN ASIA PACIFIC"
+    },
+    "image": "products/WILKHAHN ASIA PACIFIC/005490_WH_Metrik_Sitzbock_Confair_2020.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-26T22:41:36.611301+00:00",
+    "last_update": "2024-07-17T14:00:00+00:00",
+    "created_by": {
+      "id": 1200,
+      "email": "peter.cal@wilkhahn.com.au"
+    },
+    "updated_by": {
+      "id": 1200,
+      "email": "peter.cal@wilkhahn.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Wilkhahn Asia Pacific",
+    "product_name": "Confair Tables",
+    "product_code": "440",
+    "product_description": "Redefining Flexibility and Collaboration. Seamlessly Transform Your Workspace for Every Task.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "800mm/1200mm x 1600mm/3000mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "8-12 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 69,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Confair%20Tables/certificates/Confair_GREENTICK_Exp281023.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 70,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Confair%20Tables/certificates/Wilkhahn-Confair-440range-GRE_zI80A76.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 74,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Confair%20Tables/certificates/LAMINBOARD_Moralt_FSC_EN.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "All Wilkhahn product components are suitable for non-destructive disassembly. In order to guarantee materials are sorted according to type, all components over 150 g in weight are labeled. No agents to protect materials, or organic halogen compounds are used that prevent recycling at a later date.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "We strive to develop durable products, increase their utility value and reduce waste. “Less is more” or “reduce to the max” are principles that Wilkhahn constantly reinterprets for the future. Ecological design guidelines are integral components of Wilkhahn product development.",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Where possible, we use pure materials that are marked as such, making them ideal for recycling.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "All Wilkhahn product components are suitable for non-destructive disassembly. In order to guarantee materials are sorted according to type, all components over 150 g in weight are labeled. No agents to protect materials, or organic halogen compounds are used that prevent recycling at a later date.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Even after the product has reached the end of its life, we still feel responsible and offer our customers extensive takeback and recycling services. We guarantee to take back all products that are no longer in use. Wilkhahn products are dismantled in the factory, all parts are\r\n selectively sorted in terms of their inherent materials and then recycled. By labelling the materials, ensuring they’re non-toxic and easy to dismantle, we’re already making sure today that the components in Wilkhahn products can be incorporated into local material and \r\n production cycles and be properly recycled and disposed of. As a result, energy guzzling (and therefore ecologically unwise transportation) over long distances is avoided.",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Because the products are modular, expendable parts can be exchanged and features added or retrofitted (e. g. armrest types, covers, cushions, surfaces). Connecting points in the product can be dismantled for easy repair.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 69,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Confair%20Tables/certificates/Confair_GREENTICK_Exp281023.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 70,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Confair%20Tables/certificates/Wilkhahn-Confair-440range-GRE_zI80A76.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 74,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Confair%20Tables/certificates/LAMINBOARD_Moralt_FSC_EN.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 69,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Table top",
+        "component_percentage": 49.0
+      },
+      {
+        "id": 76,
+        "location_name": "Verginello, Province of Brescia, Italy",
+        "location_lat": 52.412537,
+        "location_lon": 17.085551,
+        "component": "Aluminium frame",
+        "component_percentage": 37.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 82,
+        "location_name": "Oberhaching, Germany",
+        "location_lat": 48.027728,
+        "location_lon": 11.586918,
+        "material": "Plastic",
+        "product_percentage": 6.0
+      },
+      {
+        "id": 83,
+        "location_name": "Achim, Germany",
+        "location_lat": 53.0092,
+        "location_lon": 9.05104,
+        "material": "Aluminium",
+        "product_percentage": 37.0
+      },
+      {
+        "id": 84,
+        "location_name": "Grabfeld, Germany",
+        "location_lat": 50.450367,
+        "location_lon": 10.446873,
+        "material": "Timber",
+        "product_percentage": 49.0
+      },
+      {
+        "id": 85,
+        "location_name": "Hamburg, Germany",
+        "location_lat": 53.548828,
+        "location_lon": 9.98717,
+        "material": "Steel",
+        "product_percentage": 9.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 55,
+        "location_name": "Riverwood NSW, Australia",
+        "location_lat": -33.94538,
+        "location_lon": 151.053402,
+        "location_state": " Australia",
+        "location_city": "Riverwood NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Cardboard, foam, packing tape. For local deliveries, blankets and quilts are used.",
+    "files": [
+      {
+        "id": 44,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Confair%20Tables/VOC/Wilkhahn-Confair-440range-GREENGUARD-Gold.pdf"
+      },
+      {
+        "id": 50,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Confair%20Tables/ModernSlaveryActionPlan/2022-07-11_Anti_sl_Qy3KUvG.pdf"
+      },
+      {
+        "id": 51,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Confair%20Tables/RecycledContent/Wilkhahn-Confair-440-EPI-EN.pdf"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "company": {
+      "id": 25,
+      "name": "WILKHAHN ASIA PACIFIC"
+    },
+    "image": "products/WILKHAHN ASIA PACIFIC/005446_WH_ON_Timetable_2020.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-05T00:28:29.472363+00:00",
+    "last_update": "2024-05-07T06:02:15.209873+00:00",
+    "created_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "updated_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Wilkhahn Asia Pacific",
+    "product_name": "On Chair",
+    "product_code": "170",
+    "product_description": "Dynamic Seating Redefined with Trimension® Technology. Movement, posture and comfort.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "4-6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 86,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/On%20Chair/certificates/ON_174175_GREENTICK_Exp202612.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 87,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/On%20Chair/certificates/GREENGUARD_Gold_Certification_EXP10042024.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "The chairs are dismounted at our plant, all components are sorted according to one-type materials and – if possible – are recycled. Due to the clear marking and identification of all materials, due to their nontoxicity and due to easy dismountability, we can today ensure that the components of a Wilkhahn product are returned to both decentral and local material and production cycles and are properly recycled and, if necessary, disposed of. This serves to reduce energy-intensive (and thus ecologically questionable) return transport over long distances.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Because the products are modular, expendable parts can be exchanged and features added or retrofitted (e. g. armrest types, covers, cushions, surfaces). Connecting points in the product can be dismantled for easy repair.",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "When developing the chair, emphasis was placed from very beginning in ensuring maximum recyclability of the materials - as far as technically possible. After the end of its life, 96% of ON can be recycled.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "All components of the ON office chair permit non-destructive disassembly. All components weighing more than 150 g bear a material identification mark to ensure that materials can be sorted according to a single type. No material protecting agents or halogen-organic compounds are used that prevent subsequent recycling. A total of 98 percent of components of the chair can be recycled.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Our responsibility does not stop at the end of the utilization phase of a product as we offer our customers extensive services for taking back and recycling used products. We guarantee that used products may be returned in their entirety.",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "We strive to develop lasting products, increase their utility value and reduce waste. “Less is more” or “reduce to the max” are the guiding principles that Wilkhahn continually translates into future contexts. Ecologically oriented design principles are a natural, integral part of product development.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 86,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/On%20Chair/certificates/ON_174175_GREENTICK_Exp202612.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 87,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/On%20Chair/certificates/GREENGUARD_Gold_Certification_EXP10042024.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [
+      {
+        "id": 72,
+        "location_name": "Riverwood NSW, Australia",
+        "location_lat": -33.94538,
+        "location_lon": 151.053402,
+        "location_state": " Australia",
+        "location_city": "Riverwood NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Returnable transport packaging made from renewable raw materials is used for ON office chairs that can be reused, recycled or composted.",
+    "files": [
+      {
+        "id": 59,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/On%20Chair/VOC/GREENGUARD_Gold_Certification_EXP10042024.pdf"
+      },
+      {
+        "id": 60,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/On%20Chair/ModernSlaveryAssessment/2022-07-11_Anti_slavery__zEODhz1.pdf"
+      },
+      {
+        "id": 61,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/On%20Chair/ModernSlaveryActionPlan/2022-07-11_Anti_slavery__9M6YtNn.pdf"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "company": {
+      "id": 25,
+      "name": "WILKHAHN ASIA PACIFIC"
+    },
+    "image": "products/WILKHAHN ASIA PACIFIC/005606_WH_AT_Occo_2021.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-06T23:41:12.347106+00:00",
+    "last_update": "2025-01-08T13:00:00+00:00",
+    "created_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "updated_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Wilkhahn Asia Pacific",
+    "product_name": "At Chair",
+    "product_code": "187",
+    "product_description": "Empowering Every Move, Enriching Every Moment. Redefine Comfort and Support in Motion.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "4-6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 88,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/At%20Chair/certificates/AT_Mesh_GREENTICK_15798-1_201104_ct.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 89,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/At%20Chair/certificates/Wilkhahn-AT-187range-GREENGUARD-Gold.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Please refer to EPI document with recycling capacity identified in material breakdown.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "We strive to develop durable products, increase their utility value and reduce waste. “Less is more” or “reduce to the max” are principles that Wilkhahn constantly reinterprets for the future. Ecological design guidelines are integral components of Wilkhahn product development.",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "Where possible, we use pure materials that are marked as such, making them ideal for recycling.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "All Wilkhahn product components are suitable for non-destructive disassembly. In order to guarantee materials are sorted according to type, all components over 150 g in weight are labeled. No agents to protect materials, or organic halogen compounds are used that\r\nprevent recycling at a later date.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Even after the product has reached the end of its life, we still feel responsible and offer our customers extensive takeback and recycling services. We guarantee to take back all products that are no longer in use. Wilkhahn products are\r\n dismantled in the factory, all parts are selectively sorted in terms of their inherent materials and then recycled. By labelling the materials, ensuring they’re non-toxic and easy to dismantle, we’re already making sure today that the components in Wilkhahn products can be\r\n incorporated into local material and production cycles and be properly recycled and disposed of. As a result, energy guzzling (and therefore ecologically unwise transportation) over long distances is avoided.",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "We strive to develop lasting products, increase their utility value and reduce waste. “Less is more” or “reduce to the max” are the guiding principles that Wilkhahn continually translates into future contexts. Ecologically oriented design principles are a natural, integral part of product development.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 88,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/At%20Chair/certificates/AT_Mesh_GREENTICK_15798-1_201104_ct.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 89,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/At%20Chair/certificates/Wilkhahn-AT-187range-GREENGUARD-Gold.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1552,
+        "location_name": "Postbauer-Heng, Germany",
+        "location_lat": 49.303124,
+        "location_lon": 11.355516,
+        "component": "Seat shell",
+        "component_percentage": 15.0
+      },
+      {
+        "id": 1553,
+        "location_name": "Postbauer-Heng, Germany",
+        "location_lat": 49.303124,
+        "location_lon": 11.355516,
+        "component": "Adjustable mechanism",
+        "component_percentage": 16.0
+      },
+      {
+        "id": 1554,
+        "location_name": "Postbauer-Heng, Germany",
+        "location_lat": 49.303124,
+        "location_lon": 11.355516,
+        "component": "Star base",
+        "component_percentage": 11.0
+      },
+      {
+        "id": 1555,
+        "location_name": "Postbauer-Heng, Germany",
+        "location_lat": 49.303124,
+        "location_lon": 11.355516,
+        "component": "Backrest bearer",
+        "component_percentage": 11.0
+      },
+      {
+        "id": 1556,
+        "location_name": "Postbauer-Heng, Germany",
+        "location_lat": 49.303124,
+        "location_lon": 11.355516,
+        "component": "Upholstery panel",
+        "component_percentage": 10.0
+      },
+      {
+        "id": 1557,
+        "location_name": "Medebach, Germany",
+        "location_lat": 51.200192,
+        "location_lon": 8.700338,
+        "component": "Reinforcement plate",
+        "component_percentage": 4.0
+      },
+      {
+        "id": 1558,
+        "location_name": "Sânpetru, Romania",
+        "location_lat": 45.703429,
+        "location_lon": 25.63284,
+        "component": "Gaslift",
+        "component_percentage": 3.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2067,
+        "location_name": "Postbauer-Heng, Germany",
+        "location_lat": 49.303124,
+        "location_lon": 11.355516,
+        "material": "Plastic",
+        "product_percentage": 71.0
+      },
+      {
+        "id": 2068,
+        "location_name": "Medebach, Germany",
+        "location_lat": 51.200192,
+        "location_lon": 8.700338,
+        "material": "Steel",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 2069,
+        "location_name": "Sânpetru, Romania",
+        "location_lat": 45.703429,
+        "location_lon": 25.63284,
+        "material": "Steel",
+        "product_percentage": 3.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 76,
+        "location_name": "Riverwood NSW, Australia",
+        "location_lat": -33.94538,
+        "location_lon": 151.053402,
+        "location_state": " Australia",
+        "location_city": "Riverwood NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Returnable transport packaging made from renewable raw materials is used for AT office chairs that can be reused, recycled or composted.",
+    "files": [
+      {
+        "id": 62,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/At%20Chair/VOC/Wilkhahn-AT-187range-GREENGUARD-Gold.pdf"
+      },
+      {
+        "id": 63,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/At%20Chair/RecycledContent/Wilkhahn-AT-187-EPI-EN.pdf"
+      },
+      {
+        "id": 2852,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/At%20Chair/ModernSlaveryAssessment/2022-07-11_Anti_slavery.pdf"
+      },
+      {
+        "id": 2853,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/At%20Chair/ModernSlaveryActionPlan/2022-07-11_Anti_slavery.pdf"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "company": {
+      "id": 25,
+      "name": "WILKHAHN ASIA PACIFIC"
+    },
+    "image": "products/WILKHAHN ASIA PACIFIC/005794_WH_Yonda_2022_NBWYhWE.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-28T03:38:05.101406+00:00",
+    "last_update": "2025-01-08T13:00:00+00:00",
+    "created_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "updated_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Wilkhahn Asia Pacific",
+    "product_name": "Yonda",
+    "product_code": "320",
+    "product_description": "Where Comfort Meets Contemporary Style. Embrace Ergonomic Excellence in Every Detail.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "6-8 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3479,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Yonda/certificates/GREENGUARD-Gold_Wilkhahn_Yonda_320.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/GREENGUARD-Gold_Wilkhahn_Yonda_320.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "51",
+    "recyclable_percentage_description": "Wilkhahn products are dismantled in the factory, all parts are   selectively sorted in terms of their inherent materials and then recycled. By labelling the materials, ensuring they’re non-toxic and easy to dismantle, we’re already making sure today that the components in Wilkhahn products can be incorporated into local material and production cycles and be properly recycled and disposed of. As a result, energy guzzling (and therefore ecologically unwise transportation) over long distances is avoided.",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "The EPI document contains recycling capability, and materials including aluminium and steel contain pre-consumer and post-consumer content.",
+    "recycling_process_description": "Wilkhahn products are designed for longevity and all products can be serviced to extend their life. The quality of the steel and aluminium used within the Wilkhahn products ensures that it can be recycled and reprocessed for new use.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "All Wilkhahn product components are suitable for non-destructive disassembly. In order to guarantee materials are sorted according to type, all components over 150 g in weight are labeled. No agents to protect materials, or organic halogen compounds are used that \r\nprevent recycling at a later date.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Even after the product has reached the end of its life, we still feel responsible and offer our customers extensive takeback and recycling services. We guarantee to take back all products that are no longer in use. Wilkhahn products are dismantled in the factory, all parts are   selectively sorted in terms of their inherent materials and then recycled. By labelling the materials, ensuring they’re non-toxic and easy to dismantle, we’re already making sure today that the components in Wilkhahn products can be incorporated into local material and production cycles and be properly recycled and disposed of. As a result, energy guzzling (and therefore ecologically unwise transportation) over long distances is avoided.",
+    "water_reduction_techniques": "NA",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Product design to last is our antidote to the throw-away society. Therefore, Wilkhahn products focus on providing maximum utility value, durability and protecting resources. This means top quality that can be experienced, is consistent and perfect. It delivers timeless, distinctive design that is fascinating due to its simplicity, honesty and appeal to all the senses. Pioneering innovations are included that really give our customers constant added value in terms of ergonomics and handling. The fact that our products are extremely practical, \r\neasy to disassemble and components are replaceable ensures they are resource-efficient.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "UN Global Compact member",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3479,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Yonda/certificates/GREENGUARD-Gold_Wilkhahn_Yonda_320.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/GREENGUARD-Gold_Wilkhahn_Yonda_320.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/GREENGUARD-Gold_Wilkhahn_Yonda_320.pdf",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 12,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 125,
+        "location_name": "Rodengo Saiano, Province of Brescia, Italy",
+        "location_lat": 45.598431,
+        "location_lon": 10.112534,
+        "component": "5 star base",
+        "component_percentage": 22.0
+      },
+      {
+        "id": 126,
+        "location_name": "Kayseri, Türkiye",
+        "location_lat": 38.720489,
+        "location_lon": 35.482597,
+        "component": "Upright",
+        "component_percentage": 19.0
+      },
+      {
+        "id": 1551,
+        "location_name": "Nesselwang, Germany",
+        "location_lat": 47.62364,
+        "location_lon": 10.501193,
+        "component": "Seat Shell",
+        "component_percentage": 36.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 159,
+        "location_name": "Rodengo Saiano, Province of Brescia, Italy",
+        "location_lat": 45.598431,
+        "location_lon": 10.112534,
+        "material": "Aluminium",
+        "product_percentage": 22.0
+      },
+      {
+        "id": 2065,
+        "location_name": "Nesselwang, Germany",
+        "location_lat": 47.62364,
+        "location_lon": 10.501193,
+        "material": "Plastic",
+        "product_percentage": 36.0
+      },
+      {
+        "id": 2066,
+        "location_name": "Kayseri, Türkiye",
+        "location_lat": 38.720489,
+        "location_lon": 35.482597,
+        "material": "Steel",
+        "product_percentage": 29.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 152,
+        "location_name": "Riverwood NSW, Australia",
+        "location_lat": -33.94538,
+        "location_lon": 151.053402,
+        "location_state": " Australia",
+        "location_city": "Riverwood NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "For years we’ve only been using as much packaging to transport our products as is required to deliver them in one piece to our customers. Some 60 to 78% of Wilkhahn’s cardboard packaging consists of recycled material. And Wilkhahn regularly uses blankets and other returnable packaging.",
+    "files": [
+      {
+        "id": 2848,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Yonda/VOC/GREENGUARD-Gold_Wilkhahn_Yonda_320.pdf"
+      },
+      {
+        "id": 2849,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Yonda/RecycledContent/Wilkhahn-Yonda-320-EPI-EN.pdf"
+      },
+      {
+        "id": 2850,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Yonda/ModernSlaveryAssessment/2022-07-11_Anti_slavery.pdf"
+      },
+      {
+        "id": 2851,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Yonda/ModernSlaveryActionPlan/2022-07-11_Anti_slavery.pdf"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "company": {
+      "id": 25,
+      "name": "WILKHAHN ASIA PACIFIC"
+    },
+    "image": "",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-05-15T22:54:01.258090+00:00",
+    "last_update": "2024-05-15T14:00:00+00:00",
+    "created_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "updated_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Wilkhahn Asia Pacific",
+    "product_name": "Graph Chair",
+    "product_code": "300",
+    "product_description": "The Pinnacle of Sophisticated Comfort. Redefine Your Conference Experience.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "4-6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "A total of 91 per cent of the chair can be recycled.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "In order to guarantee materials are sorted according to type, all components over 150 g in weight are labelled. No protective agents for materials, or organic halogen compounds are used that prevent recycling at a later date.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "All Graph components can be dismantled non-destructively. In order to guarantee materials are sorted according to type, all components over 150 g in weight are labelled. No protective agents for materials, or organic halogen compounds are used that prevent recycling at a later date. A total of 91 per cent of the chair can be recycled.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Our responsibility does not stop at the end of the utilization phase of a product as we offer our customers extensive services for taking back and recycling used products.\r\nWe guarantee that used products may be returned in their entirety.",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "We strive to develop lasting products, increase their utility value and reduce waste. “Less is more” or “reduce to the max” are the guiding principles that Wilkhahn continually translates into future contexts. Ecologically oriented design principles are a natural, integral part of product development.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 20,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 175,
+        "location_name": "Postbauer-Heng, Germany",
+        "location_lat": 49.303124,
+        "location_lon": 11.355516,
+        "component": "Seat shell",
+        "component_percentage": 30.0
+      },
+      {
+        "id": 176,
+        "location_name": "Gorzów Śląski, Poland",
+        "location_lat": 51.027954,
+        "location_lon": 18.422892,
+        "component": "5-star chair base",
+        "component_percentage": 14.0
+      },
+      {
+        "id": 177,
+        "location_name": "Gorzów Śląski, Poland",
+        "location_lat": 51.027954,
+        "location_lon": 18.422892,
+        "component": "Armrest",
+        "component_percentage": 8.0
+      },
+      {
+        "id": 178,
+        "location_name": "Luhden, Germany",
+        "location_lat": 52.227435,
+        "location_lon": 9.090888,
+        "component": "Upright",
+        "component_percentage": 17.0
+      },
+      {
+        "id": 179,
+        "location_name": "Postbauer-Heng, Germany",
+        "location_lat": 49.303124,
+        "location_lon": 11.355516,
+        "component": "Mechanism",
+        "component_percentage": 10.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 225,
+        "location_name": "Luhden, Germany",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Steel",
+        "product_percentage": 44.0
+      },
+      {
+        "id": 226,
+        "location_name": "Gorzów Śląski, Poland",
+        "location_lat": 51.027954,
+        "location_lon": 18.422892,
+        "material": "Aluminium",
+        "product_percentage": 31.0
+      },
+      {
+        "id": 227,
+        "location_name": "Postbauer-Heng, Germany",
+        "location_lat": 49.303124,
+        "location_lon": 11.355516,
+        "material": "Plastic",
+        "product_percentage": 16.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 229,
+        "location_name": "Riverwood NSW, Australia",
+        "location_lat": -33.94538,
+        "location_lon": 151.053402,
+        "location_state": " Australia",
+        "location_city": "Riverwood NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Returnable transport packaging made from renewable raw materials is used for Graph chairs that can be reused, recycled or composted.",
+    "files": [
+      {
+        "id": 148,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Graph%20Chair/VOC/GREENGUARD_Gold_Certification.pdf"
+      },
+      {
+        "id": 149,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Graph%20Chair/RecycledContent/Wilkhahn-Graph-EPI-eng.pdf"
+      },
+      {
+        "id": 150,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Graph%20Chair/RecycledContent/Wilkhahn-Graph-EPI-eng_uKQKZOQ.pdf"
+      },
+      {
+        "id": 151,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Graph%20Chair/ModernSlaveryAssessment/2022-07-11_Anti_slavery_statement.pdf"
+      },
+      {
+        "id": 152,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Graph%20Chair/ModernSlaveryActionPlan/2022-07-11_Anti_slavery_statement.pdf"
+      }
+    ]
+  },
+  {
+    "id": 952,
+    "company": {
+      "id": 25,
+      "name": "WILKHAHN ASIA PACIFIC"
+    },
+    "image": "products/WILKHAHN ASIA PACIFIC/005274_WH_Intra_Versa_2019.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-09T01:22:14.613541+00:00",
+    "last_update": "2025-01-08T13:00:00+00:00",
+    "created_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "updated_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Wilkhahn Asia Pacific",
+    "product_name": "Versa Table",
+    "product_code": "636",
+    "product_description": "Wilkhahn Versa: Seamless Design, Limitless Flexibility. Transform Spaces with Effortless Elegance.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "8-10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3480,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Versa%20Table/certificates/Declare_EXP010126.jpg",
+        "link": "https://declare.living-future.org/products/636-versa-table",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3481,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Versa%20Table/certificates/636-Versa-Greenguard-Certification.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/636-Versa-Greenguard-Certification.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Please refer to EPI document with recycling capacity identified in material breakdown.",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Where possible, we use pure materials that are marked as such, making them ideal for recycling.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "All Wilkhahn product components are suitable for non-destructive disassembly. In order to guarantee materials are sorted according to type, all components over 150 g in weight are labeled. No agents to protect materials, or organic halogen compounds are used that prevent recycling at a later date.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Even after the product has reached the end of its life, we still feel responsible and offer our customers extensive takeback and recycling services. We guarantee to take back all products that are no longer in use. Wilkhahn products are dismantled in the factory, all parts are selectively sorted in terms of their inherent materials and then recycled. By labelling the materials, ensuring they’re non-toxic and easy to dismantle, we’re already making sure today that the components in Wilkhahn products can be incorporated into local material and production cycles and be properly recycled and disposed of. As a result, energy guzzling (and therefore ecologically unwise transportation) over long distances is avoided.",
+    "water_reduction_techniques": "NA",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Product design to last is our antidote to the throw-away society. Therefore, Wilkhahn products focus on providing maximum utility value, durability and protecting resources. This means top quality that can be experienced, is consistent and perfect. It delivers timeless, distinctive design that is fascinating due to its simplicity, honesty and appeal to all the senses. Pioneering innovations are included that really give our customers constant added value in terms of ergonomics and handling. The fact that our products are extremely practical, easy to disassemble and components are replaceable ensures they are resource-efficient.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3480,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Versa%20Table/certificates/Declare_EXP010126.jpg",
+        "link": "https://declare.living-future.org/products/636-versa-table",
+        "rating": "undefined"
+      },
+      {
+        "id": 3481,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Versa%20Table/certificates/636-Versa-Greenguard-Certification.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/636-Versa-Greenguard-Certification.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/636-Versa-Greenguard-Certification.pdf",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 9,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1559,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Table top",
+        "component_percentage": 23.0
+      },
+      {
+        "id": 1560,
+        "location_name": "Ahrensburg, Germany",
+        "location_lat": 53.676414,
+        "location_lon": 10.237885,
+        "component": "Leg",
+        "component_percentage": 58.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2070,
+        "location_name": "Ahrensburg, Germany",
+        "location_lat": 53.676414,
+        "location_lon": 10.237885,
+        "material": "Aluminium",
+        "product_percentage": 58.0
+      },
+      {
+        "id": 2071,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Wood",
+        "product_percentage": 23.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1415,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "For years we’ve only been using as much packaging to transport our products as is required to deliver them in one piece to our customers. Some 60 to 78% of Wilkhahn’s cardboard packaging consists of recycled material. And Wilkhahn regularly uses blankets and other returnable packaging.",
+    "files": [
+      {
+        "id": 2854,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Versa%20Table/VOC/636-Versa-Greenguard-Certification.pdf"
+      },
+      {
+        "id": 2855,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Versa%20Table/RecycledContent/041224__Wilkhahn_EPI_Versa_638_white.pdf"
+      },
+      {
+        "id": 2856,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Versa%20Table/ModernSlaveryAssessment/2022-07-11_Anti_slavery.pdf"
+      },
+      {
+        "id": 2857,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Versa%20Table/ModernSlaveryActionPlan/2022-07-11_Anti_slavery.pdf"
+      }
+    ]
+  },
+  {
+    "id": 954,
+    "company": {
+      "id": 25,
+      "name": "WILKHAHN ASIA PACIFIC"
+    },
+    "image": "products/WILKHAHN ASIA PACIFIC/003424_WH_Aline_2016.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-09T02:47:33.490484+00:00",
+    "last_update": "2025-01-08T13:00:00+00:00",
+    "created_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "updated_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Wilkhahn Asia Pacific",
+    "product_name": "Aline Chair",
+    "product_code": "230",
+    "product_description": "Lightweight Design, Lasting Comfort. Effortless Space Saving Style for Modern Spaces.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "4-6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3482,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/certificates/Aline_230_GREENTICK_Exp190523.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/Aline_230_GREENTICK_Exp190526.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3483,
+        "certification": "BIFMA certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/certificates/Aline_SkidBase__ANSI_BIFMA.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3484,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/certificates/Wilkhahn-230range-GREENGUARD-Gold.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/Wilkhahn-230range-GREENGUARD-Gold.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "51",
+    "recyclable_percentage_description": "Please refer to EPI document with recycling capacity identified in material breakdown.",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "Please refer to EPI document with recycling capacity identified in material breakdown.",
+    "recycling_process_description": "Where possible, we use pure materials that are marked as such, making them ideal for recycling.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "All Wilkhahn product components are suitable for non-destructive disassembly. In order to guarantee materials are sorted according to type, all components over 150 g in weight are labeled. No agents to protect materials, or organic halogen compounds are used that prevent recycling at a later date.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Even after the product has reached the end of its life, we still feel responsible and offer our customers extensive takeback and recycling services. We guarantee to take back all products that are no longer in use. Wilkhahn products are dismantled in the factory, all parts are selectively sorted in terms of their inherent materials and then recycled. By labelling the materials, ensuring they’re non-toxic and easy to dismantle, we’re already making sure today that the components in Wilkhahn products can be incorporated into local material and production cycles and be properly recycled and disposed of. As a result, energy guzzling (and therefore ecologically unwise transportation) over long distances is avoided.",
+    "water_reduction_techniques": "NA",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "We strive to develop lasting products, increase their utility value and reduce waste. “Less is more” or “reduce to the max” are the guiding principles that Wilkhahn continually translates into future contexts. Ecologically oriented design principles are a natural, integral part of product development.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3482,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/certificates/Aline_230_GREENTICK_Exp190523.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/Aline_230_GREENTICK_Exp190526.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3483,
+        "certification": "BIFMA certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/certificates/Aline_SkidBase__ANSI_BIFMA.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3484,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/certificates/Wilkhahn-230range-GREENGUARD-Gold.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/Wilkhahn-230range-GREENGUARD-Gold.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/Wilkhahn-230range-GREENGUARD-Gold.pdf",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1562,
+        "location_name": "Michelau in Oberfranken, Germany",
+        "location_lat": 50.165783,
+        "location_lon": 11.109647,
+        "component": "Frame",
+        "component_percentage": 59.0
+      },
+      {
+        "id": 1563,
+        "location_name": "Walenstadt, Switzerland",
+        "location_lat": 47.12398,
+        "location_lon": 9.31603,
+        "component": "Seat frame",
+        "component_percentage": 17.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2073,
+        "location_name": "Michelau in Oberfranken, Germany",
+        "location_lat": 50.165783,
+        "location_lon": 11.109647,
+        "material": "Steel",
+        "product_percentage": 59.0
+      },
+      {
+        "id": 2074,
+        "location_name": "Walenstadt, Switzerland",
+        "location_lat": 47.12398,
+        "location_lon": 9.31603,
+        "material": "Plastic",
+        "product_percentage": 17.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1417,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "For years we’ve only been using as much packaging to transport our products as is required to deliver them in one piece to our customers. Some 60 to 78% of Wilkhahn’s cardboard packaging consists of recycled material. And Wilkhahn regularly uses blankets and other returnable packaging.",
+    "files": [
+      {
+        "id": 2858,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/VOC/Wilkhahn-230range-GREENGUARD-Gold.pdf"
+      },
+      {
+        "id": 2859,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/ModernSlaveryAssessment/2022-07-11_Anti_slavery.pdf"
+      },
+      {
+        "id": 2860,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/ModernSlaveryActionPlan/2022-07-11_Anti_slavery.pdf"
+      },
+      {
+        "id": 2861,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/RecycledContent/Wilkhahn-Aline-EPI-eng.pdf"
+      }
+    ]
+  },
+  {
+    "id": 955,
+    "company": {
+      "id": 25,
+      "name": "WILKHAHN ASIA PACIFIC"
+    },
+    "image": "products/WILKHAHN ASIA PACIFIC/002509_WH_Neos_Palette_2011.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-09T04:04:40.921737+00:00",
+    "last_update": "2025-01-13T13:00:00+00:00",
+    "created_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "updated_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Wilkhahn Asia Pacific",
+    "product_name": "Neos Cantilever Chair",
+    "product_code": "183",
+    "product_description": "Wilkhahn Neos Cantilever Chair: Sleek, Flexible, and Effortlessly Comfortable.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "4-6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3534,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Neos%20Cantilever%20Chair/certificates/NeosCanti_GREENTICK_Exp090725.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/Wilkhahn-Neos-cantilever-green-tick-AFRDI-Certificate.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Please refer to EPI document with recycling capacity identified in material breakdown.",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "1",
+    "recycled_content_description": "Please refer to EPI document with recycling capacity identified in material breakdown.",
+    "recycling_process_description": "Where possible, we use pure materials that are marked as such, making them ideal for recycling.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "All Wilkhahn product components are suitable for non-destructive disassembly. In order to guarantee materials are sorted according to type, all components over 150 g in weight are labeled. No agents to protect materials, or organic halogen compounds are used that prevent recycling at a later date.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Even after the product has reached the end of its life, we still feel responsible and offer our customers extensive takeback and recycling services. We guarantee to take back all products that are no longer in use. Wilkhahn products are dismantled in the factory, all parts are selectively sorted in terms of their inherent materials and then recycled. By labelling the materials, ensuring they’re non-toxic and easy to dismantle, we’re already making sure today that the components in Wilkhahn products can be incorporated into local material and production cycles and be properly recycled and disposed of. As a result, energy guzzling (and therefore ecologically unwise transportation) over long distances is avoided.",
+    "water_reduction_techniques": "NA",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "We strive to develop lasting products, increase their utility value and reduce waste. “Less is more” or “reduce to the max” are the guiding principles that Wilkhahn continually translates into future contexts. Ecologically oriented design principles are a natural, integral part of product development.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3534,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Neos%20Cantilever%20Chair/certificates/NeosCanti_GREENTICK_Exp090725.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/Wilkhahn-Neos-cantilever-green-tick-AFRDI-Certificate.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/Wilkhahn-230range-GREENGUARD-Gold.pdf",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1564,
+        "location_name": "Michelau in Oberfranken, Germany",
+        "location_lat": 50.165783,
+        "location_lon": 11.109647,
+        "component": "Frame",
+        "component_percentage": 59.0
+      },
+      {
+        "id": 1576,
+        "location_name": "Bad Salzuflen, Germany",
+        "location_lat": 52.076519,
+        "location_lon": 8.755622,
+        "component": "Seat Shell",
+        "component_percentage": 20.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2078,
+        "location_name": "Bad Salzuflen, Germany",
+        "location_lat": 52.076519,
+        "location_lon": 8.755622,
+        "material": "Plastic",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 2079,
+        "location_name": "Bad Münstereifel, Germany",
+        "location_lat": 50.557685,
+        "location_lon": 6.761299,
+        "material": "Steel",
+        "product_percentage": 54.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1418,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "For years we’ve only been using as much packaging to transport our products as is required to deliver them in one piece to our customers. Some 60 to 78% of Wilkhahn’s cardboard packaging consists of recycled material. And Wilkhahn regularly uses blankets and other returnable packaging.",
+    "files": [
+      {
+        "id": 2863,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/ModernSlaveryAssessment/2022-07-11_Anti_slavery.pdf"
+      },
+      {
+        "id": 2864,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/ModernSlaveryActionPlan/2022-07-11_Anti_slavery.pdf"
+      },
+      {
+        "id": 2865,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Aline%20Chair/RecycledContent/Wilkhahn-Aline-EPI-eng.pdf"
+      },
+      {
+        "id": 2884,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Neos%20Cantilever%20Chair/RecycledContent/EPI_NeosBoth_GB.pdf"
+      }
+    ]
+  },
+  {
+    "id": 968,
+    "company": {
+      "id": 25,
+      "name": "WILKHAHN ASIA PACIFIC"
+    },
+    "image": "products/WILKHAHN ASIA PACIFIC/004473_WH_Sola_Palette_2016_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-14T00:01:20.087878+00:00",
+    "last_update": "2025-01-13T13:00:00+00:00",
+    "created_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "updated_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Wilkhahn Asia Pacific",
+    "product_name": "Sola Chair",
+    "product_code": "291",
+    "product_description": "Crafted Elegance, Rocking Innovation. Where Distinctive Frame Meets Superb Comfort in Every Detail.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "4-6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3565,
+        "certification": "SCS Indoor Advantage",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Sola%20Chair/certificates/Sola_291_Certificate_IndoorAirQaility_WiD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3559,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Sola%20Chair/certificates/Sola_GT_EXP290627.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/Wilkhahn-Sola-291-green-tick-AFRDI-Certificate.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3560,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Sola%20Chair/certificates/Wilkhahn-Sola-209range-GREENGUARD-Gold.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/Wilkhahn-Sola-209range-GREENGUARD-Gold.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3561,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Sola%20Chair/certificates/Sola_COC_PEFC_SOLA_Becker-Zert-GB.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "51",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "In order to guarantee materials are sorted according to type, all components over 150 g in weight are labelled. No protective agents for materials, or organic halogen compounds are used that prevent recycling at a later date.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "All Graph components can be dismantled non-destructively. In order to guarantee materials are sorted according to type, all components over 150 g in weight are labelled. No protective agents for materials, or organic halogen compounds are used that prevent recycling at a later date. A total of 91 per cent of the chair can be recycled.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Our responsibility does not stop at the end of the utilization phase of a product as we offer our customers extensive services for taking back and recycling used products. We guarantee that used products may be returned in their entirety.",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "We strive to develop lasting products, increase their utility value and reduce waste. “Less is more” or “reduce to the max” are the guiding principles that Wilkhahn continually translates into future contexts. Ecologically oriented design principles are a natural, integral part of product development.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3565,
+        "certification": "SCS Indoor Advantage",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Sola%20Chair/certificates/Sola_291_Certificate_IndoorAirQaility_WiD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3559,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Sola%20Chair/certificates/Sola_GT_EXP290627.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/Wilkhahn-Sola-291-green-tick-AFRDI-Certificate.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3560,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Sola%20Chair/certificates/Wilkhahn-Sola-209range-GREENGUARD-Gold.pdf",
+        "link": "https://23wilkhahn-2f42.kxcdn.com/fileadmin/user_upload/Wilkhahn-Sola-209range-GREENGUARD-Gold.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3561,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Sola%20Chair/certificates/Sola_COC_PEFC_SOLA_Becker-Zert-GB.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 20,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1591,
+        "location_name": "Brakel, Germany",
+        "location_lat": 51.715643,
+        "location_lon": 9.180872,
+        "component": "Seat shell",
+        "component_percentage": 24.0
+      },
+      {
+        "id": 1593,
+        "location_name": "Natick, MA, USA",
+        "location_lat": 42.277528,
+        "location_lon": -71.346809,
+        "component": "Armrest",
+        "component_percentage": 16.0
+      },
+      {
+        "id": 1594,
+        "location_name": "Natick, MA, USA",
+        "location_lat": 42.277528,
+        "location_lon": -71.346809,
+        "component": "Support column",
+        "component_percentage": 10.0
+      },
+      {
+        "id": 1595,
+        "location_name": "Natick, MA, USA",
+        "location_lat": 42.277528,
+        "location_lon": -71.346809,
+        "component": "5-star base",
+        "component_percentage": 16.0
+      },
+      {
+        "id": 1596,
+        "location_name": "Sânpetru, Romania",
+        "location_lat": 45.703429,
+        "location_lon": 25.63284,
+        "component": "Gaslift",
+        "component_percentage": 6.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2101,
+        "location_name": "Brakel, Germany",
+        "location_lat": 51.715643,
+        "location_lon": 9.180872,
+        "material": "Timber",
+        "product_percentage": 33.0
+      },
+      {
+        "id": 2103,
+        "location_name": "Natick, MA, USA",
+        "location_lat": 42.277528,
+        "location_lon": -71.346809,
+        "material": "Aluminium",
+        "product_percentage": 43.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1431,
+        "location_name": "Riverwood NSW, Australia",
+        "location_lat": -33.94538,
+        "location_lon": 151.053402,
+        "location_state": " Australia",
+        "location_city": "Riverwood NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "For years we’ve only been using as much packaging to transport our products as is required to deliver them in one piece to our customers. Some 60 to 78% of Wilkhahn’s cardboard packaging consists of recycled material. And Wilkhahn regularly uses blankets and other returnable packaging.",
+    "files": [
+      {
+        "id": 2896,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Graph%20Chair/ModernSlaveryAssessment/2022-07-11_Anti_slavery_statement.pdf"
+      },
+      {
+        "id": 2897,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Graph%20Chair/ModernSlaveryActionPlan/2022-07-11_Anti_slavery_statement.pdf"
+      },
+      {
+        "id": 2902,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/Sola%20Chair/VOC/SOLA_Formaldehyd_CERT_15-02_Zertifikate.pdf"
+      }
+    ]
+  },
+  {
+    "id": 979,
+    "company": {
+      "id": 25,
+      "name": "WILKHAHN ASIA PACIFIC"
+    },
+    "image": "products/WILKHAHN ASIA PACIFIC/005606_WH_AT_Occo_2021.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-14T01:56:51.842375+00:00",
+    "last_update": "2025-01-13T13:00:00+00:00",
+    "created_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "updated_by": {
+      "id": 145,
+      "email": "chloe.rennie@wilkhahn.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Wilkhahn Asia Pacific",
+    "product_name": "In Chair",
+    "product_code": "184",
+    "product_description": "Experience Movement in Every Moment. Trimension® Technology Brings Seating to Life.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "4-6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3625,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/In%20Chair/certificates/IN_GT_EXP140727.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3626,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/In%20Chair/certificates/Wilkhahn-IN-184range-GREENGUARD-Gold_ENG.pdf",
+        "link": "https://www.wilkhahn.com/fileadmin/products/in/certificates/Wilkhahn-IN-184range-GREENGUARD-Gold_ENG.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Please refer to EPI document with recycling capacity identified in material breakdown.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "We strive to develop durable products, increase their utility value and reduce waste. “Less is more” or “reduce to the max” are principles that Wilkhahn constantly reinterprets for the future. Ecological design guidelines are integral components of Wilkhahn product development.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "Where possible, we use pure materials that are marked as such, making them ideal for recycling.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "All Wilkhahn product components are suitable for non-destructive disassembly. In order to guarantee materials are sorted according to type, all components over 150 g in weight are labeled. No agents to protect materials, or organic halogen compounds are used that\r\nprevent recycling at a later date.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Even after the product has reached the end of its life, we still feel responsible and offer our customers extensive takeback and recycling services. We guarantee to take back all products that are no longer in use. Wilkhahn products are dismantled in the factory, all parts are selectively sorted in terms of their inherent materials and then recycled. By labelling the materials, ensuring they’re non-toxic and easy to dismantle, we’re already making sure today that the components in Wilkhahn products can be incorporated into local material and production cycles and be properly recycled and disposed of. As a result, energy guzzling (and therefore ecologically unwise transportation) over long distances is avoided.",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "We strive to develop lasting products, increase their utility value and reduce waste. “Less is more” or “reduce to the max” are the guiding principles that Wilkhahn continually translates into future contexts. Ecologically oriented design principles are a natural, integral part of product development.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3625,
+        "certification": "AFRDI Green Tick (Furniture)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/In%20Chair/certificates/IN_GT_EXP140727.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3626,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/In%20Chair/certificates/Wilkhahn-IN-184range-GREENGUARD-Gold_ENG.pdf",
+        "link": "https://www.wilkhahn.com/fileadmin/products/in/certificates/Wilkhahn-IN-184range-GREENGUARD-Gold_ENG.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.wilkhahn.com/fileadmin/products/in/certificates/Wilkhahn-IN-184range-GREENGUARD-Gold_ENG.pdf",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1616,
+        "location_name": "Nesselwang, Germany",
+        "location_lat": 47.62364,
+        "location_lon": 10.501193,
+        "component": "Seat Shell",
+        "component_percentage": 20.0
+      },
+      {
+        "id": 1617,
+        "location_name": "Hong Kong",
+        "location_lat": 22.319329,
+        "location_lon": 114.169423,
+        "component": "Swing arm",
+        "component_percentage": 26.0
+      },
+      {
+        "id": 1620,
+        "location_name": "Weil der Stadt, Germany",
+        "location_lat": 48.753594,
+        "location_lon": 8.872742,
+        "component": "Castor",
+        "component_percentage": 4.0
+      },
+      {
+        "id": 1621,
+        "location_name": "Castegnato, Province of Brescia, Italy",
+        "location_lat": 45.56331,
+        "location_lon": 10.115179,
+        "component": "Chair base",
+        "component_percentage": 13.0
+      },
+      {
+        "id": 1622,
+        "location_name": "Hagen, Germany",
+        "location_lat": 51.367822,
+        "location_lon": 7.463639,
+        "component": "Spring plate",
+        "component_percentage": 4.0
+      },
+      {
+        "id": 1623,
+        "location_name": "Frankenberg (Eder), Germany",
+        "location_lat": 51.05727,
+        "location_lon": 8.805167,
+        "component": "Fastener",
+        "component_percentage": 3.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2116,
+        "location_name": "Nesselwang, Germany",
+        "location_lat": 47.62364,
+        "location_lon": 10.501193,
+        "material": "Plastic",
+        "product_percentage": 21.0
+      },
+      {
+        "id": 2117,
+        "location_name": "Hong Kong",
+        "location_lat": 22.319329,
+        "location_lon": 114.169423,
+        "material": "Aluminium",
+        "product_percentage": 26.0
+      },
+      {
+        "id": 2118,
+        "location_name": "Castegnato, Province of Brescia, Italy",
+        "location_lat": 45.56331,
+        "location_lon": 10.115179,
+        "material": "Plastic",
+        "product_percentage": 13.0
+      },
+      {
+        "id": 2120,
+        "location_name": "Weil der Stadt, Germany",
+        "location_lat": 48.753594,
+        "location_lon": 8.872742,
+        "material": "Plastic",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 2122,
+        "location_name": "Hagen, Germany",
+        "location_lat": 51.367822,
+        "location_lon": 7.463639,
+        "material": "Steel",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 2123,
+        "location_name": "Frankenberg (Eder), Germany",
+        "location_lat": 51.05727,
+        "location_lon": 8.805167,
+        "material": "Plastic",
+        "product_percentage": 3.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1442,
+        "location_name": "Riverwood NSW, Australia",
+        "location_lat": -33.94538,
+        "location_lon": 151.053402,
+        "location_state": " Australia",
+        "location_city": "Riverwood NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "For years we’ve only been using as much packaging to transport our products as is required to deliver them in one piece to our customers. Some 60 to 78% of Wilkhahn’s cardboard packaging consists of recycled material. And Wilkhahn regularly uses blankets and other returnable packaging.",
+    "files": [
+      {
+        "id": 2918,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/At%20Chair/ModernSlaveryAssessment/2022-07-11_Anti_slavery.pdf"
+      },
+      {
+        "id": 2919,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/At%20Chair/ModernSlaveryActionPlan/2022-07-11_Anti_slavery.pdf"
+      },
+      {
+        "id": 2924,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/In%20Chair/VOC/Wilkhahn-IN-184range-GREENGUARD-Gold_ENG.pdf"
+      },
+      {
+        "id": 2925,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILKHAHN%20ASIA%20PACIFIC/In%20Chair/RecycledContent/Wilkhahn-IN-EPI-en.pdf"
+      }
+    ]
+  }
+]

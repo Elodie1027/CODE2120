@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1552,
+    "company": {
+      "id": 222,
+      "name": "VEROSOL"
+    },
+    "image": "products/VEROSOL/205_SS.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-04T05:58:22.962932+00:00",
+    "last_update": "2025-11-03T13:00:00+00:00",
+    "created_by": {
+      "id": 3062,
+      "email": "scott_comino@verosol.com.au"
+    },
+    "updated_by": {
+      "id": 3062,
+      "email": "scott_comino@verosol.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Verosol",
+    "product_name": "205 Silverscreen Performance",
+    "product_code": "205",
+    "product_description": "Metallised 4% openness fabric with high solar reflectance and thermal insulation",
+    "product_categories": [
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "3200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": "$",
+    "lead_time": "10–15 business days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5942,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/certificates/Environment-GREENGUARD-Gold-Certification-SilverScreen-202-205.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5943,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/certificates/Environment-HPD_2.1_SilverScreen_205_202.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5944,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/certificates/EPD-Verosol-205-SilverScreen.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "95-100%- \r\nWe recycled all of our 205 SilverScreen performance off-cuts via in-house sampling, and remaining or returned fabrics via take-back program are recycled via conversion into alternate fuels for industry",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The fabric can be reused and or recycled",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Verosol have a product stewardship and take-back program",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Manufactured into custom widths to avoid wastage",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5942,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/certificates/Environment-GREENGUARD-Gold-Certification-SilverScreen-202-205.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5943,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/certificates/Environment-HPD_2.1_SilverScreen_205_202.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5944,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/certificates/EPD-Verosol-205-SilverScreen.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "95-100%\r\nWe recycled all of our Crypton offcuts and sampling by partnering with Textile Recyclers Group at their recycling depot in Sydney. They recycle back into yarn.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3064,
+        "location_name": "Revesby NSW, Australia",
+        "location_lat": -33.945247,
+        "location_lon": 151.018035,
+        "component": "Manufacture into finished blind",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3615,
+        "location_name": "Eibergen, Netherlands",
+        "location_lat": 52.10112,
+        "location_lon": 6.65336,
+        "material": "64% PVC / 36% Fibreglass",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2436,
+        "location_name": "Revesby NSW, Australia",
+        "location_lat": -33.945247,
+        "location_lon": 151.018035,
+        "location_state": " Australia",
+        "location_city": "Revesby NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Verosol’s approach to Product Stewardship is comprehensive. It includes minimising the carbon footprints of all our offices and \r\nmanufacturing facilities; the development of a Product Take Back Program; a Waste to Energy Program; Waste Recycling Programs \r\nat our facilities in the Netherlands and Australia; regulatory compliance in all countries in which we operate; responsible sourcing \r\nof materials; and concerted efforts in terms of Material Re-Use and Product Conversion.\r\ni) Carbon Footprint Reduction\r\nAcknowledging the significant contribution that poor manufacturing practices can make to greenhouse emissions, we make every \r\neffort to ensure our manufacturing facilities in Australia and the Netherlands are as efficient as possible. Our efforts to reduce \r\noperational carbon include the installation of rooftop solar cells at our plants in Sydney and The Netherlands, and the installation \r\nof LED lighting in our Sydney plant and office..\r\nOur Australian production facility in 2023, has moved beyond climate neutral goals becoming carbon positive with the expansion\r\nof the existing solar panel system. The facility now produces a large surplus of renewable energy, offsetting more energy than the\r\nsite consumes.\r\nFor more information visit: https://verosol.com.au/product-stewardship/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3183,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/compliance/AWTA-FR_Report-SilverScreen-Performance-ASNZS-1530.2-1993-ASNZS-1530.3-1999.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "100% recycled cardboard cores and clear plastic wrap. Pallets and cardboard boxes are used for large volumes",
+    "files": [
+      {
+        "id": 4560,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/VOC/Environment-GREENGUARD-Gold-Certification-SilverScreen-202-205.pdf"
+      },
+      {
+        "id": 4561,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/ModernSlaveryAssessment/2024-04-Verosol-CSR-Statement.pdf"
+      },
+      {
+        "id": 4562,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/ModernSlaveryActionPlan/2024-04-Verosol-CSR-Statement.pdf"
+      }
+    ]
+  }
+]

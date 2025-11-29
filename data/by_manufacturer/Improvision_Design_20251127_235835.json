@@ -1,0 +1,666 @@
+[
+  {
+    "id": 1053,
+    "company": {
+      "id": 97,
+      "name": "IMPROVISION DESIGN"
+    },
+    "image": "products/IMPROVISION DESIGN/imgco-014.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-02-19T20:58:26.943998+00:00",
+    "last_update": "2025-03-05T13:00:00+00:00",
+    "created_by": {
+      "id": 1035,
+      "email": "office@improvision.com.au"
+    },
+    "updated_by": {
+      "id": 1035,
+      "email": "office@improvision.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Improvision Design",
+    "product_name": "Visionstitch Upholstery",
+    "product_code": "VS",
+    "product_description": "Custom stitched patterns on fabric, leather, vinyl - enhancing comfort, acoustics, and aesthetics.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 12,
+        "category_name": "Interior Equipment and Fittings (Incl. Sanitary and Fixed Items)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "2 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "51",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Foam offcuts are recycled, while fabric, leather, and vinyl offcuts are recycled or sold for hobbies.",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "Directly related to fabric chosen.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "We have dry manufacturing facilities. No waste water is generated in the manufacturing of our products.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Construction of any size as - Materials are ordered to size, minimizing offcuts and waste, with all offcuts fully recycled.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Upholstery comes fully stitched ready for installation.",
+    "manufacturing_locations": [
+      {
+        "id": 1928,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Upholstery",
+        "component_percentage": 50.0
+      },
+      {
+        "id": 1932,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Stitching",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2253,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Foam",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 2256,
+        "location_name": "",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Fabric, Leather, Vinyl",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1547,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1548,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1549,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1550,
+        "location_name": "Canberra ACT, Australia",
+        "location_lat": -35.280185,
+        "location_lon": 149.131032,
+        "location_state": " Australia",
+        "location_city": "Canberra ACT"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "https://improvision.com.au/sustainability/ \r\nhttps://improvision.com.au/visionstitch/ \r\nhttps://improvision.com.au/seamstitch/ \r\nhttps://improvision.com.au/how-to-spec/ \r\nhttps://improvision.com.au/fire-rating/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "We cover product to go to site with reusable blankets.",
+    "files": []
+  },
+  {
+    "id": 1054,
+    "company": {
+      "id": 97,
+      "name": "IMPROVISION DESIGN"
+    },
+    "image": "products/IMPROVISION DESIGN/SS10.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-02-19T21:33:29.625509+00:00",
+    "last_update": "2025-03-05T13:00:00+00:00",
+    "created_by": {
+      "id": 1035,
+      "email": "office@improvision.com.au"
+    },
+    "updated_by": {
+      "id": 1035,
+      "email": "office@improvision.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Improvision Design",
+    "product_name": "Seamstitch Upholstery",
+    "product_code": "SS",
+    "product_description": "Enhance the strength and aesthetics of your seams with SeamStitch",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 12,
+        "category_name": "Interior Equipment and Fittings (Incl. Sanitary and Fixed Items)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 28,
+        "category_name": "Other"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "2 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "We have dry manufacturing facilities. No waste water is generated in the manufacturing of our products.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Construction of any size as - Materials are ordered to size, minimizing offcuts and waste, with all offcuts fully recycled.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Upholstery comes fully stitched ready for installation.",
+    "manufacturing_locations": [
+      {
+        "id": 1930,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Upholstery",
+        "component_percentage": 50.0
+      },
+      {
+        "id": 1931,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Stitching",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2257,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Fabric",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 2258,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Stitching",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1551,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1552,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1553,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1554,
+        "location_name": "Canberra ACT, Australia",
+        "location_lat": -35.280185,
+        "location_lon": 149.131032,
+        "location_state": " Australia",
+        "location_city": "Canberra ACT"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "https://improvision.com.au/sustainability/ \r\nhttps://improvision.com.au/visionstitch/ \r\nhttps://improvision.com.au/seamstitch/ \r\nhttps://improvision.com.au/how-to-spec/ \r\nhttps://improvision.com.au/fire-rating/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "We cover product to go to site with reusable blankets.",
+    "files": []
+  },
+  {
+    "id": 1078,
+    "company": {
+      "id": 97,
+      "name": "IMPROVISION DESIGN"
+    },
+    "image": "products/IMPROVISION DESIGN/PXL_20230202_001340851.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-05T20:24:52.619554+00:00",
+    "last_update": "2025-03-05T13:00:00+00:00",
+    "created_by": {
+      "id": 1035,
+      "email": "office@improvision.com.au"
+    },
+    "updated_by": {
+      "id": 1035,
+      "email": "office@improvision.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Improvision Design",
+    "product_name": "Visionstitch Core Range",
+    "product_code": "VS",
+    "product_description": "Core Range Stitched on fabric, leather, vinyl - enhancing comfort, acoustics, and aesthetics.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 12,
+        "category_name": "Interior Equipment and Fittings (Incl. Sanitary and Fixed Items)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 28,
+        "category_name": "Other"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "2 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "51",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Foam offcuts are recycled, while fabric, leather, and vinyl offcuts are recycled or sold for hobbies.",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "Directly related to fabric chosen.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "We have dry manufacturing facilities. No waste water is generated in the manufacturing of our products.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Construction of any size as - Materials are ordered to size, minimizing offcuts and waste, with all offcuts fully recycled.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Upholstery comes fully stitched ready for installation.",
+    "manufacturing_locations": [
+      {
+        "id": 1933,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Upholstery",
+        "component_percentage": 50.0
+      },
+      {
+        "id": 1934,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Stitching",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2316,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Foam",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 2317,
+        "location_name": "",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Fabric, Leather, Vinyl",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1580,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1581,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1582,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1583,
+        "location_name": "Canberra ACT, Australia",
+        "location_lat": -35.280185,
+        "location_lon": 149.131032,
+        "location_state": " Australia",
+        "location_city": "Canberra ACT"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "https://improvision.com.au/sustainability/\r\nhttps://improvision.com.au/visionstitch/\r\nhttps://improvision.com.au/seamstitch/\r\nhttps://improvision.com.au/how-to-spec/\r\nhttps://improvision.com.au/fire-rating/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "We cover product to go to site with reusable blankets.",
+    "files": []
+  }
+]

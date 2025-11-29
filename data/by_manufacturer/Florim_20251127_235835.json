@@ -1,0 +1,271 @@
+[
+  {
+    "id": 1446,
+    "company": {
+      "id": 12,
+      "name": "Earp Brothers"
+    },
+    "image": "products/Earp Brothers/Screenshot_2025-09-19_2.51.27_PM.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-19T04:49:53.826628+00:00",
+    "last_update": "2025-09-18T14:00:00+00:00",
+    "created_by": {
+      "id": 99,
+      "email": "lukec@earp.com.au"
+    },
+    "updated_by": {
+      "id": 99,
+      "email": "lukec@earp.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Florim",
+    "product_name": "Authentic Luxe Pearl Matt 600X1200 (781136)",
+    "product_code": "781136",
+    "product_description": "The Authentic Luxe Travertine takes its inspiration from the timeless beauty of vein-cut travertine",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "600x600, 800x800, 600x1200,1200x1200",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "12-14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5404,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/certificates/Florim_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5405,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/certificates/Florim_Carbon_Zero.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5406,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/certificates/Florim_Sustainability_Statement.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5407,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/certificates/Florim_Recycled_Contect_Certification.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5408,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/certificates/Florim_Declaration_of_Performance.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5409,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/certificates/Florim_Occupational_Health_and_Safety_Certificate.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "https://www.florim.com/en/company/sustainability",
+    "recycling_process_description": "Road base",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The tiles recycled and be used in road base or 3rd party compounds",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes 100%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selecting the most appropriate pre-cut format",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5404,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/certificates/Florim_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5405,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/certificates/Florim_Carbon_Zero.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5406,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/certificates/Florim_Sustainability_Statement.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5407,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/certificates/Florim_Recycled_Contect_Certification.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5408,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/certificates/Florim_Declaration_of_Performance.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5409,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/certificates/Florim_Occupational_Health_and_Safety_Certificate.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Potential silicosis. Wear protection gear and appropriate masks",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Unsure",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Matt Finish\r\nSlip Resistant",
+    "manufacturing_locations": [
+      {
+        "id": 2730,
+        "location_name": "Fiorano Modenese, Province of Modena, Italy",
+        "location_lat": 44.538453,
+        "location_lon": 10.833902,
+        "component": "Quartz",
+        "component_percentage": 65.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3246,
+        "location_name": "Fiorano Modenese, Province of Modena, Italy",
+        "location_lat": 44.538453,
+        "location_lon": 10.833902,
+        "material": "Quartz",
+        "product_percentage": 65.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2289,
+        "location_name": "Carrington NSW, Australia",
+        "location_lat": -32.916035,
+        "location_lon": 151.765758,
+        "location_state": " Australia",
+        "location_city": "Carrington NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Please visit the Florim website to familiarise yourself with the wonderful work they do",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2976,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/compliance/Authentic_Luxe_Pearl_Travertine_6x12_SR_Slip_Test_Report.pdf",
+        "link": "",
+        "rating": "Indicative P5"
+      },
+      {
+        "id": 2977,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Earp%20Brothers/Authentic%20Luxe%20Pearl%20Matt%20600X1200%20%28781136%29/compliance/Authentic_Luxe.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled cardboard",
+    "files": []
+  }
+]

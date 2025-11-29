@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1115,
+    "company": {
+      "id": 15,
+      "name": "METZ SPECIALITY MATERIALS"
+    },
+    "image": "products/METZ SPECIALITY MATERIALS/102022_GatesCenter_0613-optimized_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-04-01T04:55:59.701638+00:00",
+    "last_update": "2025-04-23T14:00:00+00:00",
+    "created_by": {
+      "id": 2217,
+      "email": "enver@metztiles.com.au"
+    },
+    "updated_by": {
+      "id": 2217,
+      "email": "enver@metztiles.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Gresmanc",
+    "product_name": "Metz Presto Ceramic Facade",
+    "product_code": "Metz Presto Ceramic Cladding",
+    "product_description": "Metz Presto Ceramic Facade Systems",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      }
+    ],
+    "standard_dimensions": "w150-1200 h400-3000",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "6-10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4045,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Metz%20Presto%20Ceramic%20Facade/certificates/DAPcons-NTE-002-FAVEMANC_eng-signat.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 2.64,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 2.92,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 1.47,
+    "upfront_carbon_emissions": 1.47,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Production process  incorporates 100% recycled water.",
+    "transport_emissions_minimisation_techniques": "electric forklifts and delivery vehicles",
+    "minimisation_design_strategy": "The pieces can be delivered to the end user with the exact cuts/sizes indicated in the project to avoid wastage of material on site.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Spain has implemented the Protocol of 2014 to the Forced Labour Convention, 1930.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4045,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Metz%20Presto%20Ceramic%20Facade/certificates/DAPcons-NTE-002-FAVEMANC_eng-signat.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Only Dust during modification.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 20,
+    "factory_finished": true,
+    "factory_finished_description": "Matt Glazed, Gloss Glazed, Metallic, Stone, Wood, Natural and Printed surfaces",
+    "manufacturing_locations": [
+      {
+        "id": 2050,
+        "location_name": "Toledo, Spain",
+        "location_lat": 39.862832,
+        "location_lon": -4.027323,
+        "component": "Ceramic Tile",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2642,
+        "location_name": "Porzuna, Spain",
+        "location_lat": 39.146809,
+        "location_lon": -4.155215,
+        "material": "Clay",
+        "product_percentage": 57.0
+      },
+      {
+        "id": 2643,
+        "location_name": "Los Yébenes, Spain",
+        "location_lat": 39.581141,
+        "location_lon": -3.869348,
+        "material": "Chamote",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 2644,
+        "location_name": "Los Yébenes, Spain",
+        "location_lat": 39.581141,
+        "location_lon": -3.869348,
+        "material": "Recycled Clay",
+        "product_percentage": 23.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1734,
+        "location_name": "Huntingwood NSW 2148, Australia",
+        "location_lat": -33.797307,
+        "location_lon": 150.876739,
+        "location_state": " Australia",
+        "location_city": "Huntingwood NSW 2148"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2412,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Metz%20Presto%20Ceramic%20Facade/compliance/Metz_Presto_Ceramic_Tile_AS1530.1.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Wooden pallet and plastic cover",
+    "files": [
+      {
+        "id": 3402,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Metz%20Presto%20Ceramic%20Facade/RecycledContent/RECYCLED_MATERIAL_DECLARATION_FAVEMANC.pdf"
+      },
+      {
+        "id": 3411,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Metz%20Presto%20Ceramic%20Facade/LCA/DAPcons-NTE-002-FAVEMANC_eng-signat.pdf"
+      }
+    ]
+  }
+]

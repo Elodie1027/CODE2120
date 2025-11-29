@@ -1,0 +1,351 @@
+[
+  {
+    "id": 1358,
+    "company": {
+      "id": 186,
+      "name": "ACTIU AUSTRALIA"
+    },
+    "image": "products/ACTIU AUSTRALIA/sillas-colectividades-fluit-gallery-13.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-14T04:39:47.881513+00:00",
+    "last_update": "2025-08-13T14:00:00+00:00",
+    "created_by": {
+      "id": 2326,
+      "email": "alex.mcseveny@actiu.com"
+    },
+    "updated_by": {
+      "id": 2326,
+      "email": "alex.mcseveny@actiu.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Actiu",
+    "product_name": "Fluit",
+    "product_code": "FL160 01 00 1",
+    "product_description": "FLUIT is a multipurpose chair made with 100% recycled fibreglass and polypropylene plastic.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "H 796 mm, W 519 mm, D 536 mm D",
+    "price_per_unit": 200.0,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "1-10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5005,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACTIU%20AUSTRALIA/Fluit/certificates/220531_FLUIT_RECICLADA_CON_BRAZOS_FL16001002P50_EPD_-_EN_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5006,
+        "certification": "Forestry Stewardship Council",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/aen-coc-000109-in-name-712.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5007,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACTIU%20AUSTRALIA/Fluit/certificates/Certificate_Green_World_Compounding_-0276-_2021_EM.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5008,
+        "certification": "Other",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/bcorp-certificate-name-134.pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5009,
+        "certification": "Other",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/level2-name-690.zip",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5010,
+        "certification": "Other",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/well-id-2202263957-cert-105251-name-480.pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5011,
+        "certification": "Other",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/commitment-unglobal-compact-actiu-2024-en-name-721.pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5012,
+        "certification": "Other",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/certificado-leed-2023-name-810.pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5013,
+        "certification": "Other",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/certificados-aenor-huella-carbono-name-646.zip",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 759.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 1.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 38.0,
+    "upfront_carbon_emissions": 38.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "100% recyclable hard plastic.",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "100% recyclable back into hard plastic.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Hard plastic recycling (local curbside.)",
+    "water_reduction_techniques": "Yes- water reclamation. 12,000m3 rainwater tanks. 100% recycled water in all manufacturing.",
+    "transport_emissions_minimisation_techniques": "Carbon neutral warehousing facilities.",
+    "minimisation_design_strategy": "100% recyclable chair packaging.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "UN Global Compact",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://actiucdn.net/uploads/files/productos/certificados/codigo-etico-2024-en-name-147.pdf",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5005,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACTIU%20AUSTRALIA/Fluit/certificates/220531_FLUIT_RECICLADA_CON_BRAZOS_FL16001002P50_EPD_-_EN_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5006,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/aen-coc-000109-in-name-712.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 5007,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACTIU%20AUSTRALIA/Fluit/certificates/Certificate_Green_World_Compounding_-0276-_2021_EM.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5008,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/bcorp-certificate-name-134.pdf",
+        "rating": ""
+      },
+      {
+        "id": 5009,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/level2-name-690.zip",
+        "rating": ""
+      },
+      {
+        "id": 5010,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/well-id-2202263957-cert-105251-name-480.pdf",
+        "rating": ""
+      },
+      {
+        "id": 5011,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/commitment-unglobal-compact-actiu-2024-en-name-721.pdf",
+        "rating": ""
+      },
+      {
+        "id": 5012,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/certificado-leed-2023-name-810.pdf",
+        "rating": ""
+      },
+      {
+        "id": 5013,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://actiucdn.net/uploads/files/productos/certificados/certificados-aenor-huella-carbono-name-646.zip",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2524,
+        "location_name": "Castalla, Spain",
+        "location_lat": 38.593413,
+        "location_lon": -0.672536,
+        "component": "Mono Block Chair",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3076,
+        "location_name": "Castalla, Spain",
+        "location_lat": 38.593413,
+        "location_lon": -0.672536,
+        "material": "Recycled Polypropylene",
+        "product_percentage": 99.9
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2062,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 2063,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 2064,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Other",
+    "incomplete_details": "",
+    "other_comments": "B-Corp certified.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2731,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACTIU%20AUSTRALIA/Fluit/compliance/NF_P_92-501_1995_FLUIT_WING_BEE.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2732,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACTIU%20AUSTRALIA/Fluit/compliance/NF_P_92-501_1995_FLUIT_WING_BEE_LgzawM0.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "100% recycled cardboard. Water-based dyes and adhesives.",
+    "files": [
+      {
+        "id": 3770,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACTIU%20AUSTRALIA/Fluit/LCA/220531_FLUIT_RECICLADA_CON_BRAZOS_FL16001002P50_EPD_-_EN_1.pdf"
+      },
+      {
+        "id": 3771,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACTIU%20AUSTRALIA/Fluit/RecycledContent/220531_FLUIT_RECICLADA_CON_BRAZOS_FL16001002P50_EPD_-_EN_1.pdf"
+      },
+      {
+        "id": 3772,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACTIU%20AUSTRALIA/Fluit/ModernSlaveryAssessment/commitment-unglobal-compact-actiu-2024-en-name-721.pdf"
+      }
+    ]
+  }
+]

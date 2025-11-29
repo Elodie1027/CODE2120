@@ -1,0 +1,1030 @@
+[
+  {
+    "id": 1243,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Konkrit_Light_Grey_53azjqm.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-24T05:06:17.470156+00:00",
+    "last_update": "2025-05-23T14:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "CerAsia",
+    "product_name": "Konkrit Light Grey",
+    "product_code": "2521",
+    "product_description": "Neutral concrete look tile that evokes an elegant finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "600x600mm",
+    "price_per_unit": 28.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $28/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4400,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/241217_CER_GreenRate_Product_Level_A_v1.pdf",
+        "link": "https://www.globalgreentag.com/products/marco-polo-porcelain-tiles/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4401,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/ISO_50001_2018_EMS.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4402,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/2021-7-15_Low_Carbon_Product_Certification_-_2024-6-23_1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4403,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4404,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 11.17,
+    "upfront_carbon_emissions": 11.17,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be crushed and used as concrete aggregates or road construction.",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "After demolition and deconstruction, ceramic tiles can be crushed and used in a wide range of different applications, such as concrete aggregates or road construction.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "CerAsia adhere closely to the International Labour Organisation's standards for ethical employment. This ensures responsible sourcing of materials and labour. In addition, they incorporate socially and environmentally beneficial initiatives into their corporate strategy, focusing on conserving scarce resources.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4400,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/241217_CER_GreenRate_Product_Level_A_v1.pdf",
+        "link": "https://www.globalgreentag.com/products/marco-polo-porcelain-tiles/",
+        "rating": "undefined"
+      },
+      {
+        "id": 4401,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/ISO_50001_2018_EMS.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4402,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/2021-7-15_Low_Carbon_Product_Certification_-_2024-6-23_1.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4403,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4404,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.globalgreentag.com/products/marco-polo-porcelain-tiles/",
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "In/Out finish. Available in dark grey, ivory and white.",
+    "manufacturing_locations": [
+      {
+        "id": 2322,
+        "location_name": "Dongguan, Guangdong Province, China",
+        "location_lat": 23.02067,
+        "location_lon": 113.75179,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2819,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including kaolin, feldspar, quartz and calcium carbonate) ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1886,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Other",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2547,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Light%20Grey/compliance/Slip_Check_-_Konkrit_Light_Grey_2GWTtOQ.pdf",
+        "link": "",
+        "rating": "P5"
+      }
+    ],
+    "type_of_packaging": "Recycled plastic, wood and cardboard",
+    "files": [
+      {
+        "id": 3477,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Light%20Grey/VOC/241217_CER_GreenRate_Product_Level_A_v1_IfmN12i.pdf"
+      },
+      {
+        "id": 3478,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Light%20Grey/LCA/2021-7-15_Low_Carbon_Product_Certification_-_2024-6-23_augK8Cq.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1245,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Konkrit_Dark_Grey_ujTJt4a.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-24T05:11:09.838419+00:00",
+    "last_update": "2025-05-23T14:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "CerAsia",
+    "product_name": "Konkrit Dark Grey",
+    "product_code": "2354, 2480 & 2481",
+    "product_description": "Neutral concrete look tile that evokes an elegant finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "300x300mm, 300x600mm & 600X600mm",
+    "price_per_unit": 31.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $31/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4410,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/241217_CER_GreenRate_Product_Level_A_v1.pdf",
+        "link": "https://www.globalgreentag.com/products/marco-polo-porcelain-tiles/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4411,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/ISO_50001_2018_EMS.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4412,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/2021-7-15_Low_Carbon_Product_Certification_-_2024-6-23_1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4413,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4414,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 11.17,
+    "upfront_carbon_emissions": 11.17,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be crushed and used as concrete aggregates or road construction.",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "After demolition and deconstruction, ceramic tiles can be crushed and used in a wide range of different applications, such as concrete aggregates or road construction.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "CerAsia adhere closely to the International Labour Organisation's standards for ethical employment. This ensures responsible sourcing of materials and labour. In addition, they incorporate socially and environmentally beneficial initiatives into their corporate strategy, focusing on conserving scarce resources.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4410,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/241217_CER_GreenRate_Product_Level_A_v1.pdf",
+        "link": "https://www.globalgreentag.com/products/marco-polo-porcelain-tiles/",
+        "rating": "undefined"
+      },
+      {
+        "id": 4411,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/ISO_50001_2018_EMS.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4412,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/2021-7-15_Low_Carbon_Product_Certification_-_2024-6-23_1.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4413,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4414,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.globalgreentag.com/products/marco-polo-porcelain-tiles/",
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "In/Out finish.\r\nAvailable in light grey, ivory and white.",
+    "manufacturing_locations": [
+      {
+        "id": 2324,
+        "location_name": "Dongguan, Guangdong Province, China",
+        "location_lat": 23.02067,
+        "location_lon": 113.75179,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2821,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including kaolin, feldspar, quartz and calcium carbonate) ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1888,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Other",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2551,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Dark%20Grey/compliance/Slip_Check_-_Konkrit_Dark_Grey_NLNYEWa.pdf",
+        "link": "",
+        "rating": "P5"
+      }
+    ],
+    "type_of_packaging": "Recycled plastic, wood and cardboard",
+    "files": [
+      {
+        "id": 3485,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Dark%20Grey/VOC/241217_CER_GreenRate_Product_Level_A_v1_MoZJQQI.pdf"
+      },
+      {
+        "id": 3486,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Dark%20Grey/LCA/2021-7-15_Low_Carbon_Product_Certification_-_2024-6-23_CiP6ufo.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1246,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Konkrit_White_3sj1JC7.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-24T05:12:58.730321+00:00",
+    "last_update": "2025-05-23T14:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "CerAsia",
+    "product_name": "Konkrit White",
+    "product_code": "2476, 2477 & 2352",
+    "product_description": "Neutral concrete look tile that evokes an elegant finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "300x300mm, 300x600mm & 600X600mm",
+    "price_per_unit": 30.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $30/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4415,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/241217_CER_GreenRate_Product_Level_A_v1.pdf",
+        "link": "https://www.globalgreentag.com/products/marco-polo-porcelain-tiles/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4416,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/ISO_50001_2018_EMS.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4417,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/2021-7-15_Low_Carbon_Product_Certification_-_2024-6-23_1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4418,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4419,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 11.17,
+    "upfront_carbon_emissions": 11.17,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be crushed and used as concrete aggregates or road construction.",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "After demolition and deconstruction, ceramic tiles can be crushed and used in a wide range of different applications, such as concrete aggregates or road construction.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "CerAsia adhere closely to the International Labour Organisation's standards for ethical employment. This ensures responsible sourcing of materials and labour. In addition, they incorporate socially and environmentally beneficial initiatives into their corporate strategy, focusing on conserving scarce resources.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4415,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/241217_CER_GreenRate_Product_Level_A_v1.pdf",
+        "link": "https://www.globalgreentag.com/products/marco-polo-porcelain-tiles/",
+        "rating": "undefined"
+      },
+      {
+        "id": 4416,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/ISO_50001_2018_EMS.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4417,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/2021-7-15_Low_Carbon_Product_Certification_-_2024-6-23_1.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4418,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4419,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.globalgreentag.com/products/marco-polo-porcelain-tiles/",
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "In/Out finish.\r\nAvailable in dark grey, light grey and ivory.",
+    "manufacturing_locations": [
+      {
+        "id": 2325,
+        "location_name": "Dongguan, Guangdong Province, China",
+        "location_lat": 23.02067,
+        "location_lon": 113.75179,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2822,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including kaolin, feldspar, quartz and calcium carbonate) ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1889,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Other",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2553,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20White/compliance/Slip_Check_-_Konkrit_White_Ujd8xYr.pdf",
+        "link": "",
+        "rating": "P5"
+      }
+    ],
+    "type_of_packaging": "Recycled plastic, wood and cardboard",
+    "files": [
+      {
+        "id": 3489,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20White/VOC/241217_CER_GreenRate_Product_Level_A_v1_FkpLQ2g.pdf"
+      },
+      {
+        "id": 3490,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20White/LCA/2021-7-15_Low_Carbon_Product_Certification_-_2024-6-23_uFMEYve.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1247,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Konkrit_Ivory_iivIfWe.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-24T05:15:49.009595+00:00",
+    "last_update": "2025-05-23T14:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "CerAsia",
+    "product_name": "Konkrit Ivory",
+    "product_code": "2479 & 2353",
+    "product_description": "Neutral concrete look tile that evokes an elegant finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "300x300mm & 600x600mm",
+    "price_per_unit": 29.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $29/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4420,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/241217_CER_GreenRate_Product_Level_A_v1.pdf",
+        "link": "https://www.globalgreentag.com/products/marco-polo-porcelain-tiles/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4421,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/ISO_50001_2018_EMS.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4422,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/2021-7-15_Low_Carbon_Product_Certification_-_2024-6-23_1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4423,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4424,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 11.17,
+    "upfront_carbon_emissions": 11.17,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be crushed and used as concrete aggregates or road construction.",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "After demolition and deconstruction, ceramic tiles can be crushed and used in a wide range of different applications, such as concrete aggregates or road construction.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "CerAsia adhere closely to the International Labour Organisation's standards for ethical employment. This ensures responsible sourcing of materials and labour. In addition, they incorporate socially and environmentally beneficial initiatives into their corporate strategy, focusing on conserving scarce resources.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4420,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/241217_CER_GreenRate_Product_Level_A_v1.pdf",
+        "link": "https://www.globalgreentag.com/products/marco-polo-porcelain-tiles/",
+        "rating": "undefined"
+      },
+      {
+        "id": 4421,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/ISO_50001_2018_EMS.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4422,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/2021-7-15_Low_Carbon_Product_Certification_-_2024-6-23_1.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4423,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4424,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/certificates/BSI_Certificate_of_Registration_ISO9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.globalgreentag.com/products/marco-polo-porcelain-tiles/",
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "In/Out finish. Available in dark grey, light grey and white.",
+    "manufacturing_locations": [
+      {
+        "id": 2326,
+        "location_name": "Dongguan, Guangdong Province, China",
+        "location_lat": 23.02067,
+        "location_lon": 113.75179,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2823,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including kaolin, feldspar, quartz and calcium carbonate) ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1890,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Other",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2555,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/compliance/Slip_Check_-_Konkrit_kSMWdZ0.pdf",
+        "link": "",
+        "rating": "P5"
+      }
+    ],
+    "type_of_packaging": "Recycled plastic, wood and cardboard",
+    "files": [
+      {
+        "id": 3493,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/VOC/241217_CER_GreenRate_Product_Level_A_v1_pl8ClkP.pdf"
+      },
+      {
+        "id": 3494,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Konkrit%20Ivory/LCA/2021-7-15_Low_Carbon_Product_Certification_-_2024-6-23.pdf"
+      }
+    ]
+  }
+]

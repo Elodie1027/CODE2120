@@ -1,0 +1,273 @@
+[
+  {
+    "id": 1547,
+    "company": {
+      "id": 221,
+      "name": "AMTICO INTERNATIONAL PTY LTD"
+    },
+    "image": "products/AMTICO INTERNATIONAL PTY LTD/Amtico_Tempus7766_RT.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-02T23:30:24.323761+00:00",
+    "last_update": "2025-11-26T13:00:00+00:00",
+    "created_by": {
+      "id": 3064,
+      "email": "scott.begnell@amtico.com"
+    },
+    "updated_by": {
+      "id": 3064,
+      "email": "scott.begnell@amtico.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Amtico International Pty Ltd",
+    "product_name": "Signature Bio Stones",
+    "product_code": "AROS",
+    "product_description": "Signature Bio Stones - 2.5mm / 1mm wear layer",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "457.2mm x 457.2mm",
+    "price_per_unit": 43.6,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5926,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/certificates/amtico-signature-environmental-product-declaration.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5927,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/certificates/amtico-signature-global-green-tag_exp-15-11-24.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5928,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/certificates/amtico-signature-bio-life-cycle-analysis.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5929,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/certificates/amtico-signature-spacia-form-bio-acoustic-iac-gold-certificate-en.pdf",
+        "link": "",
+        "rating": "Gold",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Resiloop are able to repurpose this product using Think Manufacturing",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Resiloop to Think Manufacturing",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "Resiloop are able to repurpose this product using Think Manufacturing",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Resiloop can be used for recycling.",
+    "water_reduction_techniques": "Both recycled and on-site harvested water eliminates use of potable water",
+    "transport_emissions_minimisation_techniques": "Delivery vehicles in the UK are Electric, Diesel in Australia (by a third party)",
+    "minimisation_design_strategy": "Room sizes, pack sizes",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5926,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/certificates/amtico-signature-environmental-product-declaration.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5927,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/certificates/amtico-signature-global-green-tag_exp-15-11-24.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5928,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/certificates/amtico-signature-bio-life-cycle-analysis.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5929,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/certificates/amtico-signature-spacia-form-bio-acoustic-iac-gold-certificate-en.pdf",
+        "link": "",
+        "rating": "Gold"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 20,
+    "factory_finished": true,
+    "factory_finished_description": "Quantum Guard factory finish - stain and scratch resistant coating",
+    "manufacturing_locations": [
+      {
+        "id": 3118,
+        "location_name": "Solihull, UK",
+        "location_lat": 52.411811,
+        "location_lon": -1.77761,
+        "component": "Vinyl tile",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3600,
+        "location_name": "Solihull, UK",
+        "location_lat": 52.411811,
+        "location_lon": -1.77761,
+        "material": "non-fossil fuel sourced PVC",
+        "product_percentage": 61.0
+      },
+      {
+        "id": 3601,
+        "location_name": "Solihull, UK",
+        "location_lat": 52.411811,
+        "location_lon": -1.77761,
+        "material": "PVC",
+        "product_percentage": 39.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2430,
+        "location_name": "Solihull District, UK",
+        "location_lat": 52.405075,
+        "location_lon": -1.750151,
+        "location_state": " UK",
+        "location_city": "Solihull District"
+      },
+      {
+        "id": 2431,
+        "location_name": "Gregory Hills NSW, Australia",
+        "location_lat": -34.02794,
+        "location_lon": 150.775129,
+        "location_state": " Australia",
+        "location_city": "Gregory Hills NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 3170,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/compliance/2023_HK_CTC_WT2023B03A00914_EN13501Fire_Class__SignatureSpaciaForm_Group_test.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3171,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/compliance/2023_AU_CSIRO_FNR13141_FIRE_CERT_Spacia_C.pdf",
+        "link": "",
+        "rating": "P5"
+      },
+      {
+        "id": 3172,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/compliance/2023_AU_CSIRO_FNR13143_AS_ISO_9239-1_Reaction_to_Fire_First_C.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Cardboard packaging (recyclable), pallets which can be reused",
+    "files": [
+      {
+        "id": 4548,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/LCA/amtico-signature-bio-life-cycle-analysis.pdf"
+      },
+      {
+        "id": 4584,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AMTICO%20INTERNATIONAL%20PTY%20LTD/Signature%20Bio%20Stones/VOC/amtico-signature-spacia-form-bio-acoustic-iac-gold-certificate-en.pdf"
+      }
+    ]
+  }
+]

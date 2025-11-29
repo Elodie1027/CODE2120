@@ -1,0 +1,1622 @@
+[
+  {
+    "id": 603,
+    "company": {
+      "id": 128,
+      "name": "SPECTRUM FLOORS"
+    },
+    "image": "products/SPECTRUM FLOORS/NMP_4196_E_Liminal_HYI_NatashaMulhall_highres.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-24T03:59:25.179803+00:00",
+    "last_update": "2024-11-20T13:00:00+00:00",
+    "created_by": {
+      "id": 291,
+      "email": "lloyd@spectrumfloors.com.au"
+    },
+    "updated_by": {
+      "id": 291,
+      "email": "lloyd@spectrumfloors.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Artigo",
+    "product_name": "Spectrum Contract 2Mm Rubber",
+    "product_code": "Dharma and Granito",
+    "product_description": "Contract sheet rubber flooring",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "14 x 1.9m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In stock or 12 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1652,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_05.1-_IACG_certificate.pdf",
+        "link": "",
+        "rating": "M1",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1654,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Blue_Angel_Dharma.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1655,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1661,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_29.3c_-_Cradle_to_Cradle_certification.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1662,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion__-_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1663,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/GECA_2023.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1664,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03_3God4kW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": 0.04,
+    "upfront_carbon_emissions": 0.04,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Rubber recyclers in most capital cities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "What is not left for spare material can be recycled",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "It may be used for recycled rubber products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Can be recycled by rubber recyclers",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "Shipped to project where possible and direct delivery with central warehousing and electric handling equipment",
+    "minimisation_design_strategy": "Minimizing the joints and leave leftover material for repairs",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1652,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_05.1-_IACG_certificate.pdf",
+        "link": "",
+        "rating": "M1"
+      },
+      {
+        "id": 1654,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Blue_Angel_Dharma.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1655,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1661,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_29.3c_-_Cradle_to_Cradle_certification.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1662,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion__-_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1663,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/GECA_2023.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1664,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03_3God4kW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 35,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "PRO1 - Low maintenance easy clean surface not requiring any sealing after installation.",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 1553,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Synthetic Rubber",
+        "product_percentage": 22.0
+      },
+      {
+        "id": 1517,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Calcium Carbonate",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 1518,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Reused & Recycled Rubber",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 1519,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Amorphous Silca & Kaolin",
+        "product_percentage": 33.0
+      },
+      {
+        "id": 1520,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Additives & Titanium Dioxide & Pigments",
+        "product_percentage": 9.5
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1116,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Water Based adhesives which is low VOC",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 75,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "Cardboard and recycled materials",
+    "files": [
+      {
+        "id": 1472,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/LCA/Cradle_to_Grave_extract_from_EPD.jpg"
+      },
+      {
+        "id": 1476,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/RecycledContent/Material_composition_from_EPD.jpg"
+      },
+      {
+        "id": 1479,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/ModernSlaveryAssessment/Criterion_34.1_-_Modern_Slavery__Human_Trafficking.pdf"
+      },
+      {
+        "id": 1480,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/ModernSlaveryActionPlan/Criterion_34.1_-_Modern_Slavery__Human_Trafficking.pdf"
+      },
+      {
+        "id": 1773,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/VOC/VOC_Granito_90650-03.pdf"
+      },
+      {
+        "id": 1792,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/VOC/VOC_ENVIRONMENTAL_CERT_-_KAYAR_UNI_GRANITO.pdf"
+      }
+    ]
+  },
+  {
+    "id": 614,
+    "company": {
+      "id": 128,
+      "name": "SPECTRUM FLOORS"
+    },
+    "image": "products/SPECTRUM FLOORS/IMG_7145.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-24T05:32:04.288035+00:00",
+    "last_update": "2024-10-31T13:00:00+00:00",
+    "created_by": {
+      "id": 291,
+      "email": "lloyd@spectrumfloors.com.au"
+    },
+    "updated_by": {
+      "id": 291,
+      "email": "lloyd@spectrumfloors.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Artigo",
+    "product_name": "Spectrum Contract 3Mm Rubber",
+    "product_code": "Grain and Screed",
+    "product_description": "Contract sheet rubber flooring",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "10 x 1.9m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In stock or 12 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1686,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_05.1-_IACG_certificate.pdf",
+        "link": "",
+        "rating": "M1",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1687,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Blue_Angel_Dharma.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1688,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1689,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_29.3c_-_Cradle_to_Cradle_certification.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1690,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion__-_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1691,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/GECA_2023.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1692,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03_3God4kW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Rubber recyclers in most capital cities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "What is not left for spare material can be recycled",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "Rubber recyclers in most capital cities",
+    "recycling_process_description": "It may be used for recycled rubber products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "Shipped to project where possible and direct delivery with central warehousing and electric handling equipment",
+    "minimisation_design_strategy": "Minimizing the joints and leave leftover material for repairs",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1686,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_05.1-_IACG_certificate.pdf",
+        "link": "",
+        "rating": "M1"
+      },
+      {
+        "id": 1687,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Blue_Angel_Dharma.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1688,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1689,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_29.3c_-_Cradle_to_Cradle_certification.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1690,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion__-_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1691,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/GECA_2023.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1692,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03_3God4kW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 35,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "PRO1 - Low maintenance easy clean surface not requiring any sealing after installation.",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 1571,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Synthetic Rubber",
+        "product_percentage": 22.0
+      },
+      {
+        "id": 1572,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Calcium Carbonate",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 1573,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Reused & Recycled Rubber ",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 1574,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Amorphous Silca & Kaolin",
+        "product_percentage": 33.0
+      },
+      {
+        "id": 1575,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Additives & Titanium Dioxide & Pigments",
+        "product_percentage": 9.5
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1117,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Water Based adhesives which is low VOC",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 71,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "Cardboard and recycled materials",
+    "files": [
+      {
+        "id": 1487,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/VOC/Criterion_05.1-_IACG_certificate.pdf"
+      },
+      {
+        "id": 1488,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/LCA/Cradle_to_Grave_extract_from_EPD.jpg"
+      },
+      {
+        "id": 1492,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/ModernSlaveryAssessment/Criterion_34.1_-_Modern_Slavery__Human_Trafficking.pdf"
+      },
+      {
+        "id": 1493,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/ModernSlaveryActionPlan/Criterion_34.1_-_Modern_Slavery__Human_Trafficking.pdf"
+      },
+      {
+        "id": 1793,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%203Mm%20Rubber/VOC/VOC_ENVIRONMENTAL_CERT_-_KAYAR_UNI_GRANITO.pdf"
+      }
+    ]
+  },
+  {
+    "id": 615,
+    "company": {
+      "id": 128,
+      "name": "SPECTRUM FLOORS"
+    },
+    "image": "products/SPECTRUM FLOORS/NMA_RESIZED.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-24T05:34:19.596608+00:00",
+    "last_update": "2024-10-31T13:00:00+00:00",
+    "created_by": {
+      "id": 291,
+      "email": "lloyd@spectrumfloors.com.au"
+    },
+    "updated_by": {
+      "id": 291,
+      "email": "lloyd@spectrumfloors.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Artigo",
+    "product_name": "Spectrum Contract 3Mm Lava Rubber",
+    "product_code": "Lava",
+    "product_description": "Contract sheet rubber flooring",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "10 x 1.9m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In stock or 12 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1693,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_05.1-_IACG_certificate.pdf",
+        "link": "",
+        "rating": "M1",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1694,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Blue_Angel_Dharma.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1695,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1696,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_29.3c_-_Cradle_to_Cradle_certification.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1697,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion__-_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1698,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/GECA_2023.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1699,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03_3God4kW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": 0.04,
+    "upfront_carbon_emissions": 0.04,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Rubber Recyclers in any capital city",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Recycled for other products",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "Any products that require recycled rubber",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Recycled by any Rubber recyclers",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "Shipped to project where possible and direct delivery with central warehousing and electric handling equipment",
+    "minimisation_design_strategy": "Room layouts and leaving material for repairs",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1693,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_05.1-_IACG_certificate.pdf",
+        "link": "",
+        "rating": "M1"
+      },
+      {
+        "id": 1694,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Blue_Angel_Dharma.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1695,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1696,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_29.3c_-_Cradle_to_Cradle_certification.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1697,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion__-_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1698,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/GECA_2023.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1699,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03_3God4kW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 35,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "PRO1 - Low maintenance easy clean surface not requiring any sealing after installation.",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 1576,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Synthetic Rubber",
+        "product_percentage": 22.0
+      },
+      {
+        "id": 1579,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Amorphous Silca & Kaolin",
+        "product_percentage": 33.0
+      },
+      {
+        "id": 1577,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Calcium Carbonate ",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 1580,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Additives & Titanium Dioxide & Pigments",
+        "product_percentage": 9.5
+      },
+      {
+        "id": 1578,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Reused & Recycled Rubber",
+        "product_percentage": 20.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1118,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Water based adhesives with low VOCs",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 75,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "Cardboard and recycled packaging",
+    "files": [
+      {
+        "id": 1494,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/VOC/Criterion_05.1-_IACG_certificate.pdf"
+      },
+      {
+        "id": 1495,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/LCA/Cradle_to_Grave_extract_from_EPD.jpg"
+      },
+      {
+        "id": 1496,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/LCA/LCA_Extract_from_EPD.pdf"
+      },
+      {
+        "id": 1497,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/LCA/LCA_Extract_from_EPD_UjKAcnq.pdf"
+      },
+      {
+        "id": 1498,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/RecycledContent/Material_composition_from_EPD.jpg"
+      },
+      {
+        "id": 1499,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/ModernSlaveryAssessment/Criterion_34.1_-_Modern_Slavery__Human_Trafficking.pdf"
+      },
+      {
+        "id": 1500,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/ModernSlaveryActionPlan/Criterion_34.1_-_Modern_Slavery__Human_Trafficking.pdf"
+      },
+      {
+        "id": 1794,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%203Mm%20Lava%20Rubber/VOC/VOC_ENVIRONMENTAL_CERT_-_KAYAR_UNI_GRANITO.pdf"
+      }
+    ]
+  },
+  {
+    "id": 616,
+    "company": {
+      "id": 128,
+      "name": "SPECTRUM FLOORS"
+    },
+    "image": "products/SPECTRUM FLOORS/20231127_132801.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-24T05:36:26.380004+00:00",
+    "last_update": "2024-11-20T13:00:00+00:00",
+    "created_by": {
+      "id": 291,
+      "email": "lloyd@spectrumfloors.com.au"
+    },
+    "updated_by": {
+      "id": 291,
+      "email": "lloyd@spectrumfloors.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Artigo",
+    "product_name": "Spectrum Gaia Contract Rubber",
+    "product_code": "Kayar and Uni",
+    "product_description": "Contract sheet rubber flooring",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "10 x 1.9m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In stock or 12 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1700,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_05.1-_IACG_certificate.pdf",
+        "link": "",
+        "rating": "M1",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1701,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Blue_Angel_Dharma.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1702,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1703,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_29.3c_-_Cradle_to_Cradle_certification.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1704,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion__-_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1705,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/GECA_2023.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1706,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03_3God4kW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1700,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_05.1-_IACG_certificate.pdf",
+        "link": "",
+        "rating": "M1"
+      },
+      {
+        "id": 1701,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Blue_Angel_Dharma.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1702,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1703,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_29.3c_-_Cradle_to_Cradle_certification.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1704,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion__-_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1705,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/GECA_2023.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1706,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03_3God4kW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 35,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "PRO2 - silky matte finish consists of dual technology coating combining UV and laser giving an excellent dirt and scratch resistance, while still being easy to maintain",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 1569,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Silica & Kalin- Bio-based from rice Husks",
+        "product_percentage": 36.0
+      },
+      {
+        "id": 1570,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Various Additives, Titanium Dioxide and pigments",
+        "product_percentage": 11.5
+      },
+      {
+        "id": 1565,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Synthetic Rubber",
+        "product_percentage": 22.0
+      },
+      {
+        "id": 1566,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Calcium Carbonate",
+        "product_percentage": 8.0
+      },
+      {
+        "id": 1567,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Reused & Recycled Rubber ",
+        "product_percentage": 21.5
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1115,
+        "location_name": "Tonsley SA, Australia",
+        "location_lat": -35.014633,
+        "location_lon": 138.57069,
+        "location_state": " Australia",
+        "location_city": "Tonsley SA"
+      }
+    ],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 25,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "",
+    "files": [
+      {
+        "id": 1501,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/VOC/Criterion_05.1-_IACG_certificate.pdf"
+      },
+      {
+        "id": 1505,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/RecycledContent/Material_composition_from_EPD.jpg"
+      },
+      {
+        "id": 1506,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/ModernSlaveryAssessment/Criterion_34.1_-_Modern_Slavery__Human_Trafficking.pdf"
+      },
+      {
+        "id": 1507,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/ModernSlaveryActionPlan/Criterion_34.1_-_Modern_Slavery__Human_Trafficking.pdf"
+      },
+      {
+        "id": 1784,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Gaia%20Contract%20Rubber/LCA/105.1_EPD_Artigo__2_to_5mm_GAIA.pdf"
+      },
+      {
+        "id": 1791,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Gaia%20Contract%20Rubber/RecycledContent/105.1_EPD_Artigo__2_to_5mm_GAIA.pdf"
+      }
+    ]
+  },
+  {
+    "id": 617,
+    "company": {
+      "id": 128,
+      "name": "SPECTRUM FLOORS"
+    },
+    "image": "products/SPECTRUM FLOORS/WhatsApp_Image_2020-03-03_at_16.01.22.jpeg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-24T05:42:16.886914+00:00",
+    "last_update": "2024-10-31T13:00:00+00:00",
+    "created_by": {
+      "id": 291,
+      "email": "lloyd@spectrumfloors.com.au"
+    },
+    "updated_by": {
+      "id": 291,
+      "email": "lloyd@spectrumfloors.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Artigo",
+    "product_name": "Spectrum Classic Stud Rubber Tile",
+    "product_code": "Classic stud 2.7",
+    "product_description": "Studded rubber tile 500 x 500 x 2.7mm",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "500 x 500 x 2.7mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In stock or 12 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1707,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_05.1-_IACG_certificate.pdf",
+        "link": "",
+        "rating": "M1",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1708,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Blue_Angel_Dharma.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1709,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1710,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_29.3c_-_Cradle_to_Cradle_certification.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1711,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion__-_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1712,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/GECA_2023.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1713,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03_3God4kW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Rubber recyclers can recycle it in each city.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "What is not left for spare material can be recycled",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "It may be used for recycled rubber products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "Shipped to project where possible and direct delivery with central warehousing and electric handling equipment",
+    "minimisation_design_strategy": "Tile format so minimum waste",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1707,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_05.1-_IACG_certificate.pdf",
+        "link": "",
+        "rating": "M1"
+      },
+      {
+        "id": 1708,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Blue_Angel_Dharma.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1709,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1710,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion_29.3c_-_Cradle_to_Cradle_certification.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1711,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Criterion__-_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1712,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/GECA_2023.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1713,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/certificates/Granito_90650-03_3God4kW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 35,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "PRO1 - Low maintenance easy clean surface not requiring any sealing after installation.",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 1560,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Synthetic Rubber ",
+        "product_percentage": 22.0
+      },
+      {
+        "id": 1561,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Calcium Carbonate",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 1562,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Reused & Recycled Rubber",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 1563,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Amorphous Silca & Kaolin",
+        "product_percentage": 33.0
+      },
+      {
+        "id": 1564,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Additives & Titanium Dioxide & Pigments",
+        "product_percentage": 9.5
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1114,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Water Based adhesives which is low VOC",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 71,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "Cardboard and recycled materials",
+    "files": [
+      {
+        "id": 1508,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/VOC/Criterion_05.1-_IACG_certificate.pdf"
+      },
+      {
+        "id": 1511,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/LCA/LCA_Extract_from_EPD_UjKAcnq.pdf"
+      },
+      {
+        "id": 1513,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/ModernSlaveryAssessment/Criterion_34.1_-_Modern_Slavery__Human_Trafficking.pdf"
+      },
+      {
+        "id": 1514,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Contract%202Mm%20Rubber/ModernSlaveryActionPlan/Criterion_34.1_-_Modern_Slavery__Human_Trafficking.pdf"
+      },
+      {
+        "id": 1783,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SPECTRUM%20FLOORS/Spectrum%20Classic%20Stud%20Rubber%20Tile/VOC/ENVIRONMENTAL_CERT_Artigo_VOC__ARTIGO_-_CLASSIC_ZERO.pdf"
+      }
+    ]
+  }
+]

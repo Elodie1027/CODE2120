@@ -1,0 +1,3211 @@
+[
+  {
+    "id": 85,
+    "company": {
+      "id": 30,
+      "name": "BREEZWAY AUSTRALIA"
+    },
+    "image": "",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-08T00:30:25.282680+00:00",
+    "last_update": "2024-03-08T00:49:29.126224+00:00",
+    "created_by": {
+      "id": 154,
+      "email": "brad.mead@breezway.com.au"
+    },
+    "updated_by": {
+      "id": 154,
+      "email": "brad.mead@breezway.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Breezway Australia",
+    "product_name": "Louvre Windows",
+    "product_code": null,
+    "product_description": "Various louvre window products",
+    "product_categories": [
+      {
+        "id": 20,
+        "category_name": "Glass and glazing"
+      },
+      {
+        "id": 21,
+        "category_name": "Hardware (Door, Window, Joinery)"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "152mm blade",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": null,
+    "installation_risks_description": "",
+    "substances_of_concern": null,
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": null,
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Powdercoat, performance powdercoat & anodised finishes available",
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Powdercoat or anodised",
+    "section_A_score": 60,
+    "section_B_score": 0,
+    "section_C_score": 0,
+    "section_D_score": 25,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "",
+    "files": []
+  },
+  {
+    "id": 103,
+    "company": {
+      "id": 30,
+      "name": "BREEZWAY AUSTRALIA"
+    },
+    "image": "",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-13T05:06:28.799366+00:00",
+    "last_update": "2024-03-13T05:11:59.487459+00:00",
+    "created_by": {
+      "id": 173,
+      "email": "nathan.boyd@breezway.com.au"
+    },
+    "updated_by": {
+      "id": 173,
+      "email": "nathan.boyd@breezway.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Breezway Pty Ltd",
+    "product_name": "Altair Louvres",
+    "product_code": null,
+    "product_description": null,
+    "product_categories": [
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "Various",
+    "price_per_unit": null,
+    "product_functional_unit": "m3",
+    "price_adjustment_structure": null,
+    "lead_time": "7 Days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": null,
+    "installation_risks_description": "",
+    "substances_of_concern": null,
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": null,
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Assembled window systems and window hardware",
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 0,
+    "section_D_score": 50,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "",
+    "files": []
+  },
+  {
+    "id": 126,
+    "company": {
+      "id": 17,
+      "name": "FORESTONE"
+    },
+    "image": "products/FORESTONE/02PI_PR_PH_fur_eurolight_50mm_H3170_Reduced.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-08T00:32:36.535732+00:00",
+    "last_update": "2024-07-10T14:00:00+00:00",
+    "created_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "updated_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Fritz EGGER GmbH & CO.",
+    "product_name": "Eurolight Decorative Faced 2800 X 2070 X 50Mm Light-Weight Composite Panel",
+    "product_code": "EGGEREURLGHT",
+    "product_description": "Eurolight decor is a decorative composite board consisting of melamine-resin-coated thin chipboard.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "2800 x 2070 x 50mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 223,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 224,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/CF_EGGER_Eurodekor_JP_F03_VOC_T%C3%9CV_PROFiCERT_Unterradlberg_en.pdf",
+        "link": "",
+        "rating": "0.3mg/l Formaldehyde (No VOC)",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 225,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/ISO_Certificate_14001_IQNet_2024.pdf",
+        "link": "",
+        "rating": "ISO 14001 Compliance",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 226,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/Confirmation_for_compliance_of_REACH_order_1907-2006-EC_SVHC_List.pdf",
+        "link": "",
+        "rating": "Compliance with REACH",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 227,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 228,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/BR_Sustainability_Report_2022_EN.pdf",
+        "link": "",
+        "rating": "EGGER Sustainability Report",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 46.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 1.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -7.86,
+    "upfront_carbon_emissions": -7.86,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Recyling way stations",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "No conditions, both the chipboard and the cardboard core can be recycled",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "EHD Eurolight - ISO 14021",
+    "recycling_process_description": "Honeycomb core can be recycled back into a paper product and particleboard recycled back into particleboard.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure of %. EGGER use rainwater and cleaning of water from production using bacteria rather than checmicals.",
+    "transport_emissions_minimisation_techniques": "Hybrid trucks",
+    "minimisation_design_strategy": "design to suit sheets size based on application",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "EGGER and ForestOne both have policies. EGGER is a participant of the UN Global Compact, UN 17SDGs and EcoVadis audited.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 223,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 224,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/CF_EGGER_Eurodekor_JP_F03_VOC_T%C3%9CV_PROFiCERT_Unterradlberg_en.pdf",
+        "link": "",
+        "rating": "0.3mg/l Formaldehyde (No VOC)"
+      },
+      {
+        "id": 225,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/ISO_Certificate_14001_IQNet_2024.pdf",
+        "link": "",
+        "rating": "ISO 14001 Compliance"
+      },
+      {
+        "id": 226,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/Confirmation_for_compliance_of_REACH_order_1907-2006-EC_SVHC_List.pdf",
+        "link": "",
+        "rating": "Compliance with REACH"
+      },
+      {
+        "id": 227,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 228,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/BR_Sustainability_Report_2022_EN.pdf",
+        "link": "",
+        "rating": "EGGER Sustainability Report"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 40,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Available in multiple decors option that match the EGGER range.",
+    "manufacturing_locations": [
+      {
+        "id": 129,
+        "location_name": "Wörgl, Austria",
+        "location_lat": 47.48561,
+        "location_lon": 12.064947,
+        "component": "Chipboard",
+        "component_percentage": 30.0
+      },
+      {
+        "id": 130,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "component": "Honeycomb Cardboard core",
+        "component_percentage": 70.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 163,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Chipboard",
+        "product_percentage": 30.0
+      },
+      {
+        "id": 164,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Honeycomb Cardboard core",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 155,
+        "location_name": "Derrimut VIC, Australia",
+        "location_lat": -37.792708,
+        "location_lon": 144.771556,
+        "location_state": " Australia",
+        "location_city": "Derrimut VIC"
+      },
+      {
+        "id": 156,
+        "location_name": "Wetherill Park NSW, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW"
+      },
+      {
+        "id": 157,
+        "location_name": "Berrinba QLD, Australia",
+        "location_lat": -27.658462,
+        "location_lon": 153.080652,
+        "location_state": " Australia",
+        "location_city": "Berrinba QLD"
+      },
+      {
+        "id": 158,
+        "location_name": "Cairns QLD, Australia",
+        "location_lat": -16.920348,
+        "location_lon": 145.770953,
+        "location_state": " Australia",
+        "location_city": "Cairns QLD"
+      },
+      {
+        "id": 159,
+        "location_name": "Townsville QLD, Australia",
+        "location_lat": -19.258964,
+        "location_lon": 146.816948,
+        "location_state": " Australia",
+        "location_city": "Townsville QLD"
+      },
+      {
+        "id": 160,
+        "location_name": "Wingfield SA, Australia",
+        "location_lat": -34.841354,
+        "location_lon": 138.54613,
+        "location_state": " Australia",
+        "location_city": "Wingfield SA"
+      },
+      {
+        "id": 161,
+        "location_name": "Welshpool WA, Australia",
+        "location_lat": -31.99344,
+        "location_lon": 115.944354,
+        "location_state": " Australia",
+        "location_city": "Welshpool WA"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "EGGER is a UN Global Compact participant, UN 17 SDGs, ISS Prime and EcoVadis Audited. \r\n\r\nForestOne are in the process of going forward with policy and actions to meet the climate risks. All company cars are hybrids, starting with additonal trucks for deliveries changed to hybrids to lower impact.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "PP Straps and timber battens",
+    "files": [
+      {
+        "id": 94,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/LCA/EPD_EGGER_Eurolight_Decor_en.pdf"
+      },
+      {
+        "id": 95,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/RecycledContent/EHD_Eurolight_Chipboard_2024_en.pdf"
+      },
+      {
+        "id": 96,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/ModernSlaveryAssessment/ForestOne_Modern_Slavery_Statement_2023.pdf"
+      },
+      {
+        "id": 97,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/VOC/CF_EGGER_Eurodekor_JP_F03_VOC_T%C3%9CV_PROFiCERT_Unterradlberg_en.pdf"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "company": {
+      "id": 17,
+      "name": "FORESTONE"
+    },
+    "image": "products/FORESTONE/02PI_PR_PH_fur_laminate_H3170_RESIZE_SJ5rqEk.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-22T05:42:24.214117+00:00",
+    "last_update": "2024-05-09T04:48:01.905076+00:00",
+    "created_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "updated_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Fritz EGGER GmbH & CO.",
+    "product_name": "Egger Laminate 0.8Mm",
+    "product_code": "EGGERLAMINATE",
+    "product_description": "EGGER Decorative Laminate 0.8mm",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "3650 x 1310 x 0.8mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 250,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 256,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_Food_regulatory_assessment_en.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 257,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_T%C3%9CV_ProfiCert-product_Interior_certification_Premium_en.pdf",
+        "link": "",
+        "rating": "Indoor air-quality",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 258,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/TL_EGGER_Laminate_Resistance_to_chemicals_en.pdf",
+        "link": "",
+        "rating": "Group 1, 2 & 3",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 259,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/Laminate_Antibac_Certificate.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 31.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 1.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 2.03,
+    "upfront_carbon_emissions": 2.03,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "No conditions, the chipboard can be recycled",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "EHD Eurodekor - ISO 14021",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure of %. EGGER use rainwater and cleaning of water from production using bacteria rather than checmicals.",
+    "transport_emissions_minimisation_techniques": "Hybrid trucks",
+    "minimisation_design_strategy": "design to suit sheets size based on application",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "EGGER and ForestOne both have policies. EGGER is a participant of the UN Global Compact, UN 17SDGs and EcoVadis audited.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 250,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 256,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_Food_regulatory_assessment_en.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 257,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_T%C3%9CV_ProfiCert-product_Interior_certification_Premium_en.pdf",
+        "link": "",
+        "rating": "Indoor air-quality"
+      },
+      {
+        "id": 258,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/TL_EGGER_Laminate_Resistance_to_chemicals_en.pdf",
+        "link": "",
+        "rating": "Group 1, 2 & 3"
+      },
+      {
+        "id": 259,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/Laminate_Antibac_Certificate.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 40,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Available in a full range of 0.8mm thick decor laminate options that match the wider EGGER range.",
+    "manufacturing_locations": [
+      {
+        "id": 151,
+        "location_name": "Gifhorn, Germany",
+        "location_lat": 52.480909,
+        "location_lon": 10.550783,
+        "component": "Paper core layers, decorative layer and overlay with resin impregnation ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 183,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Melamine- formaldehyde resin",
+        "product_percentage": 11.0
+      },
+      {
+        "id": 185,
+        "location_name": "Gifhorn, Germany",
+        "location_lat": 52.480909,
+        "location_lon": 10.550783,
+        "material": "Phenole formaldehyde resin",
+        "product_percentage": 21.0
+      },
+      {
+        "id": 186,
+        "location_name": "Gifhorn, Germany",
+        "location_lat": 52.480909,
+        "location_lon": 10.550783,
+        "material": "Melamine- formaldehyde resin",
+        "product_percentage": 11.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 183,
+        "location_name": "Derrimut VIC, Australia",
+        "location_lat": -37.792708,
+        "location_lon": 144.771556,
+        "location_state": " Australia",
+        "location_city": "Derrimut VIC"
+      },
+      {
+        "id": 184,
+        "location_name": "Wetherill Park NSW, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW"
+      },
+      {
+        "id": 185,
+        "location_name": "Berrinba QLD, Australia",
+        "location_lat": -27.658462,
+        "location_lon": 153.080652,
+        "location_state": " Australia",
+        "location_city": "Berrinba QLD"
+      },
+      {
+        "id": 186,
+        "location_name": "Cairns QLD, Australia",
+        "location_lat": -16.920348,
+        "location_lon": 145.770953,
+        "location_state": " Australia",
+        "location_city": "Cairns QLD"
+      },
+      {
+        "id": 187,
+        "location_name": "Townsville QLD, Australia",
+        "location_lat": -19.258964,
+        "location_lon": 146.816948,
+        "location_state": " Australia",
+        "location_city": "Townsville QLD"
+      },
+      {
+        "id": 188,
+        "location_name": "Wingfield SA, Australia",
+        "location_lat": -34.841354,
+        "location_lon": 138.54613,
+        "location_state": " Australia",
+        "location_city": "Wingfield SA"
+      },
+      {
+        "id": 189,
+        "location_name": "Welshpool WA, Australia",
+        "location_lat": -31.99344,
+        "location_lon": 115.944354,
+        "location_state": " Australia",
+        "location_city": "Welshpool WA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "EGGER is a UN Global Compact participant, UN 17 SDGs, ISS Prime and EcoVadis Audited. \r\n\r\nForestOne are in the process of going forward with policy and actions to meet the climate risks. All company cars are hybrids, starting with additonal trucks for deliveries changed to hybrids to lower impact.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 133,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/compliance/Laminate_19-001911_Grp_3.pdf",
+        "link": "",
+        "rating": "AS5637 - Group 3"
+      }
+    ],
+    "type_of_packaging": "PP Straps and timber battens",
+    "files": [
+      {
+        "id": 113,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/LCA/EPD_EGGER_Eurolight_Decor_en.pdf"
+      },
+      {
+        "id": 114,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/RecycledContent/EHD_Eurolight_Chipboard_2024_en.pdf"
+      },
+      {
+        "id": 115,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/ModernSlaveryAssessment/ForestOne_Modern_Slavery_Statement_2023.pdf"
+      },
+      {
+        "id": 116,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/VOC/CF_EGGER_Eurodekor_JP_F03_VOC_T%C3%9CV_PROFiCERT_Unterradlberg_en.pdf"
+      },
+      {
+        "id": 117,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/LCA/EPD_EGGER_Eurodekor_en.pdf"
+      },
+      {
+        "id": 118,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/RecycledContent/EHD_Eurodekor_Chipboard_2024_en.pdf"
+      },
+      {
+        "id": 119,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/LCA/Environmental_product_declaration_Laminate.pdf"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "company": {
+      "id": 17,
+      "name": "FORESTONE"
+    },
+    "image": "products/FORESTONE/02PI_PR_PH_fur_laminate_H3170_RESIZE_SJ5rqEk.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-22T08:19:58.051181+00:00",
+    "last_update": "2024-05-09T23:24:29.994223+00:00",
+    "created_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "updated_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Fritz EGGER GmbH & CO.",
+    "product_name": "Egger Feelwood Xl Laminate 0.8Mm",
+    "product_code": "EGGERLAMINATE",
+    "product_description": "EGGER Decorative Laminate 0.8mm",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "2790 x 2060 x 0.8mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 260,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 261,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_Food_regulatory_assessment_en.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 262,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_T%C3%9CV_ProfiCert-product_Interior_certification_Premium_en.pdf",
+        "link": "",
+        "rating": "Indoor air-quality",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 263,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/TL_EGGER_Laminate_Resistance_to_chemicals_en.pdf",
+        "link": "",
+        "rating": "Group 1, 2 & 3",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 264,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/Laminate_Antibac_Certificate.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 31.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 1.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 2.03,
+    "upfront_carbon_emissions": 2.03,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "No conditions, the chipboard can be recycled",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "EHD Eurodekor - ISO 14021",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure of %. EGGER use rainwater and cleaning of water from production using bacteria rather than checmicals.",
+    "transport_emissions_minimisation_techniques": "Hybrid trucks",
+    "minimisation_design_strategy": "design to suit sheets size based on application",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "EGGER and ForestOne both have policies. EGGER is a participant of the UN Global Compact, UN 17SDGs and EcoVadis audited.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 260,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/certificates/EPD_EGGER_Eurolight_Decor_en_kbkwXSU.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 261,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_Food_regulatory_assessment_en.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 262,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/CF_EGGER_Laminate_T%C3%9CV_ProfiCert-product_Interior_certification_Premium_en.pdf",
+        "link": "",
+        "rating": "Indoor air-quality"
+      },
+      {
+        "id": 263,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/TL_EGGER_Laminate_Resistance_to_chemicals_en.pdf",
+        "link": "",
+        "rating": "Group 1, 2 & 3"
+      },
+      {
+        "id": 264,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/certificates/Laminate_Antibac_Certificate.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 40,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Available in a full range of 0.8mm thick decor laminate options that match the wider EGGER range.",
+    "manufacturing_locations": [
+      {
+        "id": 152,
+        "location_name": "Gifhorn, Germany",
+        "location_lat": 52.480909,
+        "location_lon": 10.550783,
+        "component": "Paper core layers, decorative layer and overlay with resin impregnation ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 187,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Melamine- formaldehyde resin",
+        "product_percentage": 11.0
+      },
+      {
+        "id": 190,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Phenole formaldehyde resin",
+        "product_percentage": 21.0
+      },
+      {
+        "id": 191,
+        "location_name": "Saint Johann in Tirol, Austria",
+        "location_lat": 47.52219,
+        "location_lon": 12.430813,
+        "material": "Paper core layers, decorative layer and  overlay",
+        "product_percentage": 68.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 190,
+        "location_name": "Derrimut VIC, Australia",
+        "location_lat": -37.792708,
+        "location_lon": 144.771556,
+        "location_state": " Australia",
+        "location_city": "Derrimut VIC"
+      },
+      {
+        "id": 191,
+        "location_name": "Wetherill Park NSW, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW"
+      },
+      {
+        "id": 192,
+        "location_name": "Berrinba QLD, Australia",
+        "location_lat": -27.658462,
+        "location_lon": 153.080652,
+        "location_state": " Australia",
+        "location_city": "Berrinba QLD"
+      },
+      {
+        "id": 193,
+        "location_name": "Cairns QLD, Australia",
+        "location_lat": -16.920348,
+        "location_lon": 145.770953,
+        "location_state": " Australia",
+        "location_city": "Cairns QLD"
+      },
+      {
+        "id": 194,
+        "location_name": "Townsville QLD, Australia",
+        "location_lat": -19.258964,
+        "location_lon": 146.816948,
+        "location_state": " Australia",
+        "location_city": "Townsville QLD"
+      },
+      {
+        "id": 195,
+        "location_name": "Wingfield SA, Australia",
+        "location_lat": -34.841354,
+        "location_lon": 138.54613,
+        "location_state": " Australia",
+        "location_city": "Wingfield SA"
+      },
+      {
+        "id": 196,
+        "location_name": "Welshpool WA, Australia",
+        "location_lat": -31.99344,
+        "location_lon": 115.944354,
+        "location_state": " Australia",
+        "location_city": "Welshpool WA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "EGGER is a UN Global Compact participant, UN 17 SDGs, ISS Prime and EcoVadis Audited. \r\n\r\nForestOne are in the process of going forward with policy and actions to meet the climate risks. All company cars are hybrids, starting with additonal trucks for deliveries changed to hybrids to lower impact.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 134,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/compliance/Laminate_19-001911_Grp_3.pdf",
+        "link": "",
+        "rating": "AS5637 - Group 3"
+      }
+    ],
+    "type_of_packaging": "PP Straps and timber battens",
+    "files": [
+      {
+        "id": 120,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/LCA/EPD_EGGER_Eurolight_Decor_en.pdf"
+      },
+      {
+        "id": 121,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/RecycledContent/EHD_Eurolight_Chipboard_2024_en.pdf"
+      },
+      {
+        "id": 122,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/ModernSlaveryAssessment/ForestOne_Modern_Slavery_Statement_2023.pdf"
+      },
+      {
+        "id": 123,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurolight%20Decorative%20Faced%202800%20X%202070%20X%2050Mm%20Light-Weight%20Composite%20Panel/VOC/CF_EGGER_Eurodekor_JP_F03_VOC_T%C3%9CV_PROFiCERT_Unterradlberg_en.pdf"
+      },
+      {
+        "id": 124,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/LCA/EPD_EGGER_Eurodekor_en.pdf"
+      },
+      {
+        "id": 125,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Eurodekor%20Decorative%20Faced%20Particleboard/RecycledContent/EHD_Eurodekor_Chipboard_2024_en.pdf"
+      },
+      {
+        "id": 126,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Egger%20Laminate%200.8Mm/LCA/Environmental_product_declaration_Laminate.pdf"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "company": {
+      "id": 92,
+      "name": "CLIMATE READY FABRICS"
+    },
+    "image": "products/CLIMATE READY FABRICS/Sea-Tex-Metallised-Fabric.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-07T00:00:09.929040+00:00",
+    "last_update": "2024-08-06T14:00:00+00:00",
+    "created_by": {
+      "id": 968,
+      "email": "info@climatereadyfabrics.com.au"
+    },
+    "updated_by": {
+      "id": 968,
+      "email": "info@climatereadyfabrics.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Horiso",
+    "product_name": "Sea-Tex Metallised Roller Shading Fabric",
+    "product_code": "Sea-tex",
+    "product_description": null,
+    "product_categories": [
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "300cm wide",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "3-4 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": 75.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Ocean Bound Plastic Certificate",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Can be manufactured to custom widths to avoid wastage",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 5,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 408,
+        "location_name": "Kassel, Germany",
+        "location_lat": 51.311883,
+        "location_lon": 9.491575,
+        "component": "Fabric Weaving",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 626,
+        "location_name": "New York, NY, USA",
+        "location_lat": 40.712775,
+        "location_lon": -74.005973,
+        "material": "Ocean Bound Plastic",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 627,
+        "location_name": "Kassel, Germany",
+        "location_lat": 51.311883,
+        "location_lon": 9.491575,
+        "material": "Polyester",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 497,
+        "location_name": "Marrickville NSW, Australia",
+        "location_lat": -33.91055,
+        "location_lon": 151.156356,
+        "location_state": " Australia",
+        "location_city": "Marrickville NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 50,
+    "section_E_score": 71,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "cardboard tubes",
+    "files": []
+  },
+  {
+    "id": 558,
+    "company": {
+      "id": 129,
+      "name": "GEORGE FETHERS"
+    },
+    "image": "products/GEORGE FETHERS/gf-vl-s01-livingRoom-alpineAsh-p01.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-21T01:11:49.995966+00:00",
+    "last_update": "2024-11-17T13:00:00+00:00",
+    "created_by": {
+      "id": 1418,
+      "email": "wjames@gfethers.com.au"
+    },
+    "updated_by": {
+      "id": 1418,
+      "email": "wjames@gfethers.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Leeuwenburgh Fineer BV",
+    "product_name": "Lignapal",
+    "product_code": "48 decors",
+    "product_description": "Prefinished Natural timber veneer pressed on Kraft paper laminate and coated acrylic polyurethane",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 18,
+        "category_name": "Stairs, railings and balustrades"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "3000mm x 1200xx",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1497,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/PEFC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1498,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/FSC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1499,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/FSC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0_w067sIM.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1500,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/PEFC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0_9CM9bde.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "N/A",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Sheet size is 3000mm x 1200mm",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1497,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/PEFC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1498,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/FSC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1499,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/FSC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0_w067sIM.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1500,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/certificates/PEFC_COC_Certificate_-_013711_George_Fethers__Co.Trading_Pty_Ltd_v1.0_9CM9bde.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Acrylic Polyurethane",
+    "manufacturing_locations": [
+      {
+        "id": 767,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "component": "Pressing on MDF substrate",
+        "component_percentage": 95.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1112,
+        "location_name": "Raamsdonksveer, Netherlands",
+        "location_lat": 51.697344,
+        "location_lon": 4.874229,
+        "material": "Laminate Backer",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 932,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "location_state": " Australia",
+        "location_city": "Port Melbourne VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 851,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/compliance/Lignapal_2020_Fire_Test_Group_Number.pdf",
+        "link": "",
+        "rating": "3"
+      }
+    ],
+    "type_of_packaging": "Cardboard and plastic strapping",
+    "files": [
+      {
+        "id": 1328,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/GEORGE%20FETHERS/Lignapal/VOC/Lignapal_VOC_test_-_E0.pdf"
+      }
+    ]
+  },
+  {
+    "id": 773,
+    "company": {
+      "id": 92,
+      "name": "CLIMATE READY FABRICS"
+    },
+    "image": "products/CLIMATE READY FABRICS/Sea-Tex-Non-Metallised-Fabric.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-11-13T21:56:30.954811+00:00",
+    "last_update": "2025-01-09T13:00:00+00:00",
+    "created_by": {
+      "id": 968,
+      "email": "info@climatereadyfabrics.com.au"
+    },
+    "updated_by": {
+      "id": 968,
+      "email": "info@climatereadyfabrics.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Nysan Asia Pacific",
+    "product_name": "Review Non Metallised Roller Shading Fabric",
+    "product_code": "Review",
+    "product_description": "ReView Non-Metallised roller shade fabric collection is a sustainable fine textured screen fabric",
+    "product_categories": [
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "300cm wide",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "3-4 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": 75.0,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Can be recycled into new fabric",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "Can be recycled into new fabric",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The fabric can be reused and or recycled",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "50",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Can be manufactured to custom widths to avoid wastage",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 5,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1081,
+        "location_name": "Bursa, Türkiye",
+        "location_lat": 40.188528,
+        "location_lon": 29.060964,
+        "component": "Fabric Weaving",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1714,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "recycled PET",
+        "product_percentage": 90.0
+      },
+      {
+        "id": 1715,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "virgin polyester",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1177,
+        "location_name": "Marrickville NSW, Australia",
+        "location_lat": -33.91055,
+        "location_lon": 151.156356,
+        "location_state": " Australia",
+        "location_city": "Marrickville NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Product can be recycled",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1297,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CLIMATE%20READY%20FABRICS/Review%20Non%20Metallised%20Roller%20Shading%20Fabric/compliance/23-004060_eml01.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "cardboard tubes",
+    "files": []
+  },
+  {
+    "id": 774,
+    "company": {
+      "id": 142,
+      "name": "CRAFTED HARDWOODS"
+    },
+    "image": "products/CRAFTED HARDWOODS/CraftedHardwoods15.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-11-14T05:38:06.857059+00:00",
+    "last_update": "2025-05-07T14:00:00+00:00",
+    "created_by": {
+      "id": 1766,
+      "email": "geoff@craftedhardwoods.com"
+    },
+    "updated_by": {
+      "id": 1766,
+      "email": "geoff@craftedhardwoods.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Crafted Hardwoods",
+    "product_name": "Blackbutt Timber",
+    "product_code": "BBFB1001",
+    "product_description": "Up-cycled Australian Blackbutt timber made from low-value pulp resources using nano-science",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 18,
+        "category_name": "Stairs, railings and balustrades"
+      },
+      {
+        "id": 6,
+        "category_name": "Structure and Structural Framing"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "250W x 500H x 2500L mm",
+    "price_per_unit": 6780.0,
+    "product_functional_unit": "m3",
+    "price_adjustment_structure": "Cubic Meter",
+    "lead_time": "3 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2621,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/certificates/COC_CRT_FSC_Crafted_Hardwoods_Pty_Ltd_111224.pdf",
+        "link": "https://static1.squarespace.com/static/644af65cd519c85d721905f5/t/6733f601583f4c361904527e/1731458562572/COC_CRT_FSC_Crafted+Hardwoods+Pty+Ltd_111224.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2622,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/certificates/COC_CRT_PEFC_Crafted_Hardwoods_Pty_Ltd.pdf",
+        "link": "https://static1.squarespace.com/static/644af65cd519c85d721905f5/t/6733f64181e73b0a630213aa/1731458627317/COC_CRT_PEFC_Crafted+Hardwoods+Pty+Ltd.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2623,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/certificates/COC_CRT_PEFC_Crafted_Hardwoods_Pty_Ltd_lJhW1TL.pdf",
+        "link": "https://static1.squarespace.com/static/644af65cd519c85d721905f5/t/6733f64181e73b0a630213aa/1731458627317/COC_CRT_PEFC_Crafted+Hardwoods+Pty+Ltd.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Any timber machinist in Australia is able to re-machine into new products.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Our timber offcuts can be used for even the smallest of items such as gold tee's to avoid sending offcuts to landfill.",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "Our timber fibers are UPCYCLED from low-value resources and we have a yield of more than double that of traditional timber.",
+    "recycling_process_description": "Our timbers can be re-machined into endless possible applications. Any timber machinist in Australia is able to re-machine into new products.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Please see attached document",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Our timbers can be re-machined into endless possible applications",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Our timbers are suitable for use by the recycled timber industry or any other person looking for recycled materials.",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Our billets can be machined into many different items. We encourage engagement with our personnel as we desire to find solutions to minimise offcuts or wastage by looking across multiple applications.",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2621,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/certificates/COC_CRT_FSC_Crafted_Hardwoods_Pty_Ltd_111224.pdf",
+        "link": "https://static1.squarespace.com/static/644af65cd519c85d721905f5/t/6733f601583f4c361904527e/1731458562572/COC_CRT_FSC_Crafted+Hardwoods+Pty+Ltd_111224.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 2622,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/certificates/COC_CRT_PEFC_Crafted_Hardwoods_Pty_Ltd.pdf",
+        "link": "https://static1.squarespace.com/static/644af65cd519c85d721905f5/t/6733f64181e73b0a630213aa/1731458627317/COC_CRT_PEFC_Crafted+Hardwoods+Pty+Ltd.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 2623,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/certificates/COC_CRT_PEFC_Crafted_Hardwoods_Pty_Ltd_lJhW1TL.pdf",
+        "link": "https://static1.squarespace.com/static/644af65cd519c85d721905f5/t/6733f64181e73b0a630213aa/1731458627317/COC_CRT_PEFC_Crafted+Hardwoods+Pty+Ltd.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://static1.squarespace.com/static/644af65cd519c85d721905f5/t/6578399681a0e547b5d26510/1702377879918/CHW_Testing+Results_V1.0.pdf",
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": null,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1082,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "component": "Timber Billets",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1716,
+        "location_name": "Grafton NSW, Australia",
+        "location_lat": -29.681689,
+        "location_lon": 152.933655,
+        "material": "Eucalyptus pilularis timber fibre",
+        "product_percentage": 95.0
+      },
+      {
+        "id": 1717,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "VOC-Free Nano-Glue",
+        "product_percentage": 5.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1234,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Standard timber finishes and stains are suitable for timbers. We recommend following coating guidelines and maintenance for specific applications are followed to ensure longevity of timbers.",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 1379,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/compliance/3RT-Blackbutt-BAL29-Fire-Test-Certificate-25012024.pdf",
+        "link": "",
+        "rating": "BAL29"
+      },
+      {
+        "id": 1383,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/compliance/Blackbutt-AS5637-Group-number-Certificate-18082023-2_P8rhGLb.pdf",
+        "link": "https://3rt.com.au/wp-content/uploads/2023/10/Blackbutt-AS5637-Group-number-Certificate-18082023-2.pdf",
+        "rating": "3"
+      },
+      {
+        "id": 1384,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/compliance/Blackbutt-AS9239-Test-Certificate-18082023-2.pdf",
+        "link": "https://3rt.com.au/wp-content/uploads/2023/10/Blackbutt-AS9239-Test-Certificate-18082023-2.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "We use a recyclable plastic wrap to protect our raw timbers from moisture during transport.",
+    "files": [
+      {
+        "id": 2273,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/VOC/TestCert_VOC_Emission___Crafted_Hardwood_GBCA_Crafted_Hardwood_Blackbutt.pdf"
+      },
+      {
+        "id": 2609,
+        "category": "CompostableCertificate",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/CompostableCertificate/FLNC24-04_-_Biodegradability_and_Recyclability_of_3RT_Products.pdf"
+      },
+      {
+        "id": 3429,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/ModernSlaveryAssessment/COC_CRT_PEFC_Crafted_Hardwoods_Pty_Ltd.pdf"
+      },
+      {
+        "id": 3430,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/ModernSlaveryActionPlan/COC_CRT_PEFC_Crafted_Hardwoods_Pty_Ltd.pdf"
+      },
+      {
+        "id": 3431,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CRAFTED%20HARDWOODS/Blackbutt%20Timber/RecycledContent/COC_CRT_PEFC_Crafted_Hardwoods_Pty_Ltd.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1283,
+    "company": {
+      "id": 134,
+      "name": "SAFETYLINE JALOUSIE"
+    },
+    "image": "products/SAFETYLINE JALOUSIE/BVN_MLCBurwood_Exterior_343_Guthrie.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-06-23T02:09:58.494841+00:00",
+    "last_update": "2025-06-22T14:00:00+00:00",
+    "created_by": {
+      "id": 114,
+      "email": "msaliba@safetylinejalousie.com.au"
+    },
+    "updated_by": {
+      "id": 114,
+      "email": "msaliba@safetylinejalousie.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Safetyline Jalousie",
+    "product_name": "Sj Jalousie",
+    "product_code": "SJ Jalousie",
+    "product_description": "The original performance louvre window by Safetyline Jalousie",
+    "product_categories": [
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "Custom made - up to 1400m wide, louvre blades 135mm intervals",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Average 6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4674,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/safetyline-jalousie-louvre-window",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4675,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/certificates/Safetyline_Jalousie-_Platinum_cert.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4676,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/certificates/Safetyline_Jalousie-_Platinum_cert_6HQI267.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4677,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/certificates/Safetyline_Jalousie-_Platinum_cert_JMCa3YU.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "The aluminium, glass, and stainless steel components used in Safetyline Jalousie louvre windows are all recyclable through existing Australian recycling infrastructure. The system’s design allows for easy disassembly, ensuring materials can be separated and diverted from landfill.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "offcuts are either reused or recycled to avoid landfill.\r\nWherever possible, aluminium and glass offcuts are repurposed in the production of other windows or used for samples. Safetyline Jalousie also has a comprehensive recycling plan in place at our facility, ensuring all aluminium, glass, metal components, and packaging materials are sorted and sent to appropriate recycling streams.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Through the use of Hydro Circal 75R Recycled, Low Carbon Aluminium for Framing",
+    "recycling_process_description": "Safetyline Jalousie louvre windows can be disassembled into aluminium, glass, and stainless steel components. These materials can either be reused or reprocessed — for example, aluminium can be remelted and returned to its original raw state, supporting closed-loop recycling.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Yes, Safetyline Jalousie louvre windows are designed for demountability and reuse.\r\nThe prefabricated system can be removed and reused where appropriate. If full reuse isn't possible, the main components — aluminium framing, glass, and stainless steel fixings — can be separated and recycled at end-of-life, supporting circular economy outcomes.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To minimise offcuts and material wastage, we recommend aligning window set-outs with our standard louvre module sizes.\r\nSafetyline Jalousie louvre windows are prefabricated to order, so optimising the opening dimensions to suit our standard blade lengths and frame configurations helps reduce cutting and waste during production. Early engagement with our team during the design phase also ensures more efficient manufacturing and better material yield.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4674,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/safetyline-jalousie-louvre-window",
+        "rating": "undefined"
+      },
+      {
+        "id": 4675,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/certificates/Safetyline_Jalousie-_Platinum_cert.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4676,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/certificates/Safetyline_Jalousie-_Platinum_cert_6HQI267.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4677,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/certificates/Safetyline_Jalousie-_Platinum_cert_JMCa3YU.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Unsure",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 45,
+    "manufacturers_warranty_years": 6,
+    "factory_finished": true,
+    "factory_finished_description": "No assembly required - Supplied as a complete system, framed and glazed. Easy and fast installation using screws through the prepunched fixing holes in the upright sections.",
+    "manufacturing_locations": [
+      {
+        "id": 2388,
+        "location_name": "Mona Vale NSW, Australia",
+        "location_lat": -33.679273,
+        "location_lon": 151.30272,
+        "component": "Cutting, punching, glazing & assembly of the louvre window system",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2914,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Glass",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 2915,
+        "location_name": "Klang, Selangor, Malaysia",
+        "location_lat": 3.039216,
+        "location_lon": 101.441882,
+        "material": "Aluminium",
+        "product_percentage": 35.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1970,
+        "location_name": "Mona Vale NSW, Australia",
+        "location_lat": -33.679273,
+        "location_lon": 151.30272,
+        "location_state": " Australia",
+        "location_city": "Mona Vale NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "The aluminium components are available in three surface finishes  - powder coat, high-performance powder coated, or anodised.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "There are several features of SJ Jalousie louvre windows that contribute to human health, climate resilience, and circularity.\r\n\r\nDurability & longevity: Manufactured with stainless steel fixings and low-carbon aluminium (Hydro CIRCAL or REDUXA), SJ Jalousie is designed for long-term performance, even in demanding environments such as coastal or cyclone-prone areas.\r\n\r\nHealth & performance: The system promotes natural ventilation and daylight to enhance indoor environmental quality, while its airtightness and weather resistance support energy efficiency and occupant comfort.\r\n\r\nSafety & security: With built-in safety features and secure design, SJ Jalousie suits a wide range of applications — from residential to commercial and government projects.\r\n\r\nCircularity: The product is fully demountable, and all primary components can be separated and recycled through established onshore recycling facilities.\r\n\r\nLocal manufacturing: Assembled in Australia under ethical conditions, reducing embodied emissions and supporting the local economy.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "The louvre units are packed on recycled (and re-usable) timber pine pallets with recycled stretch wrap made with 25% post-consumer resin and certified recyled contend (which is also 100% thin-film recyclable.",
+    "files": [
+      {
+        "id": 3598,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/RecycledContent/NEPD-5009-4263_1-kg-CIRCAL-Aluminium-extrusion-ingot-from-the-Azuqueca--Clervaux--and-Wrexham-aluminium-recycling-plants.pdf"
+      },
+      {
+        "id": 3599,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/RecycledContent/NEPD-5009-4263_1-kg-CIRCAL-Aluminium-extrusion-ingot-from-the-Azuqueca--Clervaux--and-Wrexham-aluminium-recycling-plants_7atDmgd.pdf"
+      },
+      {
+        "id": 3600,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/RecycledContent/NEPD-5009-4263_1-kg-CIRCAL-Aluminium-extrusion-ingot-from-the-Azuqueca--Clervaux--and-Wrexham-aluminium-recycling-plants_a1cA3X3.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1284,
+    "company": {
+      "id": 134,
+      "name": "SAFETYLINE JALOUSIE"
+    },
+    "image": "products/SAFETYLINE JALOUSIE/BVN_MLCBurwood_Exterior_343_Guthrie_3Gp3fxb.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-06-23T04:15:31.376093+00:00",
+    "last_update": "2025-06-22T14:00:00+00:00",
+    "created_by": {
+      "id": 114,
+      "email": "msaliba@safetylinejalousie.com.au"
+    },
+    "updated_by": {
+      "id": 114,
+      "email": "msaliba@safetylinejalousie.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Safetyline Jalousie",
+    "product_name": "Sj Espacer",
+    "product_code": "SJ Espacer",
+    "product_description": "Thermally Broken Large Format Louvre System",
+    "product_categories": [
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "Custom made  - up to 1500mm wide, louvre blades 235mm intervals",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Average 6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "The aluminium, glass, and stainless steel components used in Safetyline Jalousie louvre windows are all recyclable through existing Australian recycling infrastructure. The system’s design allows for easy disassembly, ensuring materials can be separated and diverted from landfill.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Frame is constructed from Hydro CIRCAL 75R aluminium made from a minium of 75% post-consumer aluminium scrap.",
+    "recycling_process_description": "Safetyline Jalousie louvre windows can be disassembled into aluminium, glass, and stainless steel components. These materials can either be reused or reprocessed — for example, aluminium can be remelted and returned to its original raw state, supporting closed-loop recycling.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Yes, Safetyline Jalousies SJ Espacer louvre windows are designed for demountability and reuse. The prefabricated system can be removed and reused where appropriate. If full reuse isn't possible, the main components — aluminium framing, glass, and stainless steel fixings — can be separated and recycled at end-of-life, supporting circular economy outcomes.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To minimise offcuts and material wastage, we recommend aligning window set-outs with our standard louvre module sizes. Safetyline Jalousie louvre windows are prefabricated to order, so optimising the opening dimensions to suit our standard blade lengths and frame configurations helps reduce cutting and waste during production. Early engagement with our team during the design phase also ensures more efficient manufacturing and better material yield.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Unsure",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "No assembly required - Supplied as a complete system, framed and glazed.",
+    "manufacturing_locations": [
+      {
+        "id": 2389,
+        "location_name": "Mona Vale NSW, Australia",
+        "location_lat": -33.679273,
+        "location_lon": 151.30272,
+        "component": "Cutting, punching, glazing & assembly of the louvre window system",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2916,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Glass",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 2917,
+        "location_name": "Clervaux, Luxembourg",
+        "location_lat": 50.054923,
+        "location_lon": 6.031195,
+        "material": "Alumiunium",
+        "product_percentage": 35.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1971,
+        "location_name": "Mona Vale NSW, Australia",
+        "location_lat": -33.679273,
+        "location_lon": 151.30272,
+        "location_state": " Australia",
+        "location_city": "Mona Vale NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "The aluminium components are available in three surface finishes  - Powder coated, high performance powder coated or anodized",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "The SJ Espacer supports human health by maximising natural ventilation and daylight, reducing reliance on mechanical systems. Its frame is manufactured using Hydro CIRCAL, a low-carbon aluminium made from a minimum of 75% recycled post-consumer scrap, significantly lowering embodied emissions. Designed and assembled in Australia, the system promotes local jobs and supply chain transparency. Prefabrication minimises waste and enables circularity through easier disassembly and material recovery at end-of-life.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "The louvre units are packed on recycled (and re-usable) timber pine pallets with recycled stretch wrap made with 25% post-consumer resin and certified recyled contend (which is also 100% thin-film recyclable.",
+    "files": [
+      {
+        "id": 3601,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Espacer/RecycledContent/NEPD-5009-4263_1-kg-CIRCAL-Aluminium-extrusion-ingot-from-the-Azuqueca--Clervaux--and-Wrexham-aluminium-recycling-plants.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1508,
+    "company": {
+      "id": 92,
+      "name": "CLIMATE READY FABRICS"
+    },
+    "image": "products/CLIMATE READY FABRICS/Sea-Tex-Non-Metallised-Fabric.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-10-02T01:24:01.370172+00:00",
+    "last_update": "2025-10-01T14:00:00+00:00",
+    "created_by": {
+      "id": 968,
+      "email": "info@climatereadyfabrics.com.au"
+    },
+    "updated_by": {
+      "id": 968,
+      "email": "info@climatereadyfabrics.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Climate Ready Fabrics",
+    "product_name": "Review Es Metallised",
+    "product_code": "Review ES",
+    "product_description": "A sustainable fabric made from 100% virgin polyester with a high definition metallised backing",
+    "product_categories": [
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "300cm wide",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "3-4 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": 75.0,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Can be recycled into new fabric",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "Can be recycled into new fabric",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The fabric can be reused and or recycled",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "50",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Can be manufactured to custom widths to avoid wastage",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 5,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2951,
+        "location_name": "Deqing, Huzhou, Zhejiang, China",
+        "location_lat": 30.5427,
+        "location_lon": 119.97728,
+        "component": "fabric weaving",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3503,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Virgin Polyester",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2365,
+        "location_name": "Marrickville NSW, Australia",
+        "location_lat": -33.91055,
+        "location_lon": 151.156356,
+        "location_state": " Australia",
+        "location_city": "Marrickville NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Product can be recycled",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3102,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CLIMATE%20READY%20FABRICS/Review%20Non%20Metallised%20Roller%20Shading%20Fabric/compliance/23-004060_eml01.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "cardboard tubes",
+    "files": []
+  },
+  {
+    "id": 1552,
+    "company": {
+      "id": 222,
+      "name": "VEROSOL"
+    },
+    "image": "products/VEROSOL/205_SS.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-04T05:58:22.962932+00:00",
+    "last_update": "2025-11-03T13:00:00+00:00",
+    "created_by": {
+      "id": 3062,
+      "email": "scott_comino@verosol.com.au"
+    },
+    "updated_by": {
+      "id": 3062,
+      "email": "scott_comino@verosol.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Verosol",
+    "product_name": "205 Silverscreen Performance",
+    "product_code": "205",
+    "product_description": "Metallised 4% openness fabric with high solar reflectance and thermal insulation",
+    "product_categories": [
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "3200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": "$",
+    "lead_time": "10–15 business days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5942,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/certificates/Environment-GREENGUARD-Gold-Certification-SilverScreen-202-205.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5943,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/certificates/Environment-HPD_2.1_SilverScreen_205_202.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5944,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/certificates/EPD-Verosol-205-SilverScreen.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "95-100%- \r\nWe recycled all of our 205 SilverScreen performance off-cuts via in-house sampling, and remaining or returned fabrics via take-back program are recycled via conversion into alternate fuels for industry",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The fabric can be reused and or recycled",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Verosol have a product stewardship and take-back program",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Manufactured into custom widths to avoid wastage",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5942,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/certificates/Environment-GREENGUARD-Gold-Certification-SilverScreen-202-205.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5943,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/certificates/Environment-HPD_2.1_SilverScreen_205_202.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5944,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/certificates/EPD-Verosol-205-SilverScreen.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "95-100%\r\nWe recycled all of our Crypton offcuts and sampling by partnering with Textile Recyclers Group at their recycling depot in Sydney. They recycle back into yarn.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3064,
+        "location_name": "Revesby NSW, Australia",
+        "location_lat": -33.945247,
+        "location_lon": 151.018035,
+        "component": "Manufacture into finished blind",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3615,
+        "location_name": "Eibergen, Netherlands",
+        "location_lat": 52.10112,
+        "location_lon": 6.65336,
+        "material": "64% PVC / 36% Fibreglass",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2436,
+        "location_name": "Revesby NSW, Australia",
+        "location_lat": -33.945247,
+        "location_lon": 151.018035,
+        "location_state": " Australia",
+        "location_city": "Revesby NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Verosol’s approach to Product Stewardship is comprehensive. It includes minimising the carbon footprints of all our offices and \r\nmanufacturing facilities; the development of a Product Take Back Program; a Waste to Energy Program; Waste Recycling Programs \r\nat our facilities in the Netherlands and Australia; regulatory compliance in all countries in which we operate; responsible sourcing \r\nof materials; and concerted efforts in terms of Material Re-Use and Product Conversion.\r\ni) Carbon Footprint Reduction\r\nAcknowledging the significant contribution that poor manufacturing practices can make to greenhouse emissions, we make every \r\neffort to ensure our manufacturing facilities in Australia and the Netherlands are as efficient as possible. Our efforts to reduce \r\noperational carbon include the installation of rooftop solar cells at our plants in Sydney and The Netherlands, and the installation \r\nof LED lighting in our Sydney plant and office..\r\nOur Australian production facility in 2023, has moved beyond climate neutral goals becoming carbon positive with the expansion\r\nof the existing solar panel system. The facility now produces a large surplus of renewable energy, offsetting more energy than the\r\nsite consumes.\r\nFor more information visit: https://verosol.com.au/product-stewardship/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3183,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/compliance/AWTA-FR_Report-SilverScreen-Performance-ASNZS-1530.2-1993-ASNZS-1530.3-1999.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "100% recycled cardboard cores and clear plastic wrap. Pallets and cardboard boxes are used for large volumes",
+    "files": [
+      {
+        "id": 4560,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/VOC/Environment-GREENGUARD-Gold-Certification-SilverScreen-202-205.pdf"
+      },
+      {
+        "id": 4561,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/ModernSlaveryAssessment/2024-04-Verosol-CSR-Statement.pdf"
+      },
+      {
+        "id": 4562,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/VEROSOL/205%20Silverscreen%20Performance/ModernSlaveryActionPlan/2024-04-Verosol-CSR-Statement.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1575,
+    "company": {
+      "id": 92,
+      "name": "CLIMATE READY FABRICS"
+    },
+    "image": "products/CLIMATE READY FABRICS/Sea-Tex-Non-Metallised-Fabric.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-27T00:04:14.387463+00:00",
+    "last_update": "2025-11-26T13:00:00+00:00",
+    "created_by": {
+      "id": 968,
+      "email": "info@climatereadyfabrics.com.au"
+    },
+    "updated_by": {
+      "id": 968,
+      "email": "info@climatereadyfabrics.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Climate Ready Fabrics",
+    "product_name": "Yara.Screen",
+    "product_code": "Yara.Screen",
+    "product_description": "A sustainable fabric made from 100% virgin polyester with no PVC content",
+    "product_categories": [
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      },
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "300cm wide",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "4-6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": 75.0,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Can be recycled into new fabric",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "Can be recycled into new fabric",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The fabric can be reused and or recycled",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "50",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Can be manufactured to custom widths to avoid wastage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3117,
+        "location_name": "Deqing, Huzhou, Zhejiang, China",
+        "location_lat": 30.5427,
+        "location_lon": 119.97728,
+        "component": "Fabric Weaving",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3659,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Polyester",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2542,
+        "location_name": "Marrickville NSW, Australia",
+        "location_lat": -33.91055,
+        "location_lon": 151.156356,
+        "location_state": " Australia",
+        "location_city": "Marrickville NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Product can be recycled",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3242,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CLIMATE%20READY%20FABRICS/Review%20Non%20Metallised%20Roller%20Shading%20Fabric/compliance/23-004060_eml01.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "cardboard tubes",
+    "files": []
+  }
+]

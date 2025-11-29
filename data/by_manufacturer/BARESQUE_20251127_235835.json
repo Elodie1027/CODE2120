@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1528,
+    "company": {
+      "id": 216,
+      "name": "BARESQUE"
+    },
+    "image": "products/BARESQUE/enercee_sample_box.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-10-21T05:16:51.139607+00:00",
+    "last_update": "2025-10-20T13:00:00+00:00",
+    "created_by": {
+      "id": 1147,
+      "email": "nicola@baresque.com.au"
+    },
+    "updated_by": {
+      "id": 1147,
+      "email": "nicola@baresque.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Baresque",
+    "product_name": "Enercee Laminated Acoustic Panel",
+    "product_code": "EN.LAM.PN.SS.2790.1220",
+    "product_description": "NRC 0.65, IMPACT RESISTANT, MICRO-PERFORATED WIPABLE SURFACE, GROUP 1 FIRE RATED",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      }
+    ],
+    "standard_dimensions": "2790x1220",
+    "price_per_unit": 449.0,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "2-3 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5864,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/certificates/ZINTRA_Declare_Statement_EXP092023.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5865,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/certificates/Zintra_Acoustics_-_HPD_Certification.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5866,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/certificates/Zintra_Acoustics_-_Sustainability_Position.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5867,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/certificates/ZINTRA_MSDS.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "100% Recyclable at end of life",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "95% recycled PET + 5% PLA",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Can be installed and removed for reuse",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "10",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Panel size should be considered to be divided into the available space",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "We can produce a slavery document",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5864,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/certificates/ZINTRA_Declare_Statement_EXP092023.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5865,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/certificates/Zintra_Acoustics_-_HPD_Certification.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5866,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/certificates/Zintra_Acoustics_-_Sustainability_Position.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5867,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/certificates/ZINTRA_MSDS.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3026,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "ZINTRA RECYCLED PET PANEL SUBSTRATE (95% Recycled Polyester + 5% PLA)",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3571,
+        "location_name": "Artarmon NSW, Australia",
+        "location_lat": -33.809331,
+        "location_lon": 151.185647,
+        "material": "Enercee Panels feature a 12mm Zintra PET core (95% Recycled Polyester + 5% PLA) with a micro-perforated 3D laminate face",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2387,
+        "location_name": "Artarmon NSW, Australia",
+        "location_lat": -33.809331,
+        "location_lon": 151.185647,
+        "location_state": " Australia",
+        "location_city": "Artarmon NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Mechanical fixing or non destructive adhesive strips",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Enercee panels are designed for durabilty for maximum lifespan",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3115,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/compliance/FR_CERT_12mm_ZINTRA_19-4-24_FC12884-01-2_report_FINAL.pdf",
+        "link": "",
+        "rating": "1"
+      },
+      {
+        "id": 3116,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/compliance/Baresque_Fire_Certificate_-_ENERCEE.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 3117,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/compliance/Baresque_Fire_Certificate_-_ENERCEE_6V3GCHr.pdf",
+        "link": "",
+        "rating": "1"
+      }
+    ],
+    "type_of_packaging": "Recyclable Cardboard and Expandable paper for protection",
+    "files": [
+      {
+        "id": 4494,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/VOC/Zintra_Acoustics_-_HPD_Certification.pdf"
+      },
+      {
+        "id": 4495,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BARESQUE/Enercee%20Laminated%20Acoustic%20Panel/RecycledContent/ZINTRA_Declare_Statement_EXP092023.pdf"
+      }
+    ]
+  }
+]

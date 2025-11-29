@@ -1,0 +1,272 @@
+[
+  {
+    "id": 133,
+    "company": {
+      "id": 48,
+      "name": "DISTRICT FURNITURE PTY LTD"
+    },
+    "image": "products/DISTRICT FURNITURE PTY LTD/leva_BL7DJfq.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-17T02:41:34.391235+00:00",
+    "last_update": "2024-07-24T14:00:00+00:00",
+    "created_by": {
+      "id": 70,
+      "email": "vanessam@district.com.au"
+    },
+    "updated_by": {
+      "id": 70,
+      "email": "vanessam@district.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Mattiazzi",
+    "product_name": "Leva Chair",
+    "product_code": "MC21",
+    "product_description": "Inspired by the efficiency of the form and materiality of an oar, Leva is designed ergonomically: it",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "560W x 510D x 760H mm  Seat Height - 445H mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "14-16 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 301,
+        "certification": "Forestry Stewardship Council",
+        "file": null,
+        "link": "https://download.mattiazzi.eu/api/db/file/download?path=L2NlcnRpZmljYXRpb25zL21hdHRpYXp6aV9mc2NfY2VydGlmaWNhdGUucGRm",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 302,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DISTRICT%20FURNITURE%20PTY%20LTD/Leva%20Chair/certificates/Leva_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 303,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DISTRICT%20FURNITURE%20PTY%20LTD/Leva%20Chair/certificates/District_GECA_Certificate_May_2024.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 304,
+        "certification": "Responsible Wood",
+        "file": null,
+        "link": "https://download.mattiazzi.eu/api/db/file/download?path=L2NlcnRpZmljYXRpb25zL21hdHRpYXp6aV9wZWZjX2NlcnRpZmljYXRlLnBkZg==",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 305,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DISTRICT%20FURNITURE%20PTY%20LTD/Leva%20Chair/certificates/LEVA-Climate-Declaration_DEF_1.PDF",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 8.2,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 2.73,
+    "upfront_carbon_emissions": 2.73,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "End of Life: The default production lifetime of 15 years as specified in the PCR is applied. However, as our products are of high quality and made to last at least 100 years and all the constituent components can be recycled, it is most likely that the products will be still be in use or recycled. The End of Life assumption is that 100% of the chairs will be recycled/reused after 15 years.",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "End of Life: The default production lifetime of 15 years as specified in the PCR is applied. However, as our products are of high quality and made to last at least 100 years and all the constituent components can be recycled, it is most likely that the products will be still be in use or recycled. The End of Life assumption is that 100% of the chairs will be recycled/reused after 15 years.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "The product is a solid timber chair which is compostable at end of life.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Leva is constructed of screws, water based adhesive and solid ashwood. Unscrew to disassemble and recycle.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unknown",
+    "transport_emissions_minimisation_techniques": "During manufacture:\r\n- Electricity is supplied by a mix of own solar panels and grid electricity. \r\n- Factory heating is supplied by wood offcuts as biomass heating in winter when required.",
+    "minimisation_design_strategy": "N/A (loose furniture item)",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "District voluntarily report under the Modern Slavery Act 2018. In 2024 District engaged an external consultant to provide a gap analysis of our 22-23 statement. We are currently reviewing our Action Plan for implementation in FY 24-25.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 301,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://download.mattiazzi.eu/api/db/file/download?path=L2NlcnRpZmljYXRpb25zL21hdHRpYXp6aV9mc2NfY2VydGlmaWNhdGUucGRm",
+        "rating": "undefined"
+      },
+      {
+        "id": 302,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DISTRICT%20FURNITURE%20PTY%20LTD/Leva%20Chair/certificates/Leva_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 303,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DISTRICT%20FURNITURE%20PTY%20LTD/Leva%20Chair/certificates/District_GECA_Certificate_May_2024.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 304,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://download.mattiazzi.eu/api/db/file/download?path=L2NlcnRpZmljYXRpb25zL21hdHRpYXp6aV9wZWZjX2NlcnRpZmljYXRlLnBkZg==",
+        "rating": "undefined"
+      },
+      {
+        "id": 305,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DISTRICT%20FURNITURE%20PTY%20LTD/Leva%20Chair/certificates/LEVA-Climate-Declaration_DEF_1.PDF",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": true,
+    "factory_finished_description": "Ash - Natural Finish \r\n\r\nOR\r\n\r\nStained Black, Red or Grey",
+    "manufacturing_locations": [
+      {
+        "id": 189,
+        "location_name": "Udine, Province of Udine, Italy",
+        "location_lat": 46.065285,
+        "location_lon": 13.237341,
+        "component": "Whole chair (timber)  ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 241,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Ashwood",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 178,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 179,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 238,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Leva is the first timber chair designed by Foster + Partners. Manufactured by Mattiazzi, it combines craftsmanship with sophisticated machinery to create a comfortable and ergonomically designed chair. The sparing use of material is rooted in the idea of sustainability – to do more with less. Made of ash\r\nsustainably sourced from Eastern Europe, the chair is designed to reduce the amount of waste generated during its manufacture. Any timber discarded during the machining process is used to fuel the heating system at the factory, supplementing the photovoltaic panels on the factory roof.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Distribution packaging: Packaging for distribution requires 2.2kg of cardboard box, 0.2kg of polystyrene foam and 0.2kg of polyethylene bagging",
+    "files": [
+      {
+        "id": 162,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DISTRICT%20FURNITURE%20PTY%20LTD/Leva%20Chair/LCA/Leva_EPD.pdf"
+      },
+      {
+        "id": 163,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DISTRICT%20FURNITURE%20PTY%20LTD/Leva%20Chair/ModernSlaveryAssessment/FY22-23_District-Modern-Slavery-Statement.pdf"
+      },
+      {
+        "id": 164,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DISTRICT%20FURNITURE%20PTY%20LTD/Leva%20Chair/ModernSlaveryActionPlan/FY22-23_District-Modern-Slavery-Statement.pdf"
+      }
+    ]
+  }
+]

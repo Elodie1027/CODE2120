@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1560,
+    "company": {
+      "id": 212,
+      "name": "NEOLITH"
+    },
+    "image": "products/NEOLITH/BrahmanPerera_LillieThompson_Hawthorn1_20.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-13T01:41:22.817178+00:00",
+    "last_update": "2025-11-12T13:00:00+00:00",
+    "created_by": {
+      "id": 2323,
+      "email": "k.deakinbell@neolith.com"
+    },
+    "updated_by": {
+      "id": 2323,
+      "email": "k.deakinbell@neolith.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Neolith",
+    "product_name": "Neolith",
+    "product_code": "Neolith",
+    "product_description": "Neolith sintered stone a durable, sustainable surface manufactured for architectural excellence",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 8,
+        "category_name": "Masonry"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "3200 x 1600",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "on request",
+    "lead_time": "2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5966,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/certificates/certificate_nsf_international.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5967,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/certificates/declaracion-ambiental-del-producto.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5968,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/certificates/m1-emission-classification-of-building-materials.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5969,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/certificates/neolith_certification_zero-waste-management_en.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5970,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/certificates/neolith_ecovadis-gold.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5971,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/certificates/neolith_greenguard-gold_certification.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5966,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/certificates/certificate_nsf_international.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5967,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/certificates/declaracion-ambiental-del-producto.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5968,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/certificates/m1-emission-classification-of-building-materials.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5969,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/certificates/neolith_certification_zero-waste-management_en.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5970,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/certificates/neolith_ecovadis-gold.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5971,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/certificates/neolith_greenguard-gold_certification.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "safety data sheets",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [
+      {
+        "id": 2444,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2445,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 25,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "",
+    "files": [
+      {
+        "id": 4575,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEOLITH/Neolith/VOC/m1-emission-classification-of-building-materials.pdf"
+      }
+    ]
+  }
+]

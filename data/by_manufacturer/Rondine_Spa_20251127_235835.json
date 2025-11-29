@@ -1,0 +1,1014 @@
+[
+  {
+    "id": 304,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4920_sTCdXkY.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-13T04:01:12.945008+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Rondine Spa",
+    "product_name": "Dream Beige",
+    "product_code": "4920",
+    "product_description": "Elegant nuances inspired by oak wood, conveying naturalness, warmth and sophistication",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "197x1197mm",
+    "price_per_unit": 60.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $60/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 559,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Canne%20Beige/certificates/EPD_Italian_Ceramic_Tiles.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 833,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Dream%20Beige/certificates/Rondine_EMAS.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 11.0,
+    "upfront_carbon_emissions": 11.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes - Italian ceramic tile companies recycle the total amount of waste water during the drying process in the form of steam or release it into the internal waste water treatment and re-use it internally or externally",
+    "transport_emissions_minimisation_techniques": "Unknown",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 559,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Canne%20Beige/certificates/EPD_Italian_Ceramic_Tiles.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 833,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Dream%20Beige/certificates/Rondine_EMAS.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish",
+    "manufacturing_locations": [
+      {
+        "id": 346,
+        "location_name": "Reggio Emilia, Province of Reggio Emilia, Italy",
+        "location_lat": 44.703097,
+        "location_lon": 10.634615,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 502,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Rhyolite",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 503,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Clay",
+        "product_percentage": 42.0
+      },
+      {
+        "id": 504,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Feldspar",
+        "product_percentage": 35.0
+      },
+      {
+        "id": 505,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Sand",
+        "product_percentage": 13.0
+      },
+      {
+        "id": 506,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Auxiliary additives and glaze ",
+        "product_percentage": 6.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 430,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 361,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Dream%20Beige/compliance/dream_physical_properties.pdf",
+        "link": "",
+        "rating": "R9"
+      },
+      {
+        "id": 362,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Dream%20Beige/compliance/dream_physical_properties_SLNzcOh.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. The amount of packaging material can vary according to the tile size.",
+    "files": [
+      {
+        "id": 462,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Dream%20Beige/VOC/VOC__RONDINE_gb.pdf"
+      },
+      {
+        "id": 463,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Dream%20Beige/LCA/EPD_Italian_Ceramic_Tiles.pdf"
+      },
+      {
+        "id": 665,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Dream%20Beige/ModernSlaveryActionPlan/EQUIPE_ITALCER_SUST_REPORT_EN_2023_low.pdf"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Soft_Ash_R10.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-13T05:14:35.442832+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Rondine Spa",
+    "product_name": "Soft Ash Timber Look",
+    "product_code": "5287",
+    "product_description": "Porcelain stoneware collection creating a perfect imitation of time weathered wood",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "150x1000mm",
+    "price_per_unit": 51.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $51/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 560,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Canne%20Beige/certificates/EPD_Italian_Ceramic_Tiles.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 834,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Ash%20Timber%20Look/certificates/Rondine_EMAS.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 11.0,
+    "upfront_carbon_emissions": 11.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes - Italian ceramic tile companies recycle the total amount of waste water during the drying process in the form of steam or release it into the internal waste water treatment and re-use it internally or externally",
+    "transport_emissions_minimisation_techniques": "Unknown",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 560,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Canne%20Beige/certificates/EPD_Italian_Ceramic_Tiles.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 834,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Ash%20Timber%20Look/certificates/Rondine_EMAS.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Soft (Slip Rating R10), also available in Brown and Nut",
+    "manufacturing_locations": [
+      {
+        "id": 347,
+        "location_name": "Reggio Emilia, Province of Reggio Emilia, Italy",
+        "location_lat": 44.703097,
+        "location_lon": 10.634615,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 509,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Feldspar",
+        "product_percentage": 35.0
+      },
+      {
+        "id": 510,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Sand",
+        "product_percentage": 13.0
+      },
+      {
+        "id": 511,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Auxiliary additives and glaze ",
+        "product_percentage": 6.0
+      },
+      {
+        "id": 507,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Rhyolite",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 508,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Clay",
+        "product_percentage": 42.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 431,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 364,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Ash%20Timber%20Look/compliance/DIN_51130_ING_new_SOFT.pdf",
+        "link": "",
+        "rating": "R10"
+      },
+      {
+        "id": 365,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Ash%20Timber%20Look/compliance/En_Dop.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. The amount of packaging material can vary according to the tile size.",
+    "files": [
+      {
+        "id": 466,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Ash%20Timber%20Look/VOC/VOC__RONDINE_gb.pdf"
+      },
+      {
+        "id": 467,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Ash%20Timber%20Look/LCA/EPD_Italian_Ceramic_Tiles.pdf"
+      },
+      {
+        "id": 666,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Ash%20Timber%20Look/ModernSlaveryActionPlan/EQUIPE_ITALCER_SUST_REPORT_EN_2023_low.pdf"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Soft_Brown_R10_H5b4Nsm.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-13T05:28:56.756738+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Rondine Spa",
+    "product_name": "Soft Brown Timber Look",
+    "product_code": "5290",
+    "product_description": "Porcelain stoneware collection creating a perfect imitation of time weathered wood",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "150x1000mm",
+    "price_per_unit": 51.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $51/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 561,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Canne%20Beige/certificates/EPD_Italian_Ceramic_Tiles.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 835,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Brown%20Timber%20Look/certificates/Rondine_EMAS.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 11.0,
+    "upfront_carbon_emissions": 11.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes - Italian ceramic tile companies recycle the total amount of waste water during the drying process in the form of steam or release it into the internal waste water treatment and re-use it internally or externally",
+    "transport_emissions_minimisation_techniques": "Unknown",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 561,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Canne%20Beige/certificates/EPD_Italian_Ceramic_Tiles.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 835,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Brown%20Timber%20Look/certificates/Rondine_EMAS.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Soft (Slip Rating R10), also available in Ash and Nut",
+    "manufacturing_locations": [
+      {
+        "id": 348,
+        "location_name": "Reggio Emilia, Province of Reggio Emilia, Italy",
+        "location_lat": 44.703097,
+        "location_lon": 10.634615,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 512,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Feldspar",
+        "product_percentage": 35.0
+      },
+      {
+        "id": 513,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Sand",
+        "product_percentage": 13.0
+      },
+      {
+        "id": 514,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Auxiliary additives and glaze ",
+        "product_percentage": 6.0
+      },
+      {
+        "id": 515,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Rhyolite",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 516,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Clay",
+        "product_percentage": 42.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 432,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 366,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Ash%20Timber%20Look/compliance/DIN_51130_ING_new_SOFT.pdf",
+        "link": "",
+        "rating": "R10"
+      },
+      {
+        "id": 367,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Ash%20Timber%20Look/compliance/En_Dop.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. The amount of packaging material can vary according to the tile size.",
+    "files": [
+      {
+        "id": 464,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Brown%20Timber%20Look/VOC/VOC__RONDINE_gb.pdf"
+      },
+      {
+        "id": 465,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Brown%20Timber%20Look/LCA/EPD_Italian_Ceramic_Tiles.pdf"
+      },
+      {
+        "id": 667,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Brown%20Timber%20Look/ModernSlaveryActionPlan/EQUIPE_ITALCER_SUST_REPORT_EN_2023_low.pdf"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Soft_Nut_R10_wY1lycL.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-13T05:44:06.365157+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Rondine Spa",
+    "product_name": "Soft Nut Light Brown Timber Look",
+    "product_code": "5291",
+    "product_description": "Porcelain stoneware collection creating a perfect imitation of time weathered wood",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "150x1000mm",
+    "price_per_unit": 51.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $51/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 562,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Canne%20Beige/certificates/EPD_Italian_Ceramic_Tiles.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 836,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Nut%20Light%20Brown%20Timber%20Look/certificates/Rondine_EMAS.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 11.0,
+    "upfront_carbon_emissions": 11.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes - Italian ceramic tile companies recycle the total amount of waste water during the drying process in the form of steam or release it into the internal waste water treatment and re-use it internally or externally",
+    "transport_emissions_minimisation_techniques": "Unknown",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 562,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Canne%20Beige/certificates/EPD_Italian_Ceramic_Tiles.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 836,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Nut%20Light%20Brown%20Timber%20Look/certificates/Rondine_EMAS.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Soft (Slip Rating R10), also available in Ash and Brown",
+    "manufacturing_locations": [
+      {
+        "id": 349,
+        "location_name": "Reggio Emilia, Province of Reggio Emilia, Italy",
+        "location_lat": 44.703097,
+        "location_lon": 10.634615,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 519,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Auxiliary additives and glaze ",
+        "product_percentage": 6.0
+      },
+      {
+        "id": 520,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Rhyolite",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 521,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Clay",
+        "product_percentage": 42.0
+      },
+      {
+        "id": 517,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Feldspar",
+        "product_percentage": 35.0
+      },
+      {
+        "id": 518,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Sand",
+        "product_percentage": 13.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 433,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 368,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Ash%20Timber%20Look/compliance/DIN_51130_ING_new_SOFT.pdf",
+        "link": "",
+        "rating": "R10"
+      },
+      {
+        "id": 369,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Ash%20Timber%20Look/compliance/En_Dop.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. The amount of packaging material can vary according to the tile size.",
+    "files": [
+      {
+        "id": 470,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Nut%20Light%20Brown%20Timber%20Look/VOC/VOC__RONDINE_gb.pdf"
+      },
+      {
+        "id": 471,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Nut%20Light%20Brown%20Timber%20Look/LCA/EPD_Italian_Ceramic_Tiles.pdf"
+      },
+      {
+        "id": 668,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Soft%20Nut%20Light%20Brown%20Timber%20Look/ModernSlaveryActionPlan/EQUIPE_ITALCER_SUST_REPORT_EN_2023_low.pdf"
+      }
+    ]
+  }
+]

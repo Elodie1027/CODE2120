@@ -1,0 +1,2264 @@
+[
+  {
+    "id": 343,
+    "company": {
+      "id": 111,
+      "name": "NEW AGE VENEERS PTY LTD"
+    },
+    "image": "products/NEW AGE VENEERS PTY LTD/ClassicAmericanOak_01_RS.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-05T23:46:13.708651+00:00",
+    "last_update": "2024-08-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "updated_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "New Age Veneers Pty Ltd",
+    "product_name": "Navurban",
+    "product_code": "NAVURBAN",
+    "product_description": "NAVURBAN is an embossed olefin film pressed onto substrate.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "2400x1200mm, 3000x1200mm, 3600x1200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "POA",
+    "lead_time": "10 working days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 727,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/231207_NAV_NAVURBAN_MDF_Substrate_Level_B_v1.pdf",
+        "link": "https://www.globalgreentag.com/products/navurban-mr-mdf/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 728,
+        "certification": "GreenTag - Modern Slavery Declaration",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/240214_NAV_MSD_Certificate_v1.pdf",
+        "link": "https://www.globalgreentag.com/certificate/2553/240214_NAV_MSD_Certificate_v1.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 729,
+        "certification": "GreenTag - Product Health Declaration",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/230515_NAV_MDF_subtrate_PHD_v1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 730,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_011923_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 731,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_012023_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Off cuts can be used for additional design features such as skirting. board. In house we recycle our off-cuts through a sustainable wood recycling company.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Dependent on the application/installation method of the product.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To reduce product wastage it is recommend to ensure optimising sheet sizes selected for the design.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 727,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/231207_NAV_NAVURBAN_MDF_Substrate_Level_B_v1.pdf",
+        "link": "https://www.globalgreentag.com/products/navurban-mr-mdf/",
+        "rating": "undefined"
+      },
+      {
+        "id": 728,
+        "certification": "GreenTag - Modern Slavery Declaration",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/240214_NAV_MSD_Certificate_v1.pdf",
+        "link": "https://www.globalgreentag.com/certificate/2553/240214_NAV_MSD_Certificate_v1.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 729,
+        "certification": "GreenTag - Product Health Declaration",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/230515_NAV_MDF_subtrate_PHD_v1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 730,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_011923_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 731,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_012023_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "Dioctylin compound (dioctyltin dilaurate) is contained in less than 0.01% in our products.",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "A smooth texture finish with a vast range of decors available.",
+    "manufacturing_locations": [
+      {
+        "id": 399,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "component": "Finished Board",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 599,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "Embossed Olefin Film",
+        "product_percentage": 1.0
+      },
+      {
+        "id": 600,
+        "location_name": "",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "E0 MDF",
+        "product_percentage": 99.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 489,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "location_state": " Australia",
+        "location_city": "Smeaton Grange NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 454,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L23017_New_Age_Veneers_-_Samples_1-18_LRVs.pdf",
+        "link": "https://www.equalaccessgroup.com.au",
+        "rating": "undefined"
+      },
+      {
+        "id": 455,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/NAVURBAN_MR_GROUPCERT_24-001714_Grp_eml01.pdf",
+        "link": "https://www.awtaproducttesting.com.au/index.php/services/flammability-testing",
+        "rating": "3"
+      },
+      {
+        "id": 456,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/IGNL-3285-07-09-I02R00-Navurban-FR-Certificate-21012010.pdf",
+        "link": "",
+        "rating": "2"
+      },
+      {
+        "id": 457,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L20021_Auchen_Flower__Ravenswood_LRVs.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 458,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L23015_New_Age_Veneers_-_Diamond_Gum_Flat__Classic_American_Oak.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 459,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L22027_LVR_-_HOOP_PINEBIRCH.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 460,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L20009_New_Age_Veneers__-_Daylesford_Auchen_Flower__Ravenswood_LRVs1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 461,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L19010-2-_LRV_-_Navurban_The_Oaks_Byron_BB_Albanny_Oak.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 462,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L2005_New_Age_Veneers_-_Oak_Beach__Lamora_LRV_Tests.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 463,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L19034_New_Age_Veneers_-_Navurban_Earlwood_LRV_report_1_sample.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 464,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L19025_New_Age_Veneers_-_Navurban_Hamilton_LRV.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 465,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/LVR_-_Navlam_Verde_Noce__Windsor__Hollywood.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 466,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/LVR_-_Navlam_Verde_Noce__Windsor__Hollywood_SbWyFRd.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 467,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L16008_LRV_-_ASHWOODSILKWOODTABLELANDS.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 468,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L19003_-_Navurban_colour_Clifton_Hill.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 469,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L17002_-_FREMANTLE.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 470,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L18008-2_LVR_-_Balmoral.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 471,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/compliance/L21021__Toorak__Nutgrove_LRV_Testing.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Products are set onto re-usable timber pallets and wrapped to ensure safety and waterproofing in transit to customer.",
+    "files": [
+      {
+        "id": 612,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/VOC/TestCert__VOC_emission__Navurban_Range_Panel.pdf"
+      },
+      {
+        "id": 613,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/ModernSlaveryAssessment/240214_NAV_MSD_Certificate_v1-2.pdf"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "company": {
+      "id": 111,
+      "name": "NEW AGE VENEERS PTY LTD"
+    },
+    "image": "products/NEW AGE VENEERS PTY LTD/freshwater_004_Web.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-06T01:09:29.905412+00:00",
+    "last_update": "2024-08-05T14:00:00+00:00",
+    "created_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "updated_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "New Age Veneers Pty Ltd",
+    "product_name": "Navurban Diamond",
+    "product_code": "NAVURBANDIAMOND",
+    "product_description": "Navurban Diamond is an embossed olefin film with an extra UV overlay pressed onto substrate",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "2400x1200mm, 3000x1200mm, 3600x1200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "POA",
+    "lead_time": "10 working days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 736,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_011923_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 737,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_012023_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 738,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/certificates/231207_NAV_NAVURBAN_Diamind_Finish_Level_B_v1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 739,
+        "certification": "GreenTag - Modern Slavery Declaration",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/certificates/240214_NAV_MSD_Certificate_v1-3.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 740,
+        "certification": "GreenTag - Product Health Declaration",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/certificates/230515_NAV_Diamond-finish_PHD_v1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Off cuts can be used for additional design features such as skirting. board. In house we recycle our off-cuts through a sustainable wood recycling company.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Dependent on the application/installation method of the product.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To reduce product wastage it is recommend to ensure optimising sheet sizes selected for the design.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 736,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_011923_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 737,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_012023_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 738,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/certificates/231207_NAV_NAVURBAN_Diamind_Finish_Level_B_v1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 739,
+        "certification": "GreenTag - Modern Slavery Declaration",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/certificates/240214_NAV_MSD_Certificate_v1-3.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 740,
+        "certification": "GreenTag - Product Health Declaration",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/certificates/230515_NAV_Diamond-finish_PHD_v1.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "Dioctylin compound (dioctyltin dilaurate) is contained in less than 0.01% in our products.",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "A smooth texture finish with a vast range of decors available.",
+    "manufacturing_locations": [
+      {
+        "id": 400,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "component": "Finished Board",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 603,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "Embossed Olefin Film",
+        "product_percentage": 1.0
+      },
+      {
+        "id": 604,
+        "location_name": "",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "E0 MDF",
+        "product_percentage": 99.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 490,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "location_state": " Australia",
+        "location_city": "Smeaton Grange NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 490,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L23017_New_Age_Veneers_-_Samples_1-18_LRVs.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 491,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L23018_New_Age_Veneers_-_7_Diamond_Samples_LRV.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 492,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L23015_New_Age_Veneers_-_Diamond_Gum_Flat__Classic_American_Oak.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 493,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L20022_New_Age_Veneers-_Black_Mountain_LRV_836782.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 494,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L20005_Navurban_-_White_Mountain_Oak_LRV_report_1_sample.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 495,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L21002_Navurban_-_Frenchmans_Oak_LRV_x_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 496,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L21021__Toorak__Nutgrove_LRV_Testing.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 497,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L22016_Diamond_Finish_-_Box_Wood_LRV.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 498,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/DIAMOND_FR_GROUPCERT_24-001690_Grp_eml01.pdf",
+        "link": "",
+        "rating": "3"
+      }
+    ],
+    "type_of_packaging": "Products are set onto re-usable timber pallets and wrapped to ensure safety and waterproofing in transit to customer.",
+    "files": [
+      {
+        "id": 616,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/VOC/VOC_Emission_TestCert_New_Age_Veneers_Navurban_Diamond__GBCA.pdf"
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "company": {
+      "id": 111,
+      "name": "NEW AGE VENEERS PTY LTD"
+    },
+    "image": "products/NEW AGE VENEERS PTY LTD/NAV_01_RS.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-06T01:20:44.479480+00:00",
+    "last_update": "2024-08-05T14:00:00+00:00",
+    "created_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "updated_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "New Age Veneers Pty Ltd",
+    "product_name": "Navurban Elements",
+    "product_code": "NAVURBANELEMENTS",
+    "product_description": "Embossed olefin film to replicate a metallic look pressed onto substrate.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "2400x1200mm, 3000x1200mm, 3600x1200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "POA",
+    "lead_time": "10 working days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 744,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_011923_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 745,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_012023_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 746,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Elements/certificates/231207_NAV_NAVURBAN_Elements_Level_B_v1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 747,
+        "certification": "GreenTag - Product Health Declaration",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Elements/certificates/230515_NAV_NAVURBAN-Elements_PHD_v1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Off cuts can be used for additional design features such as skirting. board. In house we recycle our off-cuts through a sustainable wood recycling company.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Dependent on the application/installation method of the product.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To reduce product wastage it is recommend to ensure optimising sheet sizes selected for the design.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 744,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_011923_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 745,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_012023_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 746,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Elements/certificates/231207_NAV_NAVURBAN_Elements_Level_B_v1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 747,
+        "certification": "GreenTag - Product Health Declaration",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Elements/certificates/230515_NAV_NAVURBAN-Elements_PHD_v1.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "Dioctylin compound (dioctyltin dilaurate) is contained in less than 0.01% in our products.",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "A subtle texture finish with a vast range of decors available.",
+    "manufacturing_locations": [
+      {
+        "id": 401,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "component": "Finished Board",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 605,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "Embossed Olefin Film",
+        "product_percentage": 1.0
+      },
+      {
+        "id": 606,
+        "location_name": "",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "E0 MDF",
+        "product_percentage": 99.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 491,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "location_state": " Australia",
+        "location_city": "Smeaton Grange NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 517,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Elements/compliance/L23008_New_Age_Veneers__-_Navurban_Elements_Titanium__Abstract_Bronze.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 518,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Elements/compliance/L22028_-__Navurban_Elements_Oyster_LRV.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 519,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Elements/compliance/ELEMENTS_FRMDF_GROUP_CERT24-001727_Grp_eml01.pdf",
+        "link": "",
+        "rating": "3"
+      }
+    ],
+    "type_of_packaging": "Products are set onto re-usable timber pallets and wrapped to ensure safety and waterproofing in transit to customer.",
+    "files": [
+      {
+        "id": 619,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Elements/VOC/TestCert_VOC_Emission___New_Age_Veener_Oyster_Navurban_Element.pdf"
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "company": {
+      "id": 111,
+      "name": "NEW AGE VENEERS PTY LTD"
+    },
+    "image": "products/NEW AGE VENEERS PTY LTD/TID_Francis_Ave_112023_Jack_Fenby_DSC_7309x.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-06T01:32:47.323331+00:00",
+    "last_update": "2024-08-05T14:00:00+00:00",
+    "created_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "updated_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "New Age Veneers Pty Ltd",
+    "product_name": "Naveneer",
+    "product_code": "NAVENEER",
+    "product_description": "NAVENEER is a reconstructed timber veneer that offers consistency in wood grain, structure and tone.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "3000x1200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "POA",
+    "lead_time": "10 working days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 751,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_011923_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 752,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_012023_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Off cuts can be used for additional design features such as skirting. board. In house we recycle our off-cuts through a sustainable wood recycling company.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Dependent on the application/installation method of the product.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To reduce product wastage it is recommend to ensure optimising sheet sizes selected for the design.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 751,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_011923_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 752,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_012023_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "Dioctylin compound (dioctyltin dilaurate) is contained in less than 0.01% in our products.",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 402,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "component": "Finished Board",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 609,
+        "location_name": "Milano Marittima, Province of Ravenna, Italy",
+        "location_lat": 44.28045,
+        "location_lon": 12.349251,
+        "material": "Raw Reconstructed Timber Veneer",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 610,
+        "location_name": "",
+        "location_lat": 44.28045,
+        "location_lon": 12.349251,
+        "material": "E0 MDF",
+        "product_percentage": 96.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 492,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "location_state": " Australia",
+        "location_city": "Smeaton Grange NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 540,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Naveneer/compliance/L2005_New_Age_Veneers_-_Oak_Beach__Lamora_LRV_Tests.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 541,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Naveneer/compliance/L22007_-_Navaneer_Frassino_LRV_SUPER_MATTE.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 542,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Naveneer/compliance/NAVENEER_MR_MDF_CERT.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 538,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Naveneer/compliance/L23004_New_Age_Veneers__-_Portofino_Super_Matte_Sample_LRV.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 539,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Naveneer/compliance/L23004_New_Age_Veneers__-_Portofino_Super_Matte_Sample_LRV_jp6oE0J.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Products are set onto re-usable timber pallets and wrapped to ensure safety and waterproofing in transit to customer.",
+    "files": []
+  },
+  {
+    "id": 348,
+    "company": {
+      "id": 111,
+      "name": "NEW AGE VENEERS PTY LTD"
+    },
+    "image": "products/NEW AGE VENEERS PTY LTD/TRACE_gordon_S_042.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-06T01:48:08.173775+00:00",
+    "last_update": "2024-08-06T14:00:00+00:00",
+    "created_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "updated_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "New Age Veneers Pty Ltd",
+    "product_name": "Navlam",
+    "product_code": "NAVLAM",
+    "product_description": "NAVLAM is a pre-finished reconstructed timber veneer combining solid timber aesthetic with laminate.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "3000x1200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "POA",
+    "lead_time": "10 working days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 753,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_011923_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 754,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_012023_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Off cuts can be used for additional design features such as skirting. board. In house we recycle our off-cuts through a sustainable wood recycling company.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Dependent on the application/installation method of the product.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To reduce product wastage it is recommend to ensure optimising sheet sizes selected for the design.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 753,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_011923_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 754,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_012023_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "Dioctylin compound (dioctyltin dilaurate) is contained in less than 0.01% in our products.",
+    "volatile_organic_compounds": "Unsure",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 403,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "component": "Finished Board",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 614,
+        "location_name": "",
+        "location_lat": 45.468503,
+        "location_lon": 9.182403,
+        "material": "E0 MDF",
+        "product_percentage": 90.0
+      },
+      {
+        "id": 625,
+        "location_name": "Milano, Metropolitan City of Milan, Italy",
+        "location_lat": 45.468503,
+        "location_lon": 9.182403,
+        "material": "Prefinished Reconstructed Timber Veneer ",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 493,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "location_state": " Australia",
+        "location_city": "Smeaton Grange NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 548,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navlam/compliance/NAVLAM_FR_GROUPCERT_24-001728_Grp_eml01.pdf",
+        "link": "",
+        "rating": "3"
+      },
+      {
+        "id": 549,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navlam/compliance/NAVLAM_MR_GROUPCERT_24-001715_Grp_eml01.pdf",
+        "link": "",
+        "rating": "3"
+      }
+    ],
+    "type_of_packaging": "Products are set onto re-usable timber pallets and wrapped to ensure safety and waterproofing in transit to customer.",
+    "files": []
+  },
+  {
+    "id": 349,
+    "company": {
+      "id": 111,
+      "name": "NEW AGE VENEERS PTY LTD"
+    },
+    "image": "products/NEW AGE VENEERS PTY LTD/05-PROJECT-IVORY-INFINITE-OAK-Boutique-HR_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-06T02:07:06.937873+00:00",
+    "last_update": "2024-08-05T14:00:00+00:00",
+    "created_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "updated_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "New Age Veneers Pty Ltd",
+    "product_name": "Shinnoki By Nav",
+    "product_code": "SHINNOKI",
+    "product_description": "Shinnoki is a refinished wood veneer adhered to a phenolic laminate backing sheet.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "3000x1200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "POA",
+    "lead_time": "10 working days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 755,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_011923_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 756,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_012023_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Off cuts can be used for additional design features such as skirting. board. In house we recycle our off-cuts through a sustainable wood recycling company.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Dependent on the application/installation method of the product.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To reduce product wastage it is recommend to ensure optimising sheet sizes selected for the design.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 755,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_011923_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 756,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban/certificates/COC_CRT_NewAgeVeneers_012023_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "Dioctylin compound (dioctyltin dilaurate) is contained in less than 0.01% in our products.",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 404,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "component": "Finished Board",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 617,
+        "location_name": "Menen, Belgium",
+        "location_lat": 50.796255,
+        "location_lon": 3.121536,
+        "material": "Prefinished timber veneer",
+        "product_percentage": 10.0
+      },
+      {
+        "id": 618,
+        "location_name": "",
+        "location_lat": 50.796255,
+        "location_lon": 3.121536,
+        "material": "E0 MDF",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 494,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "location_state": " Australia",
+        "location_city": "Smeaton Grange NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 555,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Shinnoki%20By%20Nav/compliance/SHINNOKI_FR_GROUPCERT_24-001693_Grp_eml01.pdf",
+        "link": "",
+        "rating": "3"
+      },
+      {
+        "id": 556,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Shinnoki%20By%20Nav/compliance/SHINNOKI_LAM_GROUPCERT24-001688_Grp_eml01.pdf",
+        "link": "",
+        "rating": "3"
+      }
+    ],
+    "type_of_packaging": "Products are set onto re-usable timber pallets and wrapped to ensure safety and waterproofing in transit to customer.",
+    "files": [
+      {
+        "id": 622,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Shinnoki%20By%20Nav/VOC/TestCert-VOC-Emission-_New-Age-Veener_-Shinnoki_GBCA.pdf"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "company": {
+      "id": 111,
+      "name": "NEW AGE VENEERS PTY LTD"
+    },
+    "image": "products/NEW AGE VENEERS PTY LTD/studio-minosa-vaucluse-pool-level_22_LR.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-06T02:13:45.375941+00:00",
+    "last_update": "2024-08-05T14:00:00+00:00",
+    "created_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "updated_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "New Age Veneers Pty Ltd",
+    "product_name": "Navcompact",
+    "product_code": "NAVCOMPACT",
+    "product_description": "NAVCOMPACT is a fusion between premium 13mm compact laminate with UV surface technology.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "2745x1220x13mm",
+    "price_per_unit": 609.51,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "10 working days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 762,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navcompact/certificates/231211_NAV_NAVCOMPCT_Level_B_v1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 763,
+        "certification": "GreenTag - Product Health Declaration",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navcompact/certificates/231019_NAV_NAVCOMPACT_PHD_v3.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "Off cuts can be used for additional design features such as skirting. board. In house we recycle our off-cuts through a sustainable wood recycling company.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Dependent on the application/installation method of the product.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To reduce product wastage it is recommend to ensure optimising sheet sizes selected for the design.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 762,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navcompact/certificates/231211_NAV_NAVCOMPCT_Level_B_v1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 763,
+        "certification": "GreenTag - Product Health Declaration",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navcompact/certificates/231019_NAV_NAVCOMPACT_PHD_v3.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "Formaldehyde (added)",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "A smooth texture finish with a vast range of decors available.",
+    "manufacturing_locations": [
+      {
+        "id": 405,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "component": "Finished Board",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 619,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "Embossed Olefin Film",
+        "product_percentage": 1.0
+      },
+      {
+        "id": 621,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "material": "Compact Laminate Substrate",
+        "product_percentage": 99.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 495,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "location_state": " Australia",
+        "location_city": "Smeaton Grange NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 566,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navcompact/compliance/Navcompact-Fire-Certificate.pdf",
+        "link": "",
+        "rating": "3"
+      },
+      {
+        "id": 557,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L23017_New_Age_Veneers_-_Samples_1-18_LRVs.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 558,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L23018_New_Age_Veneers_-_7_Diamond_Samples_LRV.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 559,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L23015_New_Age_Veneers_-_Diamond_Gum_Flat__Classic_American_Oak.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 560,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L20022_New_Age_Veneers-_Black_Mountain_LRV_836782.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 561,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L20005_Navurban_-_White_Mountain_Oak_LRV_report_1_sample.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 562,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L21002_Navurban_-_Frenchmans_Oak_LRV_x_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 563,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L21021__Toorak__Nutgrove_LRV_Testing.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 564,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Diamond/compliance/L22016_Diamond_Finish_-_Box_Wood_LRV.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Products are set onto re-usable timber pallets and wrapped to ensure safety and waterproofing in transit to customer.",
+    "files": [
+      {
+        "id": 624,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navcompact/VOC/TestCert_TVOC_Navcompact-_GBCA.pdf"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "company": {
+      "id": 111,
+      "name": "NEW AGE VENEERS PTY LTD"
+    },
+    "image": "products/NEW AGE VENEERS PTY LTD/BostonPR_NewAgeVeneers_03_Naburban_wall_Balmoral_waitin_zhcm1pd.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-06T02:24:20.401678+00:00",
+    "last_update": "2024-08-05T14:00:00+00:00",
+    "created_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "updated_by": {
+      "id": 1189,
+      "email": "admin@newageveneers.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "New Age Veneers Pty Ltd",
+    "product_name": "Navurban Wall",
+    "product_code": "NAVURBANWALL",
+    "product_description": "NAVURBAN Wall is a wallpaper product with an advanced and durable embossed olefin film finish.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "9850x600mm Rolls",
+    "price_per_unit": 768.3,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "POA",
+    "lead_time": "10 working days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 769,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/certificates/240515_NAV_NAVURBAN_Wall_Level_B_v1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 770,
+        "certification": "GreenTag - Product Health Declaration",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/certificates/240315_NAV_NAVURBAN_Wall_PHD_Certificate_v1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Off cuts can be used for additional design features. In house we can use off cuts as additional samples on hand.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Dependent on the application/installation method of the product.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To reduce product wastage it is recommend to ensure optimising roll sizes selected for the design.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 769,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/certificates/240515_NAV_NAVURBAN_Wall_Level_B_v1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 770,
+        "certification": "GreenTag - Product Health Declaration",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/certificates/240315_NAV_NAVURBAN_Wall_PHD_Certificate_v1.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "Dioctylin compound (dioctyltin dilaurate) is contained in less than 0.01% in our products.",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "A smooth texture finish with a vast range of decors available.",
+    "manufacturing_locations": [
+      {
+        "id": 407,
+        "location_name": "Kirrawee NSW, Australia",
+        "location_lat": -34.032037,
+        "location_lon": 151.071563,
+        "component": "Finished Wallpaper ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 622,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "Embossed Olefin Film",
+        "product_percentage": 1.0
+      },
+      {
+        "id": 624,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Wallpaper Backing",
+        "product_percentage": 99.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 496,
+        "location_name": "Smeaton Grange NSW, Australia",
+        "location_lat": -34.039013,
+        "location_lon": 150.756853,
+        "location_state": " Australia",
+        "location_city": "Smeaton Grange NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 586,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/compliance/L19010-2-_LRV_-_Navurban_The_Oaks_Byron_BB_Albanny_Oak.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 590,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/compliance/L19010-2-_LRV_-_Navurban_The_Oaks_Byron_BB_Albanny_Oak_9Rbikrk.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 594,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/compliance/L16008_LRV_-_ASHWOODSILKWOODTABLELANDS.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 596,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/compliance/23-003214_Grp_eml01.pdf",
+        "link": "",
+        "rating": "2"
+      },
+      {
+        "id": 587,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/compliance/L18008-2_LVR_-_Balmoral.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 588,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/compliance/L20022_New_Age_Veneers-_Black_Mountain_LRV_836782.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 591,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/compliance/L23015_New_Age_Veneers_-_Diamond_Gum_Flat__Classic_American_Oak.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 592,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/compliance/L19003_-_Navurban_colour_Clifton_Hill.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 585,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/compliance/L23017_New_Age_Veneers_-_Samples_1-18_LRVs.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 589,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/compliance/L22016_Diamond_Finish_-_Box_Wood_LRV.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 593,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/compliance/L21021__Toorak__Nutgrove_LRV_Testing.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 595,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/compliance/L20005_Navurban_-_White_Mountain_Oak_LRV_report_1_sample.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Products are set onto recyclable cardboard boxes.",
+    "files": [
+      {
+        "id": 627,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/VOC/TestCert_-VOC-Emission_New-Age-Veneers_NAVURBAN-WALL.pdf"
+      },
+      {
+        "id": 629,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/NEW%20AGE%20VENEERS%20PTY%20LTD/Navurban%20Wall/ModernSlaveryAssessment/240515_NAV_NAVURBAN_Wall_Level_B_v1.pdf"
+      }
+    ]
+  }
+]

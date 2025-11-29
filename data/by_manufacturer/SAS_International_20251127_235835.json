@@ -1,0 +1,1670 @@
+[
+  {
+    "id": 55,
+    "company": {
+      "id": 20,
+      "name": "SAS international"
+    },
+    "image": "products/SAS international/Crox-Sml-150-Com_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-21T10:57:13.626952+00:00",
+    "last_update": "2024-04-29T09:03:55.004116+00:00",
+    "created_by": {
+      "id": 95,
+      "email": "mmaggs@sasint.com.au"
+    },
+    "updated_by": {
+      "id": 95,
+      "email": "mmaggs@sasint.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "SAS International",
+    "product_name": "Sas150",
+    "product_code": null,
+    "product_description": "SAS150 is a suspended metal ceiling system with clip-in modular tiles and concealed grid.",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      }
+    ],
+    "standard_dimensions": "STANDARD MODULE SIZES (MM) WITH 4MM BEVEL TILES  300 x 300 | 300 x 600 | 300 x 900 | 300 x 1200 | 300 x 1500  500 x 500",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": null,
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 48,
+        "certification": "C2C Material Health Certificate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/certificates/SAS_I_SAS_M_Bronz_MHC5765_2023-03-24_143922.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 49,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/certificates/SAS_I_SAS_M_Bronz_CERT5765_2023-03-24_143922.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 50,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/certificates/SAS_SYS_150_TILES_ONLY_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 51,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "https://www.globalgreentag.com/manufacturer-sasinternational/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 52,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/certificates/HPD_Steel_membrane_component_Tiles_and_Ba_WUMvuhf.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 17.2,
+    "upfront_carbon_emissions": 17.2,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "It is assumed that as the main element of the product is steel and a valuable material, 100% of the product is recycled at end of life.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "SAS metal ceiling systems are design for disassembly and reuse",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 48,
+        "certification": "C2C Material Health Certificate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/certificates/SAS_I_SAS_M_Bronz_MHC5765_2023-03-24_143922.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 49,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/certificates/SAS_I_SAS_M_Bronz_CERT5765_2023-03-24_143922.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 50,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/certificates/SAS_SYS_150_TILES_ONLY_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 51,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.globalgreentag.com/manufacturer-sasinternational/",
+        "rating": "undefined"
+      },
+      {
+        "id": 52,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/certificates/HPD_Steel_membrane_component_Tiles_and_Ba_WUMvuhf.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Standard Finishes - Coating Polyester powder coat",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 58,
+        "location_name": "Bridgend, UK",
+        "location_lat": 51.504286,
+        "location_lon": -3.576945,
+        "material": "Steel ",
+        "product_percentage": 97.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 52,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 53,
+        "location_name": "Bridgend, UK",
+        "location_lat": 51.504286,
+        "location_lon": -3.576945,
+        "location_state": " UK",
+        "location_city": "Bridgend"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 32,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/compliance/AS_ISO_9705_2003.pdf",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Timber, cardboard and paper - all suitable for reuse or recycling",
+    "files": [
+      {
+        "id": 29,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/VOC/392-2019-00309701_A_EN_SAS_International_IAC_GOLD.pdf"
+      },
+      {
+        "id": 30,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/LCA/SAS_SYS_150_TILES_ONLY_EPD.pdf"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "company": {
+      "id": 28,
+      "name": "MBS ARCHITECTURAL"
+    },
+    "image": "products/MBS ARCHITECTURAL/DLA_Piper_redo_003.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-29T04:30:35.109831+00:00",
+    "last_update": "2024-04-14T19:26:40.133798+00:00",
+    "created_by": {
+      "id": 151,
+      "email": "blake@mbsarchitectural.com.au"
+    },
+    "updated_by": {
+      "id": 151,
+      "email": "blake@mbsarchitectural.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "SAS International",
+    "product_name": "Sas200 Hook-On Metal Ceiling Panels",
+    "product_code": "SAS200",
+    "product_description": "SAS200 is a suspended metal ceiling system with metal panels that are supported by a concealed grid",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      }
+    ],
+    "standard_dimensions": "There are no standard tile sizes for SAS200. Tiles can be up to 3000mm in length and no less than 300mm wide.",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "14-16 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 179,
+        "certification": "C2C Material Health Certificate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Cradle-to-Cr_3MmjoPi.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 180,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Cradle-to-Cr_86ONUrX.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 181,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/GreenTag_Gre_ZiXYgk4.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 182,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Health_Produ_c0KevgM.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": 17.2,
+    "upfront_carbon_emissions": 17.2,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "It is assumed that as the main element of the product is steel and a valuable material, 100% of the product is recycled at end of life.",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "It is assumed that as the main element of the product is steel and a valuable material, 100% of the product is recycled at end of life.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "SAS Suspension systems allow for easy panel removability and reuse. Panel durability assists in reuse.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "The majority of waste minimize occurs in ceiling panel set-out and detailing. This is best discussed with your representative to coordinate specific ceiling details that limit how many panels need to be cut on-site to suit specific project conditions.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 179,
+        "certification": "C2C Material Health Certificate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Cradle-to-Cr_3MmjoPi.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 180,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Cradle-to-Cr_86ONUrX.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 181,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/GreenTag_Gre_ZiXYgk4.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 182,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Health_Produ_c0KevgM.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Standard Finishes - Coating Polyester Powder Coat",
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [
+      {
+        "id": 63,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 64,
+        "location_name": "Bridgend, UK",
+        "location_lat": 51.504286,
+        "location_lon": -3.576945,
+        "location_state": " UK",
+        "location_city": "Bridgend"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 75,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 53,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/compliance/FR003_AS_ISO_9_nek56Xu.pdf",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Timber, cardboard and paper - all suitable for reuse or recycling",
+    "files": [
+      {
+        "id": 45,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/VOC/392-2019-00309701_A_E_QgjSwJj.pdf"
+      },
+      {
+        "id": 75,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/LCA/Cradle-to-Cradle_Mate_Kpbr7BR.pdf"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "company": {
+      "id": 20,
+      "name": "SAS international"
+    },
+    "image": "products/SAS international/Screenshot_2024-03-08_095524_z7EnjdQ.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-07T23:55:47.069919+00:00",
+    "last_update": "2024-04-24T07:15:32.979054+00:00",
+    "created_by": {
+      "id": 95,
+      "email": "mmaggs@sasint.com.au"
+    },
+    "updated_by": {
+      "id": 95,
+      "email": "mmaggs@sasint.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "SAS International",
+    "product_name": "Sas205",
+    "product_code": null,
+    "product_description": "A concealed hook on suspended metal ceiling system specifically for corridor applications.",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      }
+    ],
+    "standard_dimensions": "STANDARD MODULE SIZES (MM)",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": null,
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 94,
+        "certification": "C2C Material Health Certificate",
+        "file": null,
+        "link": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/certificates/SAS_I_SAS_M_Bronz_MHC5765_2023-03-24_143922.pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 95,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas205/certificates/SAS_I_SAS_M_Bronz_MHC5765_2023-03-24_143922.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 96,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas205/certificates/SAS750_PROFILE_ONLY_EPD_Jan2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 97,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas205/certificates/Green_Tag_Certified.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 98,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas205/certificates/HPD_Steel_membrane_component_Tiles_and_Ba_WUMvuhf.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 17.2,
+    "upfront_carbon_emissions": 17.2,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "It is assumed that as the main element of the product is steel and a valuable material, 100% of the product is recycled at end of life.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "SAS metal ceiling systems are design for disassembly and reuse",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 94,
+        "certification": "C2C Material Health Certificate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/certificates/SAS_I_SAS_M_Bronz_MHC5765_2023-03-24_143922.pdf",
+        "rating": ""
+      },
+      {
+        "id": 95,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas205/certificates/SAS_I_SAS_M_Bronz_MHC5765_2023-03-24_143922.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 96,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas205/certificates/SAS750_PROFILE_ONLY_EPD_Jan2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 97,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas205/certificates/Green_Tag_Certified.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 98,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas205/certificates/HPD_Steel_membrane_component_Tiles_and_Ba_WUMvuhf.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Standard Finishes - Coating Polyester powder coat",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 106,
+        "location_name": "Bridgend, UK",
+        "location_lat": 51.504286,
+        "location_lon": -3.576945,
+        "material": "Steel",
+        "product_percentage": 97.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 79,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 80,
+        "location_name": "Bridgend, UK",
+        "location_lat": 51.504286,
+        "location_lon": -3.576945,
+        "location_state": " UK",
+        "location_city": "Bridgend"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 59,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/compliance/AS_ISO_9705_2003.pdf",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Timber, cardboard and paper - all suitable for reuse or recycling",
+    "files": []
+  },
+  {
+    "id": 86,
+    "company": {
+      "id": 20,
+      "name": "SAS international"
+    },
+    "image": "products/SAS international/Screenshot_2024-03-05_102601_Fod3SOI.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-08T02:29:36.026561+00:00",
+    "last_update": "2024-03-27T04:37:58.722888+00:00",
+    "created_by": {
+      "id": 95,
+      "email": "mmaggs@sasint.com.au"
+    },
+    "updated_by": {
+      "id": 95,
+      "email": "mmaggs@sasint.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "SAS International",
+    "product_name": "Sas200",
+    "product_code": null,
+    "product_description": "A concealed hook on suspended metal ceiling system ideal for ambitious design challenges.",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      }
+    ],
+    "standard_dimensions": "STANDARD MODULE SIZES (MM)",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": null,
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 99,
+        "certification": "C2C Material Health Certificate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas200/certificates/SAS_I_SAS_M_Bronz_CERT5765_2023-03-24_143922_1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 100,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas200/certificates/SAS_I_SAS_M_Bronz_MHC5765_2023-03-24_143922.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 101,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas200/certificates/Green_Tag_Certified.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 102,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas200/certificates/HPD_Steel_membrane_component_Tiles_and_Ba_WUMvuhf.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 17.2,
+    "upfront_carbon_emissions": 17.2,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "It is assumed that as the main element of the product is steel and a valuable material, 100% of the product is recycled at end of life.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "SAS metal ceiling systems are design for disassembly and reuse",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 99,
+        "certification": "C2C Material Health Certificate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas200/certificates/SAS_I_SAS_M_Bronz_CERT5765_2023-03-24_143922_1.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 100,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas200/certificates/SAS_I_SAS_M_Bronz_MHC5765_2023-03-24_143922.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 101,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas200/certificates/Green_Tag_Certified.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 102,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas200/certificates/HPD_Steel_membrane_component_Tiles_and_Ba_WUMvuhf.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Standard Finishes - Coating Polyester powder coat",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 107,
+        "location_name": "Bridgend, UK",
+        "location_lat": 51.504286,
+        "location_lon": -3.576945,
+        "material": "Steel",
+        "product_percentage": 97.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 81,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 82,
+        "location_name": "Bridgend, UK",
+        "location_lat": 51.504286,
+        "location_lon": -3.576945,
+        "location_state": " UK",
+        "location_city": "Bridgend"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 60,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/compliance/AS_ISO_9705_2003.pdf",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Timber, cardboard and paper - all suitable for reuse or recycling",
+    "files": []
+  },
+  {
+    "id": 88,
+    "company": {
+      "id": 20,
+      "name": "SAS international"
+    },
+    "image": "products/SAS international/Screenshot_2024-03-05_111627_FC2weH7.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-08T02:41:39.479039+00:00",
+    "last_update": "2024-03-28T01:42:59.319973+00:00",
+    "created_by": {
+      "id": 95,
+      "email": "mmaggs@sasint.com.au"
+    },
+    "updated_by": {
+      "id": 95,
+      "email": "mmaggs@sasint.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "SAS International",
+    "product_name": "Sas330",
+    "product_code": null,
+    "product_description": "A highly versatile, premium suspended ceiling system with lay-on tiles and exp[osed grid.",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      }
+    ],
+    "standard_dimensions": "STANDARD MODULE SIZES (MM)",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": null,
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 103,
+        "certification": "C2C Material Health Certificate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas330/certificates/SAS_I_SAS_M_Bronz_CERT5765_2023-03-24_143922_1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 104,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas330/certificates/SAS_I_SAS_M_Bronz_MHC5765_2023-03-24_143922.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 105,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas330/certificates/SAS750_PROFILE_ONLY_EPD_Jan2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 106,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas330/certificates/Green_Tag_Certified.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 107,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas330/certificates/HPD_Steel_membrane_component_Tiles_and_Ba_WUMvuhf.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 17.2,
+    "upfront_carbon_emissions": 17.2,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "It is assumed that as the main element of the product is steel and a valuable material, 100% of the product is recycled at end of life",
+    "recycling_process_description": "SAS metal ceiling systems are design for disassembly and reuse",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "SAS metal ceiling systems are design for disassembly and reuse",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 103,
+        "certification": "C2C Material Health Certificate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas330/certificates/SAS_I_SAS_M_Bronz_CERT5765_2023-03-24_143922_1.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 104,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas330/certificates/SAS_I_SAS_M_Bronz_MHC5765_2023-03-24_143922.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 105,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas330/certificates/SAS750_PROFILE_ONLY_EPD_Jan2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 106,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas330/certificates/Green_Tag_Certified.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 107,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/Sas330/certificates/HPD_Steel_membrane_component_Tiles_and_Ba_WUMvuhf.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Standard Finishes - Coating Polyester powder coat",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 108,
+        "location_name": "Bridgend, UK",
+        "location_lat": 51.504286,
+        "location_lon": -3.576945,
+        "material": "Steel",
+        "product_percentage": 97.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 83,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 84,
+        "location_name": "Bridgend, UK",
+        "location_lat": 51.504286,
+        "location_lon": -3.576945,
+        "location_state": " UK",
+        "location_city": "Bridgend"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 61,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAS%20international/SAS150/compliance/AS_ISO_9705_2003.pdf",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Timber, cardboard and paper - all suitable for reuse or recycling",
+    "files": []
+  },
+  {
+    "id": 106,
+    "company": {
+      "id": 28,
+      "name": "MBS ARCHITECTURAL"
+    },
+    "image": "products/MBS ARCHITECTURAL/SAS205_ytkO74l.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-15T00:53:03.571598+00:00",
+    "last_update": "2024-04-24T02:48:07.061796+00:00",
+    "created_by": {
+      "id": 151,
+      "email": "blake@mbsarchitectural.com.au"
+    },
+    "updated_by": {
+      "id": 151,
+      "email": "blake@mbsarchitectural.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "SAS International",
+    "product_name": "Sas205 Corridor Metal Ceiling Panels",
+    "product_code": "SAS205",
+    "product_description": "SAS205 is a suspended metal ceiling system specific to corridor applications",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      }
+    ],
+    "standard_dimensions": "There are no standard tile sizes for SAS200. Tiles can be up to 3000mm in length and no less than 300mm wide.",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "14-16 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 183,
+        "certification": "C2C Material Health Certificate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Cradle-to-Cr_3MmjoPi.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 184,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Cradle-to-Cr_86ONUrX.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 185,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/GreenTag_Gre_ZiXYgk4.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 186,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Health_Produ_c0KevgM.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": 17.2,
+    "upfront_carbon_emissions": 17.2,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "It is assumed that as the main element of the product is steel and a valuable material, 100% of the product is recycled at end of life.",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "It is assumed that as the main element of the product is steel and a valuable material, 100% of the product is recycled at end of life.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "SAS Suspension systems allow for easy panel removability and reuse. Panel durability assists in reuse.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "The majority of waste minimize occurs in ceiling panel set-out and detailing. This is best discussed with your representative to coordinate specific ceiling details that limit how many panels need to be cut on-site to suit specific project conditions.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 183,
+        "certification": "C2C Material Health Certificate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Cradle-to-Cr_3MmjoPi.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 184,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Cradle-to-Cr_86ONUrX.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 185,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/GreenTag_Gre_ZiXYgk4.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 186,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Health_Produ_c0KevgM.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Standard Finishes - Coating Polyester Powder Coat",
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [
+      {
+        "id": 116,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 117,
+        "location_name": "Bridgend, UK",
+        "location_lat": 51.504286,
+        "location_lon": -3.576945,
+        "location_state": " UK",
+        "location_city": "Bridgend"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 75,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 101,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/compliance/FR003_AS_ISO_9_nek56Xu.pdf",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Timber, cardboard and paper - all suitable for reuse or recycling",
+    "files": [
+      {
+        "id": 76,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/VOC/392-2019-00309701_A_E_QgjSwJj.pdf"
+      },
+      {
+        "id": 77,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/LCA/Cradle-to-Cradle_Mate_Kpbr7BR.pdf"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "company": {
+      "id": 28,
+      "name": "MBS ARCHITECTURAL"
+    },
+    "image": "products/MBS ARCHITECTURAL/DLA_Piper_redo_003_KtEW6vw.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-15T01:05:09.119245+00:00",
+    "last_update": "2024-04-24T07:15:36.725529+00:00",
+    "created_by": {
+      "id": 151,
+      "email": "blake@mbsarchitectural.com.au"
+    },
+    "updated_by": {
+      "id": 151,
+      "email": "blake@mbsarchitectural.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "SAS International",
+    "product_name": "Sas310 Lay-On Metal Panels - Two Way Grid",
+    "product_code": "SAS330a",
+    "product_description": "SAS330a is Lay-On Metal Panel system with a modular one way grid",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      }
+    ],
+    "standard_dimensions": "There are no standard tile sizes for SAS200. Tiles can be up to 3000mm in length and no less than 300mm wide.",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "14-16 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 191,
+        "certification": "C2C Material Health Certificate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Cradle-to-Cr_3MmjoPi.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 192,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Cradle-to-Cr_86ONUrX.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 193,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/GreenTag_Gre_ZiXYgk4.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 194,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Health_Produ_c0KevgM.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": 17.2,
+    "upfront_carbon_emissions": 17.2,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "It is assumed that as the main element of the product is steel and a valuable material, 100% of the product is recycled at end of life.",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "It is assumed that as the main element of the product is steel and a valuable material, 100% of the product is recycled at end of life.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "SAS Suspension systems allow for easy panel removability and reuse. Panel durability assists in reuse.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "The majority of waste minimize occurs in ceiling panel set-out and detailing. This is best discussed with your representative to coordinate specific ceiling details that limit how many panels need to be cut on-site to suit specific project conditions.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 191,
+        "certification": "C2C Material Health Certificate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Cradle-to-Cr_3MmjoPi.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 192,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Cradle-to-Cr_86ONUrX.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 193,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/GreenTag_Gre_ZiXYgk4.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 194,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/certificates/Health_Produ_c0KevgM.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Standard Finishes - Coating Polyester Powder Coat",
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [
+      {
+        "id": 120,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 121,
+        "location_name": "Bridgend, UK",
+        "location_lat": 51.504286,
+        "location_lon": -3.576945,
+        "location_state": " UK",
+        "location_city": "Bridgend"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 75,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 103,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/compliance/FR003_AS_ISO_9_nek56Xu.pdf",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Timber, cardboard and paper - all suitable for reuse or recycling",
+    "files": [
+      {
+        "id": 80,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/VOC/392-2019-00309701_A_E_QgjSwJj.pdf"
+      },
+      {
+        "id": 81,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MBS%20ARCHITECTURAL/Sas200%20Hook-On%20Metal%20Ceiling%20Panels/LCA/Cradle-to-Cradle_Mate_Kpbr7BR.pdf"
+      }
+    ]
+  }
+]

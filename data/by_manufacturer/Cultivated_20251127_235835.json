@@ -1,0 +1,236 @@
+[
+  {
+    "id": 130,
+    "company": {
+      "id": 43,
+      "name": "CULTIVATED"
+    },
+    "image": "products/CULTIVATED/FSP_Cult_20201001_205-LR.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-16T00:38:41.315620+00:00",
+    "last_update": "2024-05-09T23:24:30.501425+00:00",
+    "created_by": {
+      "id": 219,
+      "email": "joshuae@cultivated.com.au"
+    },
+    "updated_by": {
+      "id": 219,
+      "email": "joshuae@cultivated.com.au"
+    },
+    "user_role": "Other",
+    "manufacturer_name": "Cultivated",
+    "product_name": "Furniture Refurbishment",
+    "product_code": "CULTI-0001",
+    "product_description": "Cultivated provides restoration/reuse services for authentic furniture and lighting.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "6 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "We aim to retain as much of the product as possible. Where waste is created, we use local partners including Corex Plastic, Sims Metal and Traks Textile Recycling to process materials. Currently ther eis no avenue to recycle used polyurethane foam in Australia or furniture timbers (those lacquered, laminated or treated).",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "We use TRAKS textile recycling for fabric offcuts, Corex plastics for polypropylene waste and Sims metal for metal waste. These materials can be recycled.",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "Generally, a large portion of existing materials are retained during restoration.",
+    "recycling_process_description": "As above, polypropylene plastic, alloys and woven textiles can be recycled. Foam and timber cannot.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Yes, we work with products that can be reuse. The oldest product we have worked on so far are Fritz Hansen Lily chairs form 1973.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Cultivated is furniture product stewardship program. We only take back second hand products with the aim of providing reuse and longevity on projects through repair and maintenance.",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "We consider how much of the original products is functional and can be retained for reuse.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Unsure",
+    "installation_risks_description": "",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Unsure",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 137,
+        "location_name": "Pascoe Vale VIC, Australia",
+        "location_lat": -37.731524,
+        "location_lon": 144.938485,
+        "component": "Upholstery",
+        "component_percentage": 10.0
+      },
+      {
+        "id": 138,
+        "location_name": "Thornbury VIC, Australia",
+        "location_lat": -37.759569,
+        "location_lon": 145.000456,
+        "component": "Timber Finishing",
+        "component_percentage": 10.0
+      },
+      {
+        "id": 139,
+        "location_name": "Clayton VIC, Australia",
+        "location_lat": -37.914548,
+        "location_lon": 145.127492,
+        "component": "Metal Finishing",
+        "component_percentage": 10.0
+      },
+      {
+        "id": 140,
+        "location_name": "Preston VIC, Australia",
+        "location_lat": -37.745096,
+        "location_lon": 145.002857,
+        "component": "Powdercoating",
+        "component_percentage": 10.0
+      },
+      {
+        "id": 141,
+        "location_name": "Kirrawee NSW, Australia",
+        "location_lat": -34.032037,
+        "location_lon": 151.071563,
+        "component": "Upholstery",
+        "component_percentage": 10.0
+      },
+      {
+        "id": 142,
+        "location_name": "Prestons NSW, Australia",
+        "location_lat": -33.950035,
+        "location_lon": 150.86584,
+        "component": "Upholstery",
+        "component_percentage": 10.0
+      },
+      {
+        "id": 143,
+        "location_name": "Mount Kuring-gai NSW, Australia",
+        "location_lat": -33.641476,
+        "location_lon": 151.130865,
+        "component": "Upholstery",
+        "component_percentage": 10.0
+      },
+      {
+        "id": 144,
+        "location_name": "Ingleburn NSW, Australia",
+        "location_lat": -34.004412,
+        "location_lon": 150.863023,
+        "component": "Powdercoating",
+        "component_percentage": 10.0
+      },
+      {
+        "id": 145,
+        "location_name": "Fairfield East NSW, Australia",
+        "location_lat": -33.876138,
+        "location_lon": 150.97081,
+        "component": "Metal Finishing",
+        "component_percentage": 10.0
+      },
+      {
+        "id": 146,
+        "location_name": "Huntingdale WA, Australia",
+        "location_lat": -32.078381,
+        "location_lon": 115.964876,
+        "component": "Upholstery",
+        "component_percentage": 10.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 174,
+        "location_name": "Thornbury VIC, Australia",
+        "location_lat": -37.759569,
+        "location_lon": 145.000456,
+        "material": "Restoration",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 174,
+        "location_name": "Thornbury VIC, Australia",
+        "location_lat": -37.759569,
+        "location_lon": 145.000456,
+        "location_state": " Australia",
+        "location_city": "Thornbury VIC"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Upholstery\r\nPolyurethane Foam\r\nPaint\r\nWater Based Lacquer",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 22.0,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Cultivate partners with local workshops in Australia to carry out restoration work. It's important to support local skills and economies and minimise transport across state lines. We currently work with partners in Sydney, Melbourne and Perth. As part of this initiative, we have contracted Sydney based Circular Design Thinking to initiate a comprehensive supplier code of conduct which will set minimum standards and guidelines for our supply chain to follow. We recently introduced Digital Product Passports into our range also to provide transparency into our supply chain and to be able to provide waste and transport emissions data to our clients. More on that here. https://cultivated.com.au/blogs/stories/the-digital-product-passport-get-the-full-story-on-every-cultivated-product",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Currently we are using a plastic bag for protection (recycle number 4), however we have just ordered final prototypes of a reusable calico bag we have designed which will replace all of the plastic bags by third quarter 2024. I can send you more info on these if required.",
+    "files": [
+      {
+        "id": 110,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CULTIVATED/Furniture%20Refurbishment/RecycledContent/Cultivated-Brochure-Digital-2022.pdf"
+      }
+    ]
+  }
+]

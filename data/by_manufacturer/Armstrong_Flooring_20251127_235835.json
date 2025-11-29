@@ -1,0 +1,2586 @@
+[
+  {
+    "id": 936,
+    "company": {
+      "id": 145,
+      "name": "ARMSTRONG FLOORING"
+    },
+    "image": "products/ARMSTRONG FLOORING/Accolade_Plus_wiZpJWe.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-07T01:39:11.479123+00:00",
+    "last_update": "2025-06-23T14:00:00+00:00",
+    "created_by": {
+      "id": 2196,
+      "email": "susand@armstrongflooring.au"
+    },
+    "updated_by": {
+      "id": 2196,
+      "email": "susand@armstrongflooring.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Armstrong Flooring",
+    "product_name": "Accolade Plus",
+    "product_code": "5A50",
+    "product_description": "Australian Made Resilient Homogenous Vinyl flooring",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "1830mm Wide x 20lm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Contact Armstrong Flooring",
+    "lead_time": "1-3 business days pending stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3366,
+        "certification": "Other",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3370,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3371,
+        "certification": "Cradle to Cradle Certified",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3426,
+        "certification": "ISO 14025",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3432,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Plus_GreenRate_Certificate.pdf?v=1715646371",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3433,
+        "certification": "GreenTag – LCA Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Plus_LCA_Certificate.pdf?v=1715646423",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3434,
+        "certification": "SCS Indoor Advantage",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Floor_Score_Certificate_Accolade_Plus_Safe_Foothold_Infinity_Infinity_Safe_Infinity_Foothold_Australis.pdf?v=1711416840",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 3.58,
+    "upfront_carbon_emissions": 3.58,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Armstrong Vinyl products can be taken back and recycled at Armstrongs Australian manufacturing plant",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Offcuts can be returned to Armstrong to be recycled.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "Post Consumer vinyl can be palletised and recycled for use in the manufacturing of new Armstrong products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Armstrong Flooring manufactures its products in Australia and uses its facilities to take back used material to be reworked and recycled into new Vinyl flooring. Armstrong Flooring is also a founding member of the ResiLoop Program based in Australia.",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "Trucks are run at 85% full loads and Backloading is utilised where possible",
+    "minimisation_design_strategy": "Sheet vinyl should be set out in a way that allows for the highest yield of the material required.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3366,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": ""
+      },
+      {
+        "id": 3370,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3371,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": ""
+      },
+      {
+        "id": 3426,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3432,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Plus_GreenRate_Certificate.pdf?v=1715646371",
+        "rating": "undefined"
+      },
+      {
+        "id": 3433,
+        "certification": "GreenTag – LCA Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Plus_LCA_Certificate.pdf?v=1715646423",
+        "rating": "undefined"
+      },
+      {
+        "id": 3434,
+        "certification": "SCS Indoor Advantage",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Floor_Score_Certificate_Accolade_Plus_Safe_Foothold_Infinity_Infinity_Safe_Infinity_Foothold_Australis.pdf?v=1711416840",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "http://cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Plus_TVOC.pdf?v=1709858627",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Polyurethane re-enforced (PUR)",
+    "manufacturing_locations": [
+      {
+        "id": 1542,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "component": "Accolade Plus",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2003,
+        "location_name": "Taipei, Taiwan",
+        "location_lat": 25.032969,
+        "location_lon": 121.565418,
+        "material": "PVC",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 2004,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "material": "Limestone",
+        "product_percentage": 43.0
+      },
+      {
+        "id": 2005,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Calcium Zinc Soap",
+        "product_percentage": 3.0
+      },
+      {
+        "id": 2006,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Polyurethane",
+        "product_percentage": 2.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1367,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "location_state": " Australia",
+        "location_city": "Braeside VIC"
+      },
+      {
+        "id": 1368,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1369,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Product to be cleanly uplifted for recycling.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "http://www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Armstrong flooring is proud to be Australia's only vinyl flooring manufacturer. Specify Armstrong Flooring to support local content through use of Australian made products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1847,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Plus_Fire_Flooring_Certificate.pdf?v=1711416840",
+        "rating": "undefined"
+      },
+      {
+        "id": 1848,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "/www.armstrongflooring.au/products/accolade-plus",
+        "rating": "undefined"
+      },
+      {
+        "id": 1849,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Plus_Accolade_Safe_Infinity_Infinity_Safe_Fire_Walling_Certificate.pdf?v=1718157262",
+        "rating": "Group 3"
+      },
+      {
+        "id": 1850,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Plus_Slip_Test_Oil_Wet_Inclining.pdf?v=1711416841",
+        "rating": "R10"
+      },
+      {
+        "id": 1851,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Plus_Slip_Test_Wet_Pendulum.pdf?v=1711416840",
+        "rating": "P3"
+      }
+    ],
+    "type_of_packaging": "Reusable timber pallets, paper wrapping, strapping and pallet wrap.",
+    "files": []
+  },
+  {
+    "id": 938,
+    "company": {
+      "id": 145,
+      "name": "ARMSTRONG FLOORING"
+    },
+    "image": "products/ARMSTRONG FLOORING/Accolade_Safe.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-08T04:43:39.769408+00:00",
+    "last_update": "2025-01-08T13:00:00+00:00",
+    "created_by": {
+      "id": 1872,
+      "email": "mchitham@armstrongflooring.au"
+    },
+    "updated_by": {
+      "id": 1872,
+      "email": "mchitham@armstrongflooring.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Armstrong Flooring",
+    "product_name": "Accolade Safe",
+    "product_code": "5A51",
+    "product_description": "Australian Made Homogenous Safety Vinyl flooring",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "1830mm Wide x 20lm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Contact Armstrong Flooring",
+    "lead_time": "1-3 business days pending stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3383,
+        "certification": "SCS Indoor Advantage",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Floor_Score_Certificate_Accolade_Plus_Safe_Foothold_Infinity_Infinity_Safe_Infinity_Foothold_Australis.pdf?v=1711416840",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3384,
+        "certification": "Other",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3385,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3386,
+        "certification": "Cradle to Cradle Certified",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3387,
+        "certification": "ISO 14025",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Safe_EPD.pdf?v=1711432224",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3388,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Greentag_Certificate.pdf?v=1715646300",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3389,
+        "certification": "GreenTag – LCA Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_LCA_Certificate_Gold.pdf?v=1715646405",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 16.1,
+    "upfront_carbon_emissions": 16.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Armstrong Vinyl products can be taken back and recycled at Armstrongs Australian manufacturing plant",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Offcuts can be returned to Armstrong to be recycled.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "Post Consumer vinyl can be palletised and recycled for use in the manufacturing of new Armstrong products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Armstrong Flooring manufactures its products in Australia and uses its facilities to take back used material to be reworked and recycled into new Vinyl flooring. Armstrong Flooring is also a founding member of the ResiLoop Program based in Australia.",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "Trucks are run at 85% full loads and Backloading is utilised where possible",
+    "minimisation_design_strategy": "Sheet vinyl should be set out in a way that allows for the highest yield of the material required.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3383,
+        "certification": "SCS Indoor Advantage",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Floor_Score_Certificate_Accolade_Plus_Safe_Foothold_Infinity_Infinity_Safe_Infinity_Foothold_Australis.pdf?v=1711416840",
+        "rating": "undefined"
+      },
+      {
+        "id": 3384,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": ""
+      },
+      {
+        "id": 3385,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3386,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": ""
+      },
+      {
+        "id": 3387,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Safe_EPD.pdf?v=1711432224",
+        "rating": "undefined"
+      },
+      {
+        "id": 3388,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Greentag_Certificate.pdf?v=1715646300",
+        "rating": "undefined"
+      },
+      {
+        "id": 3389,
+        "certification": "GreenTag – LCA Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_LCA_Certificate_Gold.pdf?v=1715646405",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "http://cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Safe_TVOC_Certificate.pdf?v=1711432223",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Safety Embossed",
+    "manufacturing_locations": [
+      {
+        "id": 1530,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "component": "Accolade Safe",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2011,
+        "location_name": "Taipei, Taiwan",
+        "location_lat": 25.032969,
+        "location_lon": 121.565418,
+        "material": "PVC",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 2012,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "material": "Limestone",
+        "product_percentage": 43.0
+      },
+      {
+        "id": 2013,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Calcium Zinc Soap",
+        "product_percentage": 3.0
+      },
+      {
+        "id": 2014,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Polyurethane",
+        "product_percentage": 2.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1373,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "location_state": " Australia",
+        "location_city": "Braeside VIC"
+      },
+      {
+        "id": 1374,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1375,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Product to be cleanly uplifted for recycling.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "http://cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Safe_EPD.pdf?v=1711432224",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Armstrong flooring is proud to be Australia's only vinyl flooring manufacturer. Specify Armstrong Flooring to support local content through use of Australian made products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1799,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Safe_Fire_Flooring_Certificate.pdf?v=1711432223",
+        "rating": "undefined"
+      },
+      {
+        "id": 1800,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "www.armstrongflooring.au/products/accolade-safe?_pos=3&_sid=8ce4a9441&_ss=r?variant=42094225588363",
+        "rating": "undefined"
+      },
+      {
+        "id": 1801,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Plus_Accolade_Safe_Infinity_Infinity_Safe_Fire_Walling_Certificate.pdf?v=1718157262",
+        "rating": "Group 3"
+      },
+      {
+        "id": 1802,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Safe_Slip_Test_Report.pdf?v=1711432225",
+        "rating": "R10 P4 Barefoot"
+      }
+    ],
+    "type_of_packaging": "Reusable timber pallets, paper wrapping, strapping and pallet wrap.",
+    "files": []
+  },
+  {
+    "id": 939,
+    "company": {
+      "id": 145,
+      "name": "ARMSTRONG FLOORING"
+    },
+    "image": "products/ARMSTRONG FLOORING/Accolade_Foothold.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-08T04:59:17.956129+00:00",
+    "last_update": "2025-06-23T14:00:00+00:00",
+    "created_by": {
+      "id": 2196,
+      "email": "susand@armstrongflooring.au"
+    },
+    "updated_by": {
+      "id": 2196,
+      "email": "susand@armstrongflooring.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Armstrong Flooring",
+    "product_name": "Accolade Foothold",
+    "product_code": "5A52",
+    "product_description": "Australian Made Homogenous Safety Vinyl flooring for Wet areas and Shower Recesses",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "1830mm Wide x 20lm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Contact Armstrong Flooring",
+    "lead_time": "1-3 business days pending stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3391,
+        "certification": "Other",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3392,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3393,
+        "certification": "Cradle to Cradle Certified",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3397,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Foothold_GreenTag_Certificate.pdf?v=1715646347",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3390,
+        "certification": "SCS Indoor Advantage",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Floor_Score_Certificate_Accolade_Plus_Safe_Foothold_Infinity_Infinity_Safe_Infinity_Foothold_Australis.pdf?v=1711416840",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 16.1,
+    "upfront_carbon_emissions": 16.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Armstrong Vinyl products can be taken back and recycled at Armstrongs Australian manufacturing plant",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Offcuts can be returned to Armstrong to be recycled.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "Post Consumer vinyl can be palletised and recycled for use in the manufacturing of new Armstrong products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Armstrong Flooring manufactures its products in Australia and uses its facilities to take back used material to be reworked and recycled into new Vinyl flooring. Armstrong Flooring is also a founding member of the ResiLoop Program based in Australia.",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "Trucks are run at 85% full loads and Backloading is utilised where possible",
+    "minimisation_design_strategy": "Sheet vinyl should be set out in a way that allows for the highest yield of the material required.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3391,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": ""
+      },
+      {
+        "id": 3392,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3393,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": ""
+      },
+      {
+        "id": 3397,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Foothold_GreenTag_Certificate.pdf?v=1715646347",
+        "rating": "undefined"
+      },
+      {
+        "id": 3390,
+        "certification": "SCS Indoor Advantage",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Floor_Score_Certificate_Accolade_Plus_Safe_Foothold_Infinity_Infinity_Safe_Infinity_Foothold_Australis.pdf?v=1711416840",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "http://cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Plus_TVOC_Certificate.pdf?v=1711416840",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Polyurethane Re-enforced (PUR) with Aluminium Oxide particle added for additional slip resistance",
+    "manufacturing_locations": [
+      {
+        "id": 1533,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "component": "Accolade Foothold",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2015,
+        "location_name": "Taipei, Taiwan",
+        "location_lat": 25.032969,
+        "location_lon": 121.565418,
+        "material": "PVC",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 2016,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "material": "Limestone",
+        "product_percentage": 43.0
+      },
+      {
+        "id": 2017,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Calcium Zinc Soap",
+        "product_percentage": 3.0
+      },
+      {
+        "id": 2018,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Polyurethane",
+        "product_percentage": 2.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1376,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "location_state": " Australia",
+        "location_city": "Braeside VIC"
+      },
+      {
+        "id": 1377,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1378,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Product to be cleanly uplifted for recycling.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "http://cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Safe_EPD.pdf?v=1711432224",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Armstrong flooring is proud to be Australia's only vinyl flooring manufacturer. Specify Armstrong Flooring to support local content through use of Australian made products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1807,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Foothold_Fire_Flooring_Certificate.pdf?v=1711418087",
+        "rating": "undefined"
+      },
+      {
+        "id": 1808,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "www.armstrongflooring.au/products/accolade-foothold",
+        "rating": "undefined"
+      },
+      {
+        "id": 1809,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Foothold_Fire_Walling_Certificate.pdf?v=1711418086",
+        "rating": "Group 3"
+      },
+      {
+        "id": 1810,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Foothold_Wet_Pendulum_Test_Report.pdf?v=1715062782",
+        "rating": "P4"
+      },
+      {
+        "id": 1811,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Foothold_Slip_Test_Wet_Barefoot.pdf?v=1711418088",
+        "rating": "Barefoot Rating B"
+      },
+      {
+        "id": 1812,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Accolade_Foothold_Oil_Slip_Test_Report.pdf?v=1711418088",
+        "rating": "R11"
+      }
+    ],
+    "type_of_packaging": "Reusable timber pallets, paper wrapping, strapping and pallet wrap.",
+    "files": []
+  },
+  {
+    "id": 940,
+    "company": {
+      "id": 145,
+      "name": "ARMSTRONG FLOORING"
+    },
+    "image": "products/ARMSTRONG FLOORING/Natralis_Foothold.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-08T05:20:04.873717+00:00",
+    "last_update": "2025-01-07T13:00:00+00:00",
+    "created_by": {
+      "id": 1872,
+      "email": "mchitham@armstrongflooring.au"
+    },
+    "updated_by": {
+      "id": 1872,
+      "email": "mchitham@armstrongflooring.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Armstrong Flooring",
+    "product_name": "Natralis Foothold",
+    "product_code": "5R52",
+    "product_description": "Australian Made Homogenous Safety Vinyl flooring for Wet areas and Shower Recesses",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "1830mm Wide x 20lm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Contact Armstrong Flooring",
+    "lead_time": "1-3 business days pending stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3398,
+        "certification": "Other",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3399,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3400,
+        "certification": "Cradle to Cradle Certified",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3401,
+        "certification": "SCS Indoor Advantage",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Floor_Score_Certificate_Accolade_Plus_Safe_Foothold_Infinity_Infinity_Safe_Infinity_Foothold_Australis.pdf?v=1711416840",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3404,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Infinity_Natralis_Foothold_GreenRate_Level_A.pdf?v=1715646596",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3405,
+        "certification": "GreenTag – LCA Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Infinity_Natralis_Foothold_GreenRate_LCA_Rate_Gold.pdf?v=1715646453",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 3.58,
+    "upfront_carbon_emissions": 3.58,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Armstrong Vinyl products can be taken back and recycled at Armstrongs Australian manufacturing plant",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Offcuts can be returned to Armstrong to be recycled.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "Post Consumer vinyl can be palletised and recycled for use in the manufacturing of new Armstrong products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Armstrong Flooring manufactures its products in Australia and uses its facilities to take back used material to be reworked and recycled into new Vinyl flooring. Armstrong Flooring is also a founding member of the ResiLoop Program based in Australia.",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "Trucks are run at 85% full loads and Backloading is utilised where possible",
+    "minimisation_design_strategy": "Sheet vinyl should be set out in a way that allows for the highest yield of the material required.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3398,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": ""
+      },
+      {
+        "id": 3399,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3400,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": ""
+      },
+      {
+        "id": 3401,
+        "certification": "SCS Indoor Advantage",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Floor_Score_Certificate_Accolade_Plus_Safe_Foothold_Infinity_Infinity_Safe_Infinity_Foothold_Australis.pdf?v=1711416840",
+        "rating": "undefined"
+      },
+      {
+        "id": 3404,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Infinity_Natralis_Foothold_GreenRate_Level_A.pdf?v=1715646596",
+        "rating": "undefined"
+      },
+      {
+        "id": 3405,
+        "certification": "GreenTag – LCA Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Infinity_Natralis_Foothold_GreenRate_LCA_Rate_Gold.pdf?v=1715646453",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "http://cdn.shopify.com/s/files/1/0635/1444/3975/files/Natralis_Floor_Score_Certificate.pdf?v=1711407321",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Polyurethane re-enforced (PUR)",
+    "manufacturing_locations": [
+      {
+        "id": 1535,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "component": "Natralis Foothold",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2019,
+        "location_name": "Taipei, Taiwan",
+        "location_lat": 25.032969,
+        "location_lon": 121.565418,
+        "material": "PVC",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 2020,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "material": "Limestone",
+        "product_percentage": 43.0
+      },
+      {
+        "id": 2021,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Calcium Zinc Soap",
+        "product_percentage": 3.0
+      },
+      {
+        "id": 2022,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Polyurethane",
+        "product_percentage": 2.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1379,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "location_state": " Australia",
+        "location_city": "Braeside VIC"
+      },
+      {
+        "id": 1380,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1381,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Product to be cleanly uplifted for recycling.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "http://www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Armstrong flooring is proud to be Australia's only vinyl flooring manufacturer. Specify Armstrong Flooring to support local content through use of Australian made products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1818,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Natralis_Fire_Test.pdf?v=1711407321",
+        "rating": "undefined"
+      },
+      {
+        "id": 1819,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "www.armstrongflooring.au/products/natralis-foothold",
+        "rating": "undefined"
+      },
+      {
+        "id": 1820,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Natralis_Foothold_Wet_Barefoot_Slip_Certificate.pdf?v=1711408814",
+        "rating": "Barefoot Rating B"
+      },
+      {
+        "id": 1821,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Natralis_Foothold_Slip_Test_Oil_Wet.pdf?v=1711408814",
+        "rating": "R11"
+      },
+      {
+        "id": 1822,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Natralis_Foothold_Wet_Pendulum_Test_Report.pdf?v=1711408814",
+        "rating": "P5"
+      }
+    ],
+    "type_of_packaging": "Reusable timber pallets, paper wrapping, strapping and pallet wrap.",
+    "files": []
+  },
+  {
+    "id": 943,
+    "company": {
+      "id": 145,
+      "name": "ARMSTRONG FLOORING"
+    },
+    "image": "products/ARMSTRONG FLOORING/Quantum_zqFniso.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-08T05:53:32.626792+00:00",
+    "last_update": "2025-01-07T13:00:00+00:00",
+    "created_by": {
+      "id": 1872,
+      "email": "mchitham@armstrongflooring.au"
+    },
+    "updated_by": {
+      "id": 1872,
+      "email": "mchitham@armstrongflooring.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Armstrong Flooring",
+    "product_name": "Quantum",
+    "product_code": "5B50",
+    "product_description": "Australian Made Resilient Homogenous Vinyl flooring",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "1830mm Wide x 20lm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Contact Armstrong Flooring",
+    "lead_time": "1-3 business days pending stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3427,
+        "certification": "Other",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3428,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3429,
+        "certification": "Cradle to Cradle Certified",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3430,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Quantum_GreenTag_Certificate.pdf?v=1728969311",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3431,
+        "certification": "ISO 14025",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 3.58,
+    "upfront_carbon_emissions": 3.58,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Armstrong Vinyl products can be taken back and recycled at Armstrongs Australian manufacturing plant",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Offcuts can be returned to Armstrong to be recycled.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "Post Consumer vinyl can be palletised and recycled for use in the manufacturing of new Armstrong products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Armstrong Flooring manufactures its products in Australia and uses its facilities to take back used material to be reworked and recycled into new Vinyl flooring. Armstrong Flooring is also a founding member of the ResiLoop Program based in Australia.",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "Trucks are run at 85% full loads and Backloading is utilised where possible",
+    "minimisation_design_strategy": "Sheet vinyl should be set out in a way that allows for the highest yield of the material required.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3427,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": ""
+      },
+      {
+        "id": 3428,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3429,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": ""
+      },
+      {
+        "id": 3430,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Quantum_GreenTag_Certificate.pdf?v=1728969311",
+        "rating": "undefined"
+      },
+      {
+        "id": 3431,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "http://cdn.shopify.com/s/files/1/0635/1444/3975/files/Homogenous_Sheet_TVOC_Certificate.pdf?v=1711516427",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Polyurethane re-enforced (PUR)",
+    "manufacturing_locations": [
+      {
+        "id": 1541,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "component": "Quantum",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2033,
+        "location_name": "Taipei, Taiwan",
+        "location_lat": 25.032969,
+        "location_lon": 121.565418,
+        "material": "PVC",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 2034,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "material": "Limestone",
+        "product_percentage": 43.0
+      },
+      {
+        "id": 2035,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Calcium Zinc Soap",
+        "product_percentage": 3.0
+      },
+      {
+        "id": 2036,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Polyurethane",
+        "product_percentage": 2.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1388,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "location_state": " Australia",
+        "location_city": "Braeside VIC"
+      },
+      {
+        "id": 1389,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1390,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Product to be cleanly uplifted for recycling.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "http://www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Armstrong flooring is proud to be Australia's only vinyl flooring manufacturer. Specify Armstrong Flooring to support local content through use of Australian made products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1842,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Quantum_Fire_Flooring_Certificate.pdf?v=1711516241",
+        "rating": "undefined"
+      },
+      {
+        "id": 1843,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "www.armstrongflooring.au/products/quantum",
+        "rating": "undefined"
+      },
+      {
+        "id": 1844,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Quantum_Fire_Walling_Certificate.pdf?v=1711516240",
+        "rating": "Group 3"
+      },
+      {
+        "id": 1845,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Quantum_Oil_Slip_Test_Report.pdf?v=1711516241",
+        "rating": "R10"
+      },
+      {
+        "id": 1846,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Quantum_Pendulum_Slip_Test_Report.pdf?v=1711516241",
+        "rating": "P4"
+      }
+    ],
+    "type_of_packaging": "Reusable timber pallets, paper wrapping, strapping and pallet wrap.",
+    "files": []
+  },
+  {
+    "id": 947,
+    "company": {
+      "id": 145,
+      "name": "ARMSTRONG FLOORING"
+    },
+    "image": "products/ARMSTRONG FLOORING/Armalon_NG.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-08T06:04:03.987140+00:00",
+    "last_update": "2025-01-07T13:00:00+00:00",
+    "created_by": {
+      "id": 1872,
+      "email": "mchitham@armstrongflooring.au"
+    },
+    "updated_by": {
+      "id": 1872,
+      "email": "mchitham@armstrongflooring.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Armstrong Flooring",
+    "product_name": "Armalon Ng",
+    "product_code": "6E60",
+    "product_description": "Australian Made Resilient Homogenous Vinyl flooring",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "1830mm Wide x 20lm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Contact Armstrong Flooring",
+    "lead_time": "1-3 business days pending stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3450,
+        "certification": "SCS Indoor Advantage",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Floor_Score_Certificate_Accolade_Plus_Safe_Foothold_Infinity_Infinity_Safe_Infinity_Foothold_Australis.pdf?v=1711416840",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3451,
+        "certification": "Other",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3452,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3453,
+        "certification": "Cradle to Cradle Certified",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3454,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Armalon_NG_Greenrate_Certificate_Level_A.pdf?v=1715646669",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 3.58,
+    "upfront_carbon_emissions": 3.58,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Armstrong Vinyl products can be taken back and recycled at Armstrongs Australian manufacturing plant",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Offcuts can be returned to Armstrong to be recycled.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "Post Consumer vinyl can be palletised and recycled for use in the manufacturing of new Armstrong products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Armstrong Flooring manufactures its products in Australia and uses its facilities to take back used material to be reworked and recycled into new Vinyl flooring. Armstrong Flooring is also a founding member of the ResiLoop Program based in Australia.",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "Trucks are run at 85% full loads and Backloading is utilised where possible",
+    "minimisation_design_strategy": "Sheet vinyl should be set out in a way that allows for the highest yield of the material required.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3450,
+        "certification": "SCS Indoor Advantage",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Floor_Score_Certificate_Accolade_Plus_Safe_Foothold_Infinity_Infinity_Safe_Infinity_Foothold_Australis.pdf?v=1711416840",
+        "rating": "undefined"
+      },
+      {
+        "id": 3451,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": ""
+      },
+      {
+        "id": 3452,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3453,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": ""
+      },
+      {
+        "id": 3454,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Armalon_NG_Greenrate_Certificate_Level_A.pdf?v=1715646669",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "http://cdn.shopify.com/s/files/1/0635/1444/3975/files/Homogenous_Sheet_TVOC_Certificate.pdf?v=1711516427",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Polyurethane re-enforced (PUR)",
+    "manufacturing_locations": [
+      {
+        "id": 1546,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "component": "Armalon NG",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2049,
+        "location_name": "Taipei, Taiwan",
+        "location_lat": 25.032969,
+        "location_lon": 121.565418,
+        "material": "PVC",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 2050,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "material": "Limestone",
+        "product_percentage": 43.0
+      },
+      {
+        "id": 2051,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Calcium Zinc Soap",
+        "product_percentage": 3.0
+      },
+      {
+        "id": 2052,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Polyurethane",
+        "product_percentage": 2.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1400,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "location_state": " Australia",
+        "location_city": "Braeside VIC"
+      },
+      {
+        "id": 1401,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1402,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Product to be cleanly uplifted for recycling.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "http://www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Armstrong flooring is proud to be Australia's only vinyl flooring manufacturer. Specify Armstrong Flooring to support local content through use of Australian made products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1864,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Armalon_Fire_Test_Report.pdf?v=1718863778",
+        "rating": "undefined"
+      },
+      {
+        "id": 1865,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "www.armstrongflooring.au/products/armalon-ng",
+        "rating": "undefined"
+      },
+      {
+        "id": 1866,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Armalon_NG_Fire_Walling_Certificate.pdf?v=1711517273",
+        "rating": "Group 1"
+      },
+      {
+        "id": 1867,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Armalon_NG_Slip_Test_Report.pdf?v=1711517274",
+        "rating": "R9"
+      }
+    ],
+    "type_of_packaging": "Reusable timber pallets, paper wrapping, strapping and pallet wrap.",
+    "files": []
+  },
+  {
+    "id": 949,
+    "company": {
+      "id": 145,
+      "name": "ARMSTRONG FLOORING"
+    },
+    "image": "products/ARMSTRONG FLOORING/Natralis.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-08T06:05:19.711820+00:00",
+    "last_update": "2025-01-07T13:00:00+00:00",
+    "created_by": {
+      "id": 1872,
+      "email": "mchitham@armstrongflooring.au"
+    },
+    "updated_by": {
+      "id": 1872,
+      "email": "mchitham@armstrongflooring.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Armstrong Flooring",
+    "product_name": "Natralis",
+    "product_code": "5R50",
+    "product_description": "Australian Made Resilient Homogenous Vinyl flooring",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "1830mm Wide x 20lm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Contact Armstrong Flooring",
+    "lead_time": "1-3 business days pending stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3461,
+        "certification": "Other",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3462,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3463,
+        "certification": "Cradle to Cradle Certified",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3464,
+        "certification": "SCS Indoor Advantage",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Floor_Score_Certificate_Accolade_Plus_Safe_Foothold_Infinity_Infinity_Safe_Infinity_Foothold_Australis.pdf?v=1711416840",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3465,
+        "certification": "GreenTag – LCA Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Natralis_LCA_Certificate.pdf?v=1715653339",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3466,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Natralis_GreenRate_Certificate.pdf?v=1715653307",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 3.58,
+    "upfront_carbon_emissions": 3.58,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Armstrong Vinyl products can be taken back and recycled at Armstrongs Australian manufacturing plant",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Offcuts can be returned to Armstrong to be recycled.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "Post Consumer vinyl can be palletised and recycled for use in the manufacturing of new Armstrong products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Armstrong Flooring manufactures its products in Australia and uses its facilities to take back used material to be reworked and recycled into new Vinyl flooring. Armstrong Flooring is also a founding member of the ResiLoop Program based in Australia.",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "Trucks are run at 85% full loads and Backloading is utilised where possible",
+    "minimisation_design_strategy": "Sheet vinyl should be set out in a way that allows for the highest yield of the material required.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3461,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": ""
+      },
+      {
+        "id": 3462,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3463,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+        "rating": ""
+      },
+      {
+        "id": 3464,
+        "certification": "SCS Indoor Advantage",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Floor_Score_Certificate_Accolade_Plus_Safe_Foothold_Infinity_Infinity_Safe_Infinity_Foothold_Australis.pdf?v=1711416840",
+        "rating": "undefined"
+      },
+      {
+        "id": 3465,
+        "certification": "GreenTag – LCA Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Natralis_LCA_Certificate.pdf?v=1715653339",
+        "rating": "undefined"
+      },
+      {
+        "id": 3466,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Natralis_GreenRate_Certificate.pdf?v=1715653307",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "http://cdn.shopify.com/s/files/1/0635/1444/3975/files/Natralis_TVOC_Certificate.pdf?v=1711407321",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Polyurethane re-enforced (PUR)",
+    "manufacturing_locations": [
+      {
+        "id": 1548,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "component": "Natralis",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2057,
+        "location_name": "Taipei, Taiwan",
+        "location_lat": 25.032969,
+        "location_lon": 121.565418,
+        "material": "PVC",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 2058,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "material": "Limestone",
+        "product_percentage": 43.0
+      },
+      {
+        "id": 2059,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Calcium Zinc Soap",
+        "product_percentage": 3.0
+      },
+      {
+        "id": 2060,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Polyurethane",
+        "product_percentage": 2.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1406,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "location_state": " Australia",
+        "location_city": "Braeside VIC"
+      },
+      {
+        "id": 1407,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1408,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Product to be cleanly uplifted for recycling.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "http://www.globalgreentag.com/certificate/1320/ArmstrongHomogeneousEPD15804+A22019C2F@Evah17May2022v2(1).pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Armstrong flooring is proud to be Australia's only vinyl flooring manufacturer. Specify Armstrong Flooring to support local content through use of Australian made products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1873,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Natralis_Fire_Test.pdf?v=1711407321",
+        "rating": "undefined"
+      },
+      {
+        "id": 1874,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Natralis_Fire_Walling_Test.pdf?v=1711407320",
+        "rating": "Group 3"
+      },
+      {
+        "id": 1875,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Natralis_Oil_Ramp_Test.pdf?v=1711407321",
+        "rating": "R10"
+      },
+      {
+        "id": 1876,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Natralis_Wet_Pendulum_Slip_Test_Report.pdf?v=1711407321",
+        "rating": "P4"
+      },
+      {
+        "id": 1877,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "www.armstrongflooring.au/products/natralis",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Reusable timber pallets, paper wrapping, strapping and pallet wrap.",
+    "files": []
+  },
+  {
+    "id": 951,
+    "company": {
+      "id": 145,
+      "name": "ARMSTRONG FLOORING"
+    },
+    "image": "products/ARMSTRONG FLOORING/Wallflex.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-08T06:14:18.465181+00:00",
+    "last_update": "2025-02-19T13:00:00+00:00",
+    "created_by": {
+      "id": 1872,
+      "email": "mchitham@armstrongflooring.au"
+    },
+    "updated_by": {
+      "id": 1872,
+      "email": "mchitham@armstrongflooring.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Armstrong Flooring",
+    "product_name": "Wallflex",
+    "product_code": "6W60",
+    "product_description": "Australian Made Homogenous Wall Vinyl / Wall Covering",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "1500mm Wide x 20lm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Contact Armstrong Flooring",
+    "lead_time": "1-3 business days pending stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3473,
+        "certification": "Other",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3474,
+        "certification": "Cradle to Cradle Certified",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Wallflex_2mm_EPD.pdf?v=1711412669",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3475,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Wallflex_2mm_EPD.pdf?v=1711412669",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3476,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Wallflex_Greentag_Certificate.pdf?v=1715653605",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3477,
+        "certification": "GreenTag – LCA Rate",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Wallflex_LCA_Certificate_Gold.pdf?v=1715653627",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3478,
+        "certification": "ISO 14025",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Wallflex_2mm_EPD.pdf?v=1711412669",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 12.5,
+    "upfront_carbon_emissions": 12.5,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Armstrong Vinyl products can be taken back and recycled at Armstrongs Australian manufacturing plant",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Offcuts can be returned to Armstrong to be recycled.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "Post Consumer vinyl can be palletised and recycled for use in the manufacturing of new Armstrong products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Armstrong Flooring manufactures its products in Australia and uses its facilities to take back used material to be reworked and recycled into new Vinyl flooring. Armstrong Flooring is also a founding member of the ResiLoop Program based in Australia.",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "Trucks are run at 85% full loads and Backloading is utilised where possible",
+    "minimisation_design_strategy": "Sheet vinyl should be set out in a way that allows for the highest yield of the material required.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3473,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Accolade_Safe_Best_Environmental_Practice_PVC.pdf?v=1711587955",
+        "rating": ""
+      },
+      {
+        "id": 3474,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Wallflex_2mm_EPD.pdf?v=1711412669",
+        "rating": ""
+      },
+      {
+        "id": 3475,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Wallflex_2mm_EPD.pdf?v=1711412669",
+        "rating": "undefined"
+      },
+      {
+        "id": 3476,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Wallflex_Greentag_Certificate.pdf?v=1715653605",
+        "rating": "undefined"
+      },
+      {
+        "id": 3477,
+        "certification": "GreenTag – LCA Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Wallflex_LCA_Certificate_Gold.pdf?v=1715653627",
+        "rating": "undefined"
+      },
+      {
+        "id": 3478,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0635/1444/3975/files/Wallflex_2mm_EPD.pdf?v=1711412669",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "http://cdn.shopify.com/s/files/1/0635/1444/3975/files/Wallflex_Floor_Score_Certificate.pdf?v=1711412668",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Polyurethane re-enforced (PUR)",
+    "manufacturing_locations": [
+      {
+        "id": 1550,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "component": "Wallflex",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2063,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "material": "Limestone",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 2064,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Suspension PVC",
+        "product_percentage": 30.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1412,
+        "location_name": "Braeside VIC, Australia",
+        "location_lat": -37.998756,
+        "location_lon": 145.118943,
+        "location_state": " Australia",
+        "location_city": "Braeside VIC"
+      },
+      {
+        "id": 1413,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1414,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Product to be cleanly uplifted for recycling.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "http://cdn.shopify.com/s/files/1/0635/1444/3975/files/Wallflex_2mm_EPD.pdf?v=1711412669",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Armstrong flooring is proud to be Australia's only vinyl flooring manufacturer. Specify Armstrong Flooring to support local content through use of Australian made products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1880,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "cdn.shopify.com/s/files/1/0606/5045/5179/files/Wallflex_Fire_Certificate_Walling_Certificate_2.0mm.pdf?v=1713233025",
+        "rating": "undefined"
+      },
+      {
+        "id": 1881,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "www.armstrongflooring.au/products/wallflex",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Reusable timber pallets, paper wrapping, strapping and pallet wrap.",
+    "files": []
+  }
+]

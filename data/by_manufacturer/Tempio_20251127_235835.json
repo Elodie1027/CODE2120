@@ -1,0 +1,966 @@
+[
+  {
+    "id": 286,
+    "company": {
+      "id": 36,
+      "name": "DCA FACADE"
+    },
+    "image": "products/DCA FACADE/nepean_hospital_5-1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-10T23:15:16.289411+00:00",
+    "last_update": "2024-07-22T14:00:00+00:00",
+    "created_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "updated_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Tempio",
+    "product_name": "Tempio Terracotta Facade",
+    "product_code": "Tempio Terracotta Tiles",
+    "product_description": "Rainscreen/ventilated premium ceramic materials for outdoor construction solutions",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      }
+    ],
+    "standard_dimensions": "W150-600mm x H600-1500mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "6-10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 536,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Terracotta%20Facade/certificates/EDP.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 687,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Terracotta%20Facade/certificates/Certificado_AENOR_ISO_9001_2022_ingles.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 688,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Terracotta%20Facade/certificates/Certificado_AENOR_ISO_9001_2022_ingles_GdiLT1y.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 689,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Terracotta%20Facade/certificates/DAP_-_EPD_STONEWARE_EXTRUDED.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Raw material composition.",
+    "recycling_process_description": "Ceramic can be used as filling material for road construction, for example.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Our material production process reincorporate 100% of the water used in the process, ensuring zero discharge. All the links in the production chain are designed to facilitate the recycling of materials.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "This product is manufactured to required widths and lengths and largest individual tile available is 0.90m2 This ensures minimal wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "The supply chain is within Spain. Spain has deposited its instrument of ratification of the Protocol of 2014 to the Forced Labour Convention, 1930, \r\nthereby becoming the 19th country worldwide and the 13th in Europe to ratify the Protocol.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 536,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Terracotta%20Facade/certificates/EDP.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 687,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Terracotta%20Facade/certificates/Certificado_AENOR_ISO_9001_2022_ingles.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 688,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Terracotta%20Facade/certificates/Certificado_AENOR_ISO_9001_2022_ingles_GdiLT1y.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 689,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Terracotta%20Facade/certificates/DAP_-_EPD_STONEWARE_EXTRUDED.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Dust. ONLY during MODIFICATION (if not correct tools -wet cut- are used). TEMPIO provides safety sheets if they are needed.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "As a prominent producer of premium ceramic materials for outdoor construction solutions, we specialize in the manufacturing and rehabilitation of ventilated facades. Our diverse product portfolio is meticulously crafted to meet and exceed consumer expectations in design, quality, and safety. We take pride in fostering a work environment that inspires and encourages peak performance. Committed to fostering a work environment where inspiration thrives, we pride ourselves on being an efficient, organized, and environmentally conscious company.",
+    "manufacturing_locations": [
+      {
+        "id": 369,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "component": "CERAMIC TILE",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 544,
+        "location_name": "Gargallo, España",
+        "location_lat": 40.834986,
+        "location_lon": -0.582832,
+        "material": "CLAY",
+        "product_percentage": 60.0
+      },
+      {
+        "id": 545,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "material": "CHAMOTE",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 546,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "material": "RECYCLED CLAY",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 547,
+        "location_name": "Castellón de la Plana, España",
+        "location_lat": 39.985591,
+        "location_lon": -0.049639,
+        "material": "FELDSPAR",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 451,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "location_state": " España",
+        "location_city": "Callosa de Ensarriá"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 351,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Terracotta%20Facade/compliance/Warrignton_Fire_-_FK_system.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Wooden pallet, plastic strips and card board.",
+    "files": [
+      {
+        "id": 557,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Terracotta%20Facade/RecycledContent/DAP_-_EPD_STONEWARE_EXTRUDED.pdf"
+      },
+      {
+        "id": 569,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Terracotta%20Facade/ModernSlaveryAssessment/BOE-A-2017-15189.pdf"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "company": {
+      "id": 36,
+      "name": "DCA FACADE"
+    },
+    "image": "products/DCA FACADE/ABERCROMBIE-BUSINESS-SCHOOL-8.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-11T23:14:48.745634+00:00",
+    "last_update": "2024-07-22T14:00:00+00:00",
+    "created_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "updated_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Tempio",
+    "product_name": "Tempio Baguette Facade",
+    "product_code": "Tempio Baguette Suncreens",
+    "product_description": "Solar Protection and Style with Terracotta Facades,Versatility in Orientation,Customisation of Color",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      }
+    ],
+    "standard_dimensions": "max length 1800mm",
+    "price_per_unit": null,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "6-10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 535,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Baguette%20Facade/certificates/EDP.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 693,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Baguette%20Facade/certificates/Certificado_AENOR_ISO_9001_2022_ingles.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "Our ceramic tiles can be re-used once they are demount.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "All our baguettes anchoring systems are mechanical and they can be demount.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Our material porduction process reincorporate 100% of the water used in the process, ensuring zero discharge. All the links in the production chain are designed to facilitate the recycling of materials.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "This product is manufactured to required widths and lengths to ensure minimal wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "The PROTOCOL OF 2014 TO THE FORCED LABOUR CONVENTION was trasposed to SPANISH normative by:\r\nBOE-A-2017-15189 Instrumento de ratificación del Protocolo de 2014 relativo al Convenio sobre el trabajo forzoso, 1930, hecho en Ginebra el 11 de junio de 2014.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 535,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Baguette%20Facade/certificates/EDP.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 693,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Baguette%20Facade/certificates/Certificado_AENOR_ISO_9001_2022_ingles.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Dust. ONLY during MODIFICATION (if not correct tools -wet cut- are used). TEMPIO provides safety sheets if they are needed.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Technical and aesthetic advantages\r\n\r\nOur terracotta facades offer numerous technical and aesthetic advantages for your facade:\r\n\r\nDurable Colours: Terracotta colours and glazes remain unalterable over time.\r\nSelf-cleaning: They are automatically cleaned by rain, reducing the need for maintenance.\r\nDurable Resistance: Designed to resist wear and tear over the years.\r\nEnergy Saving: Reduce energy costs by 25 to 40% and enjoy greater thermal and acoustic comfort.\r\nWaterproofing: Keep your building watertight thanks to our screens.\r\nPassive Ventilation: Encourage passive ventilation for a healthier and more energy efficient environment.\r\nThermal Insulation: Contributes to thermal insulation and indoor comfort.\r\nEasy Replacement: Our system allows for piece-by-piece replacement, making repairs easier.\r\nValue for your Property: Add value to your property with these high quality solar screens.",
+    "manufacturing_locations": [
+      {
+        "id": 371,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "component": "CERAMIC TILES",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 552,
+        "location_name": "Gargallo, España",
+        "location_lat": 40.834986,
+        "location_lon": -0.582832,
+        "material": "CLAY",
+        "product_percentage": 60.0
+      },
+      {
+        "id": 553,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "material": "CHAMOTE",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 554,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "material": "RECYCLED CLAY",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 555,
+        "location_name": "Castellón de la Plana, España",
+        "location_lat": 39.985591,
+        "location_lon": -0.049639,
+        "material": "FELDSPAR",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 453,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "location_state": " España",
+        "location_city": "Callosa de Ensarriá"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 352,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Baguette%20Facade/compliance/Warrignton_Fire_-_FK_system.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 425,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Baguette%20Facade/compliance/INFORME_DE_LABORATORIO_tempio_baguette_rectangular_INGLES_20201119.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Wooden pallet and card board.",
+    "files": [
+      {
+        "id": 559,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Baguette%20Facade/RecycledContent/DAP_-_EPD_STONEWARE_EXTRUDED.pdf"
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "company": {
+      "id": 36,
+      "name": "DCA FACADE"
+    },
+    "image": "products/DCA FACADE/Screenshot_2024-07-12_114418.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-11T23:43:14.520273+00:00",
+    "last_update": "2024-07-22T14:00:00+00:00",
+    "created_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "updated_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Tempio",
+    "product_name": "Tempio Rustikotta Facade",
+    "product_code": "Tempio Rustikotta",
+    "product_description": "Sustainability without maintenance",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      }
+    ],
+    "standard_dimensions": "225x400x13mm / 225x500x28mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "6-10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 694,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Rustikotta%20Facade/certificates/DAP_-_EPD_STONEWARE_EXTRUDED.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 695,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Rustikotta%20Facade/certificates/Certificado_AENOR_ISO_9001_2022_ingles.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "Yes, it can be deconstructued. Our RUSTIKOTTA tiles are mechanically anchored and can be used again.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Yes, our RUSTIKOTTA tiles are designed to be mechanically anchored.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Our material proudction process reincorporate 100%of the water used in the process, ensuring zero discharge. All the links in the prodcution chain are designed to facilitate the recycling of materials.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "This product is manufactured to required widths and lengths to ensure minimal wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "The supply chain is within Spain. Spain has deposited its instrument of ratification of the Protocol of 2014 to the Forced Labour Convention, 1930, \r\nthereby becoming the 19th country worldwide and the 13th in Europe to ratify the Protocol.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 694,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Rustikotta%20Facade/certificates/DAP_-_EPD_STONEWARE_EXTRUDED.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 695,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Rustikotta%20Facade/certificates/Certificado_AENOR_ISO_9001_2022_ingles.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Dust. ONLY during MODIFICATION (if not corret tools - wet cut- are used). TEMPIO providees safety sheets if they are needed.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Sustainability without maintenance\r\nRustikotta makes a significant and positive contribution to sustainable development and sustainable construction. It brings pioneering new standards for architectural opportunities, to which can be added its zero maintenance cost over the years, as external conditions do not affect the ceramic piece and rainwater is sufficient to keep it clean.\r\n\r\nIt is an investment. Rustikotta is a safe and high quality option, it will give you a lot of opportunities. Use your imagination and add your own personal and individual touch.\r\n\r\nPresent, past and future\r\nMore and more architects and designers are opting to use this material for their facades, which is not only aesthetically pleasing, it offers freedom. The freedom to create new, exciting and unique buildings, or to renovate them, which can also be enjoyed by future generations, because façades made with Rustikotta are a sustainable investment from an environmental, social and economic point of view.\r\n\r\nUsing the best materials and the most advanced ceramic technology, this product is resistant to extreme temperatures, waterproof and easy to install, as well as creating an exceptional visual effect.",
+    "manufacturing_locations": [
+      {
+        "id": 372,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "component": "CERAMIC TILES",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 556,
+        "location_name": "Gargallo, España",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "CLAY",
+        "product_percentage": 10.0
+      },
+      {
+        "id": 557,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "material": "CHAMOTE",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 558,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "material": "RECYCLED CLAY",
+        "product_percentage": 75.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 454,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "location_state": " España",
+        "location_city": "Callosa de Ensarriá"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 426,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Rustikotta%20Facade/compliance/Ficha_t%C3%A9cnica_Rustikotta_Classic_-_EN.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Wooden pallet, strips and cardboard.",
+    "files": [
+      {
+        "id": 560,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Rustikotta%20Facade/RecycledContent/DAP_-_EPD_STONEWARE_EXTRUDED.pdf"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "company": {
+      "id": 36,
+      "name": "DCA FACADE"
+    },
+    "image": "products/DCA FACADE/TERRACOTTA-CLADDING-ziegler_partner_architekten_langrueti_mitte_aussen_2.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-12T01:50:08.913338+00:00",
+    "last_update": "2024-07-22T14:00:00+00:00",
+    "created_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "updated_by": {
+      "id": 180,
+      "email": "eileen@dcafacade.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Tempio",
+    "product_name": "Tempio Listelos Facade",
+    "product_code": "Tempio Listelos",
+    "product_description": "stunning beauty and unparalleled versatility of Listelo skin",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      }
+    ],
+    "standard_dimensions": "60X300/400mm 80x400/500mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "6-10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 690,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Listelos%20Facade/certificates/DAP_-_EPD_STONEWARE_EXTRUDED.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 691,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Listelos%20Facade/certificates/DAP_-_EPD_STONEWARE_EXTRUDED_HwThago.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 692,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Listelos%20Facade/certificates/Certificado_AENOR_ISO_9001_2022_ingles.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Raw material composition",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Ceramic can be used as filling material for road construction, for example.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Our material poruction process reincorporate 100% of the water used in the process, ensuring zero discharge. All the links in the production chain are designed to facilitate hte recycling of materials.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "This product is manufactured to required widths and lengths to ensure minimal wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "The supply chain is within Spain. Spain has deposited its instrument of ratification of the Protocol of 2014 to the Forced Labour Convention, 1930, \r\nthereby becoming the 19th country worldwide and the 13th in Europe to ratify the Protocol.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 690,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Listelos%20Facade/certificates/DAP_-_EPD_STONEWARE_EXTRUDED.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 691,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Listelos%20Facade/certificates/DAP_-_EPD_STONEWARE_EXTRUDED_HwThago.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 692,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Listelos%20Facade/certificates/Certificado_AENOR_ISO_9001_2022_ingles.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Dust. ONLY during MODIFICATION (if not correct tools -wet cut- are used). TEMPIO provides safety sheets if they are needed.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Discover the stunning beauty and unparalleled versatility of Listelo skin, an innovative proposal that combines modernity and naturalness to completely transform your buildings and facades. With a wide variety of elegant shapes, Listelo skin is the perfect covering for avant-garde yet traditional designs, giving façades a unique and captivating look.\r\n\r\nIts versatility is its greatest virtue, allowing you to play with contrasts and harmonies, allowing you to achieve a cohesive and attractive aesthetic that never goes unnoticed. Listelo skin coverings stand out in both residential and commercial buildings, giving them a distinctive and elegant touch.\r\n\r\nIn addition, Listelo skin’s durability and ease of maintenance ensure that your investment lasts over time without losing its splendour. These coatings have been designed to withstand the elements and maintain their impeccable appearance over the years.",
+    "manufacturing_locations": [
+      {
+        "id": 370,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "component": "CERAMIC TILES",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 548,
+        "location_name": "Gargallo, España",
+        "location_lat": 40.834986,
+        "location_lon": -0.582832,
+        "material": "CLAY",
+        "product_percentage": 60.0
+      },
+      {
+        "id": 549,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "material": "CHAMOTE",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 550,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "material": "RECYCLED CLAY",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 551,
+        "location_name": "Castellón de la Plana, España",
+        "location_lat": 39.985591,
+        "location_lon": -0.049639,
+        "material": "FELDSPAR",
+        "product_percentage": 20.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 452,
+        "location_name": "Callosa de Ensarriá, España",
+        "location_lat": 38.650768,
+        "location_lon": -0.121618,
+        "location_state": " España",
+        "location_city": "Callosa de Ensarriá"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 424,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Listelos%20Facade/compliance/INFORME_DE_LABORATORIO_listelo_plus_20170308_INGLES.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Wooden pallet, plastic strips and card board boxes.",
+    "files": [
+      {
+        "id": 558,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DCA%20FACADE/Tempio%20Listelos%20Facade/RecycledContent/DAP_-_EPD_STONEWARE_EXTRUDED.pdf"
+      }
+    ]
+  }
+]

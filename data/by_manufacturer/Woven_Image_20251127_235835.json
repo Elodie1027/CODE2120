@@ -1,0 +1,1105 @@
+[
+  {
+    "id": 1228,
+    "company": {
+      "id": 174,
+      "name": "WOVEN IMAGE PTY LTD"
+    },
+    "image": "products/WOVEN IMAGE PTY LTD/ECHOPANEL-24MM-60-EPD-IMAGE-BY-WOVEN-IMAGE.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-16T08:03:12.787611+00:00",
+    "last_update": "2025-05-15T14:00:00+00:00",
+    "created_by": {
+      "id": 485,
+      "email": "abi.eskdale@wovenimage.com"
+    },
+    "updated_by": {
+      "id": 485,
+      "email": "abi.eskdale@wovenimage.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Woven Image",
+    "product_name": "Echopanel® 24",
+    "product_code": "EchoPanel® 24mm",
+    "product_description": "EchoPanel® is the original post-consumer recycled PET non-woven acoustic panel.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "Length: 2800mm (+/- 10mm), Width: 1200mm (+/- 5mm), Thickness: 24mm (+/- 7%)",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": null,
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4355,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/echopanel-and-mura",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4356,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2024/certificates/EPD-IES-0019920-WovenImage_EP24mm60RC_2025-03-20.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4357,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2024/certificates/250414_WOV_Echo_panel_and_Mura_Level_A_v1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4358,
+        "certification": "GreenTag – Health Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2024/certificates/250414_WOV_Echopanel_PHD_Platinum_Certificate_v1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4364,
+        "certification": "Other",
+        "file": null,
+        "link": "https://www.climateactive.org.au/buy-climate-active/certified-members/woven-image",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 10.87,
+    "upfront_carbon_emissions": 10.87,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "We encourage engagement with Woven Image Material Take Back Scheme. https://www.wovenimage.com/en-AU/Sustainability",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "We encourage engagement with Woven Image Material Take Back Scheme. https://www.wovenimage.com/en-AU/Sustainability",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "60% post-consumer recycled PET",
+    "recycling_process_description": "Use mechanical fix installation to ensure product can be disassembled without contamination for reuse or reprocessing.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Use mechanical fix installation to ensure product can be demounted and reused.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Woven Image Material Take Back Program - https://www.wovenimage.com/en-AU/Sustainability",
+    "water_reduction_techniques": "Dry manufacturing process.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4355,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/echopanel-and-mura",
+        "rating": "undefined"
+      },
+      {
+        "id": 4356,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2024/certificates/EPD-IES-0019920-WovenImage_EP24mm60RC_2025-03-20.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4357,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2024/certificates/250414_WOV_Echo_panel_and_Mura_Level_A_v1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4358,
+        "certification": "GreenTag – Health Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2024/certificates/250414_WOV_Echopanel_PHD_Platinum_Certificate_v1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4364,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.climateactive.org.au/buy-climate-active/certified-members/woven-image",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "Landfilled end-of-life and waste PET non-woven felt and panel can degrade into microplastics posing health and environmental risks. Diversion from landfills through practical product stewardship like Woven Image's material take back programme and recycling can reduce this risk.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2310,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Non-woven PET Panel",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2798,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "RPET Fibre",
+        "product_percentage": 60.0
+      },
+      {
+        "id": 2800,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "LM PET Fibre",
+        "product_percentage": 40.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1867,
+        "location_name": "Brookvale NSW, Australia",
+        "location_lat": -33.76497,
+        "location_lon": 151.270448,
+        "location_state": " Australia",
+        "location_city": "Brookvale NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Other",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 2530,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2024/compliance/Fire_Test_Group_Classification_ISO9705_EchoPanel_24mm.pdf",
+        "link": "",
+        "rating": "Group 1"
+      }
+    ],
+    "type_of_packaging": "EchoPanel® is packaged in brown recyclable, compostable, 60% recycled content cardboard boxes or on timber pallets with brown recyclable, compostable, 72% recycled content cardboard packaging and landfill biodegradable shrink-wrap.",
+    "files": [
+      {
+        "id": 3451,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2024/LCA/EPD-IES-0019920-WovenImage_EP24mm60RC_2025-03-20.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1229,
+    "company": {
+      "id": 174,
+      "name": "WOVEN IMAGE PTY LTD"
+    },
+    "image": "products/WOVEN IMAGE PTY LTD/ECHOPANEL-12MM-80-EPD-IMAGE-BY-WOVEN-IMAGE_XS3VqpD.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-16T08:41:18.202929+00:00",
+    "last_update": "2025-06-15T14:00:00+00:00",
+    "created_by": {
+      "id": 485,
+      "email": "abi.eskdale@wovenimage.com"
+    },
+    "updated_by": {
+      "id": 485,
+      "email": "abi.eskdale@wovenimage.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Woven Image",
+    "product_name": "Echopanel® 12",
+    "product_code": "EchoPanel® 12mm",
+    "product_description": "EchoPanel® is the original post-consumer recycled PET non-woven acoustic panel.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "Length: 2800mm (+/- 10mm), Width: 1200mm (+/- 5mm), Thickness: 12mm (+/- 7%)",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": null,
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4359,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/echopanel-and-mura",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4360,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2012/certificates/EPD-IES-0016542_WovenImage_EP12mm80RC_2025-03-20.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4361,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2012/certificates/250414_WOV_Echo_panel_and_Mura_Level_A_v1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4362,
+        "certification": "GreenTag – Health Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2012/certificates/250414_WOV_Echopanel_PHD_Platinum_Certificate_v1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4363,
+        "certification": "Other",
+        "file": null,
+        "link": "https://www.climateactive.org.au/buy-climate-active/certified-members/woven-image",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 7.0,
+    "upfront_carbon_emissions": 7.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "We encourage engagement with Woven Image Material Take Back Scheme. https://www.wovenimage.com/en-AU/Sustainability",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "We encourage engagement with Woven Image Material Take Back Scheme. https://www.wovenimage.com/en-AU/Sustainability",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "80% post-consumer recycled PET",
+    "recycling_process_description": "Use mechanical fix installation to ensure product can be disassembled without contamination for reuse or reprocessing.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Use mechanical fix installation to ensure product can be demounted and reused.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Woven Image Material Take Back Program - https://www.wovenimage.com/en-AU/Sustainability",
+    "water_reduction_techniques": "Dry manufacturing process.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4359,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/echopanel-and-mura",
+        "rating": "undefined"
+      },
+      {
+        "id": 4360,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2012/certificates/EPD-IES-0016542_WovenImage_EP12mm80RC_2025-03-20.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4361,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2012/certificates/250414_WOV_Echo_panel_and_Mura_Level_A_v1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4362,
+        "certification": "GreenTag – Health Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2012/certificates/250414_WOV_Echopanel_PHD_Platinum_Certificate_v1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4363,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.climateactive.org.au/buy-climate-active/certified-members/woven-image",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "Landfilled end-of-life and waste PET non-woven felt and panel can degrade into microplastics posing health and environmental risks. Diversion from landfills through practical product stewardship like Woven Image's material take back programme and recycling can reduce this risk.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2311,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Non-woven PET Panel",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2801,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "RPET Fibre",
+        "product_percentage": 60.0
+      },
+      {
+        "id": 2802,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "LM (50/50) RPET/PET Fibre",
+        "product_percentage": 40.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1868,
+        "location_name": "Brookvale NSW, Australia",
+        "location_lat": -33.76497,
+        "location_lon": 151.270448,
+        "location_state": " Australia",
+        "location_city": "Brookvale NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Other",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 2531,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2012/compliance/Fire_Test_Certificate_AS_5637_EchoPanel_12mm_80_Composition.pdf",
+        "link": "",
+        "rating": "Group 1"
+      }
+    ],
+    "type_of_packaging": "EchoPanel® is packaged in brown recyclable, compostable, 60% recycled content cardboard boxes or on timber pallets with brown recyclable, compostable, 72% recycled content cardboard packaging and landfill biodegradable shrink-wrap.",
+    "files": [
+      {
+        "id": 3452,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2012/VOC/TestCert__VOC_emission_Woven_Image_CA01530_Standard_EchoPanel_PET_3.pdf"
+      },
+      {
+        "id": 3453,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Echopanel%C2%AE%2012/LCA/EPD-IES-0016542_WovenImage_EP12mm80RC_2025-03-20.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1231,
+    "company": {
+      "id": 174,
+      "name": "WOVEN IMAGE PTY LTD"
+    },
+    "image": "products/WOVEN IMAGE PTY LTD/Zen_Embossed_Panel_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-16T09:06:22.389881+00:00",
+    "last_update": "2025-05-15T14:00:00+00:00",
+    "created_by": {
+      "id": 485,
+      "email": "abi.eskdale@wovenimage.com"
+    },
+    "updated_by": {
+      "id": 485,
+      "email": "abi.eskdale@wovenimage.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Woven Image",
+    "product_name": "Zen Embossed Panel",
+    "product_code": "Zen",
+    "product_description": "Zen is the first design in our multi award-winning embossed acoustic panel series.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "Length: 2800mm (+/-3mm), Width: 1130mm (+/- 3mm), Thickness: 9mm (+/- 7%)",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": null,
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4365,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://declare.living-future.org/products/embossed-and-3d-panel-series",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4366,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/certificates/EPD-IES-0016547_WovenImage_Embossed_2025-03-20.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4367,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/embossed-and-3d-panel-series",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4368,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/certificates/Embossed_and_3D_Formed_Panels_GreenTag_Certificate.pdf",
+        "link": "https://www.globalgreentag.com/products/zen-gem-and-ion-embossed-acoustic-panel/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4369,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://epd-australasia.com/epd/embossed-panel/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4365,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/embossed-and-3d-panel-series",
+        "rating": "undefined"
+      },
+      {
+        "id": 4366,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/certificates/EPD-IES-0016547_WovenImage_Embossed_2025-03-20.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4367,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/embossed-and-3d-panel-series",
+        "rating": "undefined"
+      },
+      {
+        "id": 4368,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/certificates/Embossed_and_3D_Formed_Panels_GreenTag_Certificate.pdf",
+        "link": "https://www.globalgreentag.com/products/zen-gem-and-ion-embossed-acoustic-panel/",
+        "rating": "undefined"
+      },
+      {
+        "id": 4369,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://epd-australasia.com/epd/embossed-panel/",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2312,
+        "location_name": "Gloucester NSW, Australia",
+        "location_lat": -32.024457,
+        "location_lon": 151.953401,
+        "component": "Laminated and embossed panel ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2803,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "PET Fibre",
+        "product_percentage": 99.1
+      },
+      {
+        "id": 2804,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Scatter adhesive",
+        "product_percentage": 0.9
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1869,
+        "location_name": "Gloucester NSW, Australia",
+        "location_lat": -32.024457,
+        "location_lon": 151.953401,
+        "location_state": " Australia",
+        "location_city": "Gloucester NSW"
+      },
+      {
+        "id": 1870,
+        "location_name": "Brookvale NSW, Australia",
+        "location_lat": -33.76497,
+        "location_lon": 151.270448,
+        "location_state": " Australia",
+        "location_city": "Brookvale NSW"
+      }
+    ],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 25,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 2532,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/compliance/Fire_Classification_Report_ISO_9705_Embossed_Panels.pdf",
+        "link": "",
+        "rating": "Group 1"
+      }
+    ],
+    "type_of_packaging": "",
+    "files": [
+      {
+        "id": 3454,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/VOC/TestCert__VOC_emission_Woven_Images_CA01530_Standard_Embossed_IV_Panel_Wall_lining_4.pdf"
+      },
+      {
+        "id": 3455,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/LCA/EPD-IES-0016547_WovenImage_Embossed_2025-03-20.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1232,
+    "company": {
+      "id": 174,
+      "name": "WOVEN IMAGE PTY LTD"
+    },
+    "image": "products/WOVEN IMAGE PTY LTD/Zen_Embossed_Panel_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-16T09:33:48.042756+00:00",
+    "last_update": "2025-06-10T14:00:00+00:00",
+    "created_by": {
+      "id": 485,
+      "email": "abi.eskdale@wovenimage.com"
+    },
+    "updated_by": {
+      "id": 485,
+      "email": "abi.eskdale@wovenimage.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Woven Image",
+    "product_name": "Ion Embossed Panel",
+    "product_code": "Ion",
+    "product_description": "Ion's striking asymmetrical crystalline design is inspired by the geometric shapes of origami.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "Length: 2800mm (+/-3mm), Width: 1130mm (+/- 3mm), Thickness: 9mm (+/- 7%)",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": null,
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4370,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://declare.living-future.org/products/embossed-and-3d-panel-series",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4371,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/certificates/EPD-IES-0016547_WovenImage_Embossed_2025-03-20.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4372,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/embossed-and-3d-panel-series",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4373,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/certificates/Embossed_and_3D_Formed_Panels_GreenTag_Certificate.pdf",
+        "link": "https://www.globalgreentag.com/products/zen-gem-and-ion-embossed-acoustic-panel/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4374,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://epd-australasia.com/epd/embossed-panel/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Dry manufacturing process.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4370,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/embossed-and-3d-panel-series",
+        "rating": "undefined"
+      },
+      {
+        "id": 4371,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/certificates/EPD-IES-0016547_WovenImage_Embossed_2025-03-20.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4372,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/embossed-and-3d-panel-series",
+        "rating": "undefined"
+      },
+      {
+        "id": 4373,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/certificates/Embossed_and_3D_Formed_Panels_GreenTag_Certificate.pdf",
+        "link": "https://www.globalgreentag.com/products/zen-gem-and-ion-embossed-acoustic-panel/",
+        "rating": "undefined"
+      },
+      {
+        "id": 4374,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://epd-australasia.com/epd/embossed-panel/",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "Landfilled end-of-life and waste PET non-woven felt and panel can degrade into microplastics posing health and environmental risks. Diversion from landfills through practical product stewardship like Woven Image's material take back programme and recycling can reduce this risk.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2313,
+        "location_name": "Gloucester NSW, Australia",
+        "location_lat": -32.024457,
+        "location_lon": 151.953401,
+        "component": "Laminated and embossed panel ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2805,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "PET Fibre",
+        "product_percentage": 99.1
+      },
+      {
+        "id": 2806,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Scatter adhesive",
+        "product_percentage": 0.9
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1871,
+        "location_name": "Gloucester NSW, Australia",
+        "location_lat": -32.024457,
+        "location_lon": 151.953401,
+        "location_state": " Australia",
+        "location_city": "Gloucester NSW"
+      },
+      {
+        "id": 1872,
+        "location_name": "Brookvale NSW, Australia",
+        "location_lat": -33.76497,
+        "location_lon": 151.270448,
+        "location_state": " Australia",
+        "location_city": "Brookvale NSW"
+      }
+    ],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Other",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 2533,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/compliance/Fire_Classification_Report_ISO_9705_Embossed_Panels.pdf",
+        "link": "",
+        "rating": "Group 1"
+      }
+    ],
+    "type_of_packaging": "",
+    "files": [
+      {
+        "id": 3456,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/VOC/TestCert__VOC_emission_Woven_Images_CA01530_Standard_Embossed_IV_Panel_Wall_lining_4.pdf"
+      },
+      {
+        "id": 3457,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WOVEN%20IMAGE%20PTY%20LTD/Zen%20Embossed%20Panel/LCA/EPD-IES-0016547_WovenImage_Embossed_2025-03-20.pdf"
+      }
+    ]
+  }
+]

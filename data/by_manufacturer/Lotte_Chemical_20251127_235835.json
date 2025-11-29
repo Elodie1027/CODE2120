@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1030,
+    "company": {
+      "id": 151,
+      "name": "AUSTARON SURFACES"
+    },
+    "image": "products/AUSTARON SURFACES/ST_Metallic_Yukon_AM_Interior_Studio_Ben_-_Copy.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-01-16T05:53:44.177310+00:00",
+    "last_update": "2025-03-18T13:00:00+00:00",
+    "created_by": {
+      "id": 1476,
+      "email": "belinda.worden@austaron.com.au"
+    },
+    "updated_by": {
+      "id": 1476,
+      "email": "belinda.worden@austaron.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Lotte Chemical",
+    "product_name": "Staron Solid Surfaces",
+    "product_code": "Staron Sheets & Bowls",
+    "product_description": "Staron is a mineral that is blended with acrylic resin, zero silica & non-porous",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": "3680mm x 760mm x 12mm",
+    "price_per_unit": null,
+    "product_functional_unit": null,
+    "price_adjustment_structure": null,
+    "lead_time": "2/3 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3784,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://austaronsurfaces.com/wp-content/uploads/2023/06/Staron-Solid-Surface-EPD-Exp-30.03.28.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3785,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "https://austaronsurfaces.com/wp-content/uploads/2024/11/478_Staron_Acrylic_Solid_Surfaces.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3983,
+        "certification": "GREENGUARD",
+        "file": null,
+        "link": "https://austaronsurfaces.com/wp-content/uploads/2023/11/GREENGUARD-Gold-Certification-Staron-sheet.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3984,
+        "certification": "GREENGUARD",
+        "file": null,
+        "link": "https://austaronsurfaces.com/wp-content/uploads/2023/11/GREENGUARD-Gold-Certification-Staron-sheet.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "Being investigated",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Staron Solid Surfaces has minimal offcuts compared to many other surfacing products due to the seamless joining capabilities. We have implemented spec sheets for our fabricators so they can make samples from waste. These are used for our displays and to offer designers to assist colour selections. They are also gifted to customers for use as breadboards/cheese platters. And given to people for DIY crafts and small projects.",
+    "recycled_content_percentage": "1",
+    "recycled_content_description": "This is pre consumer content and reflects manufacturing processes to minimise waste and should not be confused with post-consumer recycled content.",
+    "recycling_process_description": "It can be renewed and repaired insitu minimising the need to deconstruct. Alternatively, Staron can be removed and redesigned into new applications. Also, it can be used in other ways, as an alternative to other building materials such as: skirty and kicks as an example.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "yes, Staron can be upcycled, reused, renewed, repaired at the projects end of life and implemented into other applications/projects.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "yes",
+    "transport_emissions_minimisation_techniques": "we outsource our deliveries or customers collect therefore this information cannot be answered properly.",
+    "minimisation_design_strategy": "–Manufactured with a special technic means two pieces become one, maximising product yield and minimising offcuts and wastage. Offcuts are also used to reinforce joins for other applications reducing waste.  Alternatively designing to sheet sizes can also assist.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3784,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://austaronsurfaces.com/wp-content/uploads/2023/06/Staron-Solid-Surface-EPD-Exp-30.03.28.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3785,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://austaronsurfaces.com/wp-content/uploads/2024/11/478_Staron_Acrylic_Solid_Surfaces.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3983,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://austaronsurfaces.com/wp-content/uploads/2023/11/GREENGUARD-Gold-Certification-Staron-sheet.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3984,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://austaronsurfaces.com/wp-content/uploads/2023/11/GREENGUARD-Gold-Certification-Staron-sheet.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://austaronsurfaces.com/wp-content/uploads/2023/11/GREENGUARD-Gold-Certification-Staron-sheet.pdf",
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "yes product is sanded",
+    "manufacturing_locations": [
+      {
+        "id": 1972,
+        "location_name": "Yeosu, Jeollanam-do, South Korea",
+        "location_lat": 34.761047,
+        "location_lon": 127.662908,
+        "component": "South Korea ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2206,
+        "location_name": "Shandong Province, China",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Aluminum Trihydrate Mineral ",
+        "product_percentage": 65.0
+      },
+      {
+        "id": 2207,
+        "location_name": "Seúl, South Korea",
+        "location_lat": 37.565213,
+        "location_lon": 126.977352,
+        "material": "Poly MethylMetacrylate",
+        "product_percentage": 35.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1629,
+        "location_name": "Brendale QLD 4500, Australia",
+        "location_lat": -27.326486,
+        "location_lon": 152.9796,
+        "location_state": " Australia",
+        "location_city": "Brendale QLD 4500"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Final sanding after fabrication",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://austaronsurfaces.com/wp-content/uploads/2023/06/Staron-Solid-Surface-EPD-Exp-30.03.28.pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "We have introduced strategies to support those interested in upcycling Staron for DIY projects.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2245,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://austaronsurfaces.com/wp-content/uploads/2021/08/Fire_Test_Report_GROUP-1_AS5637.1.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 2246,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://austaronsurfaces.com/wp-content/uploads/2021/08/Staron-slip-classification.pdf",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "PP Straps, carboard and timber batten pallets - we collect pallets where possible for reuse.",
+    "files": [
+      {
+        "id": 3029,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AUSTARON%20SURFACES/Staron%20Solid%20Surfaces/RecycledContent/SN-316-2020_LEED_green_building_rating_system.pdf"
+      }
+    ]
+  }
+]

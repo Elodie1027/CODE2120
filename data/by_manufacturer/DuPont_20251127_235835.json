@@ -1,0 +1,283 @@
+[
+  {
+    "id": 323,
+    "company": {
+      "id": 58,
+      "name": "CASF AUSTRALIA"
+    },
+    "image": "products/CASF AUSTRALIA/New-Colours-Flatlay-Instagram.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-18T06:45:13.324236+00:00",
+    "last_update": "2025-11-19T13:00:00+00:00",
+    "created_by": {
+      "id": 414,
+      "email": "marketing@casf.com.au"
+    },
+    "updated_by": {
+      "id": 414,
+      "email": "marketing@casf.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "DuPont",
+    "product_name": "Corian® Solid Surface",
+    "product_code": "Corian Sheet",
+    "product_description": "Corian® Solid Surface is a zero-silica, non-porous solid surface material.",
+    "product_categories": [
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": "3658x760x12mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 697,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/certificates/Corian_Environmental_Product_Declaration.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4343,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/certificates/DECLARE_CorianR_Solid_Surface_2026.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5995,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/certificates/Corian_SS_GREENGUARD_Gold_Certification.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5996,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/certificates/Corian_Joint_Adh_GREENGUARD_Gold_Certification.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "1",
+    "recyclable_percentage_description": "We have a sample take back and reuse program to our Sydney Merchandise facility.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "Original Corian installations can be removed, redesigned and remade into new installations.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Original Corian installations can be removed, redesigned and remade into new installations.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "A take back program has been established with major customers for waste material to be sent back to the plant for recylce program to make new products.",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "We use transport providers who are using electric powered vehicles for some of our deliveries.",
+    "minimisation_design_strategy": "Optimising sheet sizes in design can reduce the waste/offcuts of the material.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 697,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/certificates/Corian_Environmental_Product_Declaration.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4343,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/certificates/DECLARE_CorianR_Solid_Surface_2026.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5995,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/certificates/Corian_SS_GREENGUARD_Gold_Certification.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5996,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/certificates/Corian_Joint_Adh_GREENGUARD_Gold_Certification.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Pre-polished finish",
+    "manufacturing_locations": [
+      {
+        "id": 375,
+        "location_name": "Buffalo, NY, USA",
+        "location_lat": 42.886447,
+        "location_lon": -78.878369,
+        "component": "ATH",
+        "component_percentage": 60.0
+      },
+      {
+        "id": 386,
+        "location_name": "Buffalo, NY, USA",
+        "location_lat": 42.886447,
+        "location_lon": -78.878369,
+        "component": "MMA",
+        "component_percentage": 37.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 560,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "ATH",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 455,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 427,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/compliance/Corian_Fire_Test_Certificate_AS_ISO9705.pdf",
+        "link": "",
+        "rating": "2"
+      },
+      {
+        "id": 428,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/compliance/Slip_Resistance_Test_Results.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Replantation timber pallets and cardboard are used for packaging in transport.",
+    "files": [
+      {
+        "id": 561,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/VOC/Corian-Sustainable-Design-VOC-Testing-.pdf"
+      },
+      {
+        "id": 562,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/LCA/Corian-Environmental-Product-Declaration.pdf"
+      },
+      {
+        "id": 3619,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/RecycledContent/corian_ss_06_scs_2024.pdf"
+      },
+      {
+        "id": 3620,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/RecycledContent/corian_ss_10_scs_2024.pdf"
+      },
+      {
+        "id": 3621,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/RecycledContent/corian_ss_14_scs_2024.pdf"
+      },
+      {
+        "id": 3622,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/ModernSlaveryAssessment/Modern_Slavery_CASF_Australia_2024.pdf"
+      },
+      {
+        "id": 3623,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CASF%20AUSTRALIA/Corian%C2%AE%20Solid%20Surface/ModernSlaveryActionPlan/Modern_Slavery_CASF_Australia_2024.pdf"
+      }
+    ]
+  }
+]

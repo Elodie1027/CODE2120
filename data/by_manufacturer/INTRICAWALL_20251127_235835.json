@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1217,
+    "company": {
+      "id": 177,
+      "name": "INTRICA PTY LTD"
+    },
+    "image": "products/INTRICA PTY LTD/NX2214.PNG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-05T03:03:17.573963+00:00",
+    "last_update": "2025-05-05T14:00:00+00:00",
+    "created_by": {
+      "id": 2253,
+      "email": "hello@intrica.com.au"
+    },
+    "updated_by": {
+      "id": 2253,
+      "email": "hello@intrica.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "INTRICAWALL",
+    "product_name": "Hardwicke",
+    "product_code": "NX2214",
+    "product_description": "Realistic high performance wall panels with natural grain finish.",
+    "product_categories": [
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "600 x 3000mm/ 158 x 3000mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 Week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4328,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Hardwicke/certificates/NX_GreenGuard-1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4329,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Hardwicke/certificates/Australian-Made-Oct-24-Oct-25.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4330,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Hardwicke/certificates/DecorativePanels_Warranty.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4331,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Hardwicke/certificates/UR_CarbonNeutral.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Training and product manual to be provided",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "N/A",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4328,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Hardwicke/certificates/NX_GreenGuard-1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4329,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Hardwicke/certificates/Australian-Made-Oct-24-Oct-25.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4330,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Hardwicke/certificates/DecorativePanels_Warranty.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4331,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Hardwicke/certificates/UR_CarbonNeutral.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Final Wall Panel supply",
+    "manufacturing_locations": [
+      {
+        "id": 2301,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "component": "Diatom Composite",
+        "component_percentage": 52.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2767,
+        "location_name": "Tokyo, Japan",
+        "location_lat": 35.6804,
+        "location_lon": 139.769017,
+        "material": "Diatom Composite",
+        "product_percentage": 52.0
+      },
+      {
+        "id": 2768,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Calcium carbonate ",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 2769,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Wood Powder ",
+        "product_percentage": 8.0
+      },
+      {
+        "id": 2770,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Flame retardant 1",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 2771,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Flame retardant 2",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 2772,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Foaming agent ",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1855,
+        "location_name": "Campbellfield VIC, Australia",
+        "location_lat": -37.671459,
+        "location_lon": 144.955648,
+        "location_state": " Australia",
+        "location_city": "Campbellfield VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Training and product manual will be provided",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "600 x 3000mm - Flat Panel\r\n158 x 3000mm - Batten Panel",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "N/A",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2521,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INTRICA%20PTY%20LTD/Hardwicke/compliance/UR_FireRating.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recyclable/Reusable cardboards",
+    "files": []
+  }
+]

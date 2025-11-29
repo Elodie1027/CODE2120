@@ -1,0 +1,1239 @@
+[
+  {
+    "id": 479,
+    "company": {
+      "id": 132,
+      "name": "SABDRAIN AUSTRALASIA"
+    },
+    "image": "products/SABDRAIN AUSTRALASIA/Untitled-4_7F5bc0I.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-24T23:46:18.065255+00:00",
+    "last_update": "2024-09-24T14:00:00+00:00",
+    "created_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "updated_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Jonite",
+    "product_name": "Stone Breeze Block - Elementa",
+    "product_code": "ELEMENTA",
+    "product_description": "Reinforced stone breeze blocks with in a range of designs & colours with customization available.",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      },
+      {
+        "id": 8,
+        "category_name": "Masonry"
+      }
+    ],
+    "standard_dimensions": "200mm x 200mm x 75mm",
+    "price_per_unit": 60.0,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "Priced per block & quantity",
+    "lead_time": "14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1211,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1212,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1213,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Breeze blocks can be reused upon removal of the mortar and rebar reinforcing used during installation",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "N/A",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Make sure square m2 & quantitys are exact",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1211,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1212,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1213,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Created from 95% natural aggregates and advanced hybrid polymers, Jonite products provide a finish which is both luxurious and natural to the touch",
+    "manufacturing_locations": [
+      {
+        "id": 613,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "component": "Calcium oxide",
+        "component_percentage": 69.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 865,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "Calcium oxide",
+        "product_percentage": 69.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 743,
+        "location_name": "Campbelltown NSW, Australia",
+        "location_lat": -34.066615,
+        "location_lon": 150.819557,
+        "location_state": " Australia",
+        "location_city": "Campbelltown NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 696,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 697,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1_dyjtfme.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 698,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_Water_AbsorptionSS245.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 699,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_SlipTest_SS485.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Wooden crate, cardboard packing with plastic film wrap",
+    "files": [
+      {
+        "id": 956,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/RecycledContent/R20240326351.pdf"
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "company": {
+      "id": 132,
+      "name": "SABDRAIN AUSTRALASIA"
+    },
+    "image": "products/SABDRAIN AUSTRALASIA/1723802402096.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-24T23:55:50.230503+00:00",
+    "last_update": "2024-09-24T14:00:00+00:00",
+    "created_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "updated_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Jonite",
+    "product_name": "Stone Breeze Block - Modubloc",
+    "product_code": "MODUBLOC",
+    "product_description": "Reinforced stone breeze blocks with in a range of designs & colours with customization available.",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      },
+      {
+        "id": 8,
+        "category_name": "Masonry"
+      }
+    ],
+    "standard_dimensions": "200mm x 200mm x 75mm",
+    "price_per_unit": 60.0,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "Priced per block & quantity",
+    "lead_time": "14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1214,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1215,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1216,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Breeze blocks can be reused upon removal of the mortar and rebar reinforcing used during installation",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "N/A",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Make sure square m2 & quantitys are exact",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1214,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1215,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1216,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Created from 95% natural aggregates and advanced hybrid polymers, Jonite products provide a finish which is both luxurious and natural to the touch",
+    "manufacturing_locations": [
+      {
+        "id": 614,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "component": "Calcium oxide",
+        "component_percentage": 69.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 866,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "Calcium oxide",
+        "product_percentage": 69.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 744,
+        "location_name": "Campbelltown NSW, Australia",
+        "location_lat": -34.066615,
+        "location_lon": 150.819557,
+        "location_state": " Australia",
+        "location_city": "Campbelltown NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 700,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 701,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1_dyjtfme.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 702,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_Water_AbsorptionSS245.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 703,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_SlipTest_SS485.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Wooden crate, cardboard packing with plastic film wrap",
+    "files": [
+      {
+        "id": 957,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/RecycledContent/R20240326351.pdf"
+      }
+    ]
+  },
+  {
+    "id": 481,
+    "company": {
+      "id": 132,
+      "name": "SABDRAIN AUSTRALASIA"
+    },
+    "image": "products/SABDRAIN AUSTRALASIA/slot.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-25T00:02:43.651888+00:00",
+    "last_update": "2024-09-24T14:00:00+00:00",
+    "created_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "updated_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Jonite",
+    "product_name": "Stone Trench Grate",
+    "product_code": "JONITETRENCH",
+    "product_description": "Reinforced stone trench grates with a range of designs & colours with customization available.",
+    "product_categories": [
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      }
+    ],
+    "standard_dimensions": "Sizes up to 1M wide",
+    "price_per_unit": 170.0,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "Priced per quantity",
+    "lead_time": "14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1217,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1218,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1219,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Jonite can be crushed and broken down into smaller aggregates to be used as road base.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "N/A",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Ensure job is measured thoroughly. Jonite produces exact amounts for each project.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1217,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1218,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1219,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Created from 95% natural aggregates and advanced hybrid polymers, Jonite products provide a finish which is both luxurious and natural to the touch",
+    "manufacturing_locations": [
+      {
+        "id": 615,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "component": "Calcium oxide",
+        "component_percentage": 69.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 867,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "Calcium oxide",
+        "product_percentage": 69.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 745,
+        "location_name": "Campbelltown NSW, Australia",
+        "location_lat": -34.066615,
+        "location_lon": 150.819557,
+        "location_state": " Australia",
+        "location_city": "Campbelltown NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 704,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 705,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1_dyjtfme.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 706,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_Water_AbsorptionSS245.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 707,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_SlipTest_SS485.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Wooden crate, cardboard packing with plastic film wrap",
+    "files": [
+      {
+        "id": 958,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/RecycledContent/R20240326351.pdf"
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "company": {
+      "id": 132,
+      "name": "SABDRAIN AUSTRALASIA"
+    },
+    "image": "products/SABDRAIN AUSTRALASIA/jonitepoolweb_24.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-25T01:23:42.286313+00:00",
+    "last_update": "2024-09-24T14:00:00+00:00",
+    "created_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "updated_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Jonite",
+    "product_name": "Stone Pool Grates",
+    "product_code": "JONITEPOOL",
+    "product_description": "Stone specialty pool grates with a range of designs & colours with customization available.",
+    "product_categories": [
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      }
+    ],
+    "standard_dimensions": "Sizes up to 1M wide",
+    "price_per_unit": 170.0,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "Priced per quantity",
+    "lead_time": "14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1220,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1221,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1222,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Jonite can be crushed and broken down into smaller aggregates to be used as road base.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "N/A",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Ensure job is measured thoroughly. Jonite produces exact amounts for each project.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1220,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1221,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1222,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Created from 95% natural aggregates and advanced hybrid polymers, Jonite products provide a finish which is both luxurious and natural to the touch",
+    "manufacturing_locations": [
+      {
+        "id": 616,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "component": "Calcium oxide",
+        "component_percentage": 69.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 868,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "Calcium oxide",
+        "product_percentage": 69.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 746,
+        "location_name": "Campbelltown NSW, Australia",
+        "location_lat": -34.066615,
+        "location_lon": 150.819557,
+        "location_state": " Australia",
+        "location_city": "Campbelltown NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 708,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 709,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1_dyjtfme.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 710,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_Water_AbsorptionSS245.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 711,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_SlipTest_SS485.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Wooden crate, cardboard packing with plastic film wrap",
+    "files": [
+      {
+        "id": 959,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/RecycledContent/R20240326351.pdf"
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "company": {
+      "id": 132,
+      "name": "SABDRAIN AUSTRALASIA"
+    },
+    "image": "products/SABDRAIN AUSTRALASIA/full_02_-_tree_grate__custom__2.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-25T01:37:06.813249+00:00",
+    "last_update": "2024-09-24T14:00:00+00:00",
+    "created_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "updated_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Jonite",
+    "product_name": "Stone Tree Grates",
+    "product_code": "JONITETREE",
+    "product_description": "Reinforced stone tree grates in a range of designs & colours with customization available.",
+    "product_categories": [
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      }
+    ],
+    "standard_dimensions": "Sizes up to 5M diameter",
+    "price_per_unit": 4000.0,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "Priced per unit",
+    "lead_time": "14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1223,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1224,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1225,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Jonite can be crushed and broken down into smaller aggregates to be used as road base.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "N/A",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Ensure job is measured thoroughly. Jonite produces exact amounts for each project.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1223,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1224,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1225,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Created from 95% natural aggregates and advanced hybrid polymers, Jonite products provide a finish which is both luxurious and natural to the touch",
+    "manufacturing_locations": [
+      {
+        "id": 617,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "component": "Calcium oxide",
+        "component_percentage": 69.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 869,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "Calcium oxide",
+        "product_percentage": 69.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 747,
+        "location_name": "Campbelltown NSW, Australia",
+        "location_lat": -34.066615,
+        "location_lon": 150.819557,
+        "location_state": " Australia",
+        "location_city": "Campbelltown NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 712,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 713,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1_dyjtfme.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 714,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_Water_AbsorptionSS245.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 715,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_SlipTest_SS485.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Wooden crate, cardboard packing with plastic film wrap",
+    "files": [
+      {
+        "id": 960,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/RecycledContent/R20240326351.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,270 @@
+[
+  {
+    "id": 122,
+    "company": {
+      "id": 1,
+      "name": "COX ARCHITECTURE"
+    },
+    "image": "products/COX ARCHITECTURE/Test.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-28T00:41:55.625823+00:00",
+    "last_update": "2025-07-22T14:00:00+00:00",
+    "created_by": {
+      "id": 275,
+      "email": "joanne.andrade@cox.com.au"
+    },
+    "updated_by": {
+      "id": 275,
+      "email": "joanne.andrade@cox.com.au"
+    },
+    "user_role": null,
+    "manufacturer_name": "Test Manufacture",
+    "product_name": "Testproduct101",
+    "product_code": "OPEN001",
+    "product_description": "This is the product description",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "120 x 19mm",
+    "price_per_unit": 0.02,
+    "product_functional_unit": null,
+    "price_adjustment_structure": null,
+    "lead_time": "3 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4678,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/certificates/Test.png",
+        "link": "",
+        "rating": "Test",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4679,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/certificates/Test_ajT9p6b.png",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 98.01,
+    "upfront_carbon_emissions": 98.01,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "51",
+    "recyclable_percentage_description": "Test",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Test",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "Test",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "6",
+    "compostable_conditions": "No",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "Test",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Test",
+    "water_reduction_techniques": "Test",
+    "transport_emissions_minimisation_techniques": "Test",
+    "minimisation_design_strategy": "Test",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "Test",
+    "modern_slavery_comments": "Test",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4678,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/certificates/Test.png",
+        "link": "",
+        "rating": "Test"
+      },
+      {
+        "id": 4679,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/certificates/Test_ajT9p6b.png",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 2,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 120,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Test",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1736,
+        "location_name": "Hamburg, Germany",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Timber",
+        "product_percentage": 60.0
+      },
+      {
+        "id": 1737,
+        "location_name": "Bell Bay TAS, Australia",
+        "location_lat": -41.130612,
+        "location_lon": 146.867431,
+        "material": "aluminium",
+        "product_percentage": 6.0
+      },
+      {
+        "id": 2918,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "material": "Steel",
+        "product_percentage": 34.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1972,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "location_state": " Australia",
+        "location_city": "Geelong VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 131,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Cox%20Architecture/Testproduct101/compliance/IconMimic.svg",
+        "link": "",
+        "rating": "12"
+      },
+      {
+        "id": 1323,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/compliance/1.1_End_of_Trip_495_Collins.pdf",
+        "link": "",
+        "rating": "A"
+      },
+      {
+        "id": 1324,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/compliance/210921_Basement__Podium_markup.pdf",
+        "link": "",
+        "rating": "2.8"
+      }
+    ],
+    "type_of_packaging": "Test",
+    "files": [
+      {
+        "id": 3602,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/VOC/Test.png"
+      },
+      {
+        "id": 3603,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/LCA/Test.png"
+      },
+      {
+        "id": 3604,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/RecycledContent/Test.png"
+      },
+      {
+        "id": 3605,
+        "category": "CompostableCertificate",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/CompostableCertificate/Test.png"
+      },
+      {
+        "id": 3606,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/ModernSlaveryAssessment/Test.png"
+      },
+      {
+        "id": 3607,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/ModernSlaveryActionPlan/Test.png"
+      },
+      {
+        "id": 3608,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/COX%20ARCHITECTURE/Testproduct101/VOC/Test_Hha9hc0.png"
+      }
+    ]
+  }
+]

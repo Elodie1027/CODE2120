@@ -1,0 +1,359 @@
+[
+  {
+    "id": 140,
+    "company": {
+      "id": 17,
+      "name": "FORESTONE"
+    },
+    "image": "products/FORESTONE/EC201101_ECP6257_web_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-22T10:35:08.839663+00:00",
+    "last_update": "2024-05-09T03:50:46.739523+00:00",
+    "created_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "updated_by": {
+      "id": 104,
+      "email": "jdallavia@forest.one"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Meganite LLC",
+    "product_name": "Meganite Acrylic Solid Surface",
+    "product_code": "MEGASOLSURF",
+    "product_description": "Meganite Acylic Solid Surface for benchtops and other applications",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": "3660 x 760 x 12mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 275,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/certificates/Meganite__Declare.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 276,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/certificates/Meganite_Environmental_Product_Declaration.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 277,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/certificates/Meganite__GreenGuard_Gold.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 278,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/certificates/Meganite_Health_Product_Declaration.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 279,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/certificates/FREE-of-Silica-Dust-Meganite-Project-Safety-and-Health.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 1474.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 1.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 110.0,
+    "upfront_carbon_emissions": 110.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "1",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, unsure of %",
+    "transport_emissions_minimisation_techniques": "Hybrid Trucks",
+    "minimisation_design_strategy": "mazmise design to use full use of sheet size.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 275,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/certificates/Meganite__Declare.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 276,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/certificates/Meganite_Environmental_Product_Declaration.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 277,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/certificates/Meganite__GreenGuard_Gold.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 278,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/certificates/Meganite_Health_Product_Declaration.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 279,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/certificates/FREE-of-Silica-Dust-Meganite-Project-Safety-and-Health.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 40,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 156,
+        "location_name": "Wuxi, Jiangsu, China",
+        "location_lat": 31.49099,
+        "location_lon": 120.31237,
+        "component": "Aluminum Hydroxide",
+        "component_percentage": 60.0
+      },
+      {
+        "id": 157,
+        "location_name": "Wuxi, Jiangsu, China",
+        "location_lat": 31.49099,
+        "location_lon": 120.31237,
+        "component": "Acrylic Resin",
+        "component_percentage": 38.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 198,
+        "location_name": "Wuxi, Jiangsu, China",
+        "location_lat": 31.49099,
+        "location_lon": 120.31237,
+        "material": "Aluminum Hydroxide",
+        "product_percentage": 60.0
+      },
+      {
+        "id": 199,
+        "location_name": "Wuxi, Jiangsu, China",
+        "location_lat": 31.49099,
+        "location_lon": 120.31237,
+        "material": "Acrylic Resin",
+        "product_percentage": 38.0
+      },
+      {
+        "id": 200,
+        "location_name": "Wuxi, Jiangsu, China",
+        "location_lat": 31.49099,
+        "location_lon": 120.31237,
+        "material": "Titanium Dioxide",
+        "product_percentage": 2.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 211,
+        "location_name": "Derrimut VIC, Australia",
+        "location_lat": -37.792708,
+        "location_lon": 144.771556,
+        "location_state": " Australia",
+        "location_city": "Derrimut VIC"
+      },
+      {
+        "id": 212,
+        "location_name": "Wetherill Park NSW, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW"
+      },
+      {
+        "id": 213,
+        "location_name": "Berrinba QLD, Australia",
+        "location_lat": -27.658462,
+        "location_lon": 153.080652,
+        "location_state": " Australia",
+        "location_city": "Berrinba QLD"
+      },
+      {
+        "id": 214,
+        "location_name": "Garbutt QLD, Australia",
+        "location_lat": -19.268852,
+        "location_lon": 146.767324,
+        "location_state": " Australia",
+        "location_city": "Garbutt QLD"
+      },
+      {
+        "id": 215,
+        "location_name": "Bungalow QLD, Australia",
+        "location_lat": -16.936575,
+        "location_lon": 145.756816,
+        "location_state": " Australia",
+        "location_city": "Bungalow QLD"
+      },
+      {
+        "id": 216,
+        "location_name": "Welshpool WA, Australia",
+        "location_lat": -31.99344,
+        "location_lon": 115.944354,
+        "location_state": " Australia",
+        "location_city": "Welshpool WA"
+      },
+      {
+        "id": 217,
+        "location_name": "Wingfield SA, Australia",
+        "location_lat": -34.841354,
+        "location_lon": 138.54613,
+        "location_state": " Australia",
+        "location_city": "Wingfield SA"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "MEGANITE  uphold human rights, ethical practices, and support the United Nations‘ Sustainable Development Goals through Meganite’s child labor policy statement and slavery statement.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 141,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/compliance/Meganite_Group_1_report_AS_5637_1.pdf",
+        "link": "",
+        "rating": "AS 5637 - Group 1"
+      }
+    ],
+    "type_of_packaging": "PP Straps, cardboard and timber battens",
+    "files": [
+      {
+        "id": 135,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/VOC/Meganite__GreenGuard_Gold.pdf"
+      },
+      {
+        "id": 136,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/LCA/EPD_Meganite_Solid_Surfaces.pdf"
+      },
+      {
+        "id": 137,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/RecycledContent/Meganite_Recycle_Content_SCS.pdf"
+      },
+      {
+        "id": 138,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/ModernSlaveryAssessment/Child_Labor_Policy_070123.pdf"
+      },
+      {
+        "id": 139,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/ModernSlaveryAssessment/Slavery_Statement_070123.pdf"
+      },
+      {
+        "id": 140,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORESTONE/Meganite%20Acrylic%20Solid%20Surface/ModernSlaveryAssessment/ForestOne_Modern_Slavery_Statement_2023.pdf"
+      }
+    ]
+  }
+]

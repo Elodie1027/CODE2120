@@ -1,0 +1,249 @@
+[
+  {
+    "id": 621,
+    "company": {
+      "id": 35,
+      "name": "INSTYLE"
+    },
+    "image": "products/INSTYLE/Fusion-Thumbnail.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-25T00:53:56.682462+00:00",
+    "last_update": "2025-07-09T14:00:00+00:00",
+    "created_by": {
+      "id": 90,
+      "email": "erapp@instyle.com.au"
+    },
+    "updated_by": {
+      "id": 90,
+      "email": "erapp@instyle.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Enquire with supplier",
+    "product_name": "Fusion – Life Sustainable Textile",
+    "product_code": "Enquire with supplier",
+    "product_description": "A classic Australian + NZ wool-rich upholstery fabric with a multi-coloured texture",
+    "product_categories": [
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "137cm wide / roll size 45m",
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": "Enquire with supplier",
+    "lead_time": "Enquire with supplier",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1729,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INSTYLE/Calibre%20%E2%80%93%20Life%20Sustainable%20Textile/certificates/Enviromark.pdf",
+        "link": "https://www.toitu.co.nz/",
+        "rating": "Diamond",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1731,
+        "certification": "OEKO-TEX",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INSTYLE/Fusion%20%E2%80%93%20Life%20Sustainable%20Textile/certificates/Fusion_OEKO-TEX.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4797,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INSTYLE/Fusion%20%E2%80%93%20Life%20Sustainable%20Textile/certificates/2025_CarbonNeutral_LowCO2.pdf",
+        "link": "",
+        "rating": "Low CO2, Carbon Neutral",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 30.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 19.2,
+    "upfront_carbon_emissions": 19.2,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "The wool component of Instyle's LIFE Textiles is inherently renewable and biodegradable. All pure wool and wool-rich LIFE Textiles can be returned to Instyle for responsible reprocessing through our REVIVE® product stewardship scheme https://instyle.com.au/revive-recycling-program/.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "LIFE Textiles can be returned to Instyle for responsible recycling or reprocessing through our REVIVE® product stewardship scheme.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "Wool textiles can be shredded and either re-spun into blended yarns in a textile-to-textile recycling process, or downcycled into lower grade aggregate products.",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "LIFE Textiles can be returned to Instyle for responsible recycling or reprocessing through our REVIVE® product stewardship scheme https://instyle.com.au/revive-recycling-program/",
+    "water_reduction_techniques": "Water is reused in the scouring process, and weaving mill incorporates 30% rain-fed water usage, with 100% of all water used purified before being returned to the aquifer.",
+    "transport_emissions_minimisation_techniques": "Textile processing and weaving is carried out in a vertical facility, and the distance from the final manufacturing stage to the port is under 15km, both of which significantly minimise transport emissions.",
+    "minimisation_design_strategy": "To minimise offcuts and wastage with any textile, use precise measurements and cutting techniques, and design patterns to maximise fabric usage. Work with a professional upholsterer who understands the characteristics and performance of the wool and can provide an accurate material requirement. The Instyle design team can help with efficient yield guidance for your project.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "Human rights and modern slavery risk are assessed as part of the Enviromark Diamond certification.",
+    "modern_slavery_comments": "Human rights and modern slavery risks are prevalent in wool textile supply chains, and can include exploitative labour practices such as forced labour and inadequate working conditions during wool shearing and processing, particularly in countries with weak labour laws. However, these risks are low in Australia & New Zealand due to strict labour laws and regulations ensuring fair treatment and wages for workers.",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1729,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INSTYLE/Calibre%20%E2%80%93%20Life%20Sustainable%20Textile/certificates/Enviromark.pdf",
+        "link": "https://www.toitu.co.nz/",
+        "rating": "Diamond"
+      },
+      {
+        "id": 1731,
+        "certification": "OEKO-TEX",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INSTYLE/Fusion%20%E2%80%93%20Life%20Sustainable%20Textile/certificates/Fusion_OEKO-TEX.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4797,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INSTYLE/Fusion%20%E2%80%93%20Life%20Sustainable%20Textile/certificates/2025_CarbonNeutral_LowCO2.pdf",
+        "link": "",
+        "rating": "Low CO2, Carbon Neutral"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 851,
+        "location_name": "New Zealand",
+        "location_lat": -45.030151,
+        "location_lon": 168.661514,
+        "component": "Weaving",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1254,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Australian + NZ Wool",
+        "product_percentage": 82.0
+      },
+      {
+        "id": 1255,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Nylon",
+        "product_percentage": 18.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1521,
+        "location_name": "Mascot NSW, Australia",
+        "location_lat": -33.928578,
+        "location_lon": 151.18717,
+        "location_state": " Australia",
+        "location_city": "Mascot NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Other",
+    "incomplete_details": "",
+    "other_comments": "The majority of Instyle LIFE Sustainable Textiles are made locally in Australia or NZ, minimising transport kilometres. Additional certifications or product literature may be available on request – please contact your Instyle Sales Representative for more details.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 956,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INSTYLE/Fusion%20%E2%80%93%20Life%20Sustainable%20Textile/compliance/Cocoon_3837.pdf",
+        "link": "",
+        "rating": "Group 2"
+      },
+      {
+        "id": 957,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INSTYLE/Fusion%20%E2%80%93%20Life%20Sustainable%20Textile/compliance/Fusion_ASNZS_1530.3.pdf",
+        "link": "",
+        "rating": " Ignitability 8, Flame Spread 0, Heat Evolved 0, Smoke Developed 4 "
+      },
+      {
+        "id": 958,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INSTYLE/Fusion%20%E2%80%93%20Life%20Sustainable%20Textile/compliance/Fusion_ISO_5660.1.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Our circular packaging strategy for textiles uses high percentage recycled cardboard, reusable pallets, and recycled paper. We continuously reduce polymer use, currently limited only to tapes and necessary bagging where no viable sustainable alternative exists.",
+    "files": [
+      {
+        "id": 1523,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INSTYLE/Atlas%20%E2%80%93%20Life%20Sustainable%20Textile/ModernSlaveryActionPlan/MSA_Statement_2023.pdf"
+      },
+      {
+        "id": 1524,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INSTYLE/Fusion%20%E2%80%93%20Life%20Sustainable%20Textile/VOC/FUSION_VOC.pdf"
+      }
+    ]
+  }
+]

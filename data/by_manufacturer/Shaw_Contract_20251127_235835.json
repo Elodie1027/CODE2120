@@ -1,0 +1,3745 @@
+[
+  {
+    "id": 92,
+    "company": {
+      "id": 34,
+      "name": "SHAW CONTRACT"
+    },
+    "image": "products/SHAW CONTRACT/MAzima_Shaw_DyeLab0163_e_CMYK_copy_Large.jpeg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-12T00:33:06.533069+00:00",
+    "last_update": "2024-05-09T00:37:21.328935+00:00",
+    "created_by": {
+      "id": 171,
+      "email": "dave.moolman@shawcontract.com"
+    },
+    "updated_by": {
+      "id": 171,
+      "email": "dave.moolman@shawcontract.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Shaw Contract",
+    "product_name": "Carpet Tile With Ecoworx® Backing And Ecosolution Q100™ Fibre",
+    "product_code": "See Shaw Contract’s website for specific SKU numbers",
+    "product_description": "PVC-free, Cradle to Cradle Certiﬁed™ carpet tiles optimised for low embodied carbon and recyclable",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "•  610 mm x 610 mm  •  230 mm x 910 mm  •  460 mm x 910 mm  •  300 mm x 1220 mm  •  732 mm x 632 mm  •  711 mm x 635 mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "0",
+    "lead_time": "Selected Styles in Stock in Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 125,
+        "certification": "C2C Material Health Certificate",
+        "file": null,
+        "link": "cdn.c2ccertified.org/certifications/Shaw_Contract/EcoWorx_Tile_Carpets/Shaw_EcoWo_Silve_MHC5131_2022-12-12_182155.pdf",
+        "rating": "Silver Level (Version 4.0)",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 126,
+        "certification": "Cradle to Cradle Certified",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/doc/4475",
+        "rating": "Silver Level (Version 4.0)",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 127,
+        "certification": "Declare label",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/document/doc/10203?",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 128,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/16796",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 131,
+        "certification": "Other",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/6501",
+        "rating": "Low VOC",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 129,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/doc/4437",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 130,
+        "certification": "Other",
+        "file": null,
+        "link": "directory.wearewell.com/product-group/99d7ff3e-796a-49be-aac3-a31c7ee0309b",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 1.08,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 2.76,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.74,
+    "upfront_carbon_emissions": 4.74,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "100% Recyclable through our re[TURN] Reclamation Program",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The whole of EcoWorx can be recycled back into itself, including any offcuts.",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "58% (Pre-Consumer 58% | Post-Consumer 0%)",
+    "recycling_process_description": "The core component of the Cradle to Cradle design philosophy is circularity. It is not enough to simply say that a product can be recycled - we must demonstrate that the infrastructure to recycle our product actually exists and that it is actively being cycled. Recycling of product must also optimised and increased over time.\r\nThis all starts with using the right materials, which is why material health is to critical to our brand.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Yes- carpet tiles can be reused especially if installed with LokDots. LokDots® are a pressure sensitive adhesive for the installation of EcoWorx® carpet tile. This non-toxic and odorless system provides an alternative to wet adhesive, virtually eliminating the issue of VOCs (Volatile Organic Compounds), and providing ease and versatility of installation.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Since 2006, we have recycled 450,000,000 kg of post-consumer carpet reducing landfill waste through our re[TURN] Reclamation Program. At the end of its useful life, we will reclaim and recycle EcoWorx® (84 square metres or above at no cost to our customers).\r\n\r\nhttps://www.shawcontract.com/en-au/sustainability/re-turn",
+    "water_reduction_techniques": "Yes – recycled water is used in our facilities. Stringent Cradle to Cradle certification requirements demand that any water retuned to the environment should be equal or greater in quality than when it was drawn. EcoWorx uses solution-dyed Nylon yarn, which is uses relatively little water usage in manufacturing.",
+    "transport_emissions_minimisation_techniques": "The most carbon intensive part in the LCA of our products is raw material extraction, representing 60% of the carbon footprint of our EcoWorx® products. If we can get the product back, we bypass the need for new raw material extraction, saving that 60%. Since 2006, we have recycled 450,000,000 kg of post-consumer carpet reducing landfill waste through our re[TURN] Reclamation Program.",
+    "minimisation_design_strategy": "Our design services team can provide CAD drawings, estimates and product set-out drawings to help the order and waste-minimisation process through accurate quantity selection.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes – Enterprise-wide modern slavery declaration. In addition, 3rd party Cradle to Cradle certification rigorously investigates modern slavery across entire supply chain.\r\nWe are signatories of the UN Global Compact. Principle Four “Labour” states that signatories should uphold the elimination of all forms of forced and compulsory labour.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://unglobalcompact.org/what-is-gc/participants/125051-Shaw-Industries-Group-Inc-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 125,
+        "certification": "C2C Material Health Certificate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "cdn.c2ccertified.org/certifications/Shaw_Contract/EcoWorx_Tile_Carpets/Shaw_EcoWo_Silve_MHC5131_2022-12-12_182155.pdf",
+        "rating": "Silver Level (Version 4.0)"
+      },
+      {
+        "id": 126,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/doc/4475",
+        "rating": "Silver Level (Version 4.0)"
+      },
+      {
+        "id": 127,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/document/doc/10203?",
+        "rating": "undefined"
+      },
+      {
+        "id": 128,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/16796",
+        "rating": "undefined"
+      },
+      {
+        "id": 131,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/6501",
+        "rating": "Low VOC"
+      },
+      {
+        "id": 129,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/doc/4437",
+        "rating": "undefined"
+      },
+      {
+        "id": 130,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "directory.wearewell.com/product-group/99d7ff3e-796a-49be-aac3-a31c7ee0309b",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://qmsview.shawinc.com/viewer/doc/6501",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 91,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "component": "Manufacturing location",
+        "component_percentage": 50.0
+      },
+      {
+        "id": 92,
+        "location_name": "Cartersville, GA, USA",
+        "location_lat": 34.165097,
+        "location_lon": -84.799938,
+        "component": "Manufacturing location",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 111,
+        "location_name": "Cartersville, GA, USA",
+        "location_lat": 34.165097,
+        "location_lon": -84.799938,
+        "material": "See EPD or Declare Label",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 112,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "See EPD or Declare Label",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 88,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 89,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 90,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 91,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 92,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 93,
+        "location_name": "Newcastle NSW, Australia",
+        "location_lat": -32.928271,
+        "location_lon": 151.78168,
+        "location_state": " Australia",
+        "location_city": "Newcastle NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "re[TURN] shipments must adhere to the re[TURN] Reclamation Staging Guidelines (i.e. dry and free of non-carpet debris)\r\n\r\nhttps://shawfloors.widen.net/view/pdf/w5tzjtvbi1/6.7.23-Updates_reTURN-Reclamation-Staging-Guidelines_soft_surface_v5.pdf?t.download=true&u=pg9hyw",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 25.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://qmsview.shawinc.com/viewer/doc/16796",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 84,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "www.shawcontract.com/en-au/technicalpage/test-results",
+        "rating": null
+      },
+      {
+        "id": 85,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "www.shawcontract.com/en-au/technicalpage/test-results",
+        "rating": null
+      },
+      {
+        "id": 86,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "www.shawcontract.com/en-au/technicalpage/test-results",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "EcoWorx is packaged in cardboard cartons which can be readily recycled across all jurisdictions.",
+    "files": []
+  },
+  {
+    "id": 95,
+    "company": {
+      "id": 34,
+      "name": "SHAW CONTRACT"
+    },
+    "image": "products/SHAW CONTRACT/5T343_27560_FEATURE2.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-12T08:21:07.278951+00:00",
+    "last_update": "2024-05-07T00:21:19.154863+00:00",
+    "created_by": {
+      "id": 171,
+      "email": "dave.moolman@shawcontract.com"
+    },
+    "updated_by": {
+      "id": 171,
+      "email": "dave.moolman@shawcontract.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Shaw Contract",
+    "product_name": "Carpet Tile With Ecologix® Backing And Ecosolution Q100™ Fibre",
+    "product_code": "See Shaw Contract’s website for specific SKU numbers",
+    "product_description": "PVC-free, Cradle to Cradle Certiﬁed™ carpet tiles with cushion backing",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "•  610 mm x 610 mm  •  230 mm x 910 mm  •  460 mm x 910 mm  •  300 mm x 1220 mm  •  732 mm x 632 mm  •  711 mm x 635 mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "0",
+    "lead_time": "Select SKUs available In Stock Australia. Additional collections available ex-USA or ex-CN on longer lead-times",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 139,
+        "certification": "Other",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/6501",
+        "rating": " CRI Green Label Plus Low VOC",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 140,
+        "certification": "Cradle to Cradle Certified",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/document/doc/18102?",
+        "rating": "Bronze Level (Version 3.1)",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 141,
+        "certification": "Declare label",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/document/doc/20230??",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 142,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/document/doc/33634?",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 143,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/doc/4432",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "Yes",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 1.72,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 5.46,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 8.5,
+    "upfront_carbon_emissions": 8.5,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "100% Recyclable through our re[TURN] Reclamation Program- conditions, minimums, and charges apply",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "If meeting re[TURN] reclamation minimums",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "66% (Pre-Consumer 44% | Post-Consumer 22%)",
+    "recycling_process_description": "The core component of the Cradle to Cradle design philosophy is circularity. It is not enough to simply say that a product can be recycled - we must demonstrate that the infrastructure to recycle our product actually exists and that it is actively being cycled. Recycling of product must also optimised and increased over time.\r\nThis all starts with using the right materials, which is why material health is to critical to our brand.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Potentially- dependant on site conditions",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Since 2006, we have recycled 450,000,000 kg of post-consumer carpet reducing landfill waste through our re[TURN] Reclamation Program. At the end of its useful life, we can reclaim and recycle EcoLogix® associated with a replacement order and a minimum of 418 m2. \r\n\r\nhttps://www.shawcontract.com/en-au/sustainability/re-turn",
+    "water_reduction_techniques": "Yes – recycled water is used in our facilities. Stringent Cradle to Cradle certification requirements demand that any water returned to the environment should be equal or greater in quality than when it was drawn. EcoWorx uses solution-dyed Nylon yarn, which is uses relatively little water usage in manufacturing.",
+    "transport_emissions_minimisation_techniques": "Since 2006, we have recycled 450,000,000 kg of post-consumer carpet reducing landfill waste through our re[TURN] Reclamation Program.",
+    "minimisation_design_strategy": "Our design services team can provide CAD drawings, estimates and product set-out drawings to help the order and waste-minimisation process through accurate quantity selection.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes – Enterprise-wide modern slavery declaration. In addition, 3rd party Cradle to Cradle certification rigorously investigates modern slavery across entire supply chain.\r\nWe are signatories of the UN Global Compact. Principle Four “Labour” states that signatories should uphold the elimination of all forms of forced and compulsory labour.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://unglobalcompact.org/what-is-gc/participants/125051-Shaw-Industries-Group-Inc-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 139,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/6501",
+        "rating": " CRI Green Label Plus Low VOC"
+      },
+      {
+        "id": 140,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/document/doc/18102?",
+        "rating": "Bronze Level (Version 3.1)"
+      },
+      {
+        "id": 141,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/document/doc/20230??",
+        "rating": "undefined"
+      },
+      {
+        "id": 142,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/document/doc/33634?",
+        "rating": "undefined"
+      },
+      {
+        "id": 143,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "pdmsview.shawinc.com/viewer/doc/4432",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://qmsview.shawinc.com/viewer/doc/6501",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 97,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "component": "Manufacturing location",
+        "component_percentage": 50.0
+      },
+      {
+        "id": 98,
+        "location_name": "Cartersville, GA, USA",
+        "location_lat": 34.165097,
+        "location_lon": -84.799938,
+        "component": "Manufacturing location",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 122,
+        "location_name": "Cartersville, GA, USA",
+        "location_lat": 34.165097,
+        "location_lon": -84.799938,
+        "material": "See EPD or Declare Label",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 123,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "See EPD or Declare Label",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 98,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 99,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 100,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 101,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 102,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 103,
+        "location_name": "Newcastle NSW, Australia",
+        "location_lat": -32.928271,
+        "location_lon": 151.78168,
+        "location_state": " Australia",
+        "location_city": "Newcastle NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "re[TURN] shipments must adhere to the re[TURN] Reclamation Staging Guidelines (i.e. dry and free of non-carpet debris)\r\n\r\nhttps://shawfloors.widen.net/view/pdf/w5tzjtvbi1/6.7.23-Updates_reTURN-Reclamation-Staging-Guidelines_soft_surface_v5.pdf?t.download=true&u=pg9hyw",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 15.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "http://pdmsview.shawinc.com/viewer/document/doc/33634",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 87,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "www.shawcontract.com/en-au/technicalpage/test-results",
+        "rating": null
+      },
+      {
+        "id": 88,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "www.shawcontract.com/en-au/technicalpage/test-results",
+        "rating": null
+      },
+      {
+        "id": 89,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "www.shawcontract.com/en-au/technicalpage/test-results",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "EcoLogix is packaged in cardboard cartons which can be readily recycled across all jurisdictions.",
+    "files": []
+  },
+  {
+    "id": 96,
+    "company": {
+      "id": 34,
+      "name": "SHAW CONTRACT"
+    },
+    "image": "products/SHAW CONTRACT/5T501_01101_FEATURE1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-12T11:01:51.769634+00:00",
+    "last_update": "2024-05-01T06:50:52.500165+00:00",
+    "created_by": {
+      "id": 171,
+      "email": "dave.moolman@shawcontract.com"
+    },
+    "updated_by": {
+      "id": 171,
+      "email": "dave.moolman@shawcontract.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Shaw Contract",
+    "product_name": "Carpet Tile With Strataworx® Backing And Ecosolution Q® Fibre",
+    "product_code": "See Shaw Contract’s website for specific SKU numbers",
+    "product_description": "PVC-free, Cradle to Cradle Certiﬁed™ carpet tiles engineered for efficiency",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "•  610 mm x 610 mm  •  230 mm x 910 mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "0",
+    "lead_time": "Range of SKUs available In Stock Australia. Additional collections available ex-USA or ex-CN on longer lead-times",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 149,
+        "certification": "Cradle to Cradle Certified",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/4493",
+        "rating": "Silver Level (Version 3.1)",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 150,
+        "certification": "Declare label",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/7519",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 151,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/16072",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 152,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/6439",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 153,
+        "certification": "Other",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/6488",
+        "rating": "Low VOC",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "Yes",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 163.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 5.66,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 8.63,
+    "upfront_carbon_emissions": 8.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "100% Recyclable through our re[TURN] Reclamation Program- conditions, minimums, and charges apply",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "If meeting re[TURN] reclamation minimums",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "24% (Pre-Consumer 24% | Post-Consumer <1%)",
+    "recycling_process_description": "The core component of the Cradle to Cradle design philosophy is circularity. It is not enough to simply say that a product can be recycled - we must demonstrate that the infrastructure to recycle our product actually exists and that it is actively being cycled. Recycling of product must also optimised and increased over time.\r\nThis all starts with using the right materials, which is why material health is to critical to our brand.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Yes- carpet tiles can be reused especially if installed with LokDots. LokDots® are a pressure sensitive adhesive for the installation of EcoWorx® carpet tile. This non-toxic and odorless system provides an alternative to wet adhesive, virtually eliminating the issue of VOCs (Volatile Organic Compounds), and providing ease and versatility of installation",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Since 2006, we have recycled 450,000,000 kg of post-consumer carpet reducing landfill waste through our re[TURN] Reclamation Program. At the end of its useful life, we can reclaim and recycle StrataWorx® associated with a replacement order and a minimum of 418 m2. \r\n\r\nhttps://www.shawcontract.com/en-au/sustainability/re-turn",
+    "water_reduction_techniques": "Yes – recycled water is used in our facilities. Stringent Cradle to Cradle certification requirements demand that any water returned to the environment should be equal or greater in quality than when it was drawn. EcoWorx uses solution-dyed Nylon yarn, which is uses relatively little water usage in manufacturing.",
+    "transport_emissions_minimisation_techniques": "Since 2006, we have recycled 450,000,000 kg of post-consumer carpet reducing landfill waste through our re[TURN] Reclamation Program.",
+    "minimisation_design_strategy": "Our design services team can provide CAD drawings, estimates and product set-out drawings to help the order and waste-minimisation process through accurate quantity selection.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes – Enterprise-wide modern slavery declaration. In addition, 3rd party Cradle to Cradle certification rigorously investigates modern slavery across entire supply chain.\r\nWe are signatories of the UN Global Compact. Principle Four “Labour” states that signatories should uphold the elimination of all forms of forced and compulsory labour.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "http://unglobalcompact.org/what-is-gc/participants/125051-Shaw-Industries-Group-Inc-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 149,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/4493",
+        "rating": "Silver Level (Version 3.1)"
+      },
+      {
+        "id": 150,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/7519",
+        "rating": "undefined"
+      },
+      {
+        "id": 151,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/16072",
+        "rating": "undefined"
+      },
+      {
+        "id": 152,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/6439",
+        "rating": "undefined"
+      },
+      {
+        "id": 153,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "qmsview.shawinc.com/viewer/doc/6488",
+        "rating": "Low VOC"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://qmsview.shawinc.com/viewer/doc/6501",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 99,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "component": "Manufacturing location",
+        "component_percentage": 50.0
+      },
+      {
+        "id": 100,
+        "location_name": "Cartersville, GA, USA",
+        "location_lat": 34.165097,
+        "location_lon": -84.799938,
+        "component": "Manufacturing location",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 124,
+        "location_name": "Cartersville, GA, USA",
+        "location_lat": 34.165097,
+        "location_lon": -84.799938,
+        "material": "See EPD or Declare Label",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 125,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "See EPD or Declare Label",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 104,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 105,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 106,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 107,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 108,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 109,
+        "location_name": "Newcastle NSW, Australia",
+        "location_lat": -32.928271,
+        "location_lon": 151.78168,
+        "location_state": " Australia",
+        "location_city": "Newcastle NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "re[TURN] shipments must adhere to the re[TURN] Reclamation Staging Guidelines (i.e. dry and free of non-carpet debris)\r\n\r\nhttps://shawfloors.widen.net/view/pdf/w5tzjtvbi1/6.7.23-Updates_reTURN-Reclamation-Staging-Guidelines_soft_surface_v5.pdf?t.download=true&u=pg9hyw",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 18.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "http://qmsview.shawinc.com/viewer/doc/16072",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 90,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "www.shawcontract.com/en-au/technicalpage/test-results",
+        "rating": null
+      },
+      {
+        "id": 91,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "www.shawcontract.com/en-au/technicalpage/test-results",
+        "rating": null
+      },
+      {
+        "id": 92,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "www.shawcontract.com/en-au/technicalpage/test-results",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "StrataWorx is packaged in cardboard cartons which can be readily recycled across all jurisdictions.",
+    "files": []
+  },
+  {
+    "id": 231,
+    "company": {
+      "id": 34,
+      "name": "SHAW CONTRACT"
+    },
+    "image": "products/SHAW CONTRACT/4107V_07220_FEATURE1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-06-24T06:43:46.120710+00:00",
+    "last_update": "2025-10-27T13:00:00+00:00",
+    "created_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "updated_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Shaw Contract",
+    "product_name": "Abide Lvt",
+    "product_code": "4107V",
+    "product_description": "Specific LVT Products: Abide, Emerge, Intricate, Kind, Terrace, Crete & Jeogori",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "18 cm w x 120 cm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "0",
+    "lead_time": "Abide- In Stock Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 417,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/33196",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 418,
+        "certification": "GreenTag – Health Rate",
+        "file": null,
+        "link": "https://www.globalgreentag.com/getfile/13111/phd.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 419,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/30531",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 420,
+        "certification": "Other",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/20675",
+        "rating": "Total Volatile Organic Compounds (TVOC): Less than 0.5 mg/m3",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 421,
+        "certification": "Other",
+        "file": null,
+        "link": "https://www.globalgreentag.com/getfile/13111/beppvc.pdf",
+        "rating": "Certified",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 4.63,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 6.05,
+    "upfront_carbon_emissions": 6.05,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Shaw Contract are one of the leading suppliers of resilient floorcoverings in our local market that have committed to provide funding support for ResiLoop, Australia’s first national stewardship scheme for resilient flooring.\r\nhttps://www.shawcontract.com/en-AU/Sustainability/ResiLoop",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Our design services team can provide CAD drawings, estimates and product set-out drawings to help the order and waste-minimisation process through accurate quantity selection.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes – Enterprise-wide modern slavery declaration. We are signatories of the UN Global Compact. Principle Four “Labour” states that signatories should uphold the elimination of all forms of forced and compulsory labour.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://unglobalcompact.org/what-is-gc/participants/125051-Shaw-Industries-Group-Inc-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 417,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/33196",
+        "rating": "undefined"
+      },
+      {
+        "id": 418,
+        "certification": "GreenTag – Health Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.globalgreentag.com/getfile/13111/phd.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 419,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/30531",
+        "rating": "undefined"
+      },
+      {
+        "id": 420,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/20675",
+        "rating": "Total Volatile Organic Compounds (TVOC): Less than 0.5 mg/m3"
+      },
+      {
+        "id": 421,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.globalgreentag.com/getfile/13111/beppvc.pdf",
+        "rating": "Certified"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "PVC",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://pdmsview.shawinc.com/viewer/document/doc/20675",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 256,
+        "location_name": "Seoul, South Korea",
+        "location_lat": 37.551891,
+        "location_lon": 126.991794,
+        "component": "Manufacturing location",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 339,
+        "location_name": "Seoul, South Korea",
+        "location_lat": 37.551891,
+        "location_lon": 126.991794,
+        "material": "Plasticiser",
+        "product_percentage": 7.2
+      },
+      {
+        "id": 337,
+        "location_name": "Seoul, South Korea",
+        "location_lat": 37.551891,
+        "location_lon": 126.991794,
+        "material": "Limestone",
+        "product_percentage": 74.0
+      },
+      {
+        "id": 338,
+        "location_name": "Seoul, South Korea",
+        "location_lat": 37.551891,
+        "location_lon": 126.991794,
+        "material": "PVC",
+        "product_percentage": 17.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 330,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 331,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 332,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 333,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 334,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 335,
+        "location_name": "Newcastle NSW, Australia",
+        "location_lat": -32.928271,
+        "location_lon": 151.78168,
+        "location_state": " Australia",
+        "location_city": "Newcastle NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 19.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://pdmsview.shawinc.com/viewer/document/doc/33196",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 268,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/l8hg5g2nrh/2.5mm-lvt-with-exoguard-direct-stick-with-lokworx-resilient-adhesive",
+        "rating": "undefined"
+      },
+      {
+        "id": 269,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/klrhxn5twl/p3-slip-test-abide-4107v-lvt-15729-1-wet-pendulum-1",
+        "rating": "P3 (42 SRV)"
+      },
+      {
+        "id": 270,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "https://www.shawcontract.com/en-au/technicalpage/test-results",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Packaged in cardboard cartons which can be readily recycled across all jurisdictions.",
+    "files": []
+  },
+  {
+    "id": 1357,
+    "company": {
+      "id": 34,
+      "name": "SHAW CONTRACT"
+    },
+    "image": "products/SHAW CONTRACT/4499V_00730_DETAIL3.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-13T06:47:15.616882+00:00",
+    "last_update": "2025-08-25T14:00:00+00:00",
+    "created_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "updated_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Shaw Contract",
+    "product_name": "Pivot Pvc-Free Ecoworx Resilient",
+    "product_code": "4499V",
+    "product_description": "EcoWorx Resilient is fully recyclable - optimised for low embodied carbon and carbon neutral",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "21 cm x 129 cm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5094,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38424",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5095,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/40602?",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5096,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38330",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5097,
+        "certification": "Other",
+        "file": null,
+        "link": "https://greenhealthapproved.org/shaw-resilient-flooring",
+        "rating": "Approved",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5098,
+        "certification": "GREENGUARD",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38320",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": -0.03,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 2990.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 5.2,
+    "upfront_carbon_emissions": 5.2,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "25% (Pre-Consumer 0% | Post-Consumer 25%) + fully recyclable",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "https://www.shawcontract.com/en-au/sustainability/re-turn",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "Yes",
+    "minimisation_design_strategy": "Our design services team can provide CAD drawings, estimates and product set-out drawings to help the order and waste-minimisation process through accurate quantity selection.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes – Enterprise-wide modern slavery declaration. We are signatories of the UN Global Compact. Principle Four “Labour” states that signatories should uphold the elimination of all forms of forced and compulsory labour.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://unglobalcompact.org/what-is-gc/participants/125051-Shaw-Industries-Group-Inc-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5094,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38424",
+        "rating": "undefined"
+      },
+      {
+        "id": 5095,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/40602?",
+        "rating": "undefined"
+      },
+      {
+        "id": 5096,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38330",
+        "rating": "undefined"
+      },
+      {
+        "id": 5097,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://greenhealthapproved.org/shaw-resilient-flooring",
+        "rating": "Approved"
+      },
+      {
+        "id": 5098,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38320",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://pdmsview.shawinc.com/viewer/document/doc/38320",
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2570,
+        "location_name": "Kaisersesch, Germany",
+        "location_lat": 50.231502,
+        "location_lon": 7.13692,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3131,
+        "location_name": "Kaisersesch, Germany",
+        "location_lat": 50.231502,
+        "location_lon": 7.13692,
+        "material": "TALC",
+        "product_percentage": 55.0
+      },
+      {
+        "id": 3133,
+        "location_name": "Kaisersesch, Germany",
+        "location_lat": 50.231502,
+        "location_lon": 7.13692,
+        "material": "POLYETHYLENE",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 3134,
+        "location_name": "Kaisersesch, Germany",
+        "location_lat": 50.231502,
+        "location_lon": 7.13692,
+        "material": "PROPENE, POLYMER WITH ETHENE",
+        "product_percentage": 40.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2108,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2109,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 2110,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2111,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 2112,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 2113,
+        "location_name": "Newcastle NSW, Australia",
+        "location_lat": -32.928271,
+        "location_lon": 151.78168,
+        "location_state": " Australia",
+        "location_city": "Newcastle NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "https://shawfloors.widen.net/view/pdf/abcot0d7pu/6.7.23-Updates_reTURN-Reclamation-Staging-Guidelines_Shaw-Resilient-v5.pdf?t.download=true&u=pg9hyw",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://pdmsview.shawinc.com/viewer/document/doc/40602",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Born from EcoWorx® carpet tile backing, an idea we first launched 25 years ago, the Art + Science collection is Shaw Contract's first PVC-free, fully recyclable EcoWorx™ Resilient. As sustainable as it is beautiful and designed for performance in all commercial spaces.​ Art + Science – a cycle completing itself.​​\r\n\r\nThis product is currently in process for Cradle to Cradle certification",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2751,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/wxcmmbx5qr/pivot-4499v-lvt-direct-stick-with-shaw-4200",
+        "rating": "undefined"
+      },
+      {
+        "id": 2752,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/spec-viewer/?key=JSUoKEc%2BRyUlKCg%3D&region=EN-AU",
+        "rating": "undefined"
+      },
+      {
+        "id": 2753,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/k6hlrnvqfr/pivot-p-rating",
+        "rating": "P4 (SRV 51)"
+      }
+    ],
+    "type_of_packaging": "Packaged in cardboard cartons which can be readily recycled across all jurisdictions.",
+    "files": [
+      {
+        "id": 3812,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SHAW%20CONTRACT/Pivot%20Pvc-Free%20Ecoworx%20Resilient/RecycledContent/Specification_Pivot_-_4499V__pdf_generated_on_8_26_2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1539,
+    "company": {
+      "id": 34,
+      "name": "SHAW CONTRACT"
+    },
+    "image": "products/SHAW CONTRACT/4566V_00520_FEATURE1.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-10-28T00:39:00.989464+00:00",
+    "last_update": "2025-10-27T13:00:00+00:00",
+    "created_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "updated_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Shaw Contract",
+    "product_name": "Observe Pvc-Free Ecoworx Resilient",
+    "product_code": "4566V",
+    "product_description": "EcoWorx Resilient is fully recyclable - optimised for low embodied carbon and carbon neutral",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "21 cm x 129 cm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Indent",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5894,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38424",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5895,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/40602?",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5896,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38330",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5897,
+        "certification": "Other",
+        "file": null,
+        "link": "https://greenhealthapproved.org/shaw-resilient-flooring",
+        "rating": "Approved",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5898,
+        "certification": "GREENGUARD",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38320",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": -0.03,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 2990.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 5.2,
+    "upfront_carbon_emissions": 5.2,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "25% (Pre-Consumer 0% | Post-Consumer 25%) + fully recyclable",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "https://www.shawcontract.com/en-au/sustainability/re-turn",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "Yes",
+    "minimisation_design_strategy": "Our design services team can provide CAD drawings, estimates and product set-out drawings to help the order and waste-minimisation process through accurate quantity selection.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes – Enterprise-wide modern slavery declaration. We are signatories of the UN Global Compact. Principle Four “Labour” states that signatories should uphold the elimination of all forms of forced and compulsory labour.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://unglobalcompact.org/what-is-gc/participants/125051-Shaw-Industries-Group-Inc-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5894,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38424",
+        "rating": "undefined"
+      },
+      {
+        "id": 5895,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/40602?",
+        "rating": "undefined"
+      },
+      {
+        "id": 5896,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38330",
+        "rating": "undefined"
+      },
+      {
+        "id": 5897,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://greenhealthapproved.org/shaw-resilient-flooring",
+        "rating": "Approved"
+      },
+      {
+        "id": 5898,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38320",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://pdmsview.shawinc.com/viewer/document/doc/38320",
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3043,
+        "location_name": "Kaisersesch, Germany",
+        "location_lat": 50.231502,
+        "location_lon": 7.13692,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3588,
+        "location_name": "Kaisersesch, Germany",
+        "location_lat": 50.231502,
+        "location_lon": 7.13692,
+        "material": "TALC",
+        "product_percentage": 55.0
+      },
+      {
+        "id": 3589,
+        "location_name": "Kaisersesch, Germany",
+        "location_lat": 50.231502,
+        "location_lon": 7.13692,
+        "material": "POLYETHYLENE",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 3590,
+        "location_name": "Kaisersesch, Germany",
+        "location_lat": 50.231502,
+        "location_lon": 7.13692,
+        "material": "PROPENE, POLYMER WITH ETHENE",
+        "product_percentage": 40.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2398,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2399,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 2400,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2401,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 2402,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 2403,
+        "location_name": "Newcastle NSW, Australia",
+        "location_lat": -32.928271,
+        "location_lon": 151.78168,
+        "location_state": " Australia",
+        "location_city": "Newcastle NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "https://shawfloors.widen.net/view/pdf/abcot0d7pu/6.7.23-Updates_reTURN-Reclamation-Staging-Guidelines_Shaw-Resilient-v5.pdf?t.download=true&u=pg9hyw",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 13.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://pdmsview.shawinc.com/viewer/document/doc/40602",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Born from EcoWorx® carpet tile backing, an idea we first launched 25 years ago, the Art + Science collection is Shaw Contract's first PVC-free, fully recyclable EcoWorx™ Resilient. As sustainable as it is beautiful and designed for performance in all commercial spaces.​ Art + Science – a cycle completing itself.​​\r\n\r\nThis product is currently in process for Cradle to Cradle certification",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3141,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/wxcmmbx5qr/pivot-4499v-lvt-direct-stick-with-shaw-4200",
+        "rating": "undefined"
+      },
+      {
+        "id": 3144,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/vmrctwfcmg/observe-lvt-4566v-p-rating",
+        "rating": "P3 (SRV 42)"
+      },
+      {
+        "id": 3145,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/spec-viewer/?key=JSQnJ0c%2BRyUkJyc%3D&region=EN-AU",
+        "rating": "undefined"
+      },
+      {
+        "id": 3146,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/spec-viewer/?key=JSQnJ0c%2bRyUkJyc%3d&region=EN-AU",
+        "rating": "P3 (SRV 42)"
+      }
+    ],
+    "type_of_packaging": "Packaged in cardboard cartons which can be readily recycled across all jurisdictions.",
+    "files": [
+      {
+        "id": 4532,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SHAW%20CONTRACT/Pivot%20Pvc-Free%20Ecoworx%20Resilient/RecycledContent/Specification_Pivot_-_4499V__pdf_generated_on_8_26_2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1540,
+    "company": {
+      "id": 34,
+      "name": "SHAW CONTRACT"
+    },
+    "image": "products/SHAW CONTRACT/4581V_00518_DETAIL1_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-10-28T00:46:48.527036+00:00",
+    "last_update": "2025-10-27T13:00:00+00:00",
+    "created_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "updated_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Shaw Contract",
+    "product_name": "Experiment Ecoworx Resilient",
+    "product_code": "4581V",
+    "product_description": "EcoWorx Resilient is fully recyclable - optimised for low embodied carbon and carbon neutral",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "40 cm x 78 cm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5899,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38424",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5900,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/40602?",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5901,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38330",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5902,
+        "certification": "Other",
+        "file": null,
+        "link": "https://greenhealthapproved.org/shaw-resilient-flooring",
+        "rating": "Approved",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5903,
+        "certification": "GREENGUARD",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38320",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": -0.03,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 2990.0,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 5.2,
+    "upfront_carbon_emissions": 5.2,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "25% (Pre-Consumer 0% | Post-Consumer 25%) + fully recyclable",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "https://www.shawcontract.com/en-au/sustainability/re-turn",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "Yes",
+    "minimisation_design_strategy": "Our design services team can provide CAD drawings, estimates and product set-out drawings to help the order and waste-minimisation process through accurate quantity selection.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes – Enterprise-wide modern slavery declaration. We are signatories of the UN Global Compact. Principle Four “Labour” states that signatories should uphold the elimination of all forms of forced and compulsory labour.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://unglobalcompact.org/what-is-gc/participants/125051-Shaw-Industries-Group-Inc-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5899,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38424",
+        "rating": "undefined"
+      },
+      {
+        "id": 5900,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/40602?",
+        "rating": "undefined"
+      },
+      {
+        "id": 5901,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38330",
+        "rating": "undefined"
+      },
+      {
+        "id": 5902,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://greenhealthapproved.org/shaw-resilient-flooring",
+        "rating": "Approved"
+      },
+      {
+        "id": 5903,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/38320",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://pdmsview.shawinc.com/viewer/document/doc/38320",
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3044,
+        "location_name": "Kaisersesch, Germany",
+        "location_lat": 50.231502,
+        "location_lon": 7.13692,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3591,
+        "location_name": "Kaisersesch, Germany",
+        "location_lat": 50.231502,
+        "location_lon": 7.13692,
+        "material": "TALC",
+        "product_percentage": 55.0
+      },
+      {
+        "id": 3592,
+        "location_name": "Kaisersesch, Germany",
+        "location_lat": 50.231502,
+        "location_lon": 7.13692,
+        "material": "POLYETHYLENE",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 3593,
+        "location_name": "Kaisersesch, Germany",
+        "location_lat": 50.231502,
+        "location_lon": 7.13692,
+        "material": "PROPENE, POLYMER WITH ETHENE",
+        "product_percentage": 40.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2404,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2405,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 2406,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2407,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 2408,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 2409,
+        "location_name": "Newcastle NSW, Australia",
+        "location_lat": -32.928271,
+        "location_lon": 151.78168,
+        "location_state": " Australia",
+        "location_city": "Newcastle NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "https://shawfloors.widen.net/view/pdf/abcot0d7pu/6.7.23-Updates_reTURN-Reclamation-Staging-Guidelines_Shaw-Resilient-v5.pdf?t.download=true&u=pg9hyw",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://pdmsview.shawinc.com/viewer/document/doc/40602",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Born from EcoWorx® carpet tile backing, an idea we first launched 25 years ago, the Art + Science collection is Shaw Contract's first PVC-free, fully recyclable EcoWorx™ Resilient. As sustainable as it is beautiful and designed for performance in all commercial spaces.​ Art + Science – a cycle completing itself.​​\r\n\r\nThis product is currently in process for Cradle to Cradle certification",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3147,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/wxcmmbx5qr/pivot-4499v-lvt-direct-stick-with-shaw-4200",
+        "rating": "undefined"
+      },
+      {
+        "id": 3150,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/bnczv2mct6/experiment-lvt-4581v-p-rating",
+        "rating": "P3 (SRV 44)"
+      },
+      {
+        "id": 3151,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/spec-viewer/?key=JSQpIEc%2BRyUkKSA%3D&region=EN-AU",
+        "rating": "undefined"
+      },
+      {
+        "id": 3152,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/xvd6zk5ccw/experiment-4581v-lvt-direct-stick-with-shaw-4200",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Packaged in cardboard cartons which can be readily recycled across all jurisdictions.",
+    "files": [
+      {
+        "id": 4533,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SHAW%20CONTRACT/Pivot%20Pvc-Free%20Ecoworx%20Resilient/RecycledContent/Specification_Pivot_-_4499V__pdf_generated_on_8_26_2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1542,
+    "company": {
+      "id": 34,
+      "name": "SHAW CONTRACT"
+    },
+    "image": "products/SHAW CONTRACT/4377V_77120_FEATURE1_7.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-10-28T01:02:00.202506+00:00",
+    "last_update": "2025-11-13T13:00:00+00:00",
+    "created_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "updated_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Shaw Contract",
+    "product_name": "Nordic 5.0 Lvt",
+    "product_code": "4377V",
+    "product_description": "A stunning array of wood visuals that are reminiscent of the tranquil allure of the Nordic landscape",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "18 cm x 122 cm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5904,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5905,
+        "certification": "GreenTag – Health Rate",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41904",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5906,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/36230",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5907,
+        "certification": "Other",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+        "rating": "Total Volatile Organic Compounds (TVOC): Less than 0.5 mg/m3",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 5.15,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 13.3,
+    "upfront_carbon_emissions": 13.3,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "ResiLoop is a not-for-profit product stewardship scheme that is funded by leading suppliers of the resilient flooring industry, including Shaw Contract. TThrough Resiloop, we enable a circular future for floorcoverings in Australia. ResiLoop's scheme is authorised by the Australian Competition and Consumer Commission",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Shaw Contract are one of the leading suppliers of resilient floorcoverings in our local market that have committed to provide funding support for ResiLoop, Australia’s first national stewardship scheme for resilient flooring.",
+    "water_reduction_techniques": "In 2024 we used 52% less water per pound of finished product compared to 2010.",
+    "transport_emissions_minimisation_techniques": "Reducing the carbon footprint of our products and operations requires a deep understanding of our entire value chain. In 2023, Shaw began delving further into that value chain by more systematically collecting data that would allow us to measure, report and set goals to reduce our Scope 3 emissions using science-based targets. Scope 3 emissions include those from the production of purchased materials, business travel, employee commuting, transportation and distribution, waste disposal, recycling of materials and products,",
+    "minimisation_design_strategy": "Our design services team can provide CAD drawings, estimates and product set-out drawings to help the order and waste-minimisation process through accurate quantity selection.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes – Enterprise-wide modern slavery declaration. We are signatories of the UN Global Compact. Principle Four “Labour” states that signatories should uphold the elimination of all forms of forced and compulsory labour.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://unglobalcompact.org/what-is-gc/participants/125051-Shaw-Industries-Group-Inc-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5904,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+        "rating": "undefined"
+      },
+      {
+        "id": 5905,
+        "certification": "GreenTag – Health Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41904",
+        "rating": "undefined"
+      },
+      {
+        "id": 5906,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/36230",
+        "rating": "undefined"
+      },
+      {
+        "id": 5907,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+        "rating": "Total Volatile Organic Compounds (TVOC): Less than 0.5 mg/m3"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "PVC",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3045,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "component": "Manufacturing location",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3594,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "Calcium Carbonate",
+        "product_percentage": 62.0
+      },
+      {
+        "id": 3595,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "Polyvinyl Chloride",
+        "product_percentage": 17.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2416,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2417,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 2418,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2419,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 2420,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 2421,
+        "location_name": "Newcastle NSW, Australia",
+        "location_lat": -32.928271,
+        "location_lon": 151.78168,
+        "location_state": " Australia",
+        "location_city": "Newcastle NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 15.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3153,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/njg7bfpqdr/nordic-5.0mm-lvt-4377v-p-rating",
+        "rating": "P4 (SRV 46)"
+      },
+      {
+        "id": 3154,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/pscbmdclzr/nordic-5mm-lvt-direct-stick-with-lokworx-resilient-adhesive",
+        "rating": "undefined"
+      },
+      {
+        "id": 3155,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/spec-viewer/?key=JSImJkc%2BRyUiJiY%3D&region=EN-AU",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Packaged in cardboard cartons which can be readily recycled across all jurisdictions.",
+    "files": []
+  },
+  {
+    "id": 1543,
+    "company": {
+      "id": 34,
+      "name": "SHAW CONTRACT"
+    },
+    "image": "products/SHAW CONTRACT/4530V_56703_DETAIL1_2_GPZ57k1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-10-28T01:28:55.981589+00:00",
+    "last_update": "2025-11-13T13:00:00+00:00",
+    "created_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "updated_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Shaw Contract",
+    "product_name": "Serene 5.0 Lvt",
+    "product_code": "4530V",
+    "product_description": "Serene enhances design by modernising authentic wood visuals with subtle, low-gloss finishes",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "18 cm x 122 cm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5911,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5912,
+        "certification": "GreenTag – Health Rate",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41904",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5913,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/36230",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5915,
+        "certification": "Other",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+        "rating": "Total Volatile Organic Compounds (TVOC): Less than 0.5 mg/m3",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 5.15,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 13.3,
+    "upfront_carbon_emissions": 13.3,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "ResiLoop is a not-for-profit product stewardship scheme that is funded by leading suppliers of the resilient flooring industry, including Shaw Contract. TThrough Resiloop, we enable a circular future for floorcoverings in Australia. ResiLoop's scheme is authorised by the Australian Competition and Consumer Commission",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Shaw Contract are one of the leading suppliers of resilient floorcoverings in our local market that have committed to provide funding support for ResiLoop, Australia’s first national stewardship scheme for resilient flooring.",
+    "water_reduction_techniques": "In 2024 we used 52% less water per pound of finished product compared to 2010.",
+    "transport_emissions_minimisation_techniques": "Reducing the carbon footprint of our products and operations requires a deep understanding of our entire value chain. In 2023, Shaw began delving further into that value chain by more systematically collecting data that would allow us to measure, report and set goals to reduce our Scope 3 emissions using science-based targets. Scope 3 emissions include those from the production of purchased materials, business travel, employee commuting, transportation and distribution, waste disposal, recycling of materials and products,",
+    "minimisation_design_strategy": "Our design services team can provide CAD drawings, estimates and product set-out drawings to help the order and waste-minimisation process through accurate quantity selection.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes – Enterprise-wide modern slavery declaration. We are signatories of the UN Global Compact. Principle Four “Labour” states that signatories should uphold the elimination of all forms of forced and compulsory labour.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://unglobalcompact.org/what-is-gc/participants/125051-Shaw-Industries-Group-Inc-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5911,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+        "rating": "undefined"
+      },
+      {
+        "id": 5912,
+        "certification": "GreenTag – Health Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41904",
+        "rating": "undefined"
+      },
+      {
+        "id": 5913,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/36230",
+        "rating": "undefined"
+      },
+      {
+        "id": 5915,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+        "rating": "Total Volatile Organic Compounds (TVOC): Less than 0.5 mg/m3"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "PVC",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3046,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "component": "Manufacturing location",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3596,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "Calcium Carbonate",
+        "product_percentage": 62.0
+      },
+      {
+        "id": 3597,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "Polyvinyl Chloride",
+        "product_percentage": 17.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2422,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2423,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 2424,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2425,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 2426,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 2427,
+        "location_name": "Newcastle NSW, Australia",
+        "location_lat": -32.928271,
+        "location_lon": 151.78168,
+        "location_state": " Australia",
+        "location_city": "Newcastle NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 15.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3159,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/7x96nsds5h/serene-5.0mm-lvt-4530v-p-rating",
+        "rating": "P4 (53 SRV)"
+      },
+      {
+        "id": 3160,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/7x96nsds5h/serene-5.0mm-lvt-4530v-p-rating",
+        "rating": "P4 (53 SRV)"
+      },
+      {
+        "id": 3161,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/gt8b8n8xbk/serene-5.0mm-lvt-direct-stick-with-shaw-4200",
+        "rating": "undefined"
+      },
+      {
+        "id": 3162,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/spec-viewer/?key=JSQiIUc%2BRyUkIiE%3D&region=EN-AU",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Packaged in cardboard cartons which can be readily recycled across all jurisdictions.",
+    "files": []
+  },
+  {
+    "id": 1561,
+    "company": {
+      "id": 34,
+      "name": "SHAW CONTRACT"
+    },
+    "image": "products/SHAW CONTRACT/4377V_77120_FEATURE1_7.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-13T23:25:33.494905+00:00",
+    "last_update": "2025-11-13T13:00:00+00:00",
+    "created_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "updated_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Shaw Contract",
+    "product_name": "Nordic 2.5 Lvt",
+    "product_code": "4446V",
+    "product_description": "A stunning array of wood visuals that are reminiscent of the tranquil allure of the Nordic landscap",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "18 cm x 122 cm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5972,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5973,
+        "certification": "GreenTag – Health Rate",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41904",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5974,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/36230",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5975,
+        "certification": "Other",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+        "rating": "Total Volatile Organic Compounds (TVOC): Less than 0.5 mg/m3",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 5.15,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 13.3,
+    "upfront_carbon_emissions": 13.3,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "ResiLoop is a not-for-profit product stewardship scheme that is funded by leading suppliers of the resilient flooring industry, including Shaw Contract. TThrough Resiloop, we enable a circular future for floorcoverings in Australia. ResiLoop's scheme is authorised by the Australian Competition and Consumer Commission",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Shaw Contract are one of the leading suppliers of resilient floorcoverings in our local market that have committed to provide funding support for ResiLoop, Australia’s first national stewardship scheme for resilient flooring.",
+    "water_reduction_techniques": "In 2024 we used 52% less water per pound of finished product compared to 2010.",
+    "transport_emissions_minimisation_techniques": "Reducing the carbon footprint of our products and operations requires a deep understanding of our entire value chain. In 2023, Shaw began delving further into that value chain by more systematically collecting data that would allow us to measure, report and set goals to reduce our Scope 3 emissions using science-based targets. Scope 3 emissions include those from the production of purchased materials, business travel, employee commuting, transportation and distribution, waste disposal, recycling of materials and products,",
+    "minimisation_design_strategy": "Our design services team can provide CAD drawings, estimates and product set-out drawings to help the order and waste-minimisation process through accurate quantity selection.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes – Enterprise-wide modern slavery declaration. We are signatories of the UN Global Compact. Principle Four “Labour” states that signatories should uphold the elimination of all forms of forced and compulsory labour.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://unglobalcompact.org/what-is-gc/participants/125051-Shaw-Industries-Group-Inc-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5972,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+        "rating": "undefined"
+      },
+      {
+        "id": 5973,
+        "certification": "GreenTag – Health Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41904",
+        "rating": "undefined"
+      },
+      {
+        "id": 5974,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/36230",
+        "rating": "undefined"
+      },
+      {
+        "id": 5975,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+        "rating": "Total Volatile Organic Compounds (TVOC): Less than 0.5 mg/m3"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "PVC",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3075,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "component": "Manufacturing location",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3625,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "Calcium Carbonate",
+        "product_percentage": 62.0
+      },
+      {
+        "id": 3626,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "Polyvinyl Chloride",
+        "product_percentage": 17.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2446,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2447,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 2448,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2449,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 2450,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 2451,
+        "location_name": "Newcastle NSW, Australia",
+        "location_lat": -32.928271,
+        "location_lon": 151.78168,
+        "location_state": " Australia",
+        "location_city": "Newcastle NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 15.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3199,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/njg7bfpqdr/nordic-5.0mm-lvt-4377v-p-rating",
+        "rating": "P4 (SRV 46)"
+      },
+      {
+        "id": 3200,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/pscbmdclzr/nordic-5mm-lvt-direct-stick-with-lokworx-resilient-adhesive",
+        "rating": "undefined"
+      },
+      {
+        "id": 3202,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/spec-viewer/?key=JSUlJ0c%2BRyUlJSc%3D&region=EN-AU",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Packaged in cardboard cartons which can be readily recycled across all jurisdictions.",
+    "files": []
+  },
+  {
+    "id": 1562,
+    "company": {
+      "id": 34,
+      "name": "SHAW CONTRACT"
+    },
+    "image": "products/SHAW CONTRACT/4387V_85504_DETAIL3_2_XP77lBd.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-13T23:43:11.657594+00:00",
+    "last_update": "2025-11-13T13:00:00+00:00",
+    "created_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "updated_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Shaw Contract",
+    "product_name": "Flow 2.5",
+    "product_code": "4385V",
+    "product_description": "Layered construction engineered for durability in high-demand environments with concrete visuals.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "46 x 46cm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5976,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5977,
+        "certification": "GreenTag – Health Rate",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41904",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5978,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/36230",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5979,
+        "certification": "Other",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+        "rating": "Total Volatile Organic Compounds (TVOC): Less than 0.5 mg/m3",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 5.15,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 13.3,
+    "upfront_carbon_emissions": 13.3,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "ResiLoop is a not-for-profit product stewardship scheme that is funded by leading suppliers of the resilient flooring industry, including Shaw Contract. TThrough Resiloop, we enable a circular future for floorcoverings in Australia. ResiLoop's scheme is authorised by the Australian Competition and Consumer Commission",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Shaw Contract are one of the leading suppliers of resilient floorcoverings in our local market that have committed to provide funding support for ResiLoop, Australia’s first national stewardship scheme for resilient flooring.",
+    "water_reduction_techniques": "In 2024 we used 52% less water per pound of finished product compared to 2010.",
+    "transport_emissions_minimisation_techniques": "Reducing the carbon footprint of our products and operations requires a deep understanding of our entire value chain. In 2023, Shaw began delving further into that value chain by more systematically collecting data that would allow us to measure, report and set goals to reduce our Scope 3 emissions using science-based targets. Scope 3 emissions include those from the production of purchased materials, business travel, employee commuting, transportation and distribution, waste disposal, recycling of materials and products,",
+    "minimisation_design_strategy": "Our design services team can provide CAD drawings, estimates and product set-out drawings to help the order and waste-minimisation process through accurate quantity selection.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes – Enterprise-wide modern slavery declaration. We are signatories of the UN Global Compact. Principle Four “Labour” states that signatories should uphold the elimination of all forms of forced and compulsory labour.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://unglobalcompact.org/what-is-gc/participants/125051-Shaw-Industries-Group-Inc-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5976,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+        "rating": "undefined"
+      },
+      {
+        "id": 5977,
+        "certification": "GreenTag – Health Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41904",
+        "rating": "undefined"
+      },
+      {
+        "id": 5978,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/36230",
+        "rating": "undefined"
+      },
+      {
+        "id": 5979,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+        "rating": "Total Volatile Organic Compounds (TVOC): Less than 0.5 mg/m3"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "PVC",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3076,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "component": "Manufacturing location",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3627,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "Calcium Carbonate",
+        "product_percentage": 62.0
+      },
+      {
+        "id": 3628,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "Polyvinyl Chloride",
+        "product_percentage": 17.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2452,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2453,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 2454,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2455,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 2456,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 2457,
+        "location_name": "Newcastle NSW, Australia",
+        "location_lat": -32.928271,
+        "location_lon": 151.78168,
+        "location_state": " Australia",
+        "location_city": "Newcastle NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 15.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3204,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/pscbmdclzr/nordic-5mm-lvt-direct-stick-with-lokworx-resilient-adhesive",
+        "rating": "undefined"
+      },
+      {
+        "id": 3206,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/spec-viewer/?key=JSIpJEc%2BRyUiKSQ%3D&region=EN-AU",
+        "rating": "undefined"
+      },
+      {
+        "id": 3207,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/6tnmjkvvkw/flow-lvt-p-rating",
+        "rating": "P3"
+      }
+    ],
+    "type_of_packaging": "Packaged in cardboard cartons which can be readily recycled across all jurisdictions.",
+    "files": []
+  },
+  {
+    "id": 1563,
+    "company": {
+      "id": 34,
+      "name": "SHAW CONTRACT"
+    },
+    "image": "products/SHAW CONTRACT/4387V_85504_DETAIL3_2_XP77lBd.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-14T00:01:28.737540+00:00",
+    "last_update": "2025-11-13T13:00:00+00:00",
+    "created_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "updated_by": {
+      "id": 177,
+      "email": "claire.touzel@shawcontract.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Shaw Contract",
+    "product_name": "Flow 5.0 Lvt",
+    "product_code": "4387V",
+    "product_description": "Layered construction engineered for durability in high-demand environments with concrete visuals.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "46 x 46cm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In Stock Australia",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5980,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5981,
+        "certification": "GreenTag – Health Rate",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41904",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5982,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/36230",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5983,
+        "certification": "Other",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+        "rating": "Total Volatile Organic Compounds (TVOC): Less than 0.5 mg/m3",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 5.15,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 13.3,
+    "upfront_carbon_emissions": 13.3,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "ResiLoop is a not-for-profit product stewardship scheme that is funded by leading suppliers of the resilient flooring industry, including Shaw Contract. TThrough Resiloop, we enable a circular future for floorcoverings in Australia. ResiLoop's scheme is authorised by the Australian Competition and Consumer Commission",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Shaw Contract are one of the leading suppliers of resilient floorcoverings in our local market that have committed to provide funding support for ResiLoop, Australia’s first national stewardship scheme for resilient flooring.",
+    "water_reduction_techniques": "In 2024 we used 52% less water per pound of finished product compared to 2010.",
+    "transport_emissions_minimisation_techniques": "Reducing the carbon footprint of our products and operations requires a deep understanding of our entire value chain. In 2023, Shaw began delving further into that value chain by more systematically collecting data that would allow us to measure, report and set goals to reduce our Scope 3 emissions using science-based targets. Scope 3 emissions include those from the production of purchased materials, business travel, employee commuting, transportation and distribution, waste disposal, recycling of materials and products,",
+    "minimisation_design_strategy": "Our design services team can provide CAD drawings, estimates and product set-out drawings to help the order and waste-minimisation process through accurate quantity selection.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes – Enterprise-wide modern slavery declaration. We are signatories of the UN Global Compact. Principle Four “Labour” states that signatories should uphold the elimination of all forms of forced and compulsory labour.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://unglobalcompact.org/what-is-gc/participants/125051-Shaw-Industries-Group-Inc-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5980,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+        "rating": "undefined"
+      },
+      {
+        "id": 5981,
+        "certification": "GreenTag – Health Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/41904",
+        "rating": "undefined"
+      },
+      {
+        "id": 5982,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/36230",
+        "rating": "undefined"
+      },
+      {
+        "id": 5983,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+        "rating": "Total Volatile Organic Compounds (TVOC): Less than 0.5 mg/m3"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "PVC",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://pdmsview.shawinc.com/viewer/document/doc/31994",
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3077,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "component": "Manufacturing location",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3629,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "Calcium Carbonate",
+        "product_percentage": 62.0
+      },
+      {
+        "id": 3630,
+        "location_name": "Nantong, Jiangsu, China",
+        "location_lat": 31.97958,
+        "location_lon": 120.89371,
+        "material": "Polyvinyl Chloride",
+        "product_percentage": 17.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2458,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2459,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 2460,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2461,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 2462,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 2463,
+        "location_name": "Newcastle NSW, Australia",
+        "location_lat": -32.928271,
+        "location_lon": 151.78168,
+        "location_state": " Australia",
+        "location_city": "Newcastle NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 15.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://pdmsview.shawinc.com/viewer/document/doc/41157",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3208,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/pscbmdclzr/nordic-5mm-lvt-direct-stick-with-lokworx-resilient-adhesive",
+        "rating": "undefined"
+      },
+      {
+        "id": 3210,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://shawfloors.widen.net/s/6tnmjkvvkw/flow-lvt-p-rating",
+        "rating": "P3"
+      },
+      {
+        "id": 3211,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "https://pdmsview.shawinc.com/spec-viewer/?key=JSIpJkc%2BRyUiKSY%3D&region=EN-AU",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Packaged in cardboard cartons which can be readily recycled across all jurisdictions.",
+    "files": []
+  }
+]

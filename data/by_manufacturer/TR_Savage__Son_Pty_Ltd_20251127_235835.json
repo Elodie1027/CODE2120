@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1565,
+    "company": {
+      "id": 224,
+      "name": "SAVAGE DESIGN (TR SAVAGE & SON)"
+    },
+    "image": "",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-18T03:49:44.252286+00:00",
+    "last_update": "2025-11-17T13:00:00+00:00",
+    "created_by": {
+      "id": 3096,
+      "email": "joel@trsavage.com.au"
+    },
+    "updated_by": {
+      "id": 3096,
+      "email": "joel@trsavage.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "TR Savage & Son Pty Ltd",
+    "product_name": "Dave Joinery Handles",
+    "product_code": "3D111-113",
+    "product_description": "Joinery handles made from solid and raw brass or stainless steel",
+    "product_categories": [
+      {
+        "id": 21,
+        "category_name": "Hardware (Door, Window, Joinery)"
+      }
+    ],
+    "standard_dimensions": "150mm, 300mm and 600mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "4 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5992,
+        "certification": "Other",
+        "file": null,
+        "link": "https://www.climateactive.org.au/buy-climate-active/certified-members/savage-design",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "Product comprises of valuable raw materials that can be reprocessed back into the raw material",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "All components are designed for disassembly and to be refurbished",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Savage Design offers a buy back system where we will refurbish where possible or recycle all parts",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "No special considerations",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5992,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.climateactive.org.au/buy-climate-active/certified-members/savage-design",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Brushed raw finish",
+    "manufacturing_locations": [
+      {
+        "id": 3082,
+        "location_name": "Fairfield NSW, Australia",
+        "location_lat": -33.870586,
+        "location_lon": 150.95641,
+        "component": "Handle",
+        "component_percentage": 98.0
+      },
+      {
+        "id": 3083,
+        "location_name": "Rydalmere NSW, Australia",
+        "location_lat": -33.812325,
+        "location_lon": 151.041759,
+        "component": "fastners",
+        "component_percentage": 2.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3636,
+        "location_name": "Yangmei District, Taoyuan City, Taiwan",
+        "location_lat": 24.924211,
+        "location_lon": 121.136672,
+        "material": "Stainless Steel",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 3637,
+        "location_name": "Chuncheon-si, Gangwon-do, South Korea",
+        "location_lat": 37.880506,
+        "location_lon": 127.727761,
+        "material": "Brass",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2481,
+        "location_name": "Fairfield NSW, Australia",
+        "location_lat": -33.870586,
+        "location_lon": 150.95641,
+        "location_state": " Australia",
+        "location_city": "Fairfield NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 33,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Cardboard tubes with polyethylene caps that are recyclable and reusable",
+    "files": []
+  }
+]

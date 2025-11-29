@@ -1,0 +1,269 @@
+[
+  {
+    "id": 1254,
+    "company": {
+      "id": 171,
+      "name": "CULT"
+    },
+    "image": "products/CULT/FH_3107.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-06-02T01:04:13.414596+00:00",
+    "last_update": "2025-07-13T14:00:00+00:00",
+    "created_by": {
+      "id": 1353,
+      "email": "lisa@cultdesign.com.au"
+    },
+    "updated_by": {
+      "id": 1353,
+      "email": "lisa@cultdesign.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Fritz Hansen",
+    "product_name": "Series 7 Chair - Coloured Veneer",
+    "product_code": "3107",
+    "product_description": "Iconic Arne Jacobsen chair in moulded veneer, available in various finishes and upholstery options.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "500w x 520d x 820mmh (SH 460mm)",
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "15 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4507,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CULT/Series%207%20Chair%20-%20Coloured%20Veneer/certificates/GREENGUARD_Gold_Certification_57392-420.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4508,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CULT/Series%207%20Chair%20-%20Coloured%20Veneer/certificates/Certificate_-_Fritz_Hansen_AS-_PBN-PEFC-COC-000006_-_10.2.2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 23.0,
+    "upfront_carbon_emissions": 23.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Yes, steel can be recycled onshore, shells can be refurbished and upholstered through Cultivated",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "7,6% (steel base is 18,41% recycled content)",
+    "recycling_process_description": "Yes, components can be reused and refurbished through Cultivated, steel can be recycled",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "In case of repair and disposal the chairs can be disassembled into two parts (shell and base). The base and all other metal parts can be recycled.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Yes, Cult partner business, Cultivated. Cultivated is committed to a fully circular model that keeps high-quality furniture in use and out of landfill. Through their buy-back for credit program, they acquire pre-owned designer pieces, carefully refurbish them, and reintroduce them into both residential and commercial spaces.\r\nBy working with local craftspeople and manufacturers, they ensure every item is restored with care and built to last, also boosting local trade and economies with these trusted partnerships.",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "Depends on the location, but we have agreement with most forwarders about truck packing and route efficiencies",
+    "minimisation_design_strategy": "Separate packaging to recycle accordingly. Supplied as whole furniture piece without wastage upon install.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4507,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CULT/Series%207%20Chair%20-%20Coloured%20Veneer/certificates/GREENGUARD_Gold_Certification_57392-420.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4508,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CULT/Series%207%20Chair%20-%20Coloured%20Veneer/certificates/Certificate_-_Fritz_Hansen_AS-_PBN-PEFC-COC-000006_-_10.2.2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "Solvent based lacquer and glue may affect nature in production, but all VOC is captured and burned (through a thermal oxidation process) to do no harm.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 20,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Wet applied primer and coloured lacquer finish on veneer",
+    "manufacturing_locations": [
+      {
+        "id": 2382,
+        "location_name": "Rawicz, Poland",
+        "location_lat": 51.60945,
+        "location_lon": 16.85863,
+        "component": "Steel Base",
+        "component_percentage": 41.0
+      },
+      {
+        "id": 2383,
+        "location_name": "Rawicz, Poland",
+        "location_lat": 51.60945,
+        "location_lon": 16.85863,
+        "component": "Plastic ",
+        "component_percentage": 4.0
+      },
+      {
+        "id": 2384,
+        "location_name": "Rawicz, Poland",
+        "location_lat": 51.60945,
+        "location_lon": 16.85863,
+        "component": "Inner veneer Beech",
+        "component_percentage": 51.0
+      },
+      {
+        "id": 2385,
+        "location_name": "Rawicz, Poland",
+        "location_lat": 51.60945,
+        "location_lon": 16.85863,
+        "component": "Outer veneer Ash",
+        "component_percentage": 4.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2909,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Inner veneer Beech",
+        "product_percentage": 51.0
+      },
+      {
+        "id": 2910,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Outer veneer Ash",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 2911,
+        "location_name": "Rawicz, Poland",
+        "location_lat": 51.60945,
+        "location_lon": 16.85863,
+        "material": "Steel base",
+        "product_percentage": 41.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1921,
+        "location_name": "Padstow NSW, Australia",
+        "location_lat": -33.95045,
+        "location_lon": 151.0309,
+        "location_state": " Australia",
+        "location_city": "Padstow NSW"
+      },
+      {
+        "id": 1922,
+        "location_name": "Scoresby VIC, Australia",
+        "location_lat": -37.892539,
+        "location_lon": 145.230375,
+        "location_state": " Australia",
+        "location_city": "Scoresby VIC"
+      },
+      {
+        "id": 1923,
+        "location_name": "Osborne Park WA, Australia",
+        "location_lat": -31.903217,
+        "location_lon": 115.818535,
+        "location_state": " Australia",
+        "location_city": "Osborne Park WA"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Spare parts are available for all chairs, all components can be ordered. Chrome bases use Chrome 3, powdercoat bases also available. Lacquered or veneer chairs can be upholstered for a new life, and to be kept circular.\r\n \r\n\r\nOther testing includes \r\nStrength and durability: EN 16139 (EN 1728)\r\nTest Level 1 General Contract use*\r\nStability: EN 1022:2005\r\n\r\nFritz Hansen works with a number of certified timber suppliers in Europe, with FSC and/or PEFC Certification. Exact city locations vary depending on availability when sourcing raw materials and components. Exact information can be supplied at time of enquiry. For example, component breakdown includes:\r\n\r\nInner veneer Beech, 50,6%, Germany/France (may vary)\r\nOuter veneer Ash, 3,9%  Czech Repiblic/Belgium/France (may vary)\r\nSteel base, 41,5%, Poland\r\nPlastic, 3,7%, Denmark/Poland",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "PE foam and cardboard are used as protection between\r\nstacked chairs. The chairs are covered with a plastic bag and shipped in FSC cardboard. PE foam and soft plastics can be recycled through designated recycling programs in Australia. Visit recyclingnearyou.com.au/polystyrene/ from Planet Ark.",
+    "files": [
+      {
+        "id": 3509,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CULT/Series%207%20Chair%20-%20Coloured%20Veneer/VOC/GREENGUARD_Gold_Certification_57392-420.pdf"
+      },
+      {
+        "id": 3510,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CULT/Series%207%20Chair%20-%20Coloured%20Veneer/LCA/Climate_footprint_-_Series_7_-_3107_-_Clear_lacquer_or_Coloured_ash_-_Powder_coat.pdf"
+      },
+      {
+        "id": 3551,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CULT/Series%207%20Chair%20-%20Coloured%20Veneer/RecycledContent/FH_Product_fact_sheet_Series_7_2025.pdf"
+      },
+      {
+        "id": 3649,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CULT/Series%207%20Chair%20-%20Coloured%20Veneer/ModernSlaveryActionPlan/CULT_MODERN_SLAVERY_STATEMENT.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1518,
+    "company": {
+      "id": 41,
+      "name": "TATE APAC"
+    },
+    "image": "products/TATE APAC/ConCore-1000-0.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-10-13T04:29:17.018851+00:00",
+    "last_update": "2025-10-19T13:00:00+00:00",
+    "created_by": {
+      "id": 203,
+      "email": "paul.cotter@tateapac.com"
+    },
+    "updated_by": {
+      "id": 203,
+      "email": "paul.cotter@tateapac.com"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Tate",
+    "product_name": "Concore 800",
+    "product_code": "ICSF800",
+    "product_description": "Raised Access Floor Panel - all steel welded construction filled internally with a cementitious core",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 28,
+        "category_name": "Other"
+      },
+      {
+        "id": 30,
+        "category_name": "Suspended Floors"
+      }
+    ],
+    "standard_dimensions": "600x600mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "6-8 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5860,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/TATE%20APAC/Concore%20800/certificates/Tate-EPD_-v0.5-1_Concore.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": 34.0,
+    "upfront_carbon_emissions": 34.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Shop drawings enable us to measure where offcuts can be used",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5860,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/TATE%20APAC/Concore%20800/certificates/Tate-EPD_-v0.5-1_Concore.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Vacuum sealed rooms for cutting, Fitted masks",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Bare steel - Epoxy, HPL, Porcelain, Timber",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 3567,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Steel",
+        "product_percentage": 46.0
+      },
+      {
+        "id": 3566,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Cementitious",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2383,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      },
+      {
+        "id": 2384,
+        "location_name": "Truganina VIC, Australia",
+        "location_lat": -37.824833,
+        "location_lon": 144.748699,
+        "location_state": " Australia",
+        "location_city": "Truganina VIC"
+      }
+    ],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 29,
+    "section_F_score": 100,
+    "section_G_score": 67,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "Timber pallets that can be recycled",
+    "files": [
+      {
+        "id": 4493,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/TATE%20APAC/Concore%20800/ModernSlaveryAssessment/Kingspan_Human_Rights_Policy__Charter.pdf"
+      }
+    ]
+  }
+]

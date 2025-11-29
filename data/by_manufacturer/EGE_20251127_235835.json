@@ -1,0 +1,2694 @@
+[
+  {
+    "id": 89,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/2500x1300_Eco_Rustic_0907440_Burnt_umber_003.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-03-08T06:05:38.771042+00:00",
+    "last_update": "2024-04-18T01:43:10.603426+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Eco Rustic Tiles",
+    "product_code": null,
+    "product_description": "Eco Rustic is a sensory experience in both colour and design. The flat-woven surface of the carpets",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10-12 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 108,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Eco%20Rustic%20Tiles/certificates/C2C_Epoca-Eco-PA6_WT_-Bronz_CERT6266_2023-07-04.pdf",
+        "link": "Cradle to Cradle",
+        "rating": "Bronze",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 109,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Eco%20Rustic%20Tiles/certificates/RCD-2023.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Ege Carpets have launched a take-back system in a step towards solving the carpet waste issue. The system ensures used carpets go to our recycling partners who separate and recycle up to 98-100% of the carpet components.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "We invest in the development of new products and techniques which ensures that the carpets are easier to separate and can be reused, recycled or composted.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "EGE Cradle to Cradle",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 108,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Eco%20Rustic%20Tiles/certificates/C2C_Epoca-Eco-PA6_WT_-Bronz_CERT6266_2023-07-04.pdf",
+        "link": "Cradle to Cradle",
+        "rating": "Bronze"
+      },
+      {
+        "id": 109,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Eco%20Rustic%20Tiles/certificates/RCD-2023.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Unsure",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 87,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 109,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 62,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Eco%20Rustic%20Tiles/compliance/Epoca_Eco_Rustic_Ecotrust.pdf",
+        "link": "",
+        "rating": null
+      },
+      {
+        "id": 63,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Eco%20Rustic%20Tiles/compliance/Epoca_Eco_Rustic_Ecotrust_geSuCQG.pdf",
+        "link": "Fire Test",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": []
+  },
+  {
+    "id": 154,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/2500x1300_ReForm_Shadowplay_090101548_Umbra_002_vn.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-05-14T06:18:33.318232+00:00",
+    "last_update": "2024-05-13T14:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Reform Shadowplay",
+    "product_code": "None",
+    "product_description": "In this Shadowplay collection, the multi-level loop construction creates a sculptural texture",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10-12 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 288,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Shadowplay/certificates/111109-Declaration-VOC-Emissions.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 288,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Shadowplay/certificates/111109-Declaration-VOC-Emissions.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 171,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 222,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 226,
+        "location_name": "Cheltenham VIC, Australia",
+        "location_lat": -37.965644,
+        "location_lon": 145.057852,
+        "location_state": " Australia",
+        "location_city": "Cheltenham VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 147,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Shadowplay/compliance/ReForm_Shadowplay_-_Direct_Stick.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 148,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Shadowplay/compliance/ReForm_Shadowplay_-_Direct_Stick_kajRLbx.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": [
+      {
+        "id": 144,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Shadowplay/VOC/111109-Declaration-VOC-Emissions.pdf"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/images-12.jpeg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-05-14T23:21:45.782153+00:00",
+    "last_update": "2024-05-14T14:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Reform A New Wave",
+    "product_code": "None",
+    "product_description": "A New Wave strives towards tactility on a functional and sensual level",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 289,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20A%20New%20Wave/certificates/111109-Declaration-VOC-Emissions.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Cradle to Cradle",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 289,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20A%20New%20Wave/certificates/111109-Declaration-VOC-Emissions.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 172,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 223,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 227,
+        "location_name": "Cheltenham VIC, Australia",
+        "location_lat": -37.965644,
+        "location_lon": 145.057852,
+        "location_state": " Australia",
+        "location_city": "Cheltenham VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 149,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20A%20New%20Wave/compliance/ReForm_A_New_Wave_Ecotrust_-_Direct_stick.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard & plastic",
+    "files": [
+      {
+        "id": 145,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20A%20New%20Wave/VOC/111109-Declaration-VOC-Emissions.pdf"
+      },
+      {
+        "id": 146,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20A%20New%20Wave/RecycledContent/GECA_License_Certificate_RCD_2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/ReForm_Flux_Ecotrust_Mix_2500x1300-3.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-05-15T02:56:29.471925+00:00",
+    "last_update": "2024-05-14T14:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Reform Flux",
+    "product_code": "None",
+    "product_description": "Flux is produced from regenerated materials that allows you to implement sustainable design",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 290,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Flux/certificates/RCD-2023.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 291,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Flux/certificates/VOC_Levels_info_letter.PDF",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 290,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Flux/certificates/RCD-2023.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 291,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Flux/certificates/VOC_Levels_info_letter.PDF",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 173,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "nylon",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 224,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "nylon",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 228,
+        "location_name": "Cheltenham VIC, Australia",
+        "location_lat": -37.965644,
+        "location_lon": 145.057852,
+        "location_state": " Australia",
+        "location_city": "Cheltenham VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 150,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Flux/compliance/ReForm_Flux_-_Foss_-_Carre_Ecotrust-_Direct_stick.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": [
+      {
+        "id": 147,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Flux/VOC/VOC_Levels_info_letter.PDF"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/2500x1300_Una_Tempo_Stripe_Ecotrust_067678048_checker_board_i_bund_0656740_RuiNT95.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-05-17T04:28:15.271108+00:00",
+    "last_update": "2024-05-16T14:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Una Tempo Stripe",
+    "product_code": "None",
+    "product_description": "Tempo Stripe Ecotrust withstands soiling, frequent spills, and stains, exposure to intense sunlight",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 292,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Cradle to Cradle",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 292,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 181,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 229,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 231,
+        "location_name": "Cheltenham, UK",
+        "location_lat": 51.899386,
+        "location_lon": -2.078253,
+        "location_state": " UK",
+        "location_city": "Cheltenham"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 151,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/compliance/UNA_Tempo_-_Ecotrust_-_Direct_stick.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": [
+      {
+        "id": 153,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/VOC/VOC_80-20_products_.pdf"
+      }
+    ]
+  },
+  {
+    "id": 539,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/epoca-compact-0685210-001-vn.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-09T05:10:56.732321+00:00",
+    "last_update": "2024-10-08T13:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Eco Compact",
+    "product_code": "EGE",
+    "product_description": "Eco Compact rugs offer a stylish and practical solution for any commercial or living space.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1438,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Cradle to Cradle",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1438,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 738,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1068,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 882,
+        "location_name": "Cheltenham, UK",
+        "location_lat": 51.899386,
+        "location_lon": -2.078253,
+        "location_state": " UK",
+        "location_city": "Cheltenham"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 824,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/compliance/UNA_Tempo_-_Ecotrust_-_Direct_stick.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": [
+      {
+        "id": 1270,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/VOC/VOC_80-20_products_.pdf"
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/images-13.jpeg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-23T03:17:03.912855+00:00",
+    "last_update": "2024-10-22T13:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Reform - Legend Eco Trust",
+    "product_code": "None",
+    "product_description": null,
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1531,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Cradle to Cradle",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1531,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 803,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1149,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 972,
+        "location_name": "Cheltenham, UK",
+        "location_lat": 51.899386,
+        "location_lon": -2.078253,
+        "location_state": " UK",
+        "location_city": "Cheltenham"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 882,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/compliance/UNA_Tempo_-_Ecotrust_-_Direct_stick.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": [
+      {
+        "id": 1413,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/VOC/VOC_80-20_products_.pdf"
+      }
+    ]
+  },
+  {
+    "id": 584,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/ReFormMemory.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-23T04:10:08.750709+00:00",
+    "last_update": "2024-10-22T13:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Reform – Memory Eco Trust",
+    "product_code": "None",
+    "product_description": "The marriage of a complex structured multi-level loop and digital colouration",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1537,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Cradle to Cradle",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1537,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 805,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1154,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 974,
+        "location_name": "Cheltenham, UK",
+        "location_lat": 51.899386,
+        "location_lon": -2.078253,
+        "location_state": " UK",
+        "location_city": "Cheltenham"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 883,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/compliance/UNA_Tempo_-_Ecotrust_-_Direct_stick.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": [
+      {
+        "id": 1415,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/VOC/VOC_80-20_products_.pdf"
+      }
+    ]
+  },
+  {
+    "id": 689,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/Unknown.jpeg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-29T05:25:48.346311+00:00",
+    "last_update": "2024-10-28T13:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Reform Construction",
+    "product_code": "None",
+    "product_description": "With the multidimensional Iron and Concrete patterns, ReForm Construction is a soft interpretation o",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10-12 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2040,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Shadowplay/certificates/111109-Declaration-VOC-Emissions.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2040,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Shadowplay/certificates/111109-Declaration-VOC-Emissions.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 935,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1471,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1077,
+        "location_name": "Cheltenham VIC, Australia",
+        "location_lat": -37.965644,
+        "location_lon": 145.057852,
+        "location_state": " Australia",
+        "location_city": "Cheltenham VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1116,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Shadowplay/compliance/ReForm_Shadowplay_-_Direct_Stick.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1117,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Shadowplay/compliance/ReForm_Shadowplay_-_Direct_Stick_kajRLbx.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": [
+      {
+        "id": 1707,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Reform%20Shadowplay/VOC/111109-Declaration-VOC-Emissions.pdf"
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/ReForm_Calico_Ecotrust_084172548_001_vn.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-29T22:18:53.919770+00:00",
+    "last_update": "2024-10-29T13:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Reform Calico",
+    "product_code": "None",
+    "product_description": "The loose, slightly coarse structure of cotton cloth is the inspiration for Calico.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10-12 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2044,
+        "certification": "Cradle to Cradle Certified",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Eco%20Rustic%20Tiles/certificates/C2C_Epoca-Eco-PA6_WT_-Bronz_CERT6266_2023-07-04.pdf",
+        "link": "Cradle to Cradle",
+        "rating": "Bronze",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2045,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Eco%20Rustic%20Tiles/certificates/RCD-2023.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Ege Carpets have launched a take-back system in a step towards solving the carpet waste issue. The system ensures used carpets go to our recycling partners who separate and recycle up to 98-100% of the carpet components.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "We invest in the development of new products and techniques which ensures that the carpets are easier to separate and can be reused, recycled or composted.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "EGE Cradle to Cradle",
+    "water_reduction_techniques": "Not sure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2044,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Eco%20Rustic%20Tiles/certificates/C2C_Epoca-Eco-PA6_WT_-Bronz_CERT6266_2023-07-04.pdf",
+        "link": "Cradle to Cradle",
+        "rating": "Bronze"
+      },
+      {
+        "id": 2045,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Eco%20Rustic%20Tiles/certificates/RCD-2023.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Unsure",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 938,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1482,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1082,
+        "location_name": "Cheltenham VIC, Australia",
+        "location_lat": -37.965644,
+        "location_lon": 145.057852,
+        "location_state": " Australia",
+        "location_city": "Cheltenham VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1126,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Eco%20Rustic%20Tiles/compliance/Epoca_Eco_Rustic_Ecotrust.pdf",
+        "link": "",
+        "rating": null
+      },
+      {
+        "id": 1127,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Eco%20Rustic%20Tiles/compliance/Epoca_Eco_Rustic_Ecotrust_geSuCQG.pdf",
+        "link": "Fire Test",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": []
+  },
+  {
+    "id": 697,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/Una_Crystalline_600x794.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-30T03:21:45.666858+00:00",
+    "last_update": "2024-10-29T13:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Una Casa",
+    "product_code": "None",
+    "product_description": "he Una collections can be divided into two groups. The first group encompasses the flat-woven",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2046,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Cradle to Cradle",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2046,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 939,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1484,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1084,
+        "location_name": "Cheltenham, UK",
+        "location_lat": 51.899386,
+        "location_lon": -2.078253,
+        "location_state": " UK",
+        "location_city": "Cheltenham"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1128,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/compliance/UNA_Tempo_-_Ecotrust_-_Direct_stick.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": [
+      {
+        "id": 1715,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/VOC/VOC_80-20_products_.pdf"
+      }
+    ]
+  },
+  {
+    "id": 698,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/Una_Micro_0519800_001-2.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-30T03:29:56.713558+00:00",
+    "last_update": "2024-10-29T13:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Una Micro",
+    "product_code": "None",
+    "product_description": "Micro is a collection of wall-to-wall carpets for interior design projects that require a carpet",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2047,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Cradle to Cradle",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2047,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 940,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1485,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1085,
+        "location_name": "Cheltenham, UK",
+        "location_lat": 51.899386,
+        "location_lon": -2.078253,
+        "location_state": " UK",
+        "location_city": "Cheltenham"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1129,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/compliance/UNA_Tempo_-_Ecotrust_-_Direct_stick.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": [
+      {
+        "id": 1716,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/VOC/VOC_80-20_products_.pdf"
+      }
+    ]
+  },
+  {
+    "id": 699,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/EpocaTexture-2000_-1-2.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-30T03:34:16.852616+00:00",
+    "last_update": "2024-10-29T13:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Epoca Texture + 2000",
+    "product_code": "None",
+    "product_description": "Texture 2000 are luxury carpets specially designed for hotel rooms and lounges.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2048,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Cradle to Cradle",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2048,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 941,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1486,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1086,
+        "location_name": "Cheltenham, UK",
+        "location_lat": 51.899386,
+        "location_lon": -2.078253,
+        "location_state": " UK",
+        "location_city": "Cheltenham"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1130,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/compliance/UNA_Tempo_-_Ecotrust_-_Direct_stick.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": [
+      {
+        "id": 1717,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/VOC/VOC_80-20_products_.pdf"
+      }
+    ]
+  },
+  {
+    "id": 700,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/Epoca_Knit_Ecotrust_074759548_002Q-2.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-30T03:39:40.217952+00:00",
+    "last_update": "2024-10-29T13:00:00+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "EGE",
+    "product_name": "Epoca Knit Ecotrust",
+    "product_code": "None",
+    "product_description": "Epoca Knit is ideal for minimalist interior projects. Available in 16 beautiful colours designed",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "4m",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2049,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Cradle to Cradle",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2049,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/certificates/VOC_80-20_products_.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 942,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "component": "Nylon ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1487,
+        "location_name": "Herning, Denmark",
+        "location_lat": 56.138557,
+        "location_lon": 8.967322,
+        "material": "Nylon ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1087,
+        "location_name": "Cheltenham, UK",
+        "location_lat": 51.899386,
+        "location_lon": -2.078253,
+        "location_state": " UK",
+        "location_city": "Cheltenham"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 1131,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/compliance/UNA_Tempo_-_Ecotrust_-_Direct_stick.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard & Plastic",
+    "files": [
+      {
+        "id": 1718,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Una%20Tempo%20Stripe/VOC/VOC_80-20_products_.pdf"
+      }
+    ]
+  }
+]

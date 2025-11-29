@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 1253,
+    "company": {
+      "id": 181,
+      "name": "UPCYCLED BUILDING MATERIALS AUSTRALIA PTY LTD (T/A SAVEBOARD)"
+    },
+    "image": "products/UPCYCLED BUILDING MATERIALS AUSTRALIA PTY LTD (T/A SAVEBOARD)/Waitoa_Garage.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-31T20:12:14.274519+00:00",
+    "last_update": "2025-08-31T14:00:00+00:00",
+    "created_by": {
+      "id": 2297,
+      "email": "sales@saveboard.com.au"
+    },
+    "updated_by": {
+      "id": 2297,
+      "email": "sales@saveboard.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "saveBOARD",
+    "product_name": "Exposed Internal Linings",
+    "product_code": "SBEXP1012002400",
+    "product_description": "Pre-finished internal wall & ceiling lining for residential and commercial applications",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "10mm x 1200mm x 2400mm/3000mm",
+    "price_per_unit": 79.95,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "3 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4428,
+        "certification": "GECA",
+        "file": null,
+        "link": "https://www.saveboard.com.au/_files/ugd/de3e8a_51391eb2e5d6439098b76027d1e21a66.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4429,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://epd-australasia.com/epd/exposed-internal-lining-ceiling-tiles/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4858,
+        "certification": "Declare label",
+        "file": null,
+        "link": "declare.living-future.org/products/saveboard-range-of-products",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 9.42,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 0.21,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -7.4,
+    "upfront_carbon_emissions": -7.4,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "By shipping to client central distribution hubs (KFC, Woolworths) where materials are consolidated then sent to project sites.",
+    "minimisation_design_strategy": "1200mm wide panels, standard lengths (2.4m, 2.7m, 3.0m) and custom cut up to 6000mm in length",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "See attached cert",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4428,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.saveboard.com.au/_files/ugd/de3e8a_51391eb2e5d6439098b76027d1e21a66.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4429,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://epd-australasia.com/epd/exposed-internal-lining-ceiling-tiles/",
+        "rating": "undefined"
+      },
+      {
+        "id": 4858,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "declare.living-future.org/products/saveboard-range-of-products",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "If not properly recycled, it contains between 20-50% soft plastics (our glue). Like any plastic component will generate microplastics at signs of wear.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Pre-finished surface, requiring no wet trades on site",
+    "manufacturing_locations": [
+      {
+        "id": 2329,
+        "location_name": "Warragamba NSW, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "component": "Composite core",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2827,
+        "location_name": "Botany NSW, Australia",
+        "location_lat": -33.946927,
+        "location_lon": 151.197317,
+        "material": "Wood Fibre",
+        "product_percentage": 70.0
+      },
+      {
+        "id": 2828,
+        "location_name": "St Marys NSW, Australia",
+        "location_lat": -33.769979,
+        "location_lon": 150.773458,
+        "material": "Soft Plastics",
+        "product_percentage": 30.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1905,
+        "location_name": "Warragamba NSW, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "location_state": " Australia",
+        "location_city": "Warragamba NSW"
+      },
+      {
+        "id": 1906,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1907,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1908,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1909,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "No screws or nails.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "LDPE moisture resistant finish showing the exposed surface of our boards",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Practical Completion (A1-A5)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2557,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/compliance/IGNL-6067-07-01C_I01R00_5637_Certificate__17052022_Exposed.pdf",
+        "link": "",
+        "rating": "3"
+      },
+      {
+        "id": 2558,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/compliance/IGNL-6067-07-01C_I01R00_5637_Certificate__17052022_Exposed_u1dizmd.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Timber bearers (non-treated) and shrink wrap (recyclable with saveBOARD).",
+    "files": [
+      {
+        "id": 3501,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/VOC/TestCert_TVOC_Emission__SaveBoard_NZ_Limited_Wall_Interior_Board_Panel.pdf"
+      },
+      {
+        "id": 3502,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/RecycledContent/EPD-IES-0014119_v1_saveBOARD_ExposedInternal_2025-01-05.pdf"
+      },
+      {
+        "id": 3503,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/ModernSlaveryAssessment/UBM-2024_GECAcert.pdf"
+      },
+      {
+        "id": 3650,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/LCA/EPD-IES-0014119_v1_saveBOARD_ExposedInternal_2025-01-05.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1305,
+    "company": {
+      "id": 181,
+      "name": "UPCYCLED BUILDING MATERIALS AUSTRALIA PTY LTD (T/A SAVEBOARD)"
+    },
+    "image": "products/UPCYCLED BUILDING MATERIALS AUSTRALIA PTY LTD (T/A SAVEBOARD)/20240708_02201568_EV9cN7C.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-14T01:47:21.606310+00:00",
+    "last_update": "2025-08-31T14:00:00+00:00",
+    "created_by": {
+      "id": 2297,
+      "email": "sales@saveboard.com.au"
+    },
+    "updated_by": {
+      "id": 2297,
+      "email": "sales@saveboard.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "saveBOARD",
+    "product_name": "Paperfaced Internal Linings",
+    "product_code": "SBPFTE1012002400",
+    "product_description": "Plasterboard alternative made from 100% upcycled materials.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "10mm x 1200mm x 2400mm/3000mm",
+    "price_per_unit": 49.95,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "3 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4832,
+        "certification": "GECA",
+        "file": null,
+        "link": "https://www.saveboard.com.au/_files/ugd/de3e8a_51391eb2e5d6439098b76027d1e21a66.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4834,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Paperfaced%20Internal%20Linings/certificates/EPD-IES-0014116_v1_saveBOARD_Paperfaced_2025-01-05.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4860,
+        "certification": "Declare label",
+        "file": null,
+        "link": "declare.living-future.org/products/saveboard-range-of-products",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 9.42,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 0.21,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -4.3,
+    "upfront_carbon_emissions": -4.3,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "By shipping to client central distribution hubs (KFC, Woolworths) where materials are consolidated then sent to project sites.",
+    "minimisation_design_strategy": "1200mm wide panels, standard lengths (2.4m, 2.7m, 3.0m) and custom cut up to 6000mm in length",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "See attached cert",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4832,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.saveboard.com.au/_files/ugd/de3e8a_51391eb2e5d6439098b76027d1e21a66.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4834,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Paperfaced%20Internal%20Linings/certificates/EPD-IES-0014116_v1_saveBOARD_Paperfaced_2025-01-05.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4860,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "declare.living-future.org/products/saveboard-range-of-products",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "If not properly recycled, it contains between 20-50% soft plastics (our glue). Like any plastic component will generate microplastics at signs of wear.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Paperfaced surface suitable for plastering and painting.",
+    "manufacturing_locations": [
+      {
+        "id": 2418,
+        "location_name": "Warragamba NSW, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "component": "Composite core",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2946,
+        "location_name": "Botany NSW, Australia",
+        "location_lat": -33.946927,
+        "location_lon": 151.197317,
+        "material": "Wood Fibre",
+        "product_percentage": 70.0
+      },
+      {
+        "id": 2947,
+        "location_name": "St Marys NSW, Australia",
+        "location_lat": -33.769979,
+        "location_lon": 150.773458,
+        "material": "Soft Plastics",
+        "product_percentage": 30.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1989,
+        "location_name": "Warragamba NSW, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "location_state": " Australia",
+        "location_city": "Warragamba NSW"
+      },
+      {
+        "id": 1990,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1991,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1992,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1993,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "No screws or nails.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Recycled liner paper, finished with either a square edge or tapered edge",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Practical Completion (A1-A5)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2680,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/compliance/IGNL-6067-07-01C_I01R00_5637_Certificate__17052022_Exposed_u1dizmd.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2681,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Paperfaced%20Internal%20Linings/compliance/IGNL-6067-07-06C_I01R00_5637_Certificate_04012024_Paperfaced1.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Timber bearers (non-treated) and shrink wrap (recyclable with saveBOARD).",
+    "files": [
+      {
+        "id": 3651,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/VOC/TestCert_TVOC_Emission__SaveBoard_NZ_Limited_Wall_Interior_Board_Panel.pdf"
+      },
+      {
+        "id": 3653,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/ModernSlaveryAssessment/UBM-2024_GECAcert.pdf"
+      },
+      {
+        "id": 3655,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Paperfaced%20Internal%20Linings/LCA/EPD-IES-0014116_v1_saveBOARD_Paperfaced_2025-01-05.pdf"
+      },
+      {
+        "id": 3656,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Paperfaced%20Internal%20Linings/RecycledContent/EPD-IES-0014116_v1_saveBOARD_Paperfaced_2025-01-05.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1306,
+    "company": {
+      "id": 181,
+      "name": "UPCYCLED BUILDING MATERIALS AUSTRALIA PTY LTD (T/A SAVEBOARD)"
+    },
+    "image": "products/UPCYCLED BUILDING MATERIALS AUSTRALIA PTY LTD (T/A SAVEBOARD)/20240712_133232.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-14T01:58:14.723524+00:00",
+    "last_update": "2025-08-31T14:00:00+00:00",
+    "created_by": {
+      "id": 2297,
+      "email": "sales@saveboard.com.au"
+    },
+    "updated_by": {
+      "id": 2297,
+      "email": "sales@saveboard.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "saveBOARD",
+    "product_name": "Multi-Use Panels",
+    "product_code": "SBEXPMULTI1212002400",
+    "product_description": "Finished with an external moisture resistant facing layer, it is a reusable construction board",
+    "product_categories": [
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "12mm x 1200mm x 2400mm/3000mm",
+    "price_per_unit": 55.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "3 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4836,
+        "certification": "GECA",
+        "file": null,
+        "link": "https://www.saveboard.com.au/_files/ugd/de3e8a_51391eb2e5d6439098b76027d1e21a66.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4838,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Multi-Use%20Panels/certificates/EPD-IES-0014117_v1_saveBOARD_Multiuse_2025-01-05.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4859,
+        "certification": "Declare label",
+        "file": null,
+        "link": "declare.living-future.org/products/saveboard-range-of-products",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 12.2,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 0.21,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -10.1,
+    "upfront_carbon_emissions": -10.1,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "By shipping to client central distribution hubs (KFC, Woolworths) where materials are consolidated then sent to project sites.",
+    "minimisation_design_strategy": "1200mm wide panels, standard lengths (2.4m, 2.7m, 3.0m) and custom cut up to 6000mm in length",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "See attached cert",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4836,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.saveboard.com.au/_files/ugd/de3e8a_51391eb2e5d6439098b76027d1e21a66.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4838,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Multi-Use%20Panels/certificates/EPD-IES-0014117_v1_saveBOARD_Multiuse_2025-01-05.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4859,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "declare.living-future.org/products/saveboard-range-of-products",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "If not properly recycled, it contains between 20-50% soft plastics (our glue). Like any plastic component will generate microplastics at signs of wear.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Pre-finished surface, requiring no wet trades on site",
+    "manufacturing_locations": [
+      {
+        "id": 2419,
+        "location_name": "Warragamba NSW, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "component": "Composite core",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2951,
+        "location_name": "St Marys NSW, Australia",
+        "location_lat": -33.769979,
+        "location_lon": 150.773458,
+        "material": "Soft Plastics",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 2952,
+        "location_name": "Botany NSW, Australia",
+        "location_lat": -33.946927,
+        "location_lon": 151.197317,
+        "material": "Wood Fibre ",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1994,
+        "location_name": "Warragamba NSW, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "location_state": " Australia",
+        "location_city": "Warragamba NSW"
+      },
+      {
+        "id": 1995,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1996,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1997,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1998,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "No screws or nails.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "LDPE moisture resistant finish showing the exposed surface of our boards",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Practical Completion (A1-A5)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2683,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/compliance/IGNL-6067-07-01C_I01R00_5637_Certificate__17052022_Exposed_u1dizmd.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2685,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Multi-Use%20Panels/compliance/IGNL-7199-14C_I01R00_5637_Certificate_07122023_Multi_betterJOINERY_JDXHZA2.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Timber bearers (non-treated) and shrink wrap (recyclable with saveBOARD).",
+    "files": [
+      {
+        "id": 3657,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/VOC/TestCert_TVOC_Emission__SaveBoard_NZ_Limited_Wall_Interior_Board_Panel.pdf"
+      },
+      {
+        "id": 3659,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/ModernSlaveryAssessment/UBM-2024_GECAcert.pdf"
+      },
+      {
+        "id": 3661,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Multi-Use%20Panels/LCA/EPD-IES-0014117_v1_saveBOARD_Multiuse_2025-01-05.pdf"
+      },
+      {
+        "id": 3662,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Multi-Use%20Panels/RecycledContent/EPD-IES-0014117_v1_saveBOARD_Multiuse_2025-01-05.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1307,
+    "company": {
+      "id": 181,
+      "name": "UPCYCLED BUILDING MATERIALS AUSTRALIA PTY LTD (T/A SAVEBOARD)"
+    },
+    "image": "products/UPCYCLED BUILDING MATERIALS AUSTRALIA PTY LTD (T/A SAVEBOARD)/Ceiling_WN1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-14T02:08:47.373519+00:00",
+    "last_update": "2025-08-31T14:00:00+00:00",
+    "created_by": {
+      "id": 2297,
+      "email": "sales@saveboard.com.au"
+    },
+    "updated_by": {
+      "id": 2297,
+      "email": "sales@saveboard.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "saveBOARD",
+    "product_name": "Ceiling Tiles",
+    "product_code": "SBEXPCT105951195",
+    "product_description": "It's a durable, moisture and mould resistant ceiling tile, suitable for commercial & industrial spac",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "10mm x 595mm x 1195mm",
+    "price_per_unit": 18.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "3 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4841,
+        "certification": "GECA",
+        "file": null,
+        "link": "https://www.saveboard.com.au/_files/ugd/de3e8a_51391eb2e5d6439098b76027d1e21a66.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4842,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://epd-australasia.com/epd/exposed-internal-lining-ceiling-tiles/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4857,
+        "certification": "Declare label",
+        "file": null,
+        "link": "declare.living-future.org/products/saveboard-range-of-products",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 9.42,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 0.21,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -7.4,
+    "upfront_carbon_emissions": -7.4,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "By shipping to client central distribution hubs (KFC, Woolworths) where materials are consolidated then sent to project sites.",
+    "minimisation_design_strategy": "1200mm wide panels, standard lengths (2.4m, 2.7m, 3.0m) and custom cut up to 6000mm in length",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "See attached cert",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4841,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.saveboard.com.au/_files/ugd/de3e8a_51391eb2e5d6439098b76027d1e21a66.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4842,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://epd-australasia.com/epd/exposed-internal-lining-ceiling-tiles/",
+        "rating": "undefined"
+      },
+      {
+        "id": 4857,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "declare.living-future.org/products/saveboard-range-of-products",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "If not properly recycled, it contains between 20-50% soft plastics (our glue). Like any plastic component will generate microplastics at signs of wear.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Pre-finished surface, requiring no wet trades on site",
+    "manufacturing_locations": [
+      {
+        "id": 2420,
+        "location_name": "Warragamba NSW, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "component": "Composite core",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2953,
+        "location_name": "Botany NSW, Australia",
+        "location_lat": -33.946927,
+        "location_lon": 151.197317,
+        "material": "Wood Fibre",
+        "product_percentage": 70.0
+      },
+      {
+        "id": 2954,
+        "location_name": "St Marys NSW, Australia",
+        "location_lat": -33.769979,
+        "location_lon": 150.773458,
+        "material": "Soft Plastics",
+        "product_percentage": 30.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1999,
+        "location_name": "Warragamba NSW, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "location_state": " Australia",
+        "location_city": "Warragamba NSW"
+      },
+      {
+        "id": 2000,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2001,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 2002,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2003,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "No screws or nails.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "LDPE moisture resistant finish showing the exposed surface of our boards",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Practical Completion (A1-A5)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2686,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/compliance/IGNL-6067-07-01C_I01R00_5637_Certificate__17052022_Exposed.pdf",
+        "link": "",
+        "rating": "3"
+      },
+      {
+        "id": 2687,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/compliance/IGNL-6067-07-01C_I01R00_5637_Certificate__17052022_Exposed_u1dizmd.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Timber bearers (non-treated) and shrink wrap (recyclable with saveBOARD).",
+    "files": [
+      {
+        "id": 3663,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/VOC/TestCert_TVOC_Emission__SaveBoard_NZ_Limited_Wall_Interior_Board_Panel.pdf"
+      },
+      {
+        "id": 3664,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/RecycledContent/EPD-IES-0014119_v1_saveBOARD_ExposedInternal_2025-01-05.pdf"
+      },
+      {
+        "id": 3665,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/ModernSlaveryAssessment/UBM-2024_GECAcert.pdf"
+      },
+      {
+        "id": 3666,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/LCA/EPD-IES-0014119_v1_saveBOARD_ExposedInternal_2025-01-05.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1309,
+    "company": {
+      "id": 181,
+      "name": "UPCYCLED BUILDING MATERIALS AUSTRALIA PTY LTD (T/A SAVEBOARD)"
+    },
+    "image": "products/UPCYCLED BUILDING MATERIALS AUSTRALIA PTY LTD (T/A SAVEBOARD)/20250303_223435057_iOS.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-14T02:24:20.474500+00:00",
+    "last_update": "2025-11-05T13:00:00+00:00",
+    "created_by": {
+      "id": 2297,
+      "email": "sales@saveboard.com.au"
+    },
+    "updated_by": {
+      "id": 2297,
+      "email": "sales@saveboard.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "saveBOARD",
+    "product_name": "Betterbrace External Bracing",
+    "product_code": "SBBB0712002440_",
+    "product_description": "External bracing element and/or rigid air barrier for use in residential to multi-story construct",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      }
+    ],
+    "standard_dimensions": "7mm x 1200mm x 2440mm/2745mm/3050mm",
+    "price_per_unit": 55.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "3 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4848,
+        "certification": "GECA",
+        "file": null,
+        "link": "https://www.saveboard.com.au/_files/ugd/de3e8a_51391eb2e5d6439098b76027d1e21a66.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4849,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Betterbrace%20Externa%20Bracing/certificates/EPD-IES-0014118_v1_saveBOARD_betterBRACE_2025-01-05.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4855,
+        "certification": "Declare label",
+        "file": null,
+        "link": "declare.living-future.org/products/saveboard-range-of-products",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 9.42,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 0.21,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -7.4,
+    "upfront_carbon_emissions": -7.4,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "By shipping to client central distribution hubs (KFC, Woolworths) where materials are consolidated then sent to project sites.",
+    "minimisation_design_strategy": "1200mm wide panels, standard lengths (2.4m, 2.7m, 3.0m) and custom cut up to 6000mm in length",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "See attached cert",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4848,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.saveboard.com.au/_files/ugd/de3e8a_51391eb2e5d6439098b76027d1e21a66.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4849,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Betterbrace%20Externa%20Bracing/certificates/EPD-IES-0014118_v1_saveBOARD_betterBRACE_2025-01-05.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4855,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "declare.living-future.org/products/saveboard-range-of-products",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "If not properly recycled, it contains between 20-50% soft plastics (our glue). Like any plastic component will generate microplastics at signs of wear.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Fibreglass external face",
+    "manufacturing_locations": [
+      {
+        "id": 2422,
+        "location_name": "Warragamba NSW, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "component": "Composite core",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2957,
+        "location_name": "St Marys NSW, Australia",
+        "location_lat": -33.769979,
+        "location_lon": 150.773458,
+        "material": "Soft Plastics",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 2958,
+        "location_name": "Botany NSW, Australia",
+        "location_lat": -33.946927,
+        "location_lon": 151.197317,
+        "material": "Wood Fibre ",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2009,
+        "location_name": "Warragamba NSW, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "location_state": " Australia",
+        "location_city": "Warragamba NSW"
+      },
+      {
+        "id": 2010,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2011,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 2012,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2013,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "No screws or nails.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Finished with an external moisture resistant Fiberglass facing material; it is an alternative to traditional building underlays.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Practical Completion (A1-A5)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2691,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/compliance/IGNL-6067-07-01C_I01R00_5637_Certificate__17052022_Exposed_u1dizmd.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2692,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Betterbrace%20Externa%20Bracing/compliance/IGNL-6067-07-05C_I01R00_5637_Certificate_07022023_RAB_Roof.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Timber bearers (non-treated) and shrink wrap (recyclable with saveBOARD).",
+    "files": [
+      {
+        "id": 3674,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/ModernSlaveryAssessment/UBM-2024_GECAcert.pdf"
+      },
+      {
+        "id": 3675,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Betterbrace%20Externa%20Bracing/VOC/TestCert_TVOC_Emission__SaveBoard_NZ_Limited_Savebooard_Roofing_Substrate_Panel.pdf"
+      },
+      {
+        "id": 3676,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Betterbrace%20Externa%20Bracing/LCA/EPD-IES-0014118_v1_saveBOARD_betterBRACE_2025-01-05.pdf"
+      },
+      {
+        "id": 3677,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Betterbrace%20Externa%20Bracing/RecycledContent/EPD-IES-0014118_v1_saveBOARD_betterBRACE_2025-01-05.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1310,
+    "company": {
+      "id": 181,
+      "name": "UPCYCLED BUILDING MATERIALS AUSTRALIA PTY LTD (T/A SAVEBOARD)"
+    },
+    "image": "products/UPCYCLED BUILDING MATERIALS AUSTRALIA PTY LTD (T/A SAVEBOARD)/20241021_222122218_iOS.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-15T01:26:49.551683+00:00",
+    "last_update": "2025-11-04T13:00:00+00:00",
+    "created_by": {
+      "id": 2297,
+      "email": "sales@saveboard.com.au"
+    },
+    "updated_by": {
+      "id": 2297,
+      "email": "sales@saveboard.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "saveBOARD",
+    "product_name": "Betterjoinery",
+    "product_code": "SBBJ1812002400",
+    "product_description": "betterJOINERY is an environmentally better alternative to other joinery and furniture grade products",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": "18mm x 1200mm x 2400mm/3000mm",
+    "price_per_unit": 100.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "3 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4851,
+        "certification": "GECA",
+        "file": null,
+        "link": "https://www.saveboard.com.au/_files/ugd/de3e8a_51391eb2e5d6439098b76027d1e21a66.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4856,
+        "certification": "Declare label",
+        "file": null,
+        "link": "declare.living-future.org/products/saveboard-range-of-products",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5945,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Betterjoinery/certificates/Product_Report_-_18mm_betterJOINERY_-_Substrate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 12.2,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 0.21,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -13.15,
+    "upfront_carbon_emissions": -13.15,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "https://www.saveboard.com.au/take-your-offcuts-eol",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "By shipping to client central distribution hubs (KFC, Woolworths) where materials are consolidated then sent to project sites.",
+    "minimisation_design_strategy": "1200mm wide panels, standard lengths (2.4m, 2.7m, 3.0m) and custom cut up to 6000mm in length",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "See attached cert",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4851,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.saveboard.com.au/_files/ugd/de3e8a_51391eb2e5d6439098b76027d1e21a66.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 4856,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "declare.living-future.org/products/saveboard-range-of-products",
+        "rating": "undefined"
+      },
+      {
+        "id": 5945,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Betterjoinery/certificates/Product_Report_-_18mm_betterJOINERY_-_Substrate.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "If not properly recycled, it contains between 20-50% soft plastics (our glue). Like any plastic component will generate microplastics at signs of wear.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Pre-finished surface with either a High Pressure Laminate, Veneer of Exposed surface",
+    "manufacturing_locations": [
+      {
+        "id": 2423,
+        "location_name": "Warragamba NSW, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "component": "Composite core",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2959,
+        "location_name": "St Marys NSW, Australia",
+        "location_lat": -33.769979,
+        "location_lon": 150.773458,
+        "material": "Soft Plastics",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 2960,
+        "location_name": "Botany NSW, Australia",
+        "location_lat": -33.946927,
+        "location_lon": 151.197317,
+        "material": "Wood Fibre ",
+        "product_percentage": 60.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2014,
+        "location_name": "Warragamba NSW, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "location_state": " Australia",
+        "location_city": "Warragamba NSW"
+      },
+      {
+        "id": 2015,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -33.889541,
+        "location_lon": 150.604863,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2016,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 2017,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2018,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "No screws or nails.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "HPL (High Pressure Laminate)\r\nVeneer (natural timber)\r\nExposed - LDPE moisture resistant finish showing the exposed surface of our boards",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Practical Completion (A1-A5)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2693,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/compliance/IGNL-6067-07-01C_I01R00_5637_Certificate__17052022_Exposed_u1dizmd.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2694,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Multi-Use%20Panels/compliance/IGNL-7199-14C_I01R00_5637_Certificate_07122023_Multi_betterJOINERY_JDXHZA2.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Timber bearers (non-treated) and shrink wrap (recyclable with saveBOARD).",
+    "files": [
+      {
+        "id": 3678,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/VOC/TestCert_TVOC_Emission__SaveBoard_NZ_Limited_Wall_Interior_Board_Panel.pdf"
+      },
+      {
+        "id": 3679,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Exposed%20Internal%20Linings/ModernSlaveryAssessment/UBM-2024_GECAcert.pdf"
+      },
+      {
+        "id": 3681,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Multi-Use%20Panels/RecycledContent/EPD-IES-0014117_v1_saveBOARD_Multiuse_2025-01-05.pdf"
+      },
+      {
+        "id": 3806,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/UPCYCLED%20BUILDING%20MATERIALS%20AUSTRALIA%20PTY%20LTD%20%28T/A%20SAVEBOARD%29/Betterjoinery/LCA/Product_Report_-_18mm_betterJOINERY_-_Substrate.pdf"
+      }
+    ]
+  }
+]

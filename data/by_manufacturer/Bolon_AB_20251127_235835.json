@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1516,
+    "company": {
+      "id": 124,
+      "name": "THE ANDREWS GROUP"
+    },
+    "image": "",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-10-13T01:41:30.277992+00:00",
+    "last_update": "2025-10-12T13:00:00+00:00",
+    "created_by": {
+      "id": 550,
+      "email": "michael@theandrewsgroup.com.au"
+    },
+    "updated_by": {
+      "id": 550,
+      "email": "michael@theandrewsgroup.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Bolon AB",
+    "product_name": "Bolon Woven Flooring",
+    "product_code": "natural/profile/elliptical weaves",
+    "product_description": "resilient textile flooring in roll, tile and Studio shape format for floors and walls",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "500 x 500 mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "ex stock Melbourne or 12-14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5853,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://www.bolon.com/en/sustainability/certifications",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5855,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "https://www.bolon.com/en/sustainability/certifications",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5857,
+        "certification": "GreenTag - Product Health Declaration",
+        "file": null,
+        "link": "https://www.bolon.com/en/sustainability/certifications",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5854,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://www.bolon.com/en/sustainability/certifications",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5856,
+        "certification": "GreenTag – Health Rate",
+        "file": null,
+        "link": "https://www.bolon.com/en/sustainability/certifications",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5858,
+        "certification": "Other",
+        "file": null,
+        "link": "https://www.bolon.com/en/sustainability/certifications",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 2.62,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 5.09,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "cryogenic pelletisation",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "subject to Best Practice PVC product stewardship scheme run by the VCA, to which TAG is a signatory",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "https://dsm2vix2l99vj.cloudfront.net/assets/Web/Pages/Sustainability/Reports/01.Bolon_Sustainability_Report_2024.pdf",
+    "recycling_process_description": "cryogenic pelletisation for conversion to othe pvc based products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "100",
+    "transport_emissions_minimisation_techniques": "using efficient shipping methods",
+    "minimisation_design_strategy": "box size and pattern selection",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "98% components sourced in western europe",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://dsm2vix2l99vj.cloudfront.net/assets/Web/Pages/Sustainability/Reports/01.Bolon_Sustainability_Report_2024.pdf",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5853,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.bolon.com/en/sustainability/certifications",
+        "rating": "undefined"
+      },
+      {
+        "id": 5855,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.bolon.com/en/sustainability/certifications",
+        "rating": "undefined"
+      },
+      {
+        "id": 5857,
+        "certification": "GreenTag - Product Health Declaration",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.bolon.com/en/sustainability/certifications",
+        "rating": "undefined"
+      },
+      {
+        "id": 5854,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.bolon.com/en/sustainability/certifications",
+        "rating": "undefined"
+      },
+      {
+        "id": 5856,
+        "certification": "GreenTag – Health Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.bolon.com/en/sustainability/certifications",
+        "rating": "undefined"
+      },
+      {
+        "id": 5858,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.bolon.com/en/sustainability/certifications",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "pvc vinyl",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.bolon.com/en/sustainability/certifications",
+    "expected_lifespan_years": 20,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3017,
+        "location_name": "Ulricehamn, Sweden",
+        "location_lat": 57.794789,
+        "location_lon": 13.420516,
+        "component": "all components",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3557,
+        "location_name": "various europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "chalk/pvc/plasticiser",
+        "product_percentage": 95.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2373,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "use IOBAC installation systems, or fix with PS adhesive allowing removal for recycling",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 26.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://www.bolon.com/en/sustainability/certifications",
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "designed for longevity and ease of maintenance",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3111,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "bolon.com/en/products",
+        "rating": "undefined"
+      },
+      {
+        "id": 3110,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://bolon.theandrewsgroup.com.au/support/technical-certification-documents/ ",
+        "rating": "undefined"
+      },
+      {
+        "id": 3112,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://bolon.theandrewsgroup.com.au/support/technical-certification-documents/",
+        "rating": "R10/P2/P3"
+      }
+    ],
+    "type_of_packaging": "cardboard boxes recyclable; shrink wrapping if used not recyclable",
+    "files": []
+  }
+]

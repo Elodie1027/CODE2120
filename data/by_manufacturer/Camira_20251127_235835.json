@@ -1,0 +1,200 @@
+[
+  {
+    "id": 187,
+    "company": {
+      "id": 87,
+      "name": "AT WORK WITH CAMIRA"
+    },
+    "image": "products/AT WORK WITH CAMIRA/Blazer_Dartmouth.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-06-10T00:37:07.928734+00:00",
+    "last_update": "2024-06-09T14:00:00+00:00",
+    "created_by": {
+      "id": 726,
+      "email": "melanie@atworkwithcamira.com"
+    },
+    "updated_by": {
+      "id": 726,
+      "email": "melanie@atworkwithcamira.com"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Camira",
+    "product_name": "Blazer",
+    "product_code": "Blazer",
+    "product_description": "100% Virgin Wool",
+    "product_categories": [
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "140cm width",
+    "price_per_unit": 119.0,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "1-2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 341,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AT%20WORK%20WITH%20CAMIRA/Blazer/certificates/EU_Ecolabel_Cert_Blazer_MLF_Cara.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 342,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AT%20WORK%20WITH%20CAMIRA/Blazer/certificates/Camira_Environmental_Policy.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 341,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AT%20WORK%20WITH%20CAMIRA/Blazer/certificates/EU_Ecolabel_Cert_Blazer_MLF_Cara.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 342,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AT%20WORK%20WITH%20CAMIRA/Blazer/certificates/Camira_Environmental_Policy.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": null,
+    "installation_risks_description": "",
+    "substances_of_concern": null,
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": null,
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 0,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": true,
+    "factory_finished_description": "Made from 100% virgin wool, Blazer is natural and renewable. Suitable for soft seating, task seating, screens and panels.",
+    "manufacturing_locations": [
+      {
+        "id": 216,
+        "location_name": "Huddersfield, UK",
+        "location_lat": 53.645792,
+        "location_lon": -1.785035,
+        "component": "wool",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 273,
+        "location_name": "Whanganui, New Zealand",
+        "location_lat": -39.933072,
+        "location_lon": 175.028608,
+        "material": "Wool",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 266,
+        "location_name": "Huddersfield, UK",
+        "location_lat": 53.645792,
+        "location_lon": -1.785035,
+        "location_state": " UK",
+        "location_city": "Huddersfield"
+      }
+    ],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 0,
+    "section_D_score": 25,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 196,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AT%20WORK%20WITH%20CAMIRA/Blazer/compliance/Blazer_AS3837_Group2.pdf",
+        "link": "https://atworkwithcamira.com/fabric/fcid/2/",
+        "rating": "2"
+      }
+    ],
+    "type_of_packaging": "",
+    "files": []
+  }
+]

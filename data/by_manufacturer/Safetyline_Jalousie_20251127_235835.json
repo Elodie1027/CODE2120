@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1283,
+    "company": {
+      "id": 134,
+      "name": "SAFETYLINE JALOUSIE"
+    },
+    "image": "products/SAFETYLINE JALOUSIE/BVN_MLCBurwood_Exterior_343_Guthrie.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-06-23T02:09:58.494841+00:00",
+    "last_update": "2025-06-22T14:00:00+00:00",
+    "created_by": {
+      "id": 114,
+      "email": "msaliba@safetylinejalousie.com.au"
+    },
+    "updated_by": {
+      "id": 114,
+      "email": "msaliba@safetylinejalousie.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Safetyline Jalousie",
+    "product_name": "Sj Jalousie",
+    "product_code": "SJ Jalousie",
+    "product_description": "The original performance louvre window by Safetyline Jalousie",
+    "product_categories": [
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "Custom made - up to 1400m wide, louvre blades 135mm intervals",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Average 6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4674,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/safetyline-jalousie-louvre-window",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4675,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/certificates/Safetyline_Jalousie-_Platinum_cert.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4676,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/certificates/Safetyline_Jalousie-_Platinum_cert_6HQI267.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4677,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/certificates/Safetyline_Jalousie-_Platinum_cert_JMCa3YU.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "The aluminium, glass, and stainless steel components used in Safetyline Jalousie louvre windows are all recyclable through existing Australian recycling infrastructure. The system’s design allows for easy disassembly, ensuring materials can be separated and diverted from landfill.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "offcuts are either reused or recycled to avoid landfill.\r\nWherever possible, aluminium and glass offcuts are repurposed in the production of other windows or used for samples. Safetyline Jalousie also has a comprehensive recycling plan in place at our facility, ensuring all aluminium, glass, metal components, and packaging materials are sorted and sent to appropriate recycling streams.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Through the use of Hydro Circal 75R Recycled, Low Carbon Aluminium for Framing",
+    "recycling_process_description": "Safetyline Jalousie louvre windows can be disassembled into aluminium, glass, and stainless steel components. These materials can either be reused or reprocessed — for example, aluminium can be remelted and returned to its original raw state, supporting closed-loop recycling.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Yes, Safetyline Jalousie louvre windows are designed for demountability and reuse.\r\nThe prefabricated system can be removed and reused where appropriate. If full reuse isn't possible, the main components — aluminium framing, glass, and stainless steel fixings — can be separated and recycled at end-of-life, supporting circular economy outcomes.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To minimise offcuts and material wastage, we recommend aligning window set-outs with our standard louvre module sizes.\r\nSafetyline Jalousie louvre windows are prefabricated to order, so optimising the opening dimensions to suit our standard blade lengths and frame configurations helps reduce cutting and waste during production. Early engagement with our team during the design phase also ensures more efficient manufacturing and better material yield.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4674,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/safetyline-jalousie-louvre-window",
+        "rating": "undefined"
+      },
+      {
+        "id": 4675,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/certificates/Safetyline_Jalousie-_Platinum_cert.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4676,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/certificates/Safetyline_Jalousie-_Platinum_cert_6HQI267.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4677,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/certificates/Safetyline_Jalousie-_Platinum_cert_JMCa3YU.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Unsure",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 45,
+    "manufacturers_warranty_years": 6,
+    "factory_finished": true,
+    "factory_finished_description": "No assembly required - Supplied as a complete system, framed and glazed. Easy and fast installation using screws through the prepunched fixing holes in the upright sections.",
+    "manufacturing_locations": [
+      {
+        "id": 2388,
+        "location_name": "Mona Vale NSW, Australia",
+        "location_lat": -33.679273,
+        "location_lon": 151.30272,
+        "component": "Cutting, punching, glazing & assembly of the louvre window system",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2914,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Glass",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 2915,
+        "location_name": "Klang, Selangor, Malaysia",
+        "location_lat": 3.039216,
+        "location_lon": 101.441882,
+        "material": "Aluminium",
+        "product_percentage": 35.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1970,
+        "location_name": "Mona Vale NSW, Australia",
+        "location_lat": -33.679273,
+        "location_lon": 151.30272,
+        "location_state": " Australia",
+        "location_city": "Mona Vale NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "The aluminium components are available in three surface finishes  - powder coat, high-performance powder coated, or anodised.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "There are several features of SJ Jalousie louvre windows that contribute to human health, climate resilience, and circularity.\r\n\r\nDurability & longevity: Manufactured with stainless steel fixings and low-carbon aluminium (Hydro CIRCAL or REDUXA), SJ Jalousie is designed for long-term performance, even in demanding environments such as coastal or cyclone-prone areas.\r\n\r\nHealth & performance: The system promotes natural ventilation and daylight to enhance indoor environmental quality, while its airtightness and weather resistance support energy efficiency and occupant comfort.\r\n\r\nSafety & security: With built-in safety features and secure design, SJ Jalousie suits a wide range of applications — from residential to commercial and government projects.\r\n\r\nCircularity: The product is fully demountable, and all primary components can be separated and recycled through established onshore recycling facilities.\r\n\r\nLocal manufacturing: Assembled in Australia under ethical conditions, reducing embodied emissions and supporting the local economy.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "The louvre units are packed on recycled (and re-usable) timber pine pallets with recycled stretch wrap made with 25% post-consumer resin and certified recyled contend (which is also 100% thin-film recyclable.",
+    "files": [
+      {
+        "id": 3598,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/RecycledContent/NEPD-5009-4263_1-kg-CIRCAL-Aluminium-extrusion-ingot-from-the-Azuqueca--Clervaux--and-Wrexham-aluminium-recycling-plants.pdf"
+      },
+      {
+        "id": 3599,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/RecycledContent/NEPD-5009-4263_1-kg-CIRCAL-Aluminium-extrusion-ingot-from-the-Azuqueca--Clervaux--and-Wrexham-aluminium-recycling-plants_7atDmgd.pdf"
+      },
+      {
+        "id": 3600,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Jalousie/RecycledContent/NEPD-5009-4263_1-kg-CIRCAL-Aluminium-extrusion-ingot-from-the-Azuqueca--Clervaux--and-Wrexham-aluminium-recycling-plants_a1cA3X3.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1284,
+    "company": {
+      "id": 134,
+      "name": "SAFETYLINE JALOUSIE"
+    },
+    "image": "products/SAFETYLINE JALOUSIE/BVN_MLCBurwood_Exterior_343_Guthrie_3Gp3fxb.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-06-23T04:15:31.376093+00:00",
+    "last_update": "2025-06-22T14:00:00+00:00",
+    "created_by": {
+      "id": 114,
+      "email": "msaliba@safetylinejalousie.com.au"
+    },
+    "updated_by": {
+      "id": 114,
+      "email": "msaliba@safetylinejalousie.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Safetyline Jalousie",
+    "product_name": "Sj Espacer",
+    "product_code": "SJ Espacer",
+    "product_description": "Thermally Broken Large Format Louvre System",
+    "product_categories": [
+      {
+        "id": 19,
+        "category_name": "Windows & Doors"
+      }
+    ],
+    "standard_dimensions": "Custom made  - up to 1500mm wide, louvre blades 235mm intervals",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Average 6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "The aluminium, glass, and stainless steel components used in Safetyline Jalousie louvre windows are all recyclable through existing Australian recycling infrastructure. The system’s design allows for easy disassembly, ensuring materials can be separated and diverted from landfill.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Frame is constructed from Hydro CIRCAL 75R aluminium made from a minium of 75% post-consumer aluminium scrap.",
+    "recycling_process_description": "Safetyline Jalousie louvre windows can be disassembled into aluminium, glass, and stainless steel components. These materials can either be reused or reprocessed — for example, aluminium can be remelted and returned to its original raw state, supporting closed-loop recycling.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Yes, Safetyline Jalousies SJ Espacer louvre windows are designed for demountability and reuse. The prefabricated system can be removed and reused where appropriate. If full reuse isn't possible, the main components — aluminium framing, glass, and stainless steel fixings — can be separated and recycled at end-of-life, supporting circular economy outcomes.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To minimise offcuts and material wastage, we recommend aligning window set-outs with our standard louvre module sizes. Safetyline Jalousie louvre windows are prefabricated to order, so optimising the opening dimensions to suit our standard blade lengths and frame configurations helps reduce cutting and waste during production. Early engagement with our team during the design phase also ensures more efficient manufacturing and better material yield.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Unsure",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "No assembly required - Supplied as a complete system, framed and glazed.",
+    "manufacturing_locations": [
+      {
+        "id": 2389,
+        "location_name": "Mona Vale NSW, Australia",
+        "location_lat": -33.679273,
+        "location_lon": 151.30272,
+        "component": "Cutting, punching, glazing & assembly of the louvre window system",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2916,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Glass",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 2917,
+        "location_name": "Clervaux, Luxembourg",
+        "location_lat": 50.054923,
+        "location_lon": 6.031195,
+        "material": "Alumiunium",
+        "product_percentage": 35.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1971,
+        "location_name": "Mona Vale NSW, Australia",
+        "location_lat": -33.679273,
+        "location_lon": 151.30272,
+        "location_state": " Australia",
+        "location_city": "Mona Vale NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "The aluminium components are available in three surface finishes  - Powder coated, high performance powder coated or anodized",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "The SJ Espacer supports human health by maximising natural ventilation and daylight, reducing reliance on mechanical systems. Its frame is manufactured using Hydro CIRCAL, a low-carbon aluminium made from a minimum of 75% recycled post-consumer scrap, significantly lowering embodied emissions. Designed and assembled in Australia, the system promotes local jobs and supply chain transparency. Prefabrication minimises waste and enables circularity through easier disassembly and material recovery at end-of-life.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "The louvre units are packed on recycled (and re-usable) timber pine pallets with recycled stretch wrap made with 25% post-consumer resin and certified recyled contend (which is also 100% thin-film recyclable.",
+    "files": [
+      {
+        "id": 3601,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SAFETYLINE%20JALOUSIE/Sj%20Espacer/RecycledContent/NEPD-5009-4263_1-kg-CIRCAL-Aluminium-extrusion-ingot-from-the-Azuqueca--Clervaux--and-Wrexham-aluminium-recycling-plants.pdf"
+      }
+    ]
+  }
+]

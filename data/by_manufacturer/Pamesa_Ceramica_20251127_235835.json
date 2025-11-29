@@ -1,0 +1,2828 @@
+[
+  {
+    "id": 253,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Lifefull_Tropic.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-06-29T05:36:36.337775+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pamesa Ceramica",
+    "product_name": "Lifefull Tropic",
+    "product_code": "2303",
+    "product_description": "A vibrant collection full of life, elegance and style.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "600x1200mm",
+    "price_per_unit": 59.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $59/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 504,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/certificates/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 505,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2525,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2526,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 9.63,
+    "upfront_carbon_emissions": 9.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Module was not assessed in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 504,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/certificates/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 505,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2525,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2526,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish, also available in Nature.",
+    "manufacturing_locations": [
+      {
+        "id": 320,
+        "location_name": "Valencia, Spain",
+        "location_lat": 39.469908,
+        "location_lon": -0.376288,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 431,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including carbonates, quartz, borates, silicates, zirconium oxide, clays, zinc oxide)",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 430,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, feldspar, sand, kaolin, deflocculant, unfired and fired tile scrap)",
+        "product_percentage": 96.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 353,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Packaged in primary cardboard packs and wood pallets. Then they are covered with film.",
+    "files": [
+      {
+        "id": 397,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/VOC/Pamesa_FloorScore.pdf"
+      },
+      {
+        "id": 398,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/LCA/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf"
+      },
+      {
+        "id": 2219,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/RecycledContent/SELF-DECLARATION_BIa.pdf"
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Lifefull_Nature.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-06T02:07:37.210721+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pamesa Ceramica",
+    "product_name": "Lifefull Nature",
+    "product_code": "2304",
+    "product_description": "A vibrant collection full of life, elegance and style.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "600x1200mm",
+    "price_per_unit": 59.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $59/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 506,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/certificates/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 507,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2527,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Nature/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2528,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Nature/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 9.63,
+    "upfront_carbon_emissions": 9.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Module was not assessed in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 506,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/certificates/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 507,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Tropic/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2527,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Nature/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2528,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Nature/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish, also available in Tropic.",
+    "manufacturing_locations": [
+      {
+        "id": 321,
+        "location_name": "Valencia, Spain",
+        "location_lat": 39.469908,
+        "location_lon": -0.376288,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 432,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including carbonates, quartz, borates, silicates, zirconium oxide, clays, zinc oxide)",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 433,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, feldspar, sand, kaolin, deflocculant, unfired and fired tile scrap)",
+        "product_percentage": 96.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 379,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Packaged in primary cardboard packs and wood pallets. Then they are covered with film.",
+    "files": [
+      {
+        "id": 401,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Nature/VOC/Pamesa_FloorScore.pdf"
+      },
+      {
+        "id": 402,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Nature/LCA/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf"
+      },
+      {
+        "id": 2220,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Lifefull%20Nature/RecycledContent/SELF-DECLARATION_BIa.pdf"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/AT._FORALL_WHITE_60X120_1_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-03T03:49:02.088889+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pamesa Ceramica",
+    "product_name": "Forall White",
+    "product_code": "2305",
+    "product_description": "Porcelain stoneware  with a luxurious and sophisticated pattern effect",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "600x1200mm",
+    "price_per_unit": 51.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $51/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 713,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Forall%20White/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 714,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Forall%20White/certificates/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2529,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Forall%20White/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2530,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Forall%20White/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 9.63,
+    "upfront_carbon_emissions": 9.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Module was not assessed in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 713,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Forall%20White/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 714,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Forall%20White/certificates/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2529,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Forall%20White/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2530,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Forall%20White/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish",
+    "manufacturing_locations": [
+      {
+        "id": 395,
+        "location_name": "Valencia, Spain",
+        "location_lat": 39.473834,
+        "location_lon": -0.375635,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 590,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, feldspar, sand, kaolin, deflocculant, unfired and fired tile scrap)",
+        "product_percentage": 96.0
+      },
+      {
+        "id": 591,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including carbonates, quartz, borates, silicates, zirconium oxide, clays, zinc oxide)",
+        "product_percentage": 4.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 482,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Packaged in primary cardboard packs and wood pallets. Then they are covered with film.",
+    "files": [
+      {
+        "id": 595,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Forall%20White/VOC/Pamesa_FloorScore.pdf"
+      },
+      {
+        "id": 596,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Forall%20White/LCA/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf"
+      },
+      {
+        "id": 2221,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Forall%20White/RecycledContent/SELF-DECLARATION_BIa.pdf"
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Grove_White.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-03T05:04:38.980887+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pamesa Ceramica",
+    "product_name": "Grove White",
+    "product_code": "2306",
+    "product_description": "Elegant wood look collection inspired by the beauty of nature",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "200x1200mm",
+    "price_per_unit": 50.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $50/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 717,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20White/certificates/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 718,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20White/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "FloorScore",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2531,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20White/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2532,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20White/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 9.63,
+    "upfront_carbon_emissions": 9.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Module was not assessed in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 717,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20White/certificates/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 718,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20White/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "FloorScore"
+      },
+      {
+        "id": 2531,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20White/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2532,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20White/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish, also available in Brown and Tan",
+    "manufacturing_locations": [
+      {
+        "id": 396,
+        "location_name": "Valencia, Spain",
+        "location_lat": 39.473834,
+        "location_lon": -0.375635,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 592,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, feldspar, sand, kaolin, deflocculant, unfired and fired tile scrap)",
+        "product_percentage": 96.0
+      },
+      {
+        "id": 593,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including carbonates, quartz, borates, silicates, zirconium oxide, clays, zinc oxide)",
+        "product_percentage": 4.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 483,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Packaged in primary cardboard packs and wood pallets. Then they are covered with film.",
+    "files": [
+      {
+        "id": 599,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20White/VOC/Pamesa_FloorScore.pdf"
+      },
+      {
+        "id": 600,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20White/LCA/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf"
+      },
+      {
+        "id": 2222,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20White/RecycledContent/SELF-DECLARATION_BIa.pdf"
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Grove_Brown.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-03T05:27:16.981363+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pamesa Ceramica",
+    "product_name": "Grove Brown",
+    "product_code": "2309",
+    "product_description": "Elegant wood look collection inspired by the beauty of nature",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "200x1200mm",
+    "price_per_unit": 50.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $50/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2534,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Brown/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 721,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Brown/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "FloorScore",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 722,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Brown/certificates/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2533,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Brown/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 9.63,
+    "upfront_carbon_emissions": 9.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Module was not assessed in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2534,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Brown/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 721,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Brown/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "FloorScore"
+      },
+      {
+        "id": 722,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Brown/certificates/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2533,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Brown/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish, also available in White and Tan",
+    "manufacturing_locations": [
+      {
+        "id": 397,
+        "location_name": "Valencia, Spain",
+        "location_lat": 39.473834,
+        "location_lon": -0.375635,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 594,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, feldspar, sand, kaolin, deflocculant, unfired and fired tile scrap)",
+        "product_percentage": 96.0
+      },
+      {
+        "id": 595,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including carbonates, quartz, borates, silicates, zirconium oxide, clays, zinc oxide)",
+        "product_percentage": 4.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 484,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Packaged in primary cardboard packs and wood pallets. Then they are covered with film.",
+    "files": [
+      {
+        "id": 603,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Brown/VOC/Pamesa_FloorScore.pdf"
+      },
+      {
+        "id": 604,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Brown/LCA/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf"
+      },
+      {
+        "id": 2223,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Brown/RecycledContent/SELF-DECLARATION_BIa.pdf"
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Grove_Tan.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-03T05:32:00.858284+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pamesa Ceramica",
+    "product_name": "Grove Tan",
+    "product_code": "2310",
+    "product_description": "Elegant wood look collection inspired by the beauty of nature",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "200x1200mm",
+    "price_per_unit": 50.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $50/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2535,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Tan/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2536,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Tan/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 725,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Tan/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "FloorScore",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 726,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Tan/certificates/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 9.63,
+    "upfront_carbon_emissions": 9.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Module was not assessed in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2535,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Tan/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2536,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Tan/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 725,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Tan/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "FloorScore"
+      },
+      {
+        "id": 726,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Tan/certificates/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish, also available in Brown and White",
+    "manufacturing_locations": [
+      {
+        "id": 398,
+        "location_name": "Valencia, Spain",
+        "location_lat": 39.473834,
+        "location_lon": -0.375635,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 596,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, feldspar, sand, kaolin, deflocculant, unfired and fired tile scrap)",
+        "product_percentage": 96.0
+      },
+      {
+        "id": 597,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including carbonates, quartz, borates, silicates, zirconium oxide, clays, zinc oxide)",
+        "product_percentage": 4.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 485,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Packaged in primary cardboard packs and wood pallets. Then they are covered with film.",
+    "files": [
+      {
+        "id": 607,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Tan/VOC/Pamesa_FloorScore.pdf"
+      },
+      {
+        "id": 608,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Tan/LCA/GlobalEPD_002-013_renovacion_1_ESP_ENG.pdf"
+      },
+      {
+        "id": 2224,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Grove%20Tan/RecycledContent/SELF-DECLARATION_BIa.pdf"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/WALNUT_TAN_20X120_A.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-09T23:43:58.540765+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pamesa Ceramica",
+    "product_name": "Walnut Tan",
+    "product_code": "2307",
+    "product_description": "Wood look collection inspired by walnut wood, adding warmth and sophistication to any room",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "200x1200mm",
+    "price_per_unit": 50.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $50/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2537,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Tan/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2538,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Tan/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 778,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Tan/certificates/Pamesa_Ceramica_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 779,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Tan/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "FloorScore",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 9.63,
+    "upfront_carbon_emissions": 9.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Module was not assessed in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2537,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Tan/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2538,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Tan/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 778,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Tan/certificates/Pamesa_Ceramica_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 779,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Tan/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "FloorScore"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish, also available in Argent",
+    "manufacturing_locations": [
+      {
+        "id": 411,
+        "location_name": "Valencia, Spain",
+        "location_lat": 39.473834,
+        "location_lon": -0.375635,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 639,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, feldspar, sand, kaolin, deflocculant, unfired and fired tile scrap)",
+        "product_percentage": 96.0
+      },
+      {
+        "id": 640,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including carbonates, quartz, borates, silicates, zirconium oxide, clays, zinc oxide)",
+        "product_percentage": 4.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 499,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Packaged in primary cardboard packs and wood pallets. The tiles are then covered with film.",
+    "files": [
+      {
+        "id": 634,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Tan/VOC/Pamesa_FloorScore.pdf"
+      },
+      {
+        "id": 635,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Tan/LCA/Pamesa_Ceramica_EPD.pdf"
+      },
+      {
+        "id": 2225,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Tan/RecycledContent/SELF-DECLARATION_BIa.pdf"
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/WALNUT_ARGENT_20X120_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-10T00:00:29.087946+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pamesa Ceramica",
+    "product_name": "Walnut Argent",
+    "product_code": "2308",
+    "product_description": "Wood look collection inspired by walnut wood, adding warmth and sophistication to any room",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "200x1200mm",
+    "price_per_unit": 50.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $50/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2539,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Argent/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2540,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Argent/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 782,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Argent/certificates/Pamesa_Ceramica_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 783,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Argent/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "FloorScore",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 9.63,
+    "upfront_carbon_emissions": 9.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Module was not assessed in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2539,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Argent/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2540,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Argent/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 782,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Argent/certificates/Pamesa_Ceramica_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 783,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Argent/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "FloorScore"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish, also available in Tan",
+    "manufacturing_locations": [
+      {
+        "id": 412,
+        "location_name": "Valencia, Spain",
+        "location_lat": 39.473834,
+        "location_lon": -0.375635,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 641,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, feldspar, sand, kaolin, deflocculant, unfired and fired tile scrap)",
+        "product_percentage": 96.0
+      },
+      {
+        "id": 642,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including carbonates, quartz, borates, silicates, zirconium oxide, clays, zinc oxide)",
+        "product_percentage": 4.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 500,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Packaged in primary cardboard packs and wood pallets. The tiles are then covered with film.",
+    "files": [
+      {
+        "id": 638,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Argent/VOC/Pamesa_FloorScore.pdf"
+      },
+      {
+        "id": 639,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Argent/LCA/Pamesa_Ceramica_EPD.pdf"
+      },
+      {
+        "id": 2226,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Argent/RecycledContent/SELF-DECLARATION_BIa.pdf"
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/10.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-10T00:33:42.448756+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pamesa Ceramica",
+    "product_name": "Walnut Anti Slip",
+    "product_code": "3831",
+    "product_description": "Textured timber look tile inspired by walnut wood",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "200x750mm",
+    "price_per_unit": 40.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $40/m2",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2541,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Anti%20Slip/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2542,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Anti%20Slip/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 786,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Anti%20Slip/certificates/Pamesa_Ceramica_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 787,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Anti%20Slip/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "FloorScore",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 9.63,
+    "upfront_carbon_emissions": 9.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Module was not assessed in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2541,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Anti%20Slip/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2542,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Anti%20Slip/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 786,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Anti%20Slip/certificates/Pamesa_Ceramica_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 787,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Anti%20Slip/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "FloorScore"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Anti slip",
+    "manufacturing_locations": [
+      {
+        "id": 413,
+        "location_name": "Valencia, Spain",
+        "location_lat": 39.473834,
+        "location_lon": -0.375635,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 643,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, feldspar, sand, kaolin, deflocculant, unfired and fired tile scrap)",
+        "product_percentage": 96.0
+      },
+      {
+        "id": 644,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including carbonates, quartz, borates, silicates, zirconium oxide, clays, zinc oxide)",
+        "product_percentage": 4.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 501,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 597,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Anti%20Slip/compliance/Pamesa_Walnut_Anti_Slip_Technical_Sheet.pdf",
+        "link": "",
+        "rating": "R11"
+      }
+    ],
+    "type_of_packaging": "Packaged in primary cardboard packs and wood pallets. The tiles are then covered with film.",
+    "files": [
+      {
+        "id": 642,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Anti%20Slip/VOC/Pamesa_FloorScore.pdf"
+      },
+      {
+        "id": 643,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Anti%20Slip/LCA/Pamesa_Ceramica_EPD.pdf"
+      },
+      {
+        "id": 2227,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Walnut%20Anti%20Slip/RecycledContent/SELF-DECLARATION_BIa.pdf"
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/3547_4273_Pisa_Gold_60x120.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-21T03:25:44.317382+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pamesa Ceramica",
+    "product_name": "Pisa Gold Polished",
+    "product_code": "2302 & 3547",
+    "product_description": "Strong-veined bold design inspired by classical Macchia Vecchia marble.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "600x1200mm and 1200x2800x6mm",
+    "price_per_unit": 131.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $131/m2 inc. GST (1200x2800mm), $69/m2 inc. GST (600x1200mm)",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1195,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/2302_Pisa_Gold_LUX.pdf",
+        "link": "",
+        "rating": "Technical Data",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1196,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/3547_Pisa_Gold_POL.pdf",
+        "link": "",
+        "rating": "Technical Data",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2543,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1190,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1191,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/Pamesa_Ceramica_EPD_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2544,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 9.63,
+    "upfront_carbon_emissions": 9.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be crushed and used as concrete aggregates or road construction.",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "After demolition and deconstruction, ceramic tiles can be crushed and used in a wide range of different applications, such as concrete aggregates or road construction.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Module was not assessed in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1195,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/2302_Pisa_Gold_LUX.pdf",
+        "link": "",
+        "rating": "Technical Data"
+      },
+      {
+        "id": 1196,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/3547_Pisa_Gold_POL.pdf",
+        "link": "",
+        "rating": "Technical Data"
+      },
+      {
+        "id": 2543,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1190,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1191,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/Pamesa_Ceramica_EPD_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2544,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Polished finish.\r\n\r\nAlso available with a matt (1200x2800x6mm) and honed (600x1200mm) finish.",
+    "manufacturing_locations": [
+      {
+        "id": 611,
+        "location_name": "Valencia, Spain",
+        "location_lat": 39.473834,
+        "location_lon": -0.375635,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 862,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including carbonates, quartz, borates, silicates, zirconium oxide, clays, zinc oxide)",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 861,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, feldspar, sand, kaolin, deflocculant, unfired and fired tile scrap)",
+        "product_percentage": 96.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 741,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Packaged in primary cardboard packs and wood pallets. The tiles are then covered with film.",
+    "files": [
+      {
+        "id": 950,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/VOC/Pamesa_FloorScore.pdf"
+      },
+      {
+        "id": 951,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/LCA/Pamesa_Ceramica_EPD_1.pdf"
+      },
+      {
+        "id": 2228,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/RecycledContent/SELF-DECLARATION_BIa.pdf"
+      }
+    ]
+  },
+  {
+    "id": 476,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/3547_4273_Pisa_Gold_60x120.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-21T05:11:21.124127+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Pamesa Ceramica",
+    "product_name": "Pisa Gold Matt",
+    "product_code": "2301",
+    "product_description": "Strong-veined bold design inspired by classical Macchia Vecchia marble.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "1200x2800x6mm",
+    "price_per_unit": 101.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $101/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1192,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1193,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/Pamesa_Ceramica_EPD_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1194,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Matt/certificates/2301_Pisa_Gold_MATT.pdf",
+        "link": "",
+        "rating": "Technical Data",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2545,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Matt/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2546,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Matt/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 9.63,
+    "upfront_carbon_emissions": 9.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be crushed and used as concrete aggregates or road construction.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "After demolition and deconstruction, ceramic tiles can be crushed and used in a wide range of different applications, such as concrete aggregates or road construction.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "Module was not assessed in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1192,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/Pamesa_FloorScore.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1193,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Polished/certificates/Pamesa_Ceramica_EPD_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1194,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Matt/certificates/2301_Pisa_Gold_MATT.pdf",
+        "link": "",
+        "rating": "Technical Data"
+      },
+      {
+        "id": 2545,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Matt/certificates/ISO_14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2546,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Matt/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish.\r\n\r\nAlso available with a polished(600x1200mm and 1200x2800x6mm) and honed (600x1200mm) finish.",
+    "manufacturing_locations": [
+      {
+        "id": 612,
+        "location_name": "Valencia, Spain",
+        "location_lat": 39.473834,
+        "location_lon": -0.375635,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 863,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including carbonates, quartz, borates, silicates, zirconium oxide, clays, zinc oxide)",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 864,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Raw materials (including clay, feldspar, sand, kaolin, deflocculant, unfired and fired tile scrap)",
+        "product_percentage": 96.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 742,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Packaged in primary cardboard packs and wood pallets. The tiles are then covered with film.",
+    "files": [
+      {
+        "id": 954,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Matt/VOC/Pamesa_FloorScore.pdf"
+      },
+      {
+        "id": 955,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Matt/LCA/Pamesa_Ceramica_EPD_1.pdf"
+      },
+      {
+        "id": 2229,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Pisa%20Gold%20Matt/RecycledContent/SELF-DECLARATION_BIa.pdf"
+      }
+    ]
+  }
+]

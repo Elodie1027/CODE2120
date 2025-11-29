@@ -1,0 +1,154 @@
+<!-- templates/index.html -->
+<!doctype html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8" />
+    <title>Eco Material Selector</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="app-header">
+        <div>
+          <h1>Eco Material Selector</h1>
+          <p class="subtitle">Compare materials across hazardous substances, circularity & lifetime, and certifications.</p>
+        </div>
+      </header>
+
+      <main class="wizard-layout">
+        <aside class="wizard-steps">
+          <div class="step-indicator" data-step="1">
+            <span class="step-index">1</span>
+            <div>
+              <div class="step-title">Choose a category</div>
+              <div class="step-desc">Start with the material type you care about</div>
+            </div>
+          </div>
+          <div class="step-indicator" data-step="2">
+            <span class="step-index">2</span>
+            <div>
+              <div class="step-title">Mark “must be excellent” metrics</div>
+              <div class="step-desc">Filter out materials below 80 in these metrics</div>
+            </div>
+          </div>
+          <div class="step-indicator" data-step="3">
+            <span class="step-index">3</span>
+            <div>
+              <div class="step-title">Pick an optional emphasis</div>
+              <div class="step-desc">Optionally highlight one metric</div>
+            </div>
+          </div>
+          <div class="step-indicator" data-step="4">
+            <span class="step-index">4</span>
+            <div>
+              <div class="step-title">See recommendations</div>
+              <div class="step-desc">Review the ranked material list</div>
+            </div>
+          </div>
+        </aside>
+
+        <section class="wizard-content">
+          <section class="step-panel" id="step-1">
+            <h2>Step 1: choose a material category</h2>
+            <p class="step-intro">Pick the category you want to evaluate (flooring, cladding, finishes, etc.).</p>
+
+            <div id="category-list" class="category-grid">
+            </div>
+
+            <div class="wizard-actions">
+              <button class="btn btn-primary" id="to-step-2" disabled>Next: select key metrics</button>
+            </div>
+          </section>
+
+          <section class="step-panel hidden" id="step-2">
+            <h2>Step 2: mark “must be excellent” metrics</h2>
+            <p class="step-intro">
+              Select the dimensions you cannot compromise on (80+ required). You may also skip this step.
+            </p>
+
+            <div id="metric-checklist" class="metric-list">
+            </div>
+
+            <div class="wizard-actions">
+              <button class="btn btn-secondary" id="back-to-1">Back</button>
+              <button class="btn btn-ghost" id="skip-step-2">Skip filtering</button>
+              <button class="btn btn-primary" id="to-step-3">Continue</button>
+            </div>
+          </section>
+
+          <section class="step-panel hidden" id="step-3">
+            <h2>Step 3: optional emphasis</h2>
+            <p class="step-intro">
+              Choose at most one metric to slightly boost (or keep “No additional emphasis”). This only nudges the weights.
+            </p>
+
+            <div id="metric-emphasis-list" class="metric-emphasis-list">
+            </div>
+
+            <div class="wizard-actions">
+              <button class="btn btn-secondary" id="back-to-2">Back</button>
+              <button class="btn btn-ghost" id="skip-step-3">Skip emphasis & compute</button>
+              <button class="btn btn-primary" id="to-step-4">Calculate recommendations</button>
+            </div>
+          </section>
+
+          <section class="step-panel hidden" id="step-4">
+            <h2>Step 4: review recommendations</h2>
+            <p class="step-intro">Left side summarizes your filters/weights, right side shows the ranked materials.</p>
+
+            <div class="results-layout">
+              <aside class="results-summary">
+                <h3>Your filters</h3>
+                <div class="summary-block">
+                  <div class="summary-label">Category</div>
+                  <div class="summary-value" id="summary-category"></div>
+                </div>
+
+                <div class="summary-block">
+                  <div class="summary-label">Metrics marked “excellent”</div>
+                  <ul id="summary-required-metrics"></ul>
+                </div>
+
+                <div class="summary-block">
+                  <div class="summary-label">Weights (after emphasis)</div>
+                  <ul id="summary-weights"></ul>
+                </div>
+
+                <button class="btn btn-secondary btn-small" id="back-to-3">
+                  Adjust emphasis / filters
+                </button>
+              </aside>
+
+              <section class="results-list">
+                <div class="results-header">
+                  <div>
+                    <h3>Matched materials</h3>
+                    <p id="result-count" class="result-count"></p>
+                  </div>
+                  <button class="btn btn-ghost btn-small" id="back-to-1-shortcut">
+                    Start over with a new category
+                  </button>
+                </div>
+
+                <div id="results-container" class="materials-grid">
+                </div>
+              </section>
+            </div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <div id="material-modal" class="modal hidden">
+      <div class="modal-backdrop"></div>
+      <div class="modal-content" role="dialog" aria-modal="true">
+        <button class="modal-close" id="modal-close-btn" aria-label="Close details">×</button>
+        <div id="material-modal-body">
+        </div>
+      </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='main.js') }}"></script>
+  </body>
+</html>

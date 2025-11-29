@@ -1,0 +1,202 @@
+[
+  {
+    "id": 45,
+    "company": {
+      "id": 7,
+      "name": "RC+D"
+    },
+    "image": "products/RC+D/PARIS_DOLPHIN.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-15T05:59:07.762298+00:00",
+    "last_update": "2024-05-07T00:26:33.111927+00:00",
+    "created_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "updated_by": {
+      "id": 69,
+      "email": "media@rc-d.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "China",
+    "product_name": "Paris",
+    "product_code": null,
+    "product_description": "The gentle shimmer and understated charm of the Paris design is inspired by the lights of the Eiffel",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "HandTufted Seamless & HandLoom 4+5m wide",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10-14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Made to measure",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 31,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "component": "Nylon",
+        "component_percentage": 1.0
+      },
+      {
+        "id": 32,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "component": "China",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 47,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Nylon",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 48,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Wool",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 51,
+        "location_name": "Trento, Autonomous Province of Trento, Italy",
+        "location_lat": 46.074779,
+        "location_lon": 11.121749,
+        "material": "Econyl Nylon",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 52,
+        "location_name": "Auckland, New Zealand",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "material": "Wool",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 25,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Paris/compliance/HT_Wool_Nylon_-_88oz_-_Conventional.pdf",
+        "link": "",
+        "rating": null
+      },
+      {
+        "id": 26,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Paris/compliance/HT_Wool_Nylon_-_88oz_-_Conventional_Rqow2ml.pdf",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Plastic",
+    "files": [
+      {
+        "id": 26,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/RC%2BD/Paris/VOC/50_Nylon_50_Wool_88oz_VOC.pdf"
+      }
+    ]
+  }
+]

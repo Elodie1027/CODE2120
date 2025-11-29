@@ -1,0 +1,1571 @@
+[
+  {
+    "id": 514,
+    "company": {
+      "id": 117,
+      "name": "KNAUF GYPSUM PTY LTD"
+    },
+    "image": "products/KNAUF GYPSUM PTD LTD/Picture1.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-03T01:11:46.894798+00:00",
+    "last_update": "2024-10-02T14:00:00+00:00",
+    "created_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "updated_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Knauf Gypsum P/L",
+    "product_name": "Fiberock® Aqua-Tough™",
+    "product_code": "12.70mm & 15.88mm FIBEROCK® Aqua-Tough™",
+    "product_description": "FIBEROCK® Aqua-Tough™ paperless gypsum fibre board",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "1219mmx2438mm - 12.7mm and 15.88mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "products available",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1366,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Fiberock%C2%AE%20Aqua-Tough%E2%84%A2/certificates/779.EPD_for_USG_Fiberock_Brand_Aqua-Tough_AR_Interior_Panels_49Jn8Yw.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1367,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Fiberock%C2%AE%20Aqua-Tough%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Generally gypsum board may be reprocessed into soil conditioner for agricultural and civil works applications",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Using Fiberock interior linings can reduce site waste. This is due to the ability with Fiberock to reuse off-cuts during installation; machining in extra tapers to off-cuts as needed.",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "95%, 85% post industrial gypsum, 10% recycled cellulose",
+    "recycling_process_description": "Generally gypsum board may be reprocessed into soil conditioner for agricultural and civil works applications",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Fiberock linings can be demounted and recovered during demolition, and then be reused again on another structure. Fiberock linings after demounting can have new edge tapers machined in, making reuse achieveable.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "unsure",
+    "transport_emissions_minimisation_techniques": "Products loading on the truck for distribution is maximised and optimised for delivery through our large national distribution network to ensure products leaving the gate to site distance is minimised",
+    "minimisation_design_strategy": "Using Fiberock interior linings can reduce site waste. This is due to the ability with Fiberock to reuse off-cuts during installation; machining in extra tapers to off-cuts as needed.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1366,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Fiberock%C2%AE%20Aqua-Tough%E2%84%A2/certificates/779.EPD_for_USG_Fiberock_Brand_Aqua-Tough_AR_Interior_Panels_49Jn8Yw.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1367,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Fiberock%C2%AE%20Aqua-Tough%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 659,
+        "location_name": "Ohio City, OH, USA",
+        "location_lat": 40.771437,
+        "location_lon": -84.615513,
+        "component": "post industrial gypsum, recycled cellulose",
+        "component_percentage": 95.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 938,
+        "location_name": "Ohio City, OH, USA",
+        "location_lat": 40.771437,
+        "location_lon": -84.615513,
+        "material": "post industrial gypsum ",
+        "product_percentage": 85.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 818,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "location_state": " Australia",
+        "location_city": "Port Melbourne VIC"
+      },
+      {
+        "id": 819,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "location_state": " Australia",
+        "location_city": "Camellia NSW"
+      },
+      {
+        "id": 820,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "location_state": " Australia",
+        "location_city": "Pinkenba QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Fiberock linings can be demounted and recovered during demolition, and then be reused again on another structure. Fiberock linings after demounting can have new edge tapers machined in, making reuse achievable.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Paint system, tiles, vinyl, wall paper, laminates, lead",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Knauf has embraced this challenge with the ambition to become an industry leader in sustainable construction. Our goal is to reach net-zero by 2045 – five years ahead of the Paris agreement. And when Knauf turns 100 in 2034, we will have cut directly controlled CO2 emissions in half.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 763,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Fiberock%C2%AE%20Aqua-Tough%E2%84%A2/compliance/CSIRO_AS-NZS_1530.1_-_non-combustible.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 764,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Fiberock%C2%AE%20Aqua-Tough%E2%84%A2/compliance/13mm_Fiberock__CSIRO_wet_area_cert_13-10-15_IrpazJX.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 765,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Fiberock%C2%AE%20Aqua-Tough%E2%84%A2/compliance/Group_no_report_13mm_16mm_FR.pdf",
+        "link": "",
+        "rating": "Group 1"
+      }
+    ],
+    "type_of_packaging": "Fiberock packaging consists of cardboard edge protectors and wooden pallets for ship freight from the USA.  The products distributed to construction sites in Australia do not have packaging, products sits on plasterboard billets and strapped down for transport.",
+    "files": [
+      {
+        "id": 1117,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Fiberock%C2%AE%20Aqua-Tough%E2%84%A2/VOC/VOC_FR_16_mm.pdf"
+      },
+      {
+        "id": 1118,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Fiberock%C2%AE%20Aqua-Tough%E2%84%A2/LCA/779.EPD_for_USG_Fiberock_Brand_Aqua-Tough_AR_Interior_Panels_zaOeodR.pdf"
+      },
+      {
+        "id": 1119,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Fiberock%C2%AE%20Aqua-Tough%E2%84%A2/ModernSlaveryAssessment/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 1120,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Fiberock%C2%AE%20Aqua-Tough%E2%84%A2/ModernSlaveryActionPlan/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "company": {
+      "id": 117,
+      "name": "KNAUF GYPSUM PTY LTD"
+    },
+    "image": "products/KNAUF GYPSUM PTD LTD/SR1-335x275px_G6ug46x.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-04T00:12:50.025602+00:00",
+    "last_update": "2024-11-25T13:00:00+00:00",
+    "created_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "updated_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Knauf Gypsum P/L",
+    "product_name": "10Mm Sheetrock® One",
+    "product_code": "Various widths, lengths and edge profiles",
+    "product_description": "Lightweight two-in-one application plasterboard for residential walls and ceilings",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Products availabe",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1389,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1391,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/10Mm%20Sheetrock%C2%AE%20One/certificates/USG1033_Plasterboard_EPD_SHEETROCK_ONE_v9.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 2.88,
+    "upfront_carbon_emissions": 2.88,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recycled_content_percentage": "1",
+    "recycled_content_description": "",
+    "recycling_process_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Plasterboard may be demountable if designed into projects specifications",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Recycled water or rainwater plant dependent",
+    "transport_emissions_minimisation_techniques": "Products loading on the truck for distribution is maximised and optimised for delivery through our large national distribution network to ensure products leaving the gate to site distance is minimised",
+    "minimisation_design_strategy": "Height and spacing of studs to correlate with standard full sheet sizes for optimised installation and waste",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1389,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1391,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/10Mm%20Sheetrock%C2%AE%20One/certificates/USG1033_Plasterboard_EPD_SHEETROCK_ONE_v9.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 694,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "component": "Plasterboard ",
+        "component_percentage": 25.0
+      },
+      {
+        "id": 695,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "component": "Plasterboard",
+        "component_percentage": 30.0
+      },
+      {
+        "id": 696,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "component": "Plasterboard",
+        "component_percentage": 45.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 951,
+        "location_name": "Thevenard SA, Australia",
+        "location_lat": -32.144834,
+        "location_lon": 133.657554,
+        "material": "Natural gypsum",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 845,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "location_state": " Australia",
+        "location_city": "Port Melbourne VIC"
+      },
+      {
+        "id": 846,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "location_state": " Australia",
+        "location_city": "Camellia NSW"
+      },
+      {
+        "id": 847,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "location_state": " Australia",
+        "location_city": "Pinkenba QLD"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Paint system, tiles, vinyl, wall paper, laminates, lead",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Knauf has embraced this challenge with the ambition to become an industry leader in sustainable construction. Our goal is to reach net-zero by 2045 – five years ahead of the Paris agreement. And when Knauf turns 100 in 2034, we will have cut directly controlled CO2 emissions in half.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 787,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/compliance/Multistop_Fire_Hazardous.pdf",
+        "link": "",
+        "rating": "Group 1"
+      }
+    ],
+    "type_of_packaging": "The products distributed to construction sites in Australia do not have packaging, products sits on plasterboard billets and strapped down for transport.",
+    "files": [
+      {
+        "id": 1170,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/RecycledContent/Recycled_content_pb_declaration.pdf"
+      },
+      {
+        "id": 1171,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/ModernSlaveryAssessment/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 1172,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/ModernSlaveryActionPlan/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 1173,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/13Mm%20Sheetrock%C2%AE%20Hd/VOC/VOC_Emission___Sheetrock_Ver1.pdf"
+      },
+      {
+        "id": 1175,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/10Mm%20Sheetrock%C2%AE%20One/LCA/USG1033_Plasterboard_EPD_SHEETROCK_ONE_v9.pdf"
+      },
+      {
+        "id": 1176,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/10Mm%20Sheetrock%C2%AE%20One/LCA/USG1033_Plasterboard_EPD_SHEETROCK_ONE_v9_o6eqMw5.pdf"
+      }
+    ]
+  },
+  {
+    "id": 525,
+    "company": {
+      "id": 117,
+      "name": "KNAUF GYPSUM PTY LTD"
+    },
+    "image": "products/KNAUF GYPSUM PTD LTD/Picture2_ZntLza9.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-04T01:17:06.033182+00:00",
+    "last_update": "2024-10-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "updated_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Knauf Gypsum P/L",
+    "product_name": "13Mm Firestop®",
+    "product_code": "Various widths, lengths and edge profiles",
+    "product_description": "Manufactured fire-resistant core, making it an ideal solution for lightweight fire-rated application",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Products availabe",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1396,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1398,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/13Mm%20Firestop%C2%AE/certificates/USG1033_Plasterboard_EPD_Firestop_13mm_v6.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 4.94,
+    "upfront_carbon_emissions": 4.94,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Plasterboard may be demountable if designed into projects specifications",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Recycled water or rainwater plant dependent",
+    "transport_emissions_minimisation_techniques": "Products loading on the truck for distribution is maximised and optimised for delivery through our large national distribution network to ensure products leaving the gate to site distance is minimised",
+    "minimisation_design_strategy": "Height and spacing of studs to correlate with standard full sheet sizes for optimised installation and waste",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1396,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1398,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/13Mm%20Firestop%C2%AE/certificates/USG1033_Plasterboard_EPD_Firestop_13mm_v6.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 700,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "component": "Plasterboard ",
+        "component_percentage": 25.0
+      },
+      {
+        "id": 701,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "component": "Plasterboard",
+        "component_percentage": 30.0
+      },
+      {
+        "id": 702,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "component": "Plasterboard",
+        "component_percentage": 45.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 953,
+        "location_name": "Thevenard SA, Australia",
+        "location_lat": -32.144834,
+        "location_lon": 133.657554,
+        "material": "Natural gypsum",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 851,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "location_state": " Australia",
+        "location_city": "Port Melbourne VIC"
+      },
+      {
+        "id": 852,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "location_state": " Australia",
+        "location_city": "Camellia NSW"
+      },
+      {
+        "id": 853,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "location_state": " Australia",
+        "location_city": "Pinkenba QLD"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Paint system, tiles, vinyl, wall paper, laminates, lead",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Knauf has embraced this challenge with the ambition to become an industry leader in sustainable construction. Our goal is to reach net-zero by 2045 – five years ahead of the Paris agreement. And when Knauf turns 100 in 2034, we will have cut directly controlled CO2 emissions in half.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 790,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/compliance/Multistop_Fire_Hazardous.pdf",
+        "link": "",
+        "rating": "Group 1"
+      },
+      {
+        "id": 791,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/13Mm%20Firestop%C2%AE/compliance/KNA_Firestop_FINAL.pdf",
+        "link": "",
+        "rating": "various FRL, systems dependent"
+      }
+    ],
+    "type_of_packaging": "The products distributed to construction sites in Australia do not have packaging, products sits on plasterboard billets and strapped down for transport.",
+    "files": [
+      {
+        "id": 1186,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/RecycledContent/Recycled_content_pb_declaration.pdf"
+      },
+      {
+        "id": 1187,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/ModernSlaveryAssessment/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 1188,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/ModernSlaveryActionPlan/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 1191,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/13Mm%20Firestop%C2%AE/VOC/VOC_Firestop.pdf"
+      },
+      {
+        "id": 1192,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/13Mm%20Firestop%C2%AE/LCA/USG1033_Plasterboard_EPD_Firestop_13mm_v6.pdf"
+      }
+    ]
+  },
+  {
+    "id": 526,
+    "company": {
+      "id": 117,
+      "name": "KNAUF GYPSUM PTY LTD"
+    },
+    "image": "products/KNAUF GYPSUM PTD LTD/Picture2_ZntLza9.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-04T01:25:56.192786+00:00",
+    "last_update": "2024-10-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "updated_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Knauf Gypsum P/L",
+    "product_name": "16Mm Firestop®",
+    "product_code": "Various widths, lengths and edge profiles",
+    "product_description": "Manufactured fire-resistant core, making it an ideal solution for lightweight fire-rated application",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Products availabe",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1399,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1401,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/16Mm%20Firestop%C2%AE/certificates/USG1033_Plasterboard_EPD_Firestop_16mm_v6.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 5.96,
+    "upfront_carbon_emissions": 5.96,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Plasterboard may be demountable if designed into projects specifications",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Recycled water or rainwater plant dependent",
+    "transport_emissions_minimisation_techniques": "Products loading on the truck for distribution is maximised and optimised for delivery through our large national distribution network to ensure products leaving the gate to site distance is minimised",
+    "minimisation_design_strategy": "Height and spacing of studs to correlate with standard full sheet sizes for optimised installation and waste",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1399,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1401,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/16Mm%20Firestop%C2%AE/certificates/USG1033_Plasterboard_EPD_Firestop_16mm_v6.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 703,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "component": "Plasterboard ",
+        "component_percentage": 25.0
+      },
+      {
+        "id": 704,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "component": "Plasterboard",
+        "component_percentage": 30.0
+      },
+      {
+        "id": 705,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "component": "Plasterboard",
+        "component_percentage": 45.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 954,
+        "location_name": "Thevenard SA, Australia",
+        "location_lat": -32.144834,
+        "location_lon": 133.657554,
+        "material": "Natural gypsum",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 854,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "location_state": " Australia",
+        "location_city": "Port Melbourne VIC"
+      },
+      {
+        "id": 855,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "location_state": " Australia",
+        "location_city": "Camellia NSW"
+      },
+      {
+        "id": 856,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "location_state": " Australia",
+        "location_city": "Pinkenba QLD"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Paint system, tiles, vinyl, wall paper, laminates, lead",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Knauf has embraced this challenge with the ambition to become an industry leader in sustainable construction. Our goal is to reach net-zero by 2045 – five years ahead of the Paris agreement. And when Knauf turns 100 in 2034, we will have cut directly controlled CO2 emissions in half.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 792,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/compliance/Multistop_Fire_Hazardous.pdf",
+        "link": "",
+        "rating": "Group 1"
+      },
+      {
+        "id": 793,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/13Mm%20Firestop%C2%AE/compliance/KNA_Firestop_FINAL.pdf",
+        "link": "",
+        "rating": "various FRL, systems dependent"
+      }
+    ],
+    "type_of_packaging": "The products distributed to construction sites in Australia do not have packaging, products sits on plasterboard billets and strapped down for transport.",
+    "files": [
+      {
+        "id": 1193,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/RecycledContent/Recycled_content_pb_declaration.pdf"
+      },
+      {
+        "id": 1194,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/ModernSlaveryAssessment/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 1195,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/ModernSlaveryActionPlan/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 1196,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/13Mm%20Firestop%C2%AE/VOC/VOC_Firestop.pdf"
+      },
+      {
+        "id": 1198,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/16Mm%20Firestop%C2%AE/LCA/USG1033_Plasterboard_EPD_Firestop_16mm_v6.pdf"
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "company": {
+      "id": 117,
+      "name": "KNAUF GYPSUM PTY LTD"
+    },
+    "image": "products/KNAUF GYPSUM PTD LTD/KEY_shaft_liner_25395616---335x275_en.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-04T01:58:41.068374+00:00",
+    "last_update": "2024-10-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "updated_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Knauf Gypsum P/L",
+    "product_name": "25Mm Shaftlinertm Mouldstop",
+    "product_code": "600mmx3000mm, 600mmx3600mm",
+    "product_description": "Plasterboard that provides fire, sound, water and mould resistance for various applications",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Products availabe",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1408,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1410,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/25Mm%20Shaftlinertm%20Mouldstop/certificates/USG1033_Plasterboard_EPD_Shaftliner_v6.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 8.91,
+    "upfront_carbon_emissions": 8.91,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "",
+    "recycling_process_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Plasterboard may be demountable if designed into projects specifications",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Recycled water or rainwater plant dependent",
+    "transport_emissions_minimisation_techniques": "Products loading on the truck for distribution is maximised and optimised for delivery through our large national distribution network to ensure products leaving the gate to site distance is minimised",
+    "minimisation_design_strategy": "Height and spacing of studs to correlate with standard full sheet sizes for optimised installation and waste",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1408,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1410,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/25Mm%20Shaftlinertm%20Mouldstop/certificates/USG1033_Plasterboard_EPD_Shaftliner_v6.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 712,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "component": "Plasterboard ",
+        "component_percentage": 25.0
+      },
+      {
+        "id": 713,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "component": "Plasterboard",
+        "component_percentage": 30.0
+      },
+      {
+        "id": 714,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "component": "Plasterboard",
+        "component_percentage": 45.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 957,
+        "location_name": "Thevenard SA, Australia",
+        "location_lat": -32.144834,
+        "location_lon": 133.657554,
+        "material": "Natural gypsum",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 863,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "location_state": " Australia",
+        "location_city": "Port Melbourne VIC"
+      },
+      {
+        "id": 864,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "location_state": " Australia",
+        "location_city": "Camellia NSW"
+      },
+      {
+        "id": 865,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "location_state": " Australia",
+        "location_city": "Pinkenba QLD"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Knauf has embraced this challenge with the ambition to become an industry leader in sustainable construction. Our goal is to reach net-zero by 2045 – five years ahead of the Paris agreement. And when Knauf turns 100 in 2034, we will have cut directly controlled CO2 emissions in half.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 802,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/compliance/Multistop_Fire_Hazardous.pdf",
+        "link": "",
+        "rating": "Group 1"
+      },
+      {
+        "id": 805,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/25Mm%20Shaftlinertm%20Mouldstop/compliance/25mm_SL_water_resistance.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 806,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/25Mm%20Shaftlinertm%20Mouldstop/compliance/KNA-001_Shaftliner_Mouldstop_FINAL.pdf",
+        "link": "",
+        "rating": "various FRL, systems dependent"
+      }
+    ],
+    "type_of_packaging": "The products distributed to construction sites in Australia do not have packaging, products sits on plasterboard billets and strapped down for transport.",
+    "files": [
+      {
+        "id": 1211,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/RecycledContent/Recycled_content_pb_declaration.pdf"
+      },
+      {
+        "id": 1212,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/ModernSlaveryAssessment/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 1213,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/ModernSlaveryActionPlan/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 1216,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/25Mm%20Shaftlinertm%20Mouldstop/VOC/VOC_Emission_TestCert_Knauf_Shaftliner_MouldStop_25M1_GBCA.pdf"
+      },
+      {
+        "id": 1217,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/25Mm%20Shaftlinertm%20Mouldstop/LCA/USG1033_Plasterboard_EPD_Shaftliner_v6.pdf"
+      }
+    ]
+  },
+  {
+    "id": 532,
+    "company": {
+      "id": 117,
+      "name": "KNAUF GYPSUM PTY LTD"
+    },
+    "image": "products/KNAUF GYPSUM PTD LTD/KEY_WetAreaBoard---335x275_en.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-04T03:35:34.367313+00:00",
+    "last_update": "2024-10-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "updated_by": {
+      "id": 1234,
+      "email": "thanh.huynh@knauf.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Knauf Gypsum P/L",
+    "product_name": "13Mm Wetstop™",
+    "product_code": "Various widths, lengths and edge profiles",
+    "product_description": "Water resistant core plasterboard, designed for wet area application",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Products availabe",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1417,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1419,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/13Mm%20Wetstop%E2%84%A2/certificates/USG1033_Plasterboard_EPD_Wetstop_13mm_v6.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 4.17,
+    "upfront_carbon_emissions": 4.17,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recycled_content_percentage": "1",
+    "recycled_content_description": "",
+    "recycling_process_description": "Generally plasterboard may be reprocessed into soil conditioner for agricultural and civil works applications by third party",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Plasterboard may be demountable if designed into projects specifications",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Recycled water or rainwater plant dependent",
+    "transport_emissions_minimisation_techniques": "Products loading on the truck for distribution is maximised and optimised for delivery through our large national distribution network to ensure products leaving the gate to site distance is minimised",
+    "minimisation_design_strategy": "Height and spacing of studs to correlate with standard full sheet sizes for optimised installation and waste",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1417,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/certificates/GECA_certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1419,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/13Mm%20Wetstop%E2%84%A2/certificates/USG1033_Plasterboard_EPD_Wetstop_13mm_v6.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 720,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "component": "Plasterboard ",
+        "component_percentage": 25.0
+      },
+      {
+        "id": 721,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "component": "Plasterboard",
+        "component_percentage": 30.0
+      },
+      {
+        "id": 722,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "component": "Plasterboard",
+        "component_percentage": 45.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 962,
+        "location_name": "Thevenard SA, Australia",
+        "location_lat": -32.144834,
+        "location_lon": 133.657554,
+        "material": "Natural gypsum",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 870,
+        "location_name": "Port Melbourne VIC, Australia",
+        "location_lat": -37.836843,
+        "location_lon": 144.927988,
+        "location_state": " Australia",
+        "location_city": "Port Melbourne VIC"
+      },
+      {
+        "id": 871,
+        "location_name": "Camellia NSW, Australia",
+        "location_lat": -33.819575,
+        "location_lon": 151.028942,
+        "location_state": " Australia",
+        "location_city": "Camellia NSW"
+      },
+      {
+        "id": 872,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "location_state": " Australia",
+        "location_city": "Pinkenba QLD"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Paint system, tiles, vinyl, wall paper, laminates, lead",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Knauf has embraced this challenge with the ambition to become an industry leader in sustainable construction. Our goal is to reach net-zero by 2045 – five years ahead of the Paris agreement. And when Knauf turns 100 in 2034, we will have cut directly controlled CO2 emissions in half.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 812,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/compliance/Multistop_Fire_Hazardous.pdf",
+        "link": "",
+        "rating": "Group 1"
+      },
+      {
+        "id": 813,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/10Mm%20Wetstop%E2%84%A2/compliance/10mm_WAB_water_resistance.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "The products distributed to construction sites in Australia do not have packaging, products sits on plasterboard billets and strapped down for transport.",
+    "files": [
+      {
+        "id": 1230,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/RecycledContent/Recycled_content_pb_declaration.pdf"
+      },
+      {
+        "id": 1231,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/ModernSlaveryAssessment/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 1232,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/Multistop%E2%84%A2/ModernSlaveryActionPlan/2023_Knauf_Gypsum_Modern_Slavery_Statement.pdf"
+      },
+      {
+        "id": 1233,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/10Mm%20Wetstop%E2%84%A2/VOC/VOC_Wetstop.pdf"
+      },
+      {
+        "id": 1235,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20GYPSUM%20PTD%20LTD/13Mm%20Wetstop%E2%84%A2/LCA/USG1033_Plasterboard_EPD_Wetstop_13mm_v6.pdf"
+      }
+    ]
+  }
+]

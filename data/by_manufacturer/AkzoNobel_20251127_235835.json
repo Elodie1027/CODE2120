@@ -1,0 +1,2798 @@
+[
+  {
+    "id": 1095,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image_LpDthms.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-28T02:11:02.417244+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "AkzoNobel",
+    "product_name": "Intercure 99",
+    "product_code": "AOA011/AGA046",
+    "product_description": "Primer-Finish-Direct to Metal Polyaspartic",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4029,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Intercure%2099/certificates/1.1.00430.2023_MRPI-EPD_Intercure_99.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 3.9,
+    "upfront_carbon_emissions": 3.9,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4029,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Intercure%2099/certificates/1.1.00430.2023_MRPI-EPD_Intercure_99.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2033,
+        "location_name": "Sunshine VIC, Australia",
+        "location_lat": -37.781263,
+        "location_lon": 144.83273,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2424,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1648,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1649,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1650,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1651,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1652,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1653,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      },
+      {
+        "id": 1654,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3217,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Intercure%2099/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023.pdf"
+      },
+      {
+        "id": 3218,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Intercure%2099/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1097,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image_SqippZW.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-28T02:49:46.038252+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "AkzoNobel",
+    "product_name": "Interfine 878",
+    "product_code": "SZA130/SZA056",
+    "product_description": "Finish-Acrylic Polysiloxane",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4027,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interfine%20878/certificates/1.1.00433.2023_MRPI-EPD_Interfine_878.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 5.67,
+    "upfront_carbon_emissions": 5.67,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4027,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interfine%20878/certificates/1.1.00433.2023_MRPI-EPD_Interfine_878.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2035,
+        "location_name": "Sunshine VIC, Australia",
+        "location_lat": -37.781263,
+        "location_lon": 144.83273,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2426,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1662,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1663,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1664,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1665,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1666,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1667,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      },
+      {
+        "id": 1668,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3221,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interfine%20878/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023.pdf"
+      },
+      {
+        "id": 3222,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interfine%20878/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1098,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image_EEKoEzP.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-28T02:56:59.539309+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "AkzoNobel",
+    "product_name": "Interfine 979",
+    "product_code": "SYA130/SYA056",
+    "product_description": "Finish-Acrylic Polysiloxane",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4025,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interfine%20979/certificates/1.1.00461.2023_MRPI-EPD_Interfine_979_-_979SG.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 5.67,
+    "upfront_carbon_emissions": 5.67,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4025,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interfine%20979/certificates/1.1.00461.2023_MRPI-EPD_Interfine_979_-_979SG.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2036,
+        "location_name": "Sunshine VIC, Australia",
+        "location_lat": -37.781263,
+        "location_lon": 144.83273,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2427,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1669,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1670,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1671,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1672,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1673,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1674,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      },
+      {
+        "id": 1675,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3223,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interfine%20979/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023.pdf"
+      },
+      {
+        "id": 3224,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interfine%20979/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1099,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image_Ota6yYn.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-28T03:03:09.494618+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "AkzoNobel",
+    "product_name": "Intergard 251Hs Red",
+    "product_code": "KGA800/KGA801",
+    "product_description": "Primer-Epoxy",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4024,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Intergard%20251Hs%20Red/certificates/1.1.00114.2020_MRPI-EPD_Intergard_251HS_Intergard_2509_Intershield_4000USP.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 3.63,
+    "upfront_carbon_emissions": 3.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4024,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Intergard%20251Hs%20Red/certificates/1.1.00114.2020_MRPI-EPD_Intergard_251HS_Intergard_2509_Intershield_4000USP.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2037,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2428,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1676,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1677,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1678,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1679,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1680,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1681,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      },
+      {
+        "id": 1682,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3225,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Intergard%20251Hs%20Red/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023.pdf"
+      },
+      {
+        "id": 3226,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Intergard%20251Hs%20Red/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1100,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image_Ehpdqhz.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-28T03:10:06.976133+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "AkzoNobel",
+    "product_name": "Interplus 1180",
+    "product_code": "EHA011/EHA156",
+    "product_description": "Primer-Finish-Epoxy",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4031,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interplus%201180/certificates/1.1.00434.2023_MRPI-EPD_Interplus_1180.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 4.63,
+    "upfront_carbon_emissions": 4.63,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4031,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interplus%201180/certificates/1.1.00434.2023_MRPI-EPD_Interplus_1180.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2038,
+        "location_name": "Sunshine VIC, Australia",
+        "location_lat": -37.781263,
+        "location_lon": 144.83273,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2429,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1683,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1684,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1685,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1686,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1687,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1688,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      },
+      {
+        "id": 1689,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3227,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interplus%201180/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023.pdf"
+      },
+      {
+        "id": 3228,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interplus%201180/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1101,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image_uBKvzy3.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-28T03:15:47.804044+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "AkzoNobel",
+    "product_name": "Interseal 670Hs White",
+    "product_code": "EGB000/EGA659",
+    "product_description": "Surface Tolerant-Surface Tolerant Epoxy",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4028,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interseal%20670Hs%20White/certificates/1.1.00429.2023_MRPI-EPD_Interseal_670HS.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 5.17,
+    "upfront_carbon_emissions": 5.17,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4028,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interseal%20670Hs%20White/certificates/1.1.00429.2023_MRPI-EPD_Interseal_670HS.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2039,
+        "location_name": "Sunshine VIC, Australia",
+        "location_lat": -37.781263,
+        "location_lon": 144.83273,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2430,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1690,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1691,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1692,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1693,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1694,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1695,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      },
+      {
+        "id": 1696,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3229,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interseal%20670Hs%20White/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023.pdf"
+      },
+      {
+        "id": 3230,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interseal%20670Hs%20White/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1102,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image_H3SDMzn.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-28T03:21:46.931805+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "AkzoNobel",
+    "product_name": "Interthane 990",
+    "product_code": "PHA130/PHA046",
+    "product_description": "Finish-Aliphatic Polyurethane",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4032,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interthane%20990/certificates/1.1.00460.2023_MRPI-EPD_Interthane_990.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 3.65,
+    "upfront_carbon_emissions": 3.65,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4032,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interthane%20990/certificates/1.1.00460.2023_MRPI-EPD_Interthane_990.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2040,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2431,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1697,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1698,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1699,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1700,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1701,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1703,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 1702,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3231,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interthane%20990/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023.pdf"
+      },
+      {
+        "id": 3232,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interthane%20990/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1103,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image_bBTvbWQ.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-28T03:27:46.154334+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "AkzoNobel",
+    "product_name": "Interthane 990E",
+    "product_code": "RUA11A/RUA046",
+    "product_description": "Finish-Polyurethane",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4033,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interthane%20990E/certificates/1.1.00515.2024_MRPI_sjabloon_bladen__Interthane_990E.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 4.05,
+    "upfront_carbon_emissions": 4.05,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4033,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interthane%20990E/certificates/1.1.00515.2024_MRPI_sjabloon_bladen__Interthane_990E.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2041,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2432,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1704,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1705,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1706,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1707,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1708,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1709,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      },
+      {
+        "id": 1710,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3233,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interthane%20990E/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023.pdf"
+      },
+      {
+        "id": 3234,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interthane%20990E/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1105,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image_alf45Wg.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-28T03:36:03.128642+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "AkzoNobel",
+    "product_name": "Interzinc 52E Grey",
+    "product_code": "EPA830/EPA833",
+    "product_description": "Rapid Recoat Epoxy Zinc Rich",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4018,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interzinc%2052E%20Grey/certificates/1.1.00113.2020_MRPI-EPD_Interzinc_52E_fUdkLRo.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 11.12,
+    "upfront_carbon_emissions": 11.12,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4018,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interzinc%2052E%20Grey/certificates/1.1.00113.2020_MRPI-EPD_Interzinc_52E_fUdkLRo.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2043,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2434,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1718,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1719,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1720,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1721,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1722,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1723,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      },
+      {
+        "id": 1724,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3235,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interzinc%2052E%20Grey/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023.pdf"
+      },
+      {
+        "id": 3236,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interzinc%2052E%20Grey/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1107,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image_wGLhPh8.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-28T04:01:13.853273+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "AkzoNobel",
+    "product_name": "Intercure 200Hs Grey",
+    "product_code": "EPA208/EPA211",
+    "product_description": "Primer-Rapid Recoat Epoxy",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4019,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Intercure%20200Hs%20Grey/certificates/1.1.00557.2024_MRPI_bladen_Intercure_200HS.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 5.67,
+    "upfront_carbon_emissions": 5.67,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4019,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Intercure%20200Hs%20Grey/certificates/1.1.00557.2024_MRPI_bladen_Intercure_200HS.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 13,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2044,
+        "location_name": "Sunshine VIC, Australia",
+        "location_lat": -37.781263,
+        "location_lon": 144.83273,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2435,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1725,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1726,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1727,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1728,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1729,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1730,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      },
+      {
+        "id": 1731,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3237,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Intercure%20200Hs%20Grey/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023_K2WWSBF.pdf"
+      },
+      {
+        "id": 3238,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Intercure%20200Hs%20Grey/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023_pHckBCY.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1251,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image_4SuHCTP.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-30T01:12:04.270101+00:00",
+    "last_update": "2025-05-29T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "AkzoNobel",
+    "product_name": "Interchar 3120",
+    "product_code": "HFA320/HFA321",
+    "product_description": "Passive Fire Protection-Modified Epoxy Intumescent",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1 day",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4425,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interchar%203120/certificates/1.1.00177.2020_MRPI-EPD_International_Interchar_3120.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 6.47,
+    "upfront_carbon_emissions": 6.47,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4425,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interchar%203120/certificates/1.1.00177.2020_MRPI-EPD_International_Interchar_3120.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2327,
+        "location_name": "Cikarang Utara, Bekasi Regency, West Java, Indonesia",
+        "location_lat": -6.258593,
+        "location_lon": 107.147072,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2824,
+        "location_name": "Cikarang Utara, Bekasi Regency, West Java, Indonesia",
+        "location_lat": -6.258593,
+        "location_lon": 107.147072,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1891,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1892,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1893,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1894,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1895,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1896,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      },
+      {
+        "id": 1897,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3497,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interchar%203120/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023.pdf"
+      },
+      {
+        "id": 3498,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interchar%203120/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1252,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image_RgZnec4.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-30T01:25:22.778215+00:00",
+    "last_update": "2025-05-29T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "AkzoNobel",
+    "product_name": "Interthane 870",
+    "product_code": "QGA100/QGA046",
+    "product_description": "Finish-Polyurethane",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1 day",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4426,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interthane%20870/certificates/1.1.00432.2023_MRPI-EPD_Interthane_870.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 2.85,
+    "upfront_carbon_emissions": 2.85,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4426,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interthane%20870/certificates/1.1.00432.2023_MRPI-EPD_Interthane_870.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2328,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2825,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1898,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1899,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1900,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1901,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1902,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1903,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      },
+      {
+        "id": 1904,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3499,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interthane%20870/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023.pdf"
+      },
+      {
+        "id": 3500,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interthane%20870/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023.pdf"
+      }
+    ]
+  }
+]

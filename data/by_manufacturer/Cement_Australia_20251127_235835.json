@@ -1,0 +1,212 @@
+[
+  {
+    "id": 271,
+    "company": {
+      "id": 100,
+      "name": "CEMENT AUSTRALIA PTY LTD"
+    },
+    "image": "products/CEMENT AUSTRALIA PTY LTD/Screenshot_2024-07-04_115528.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-04T01:32:17.105758+00:00",
+    "last_update": "2024-07-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1101,
+      "email": "martin.lynch@cemaust.com.au"
+    },
+    "updated_by": {
+      "id": 1101,
+      "email": "martin.lynch@cemaust.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Cement Australia",
+    "product_name": "Low Carbon Cement 20Kg",
+    "product_code": "18211",
+    "product_description": "A replacement for GP Cement with 30% less carbon and comparable strength performance and workability",
+    "product_categories": [
+      {
+        "id": 7,
+        "category_name": "Concrete"
+      },
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      },
+      {
+        "id": 8,
+        "category_name": "Masonry"
+      }
+    ],
+    "standard_dimensions": "20kg",
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "In stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 481,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CEMENT%20AUSTRALIA%20PTY%20LTD/Low%20Carbon%20Cement%2020Kg/certificates/EPD_Low_Carbon_Cement.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": 0.0,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Low Carbon Cement is used to create concrete or mortar which can be recycled into other construction materials at concrete recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Low Carbon Cement is used to create concrete or mortar which can be recycled into other construction materials at concrete recycling facilities",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "The product contains fly ash which is a waste product from coal fired power stations and is compliant to AS3582.1",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Low Carbon Cement is used to create concrete or mortar which can be recycled into other construction materials at concrete recycling facilities",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 481,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CEMENT%20AUSTRALIA%20PTY%20LTD/Low%20Carbon%20Cement%2020Kg/certificates/EPD_Low_Carbon_Cement.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 312,
+        "location_name": "Gladstone QLD, Australia",
+        "location_lat": -23.842649,
+        "location_lon": 151.248859,
+        "component": "Cement",
+        "component_percentage": 70.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 425,
+        "location_name": "Gladstone QLD, Australia",
+        "location_lat": -23.842649,
+        "location_lon": 151.248859,
+        "material": "Fly Ash",
+        "product_percentage": 30.0
+      },
+      {
+        "id": 424,
+        "location_name": "Gladstone QLD, Australia",
+        "location_lat": -23.842649,
+        "location_lon": 151.248859,
+        "material": "Cement",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 364,
+        "location_name": "West Footscray VIC, Australia",
+        "location_lat": -37.800671,
+        "location_lon": 144.871665,
+        "location_state": " Australia",
+        "location_city": "West Footscray VIC"
+      },
+      {
+        "id": 365,
+        "location_name": "Clyde NSW, Australia",
+        "location_lat": -33.833407,
+        "location_lon": 151.018731,
+        "location_state": " Australia",
+        "location_city": "Clyde NSW"
+      },
+      {
+        "id": 366,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "location_state": " Australia",
+        "location_city": "Pinkenba QLD"
+      }
+    ],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Cement Australia has developed a new product called Low Carbon Cement in 20kg bags as a direct replacement for GP Cement 20kg bags.  Low Carbon Cement is a blend of GP Cement, Fly Ash and proprietary additives to achieve a product that provides both a 30% carbon reduction relative to GP Cement, whilst also maintaining comparable strength performance and workability to GP Cement.  Cement Australia has already received positive feedback from a number of field trials across Melbourne indicating that there was no difference in performance to GP.  Low Carbon Cement complies with the Type GB requirements of Australian Standard AS3972 and will be supported by an independently verified Environmental Product Declaration (EPD).  \r\n\r\nCement Australia is leading the construction industry with a clear solution to reduce embodied carbon in concrete and mortar without compromising on strength performance or compliance to Australian Standards, and support our societies need to decarbonisation and reach net zero emissions by 2050.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Paper sacks are used for packaging which can be recycled",
+    "files": []
+  }
+]

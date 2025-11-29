@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1257,
+    "company": {
+      "id": 183,
+      "name": "PLITEQ AUSTRALIA PTY LTD."
+    },
+    "image": "products/PLITEQ AUSTRALIA PTY LTD./Pliteq-Product-GenieMat-FF.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-06-03T20:48:10.856499+00:00",
+    "last_update": "2025-06-03T14:00:00+00:00",
+    "created_by": {
+      "id": 2412,
+      "email": "smccafferty@pliteq.com"
+    },
+    "updated_by": {
+      "id": 2412,
+      "email": "smccafferty@pliteq.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Pliteq",
+    "product_name": "Geniemat Ff",
+    "product_code": "GenieMat FF",
+    "product_description": "Recycled Rubber Continuous Floating Floor Systems for Airborne & Impact Sound & Vibration Isolation",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 28,
+        "category_name": "Other"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Stocked Locally",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4533,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PLITEQ%20AUSTRALIA%20PTY%20LTD./Geniemat%20Ff/certificates/EPD_Pliteq_GenieMat_FF25_HUB-0364_2024-06-03_3_k8Qjm3R.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4534,
+        "certification": "SCS Indoor Advantage",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PLITEQ%20AUSTRALIA%20PTY%20LTD./Geniemat%20Ff/certificates/FloorScore_Pliteq_2025_SCS_J6hvbdF.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4535,
+        "certification": "ISO 14025",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PLITEQ%20AUSTRALIA%20PTY%20LTD./Geniemat%20Ff/certificates/EPD_Pliteq_GenieMat_FF25_HUB-0364_2024-06-03_3_ht2aqvn.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4536,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PLITEQ%20AUSTRALIA%20PTY%20LTD./Geniemat%20Ff/certificates/Pliteq_GenieMat_FF_HPD_ZaAHB5M.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 97.9,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 0.12,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 6.77,
+    "upfront_carbon_emissions": 6.77,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Yes",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Offcuts can be sent back to be reground into raw materials.",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "Post-consumer recycled rubber",
+    "recycling_process_description": "Product can be reprocessed into the same raw material.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Assemblies can be floated, so it is designed for deconstruction.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Product can be taken back and re-ground at our factory for reuse.",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "We deliver to each individual city via water-freight containers, minimising time on road.",
+    "minimisation_design_strategy": "Pliteq can provide in-house takeoffs that minimize offcuts and wastage.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4533,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PLITEQ%20AUSTRALIA%20PTY%20LTD./Geniemat%20Ff/certificates/EPD_Pliteq_GenieMat_FF25_HUB-0364_2024-06-03_3_k8Qjm3R.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4534,
+        "certification": "SCS Indoor Advantage",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PLITEQ%20AUSTRALIA%20PTY%20LTD./Geniemat%20Ff/certificates/FloorScore_Pliteq_2025_SCS_J6hvbdF.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4535,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PLITEQ%20AUSTRALIA%20PTY%20LTD./Geniemat%20Ff/certificates/EPD_Pliteq_GenieMat_FF25_HUB-0364_2024-06-03_3_ht2aqvn.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4536,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PLITEQ%20AUSTRALIA%20PTY%20LTD./Geniemat%20Ff/certificates/Pliteq_GenieMat_FF_HPD_ZaAHB5M.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 80,
+    "manufacturers_warranty_years": 80,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2341,
+        "location_name": "Toronto, ON, Canada",
+        "location_lat": 43.653226,
+        "location_lon": -79.383184,
+        "component": "Recycled Rubber",
+        "component_percentage": 92.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2848,
+        "location_name": "Toronto, ON, Canada",
+        "location_lat": 43.653226,
+        "location_lon": -79.383184,
+        "material": "Recycled Rubber",
+        "product_percentage": 92.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1924,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1925,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1926,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1927,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Adhesives can be avoided in flooring installations to support the recycling and reuse of the product.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Compostable cradle pallets",
+    "files": [
+      {
+        "id": 3526,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PLITEQ%20AUSTRALIA%20PTY%20LTD./Geniemat%20Ff/RecycledContent/EPD_Pliteq_GenieMat_FF25_HUB-0364_2024-06-03.pdf"
+      },
+      {
+        "id": 3529,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PLITEQ%20AUSTRALIA%20PTY%20LTD./Geniemat%20Ff/VOC/EPD_Pliteq_GenieMat_FF25_HUB-0364_2024-06-03_3.pdf"
+      },
+      {
+        "id": 3530,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/PLITEQ%20AUSTRALIA%20PTY%20LTD./Geniemat%20Ff/LCA/EPD_Pliteq_GenieMat_FF25_HUB-0364_2024-06-03_3.pdf"
+      }
+    ]
+  }
+]

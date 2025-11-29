@@ -1,0 +1,271 @@
+[
+  {
+    "id": 1360,
+    "company": {
+      "id": 198,
+      "name": "KNAUF INSULATION PTY LTD"
+    },
+    "image": "products/KNAUF INSULATION PTY LTD/KNA-Wall-Batts-870x569px.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-14T06:42:14.654315+00:00",
+    "last_update": "2025-08-18T14:00:00+00:00",
+    "created_by": {
+      "id": 2629,
+      "email": "stephen.smith@knaufinsulation.com"
+    },
+    "updated_by": {
+      "id": 2629,
+      "email": "stephen.smith@knaufinsulation.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Knauf Insulation",
+    "product_name": "Knauf Insulation Acoustic Batt",
+    "product_code": "883477",
+    "product_description": "Acoustic Insulation for internal partition walls",
+    "product_categories": [
+      {
+        "id": 22,
+        "category_name": "Insulation, Barriers, Membranes, Air tightness systems"
+      }
+    ],
+    "standard_dimensions": "50mm(h) x 600mm (w) x 2700mm (l)",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "From stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5014,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20INSULATION%20PTY%20LTD/Knauf%20Insulation%20Acoustic%20Batt/certificates/Declare_Label.pdf",
+        "link": "https://knauf.com/api/download-center/v1/assets/172498b6-5ad6-45c6-ae6f-c3205e67baef?download=true&country=au&locale=en-AU",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5015,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20INSULATION%20PTY%20LTD/Knauf%20Insulation%20Acoustic%20Batt/certificates/EPD-IES-0014302.pdf",
+        "link": "https://api.environdec.com/api/v1/EPDLibrary/Files/66f71254-5a58-45d3-197f-08dc8a1e81c8/Data",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5016,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20INSULATION%20PTY%20LTD/Knauf%20Insulation%20Acoustic%20Batt/certificates/EUCEB_Certificate_-_Johor_Plant.pdf",
+        "link": "https://knauf.com/api/download-center/v1/assets/ece998fc-4fa4-49bf-aff7-3a2139be31e3?download=true&country=au&locale=en-AU",
+        "rating": "Bio-soluble",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5017,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20INSULATION%20PTY%20LTD/Knauf%20Insulation%20Acoustic%20Batt/certificates/Eurofins_IAC_Gold_Certificate_-_Glass_Mineral_Wool_with_glass_veil_facing.pdf",
+        "link": "https://knauf.com/api/download-center/v1/assets/f847fdd8-3e3e-4c0d-b147-1f30019a0581?download=true&country=au&locale=en-AU",
+        "rating": "Gold",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 0.56,
+    "upfront_carbon_emissions": 0.56,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Easy to be reused in other applications.",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "Whilst our EPD shows a recycled content of 65%, this is for calendar year 2023. YTD average recycled content for 2025 is 82%.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Product is recyclable and can be used following removal from building.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes.",
+    "transport_emissions_minimisation_techniques": "Advanced compression technology is used to optimise amount of product per delivery. Sea freight is used to deliver to ports closest to job site rather than road transport which is much higher in carbon intensity.",
+    "minimisation_design_strategy": "Product is designed to be installed in studwork installed @ 600mm centres without the need for cutting and to minimise offcuts.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5014,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20INSULATION%20PTY%20LTD/Knauf%20Insulation%20Acoustic%20Batt/certificates/Declare_Label.pdf",
+        "link": "https://knauf.com/api/download-center/v1/assets/172498b6-5ad6-45c6-ae6f-c3205e67baef?download=true&country=au&locale=en-AU",
+        "rating": "undefined"
+      },
+      {
+        "id": 5015,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20INSULATION%20PTY%20LTD/Knauf%20Insulation%20Acoustic%20Batt/certificates/EPD-IES-0014302.pdf",
+        "link": "https://api.environdec.com/api/v1/EPDLibrary/Files/66f71254-5a58-45d3-197f-08dc8a1e81c8/Data",
+        "rating": "undefined"
+      },
+      {
+        "id": 5016,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20INSULATION%20PTY%20LTD/Knauf%20Insulation%20Acoustic%20Batt/certificates/EUCEB_Certificate_-_Johor_Plant.pdf",
+        "link": "https://knauf.com/api/download-center/v1/assets/ece998fc-4fa4-49bf-aff7-3a2139be31e3?download=true&country=au&locale=en-AU",
+        "rating": "Bio-soluble"
+      },
+      {
+        "id": 5017,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20INSULATION%20PTY%20LTD/Knauf%20Insulation%20Acoustic%20Batt/certificates/Eurofins_IAC_Gold_Certificate_-_Glass_Mineral_Wool_with_glass_veil_facing.pdf",
+        "link": "https://knauf.com/api/download-center/v1/assets/f847fdd8-3e3e-4c0d-b147-1f30019a0581?download=true&country=au&locale=en-AU",
+        "rating": "Gold"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://knauf.com/api/download-center/v1/assets/f847fdd8-3e3e-4c0d-b147-1f30019a0581?download=true&country=au&locale=en-AU",
+    "expected_lifespan_years": 60,
+    "manufacturers_warranty_years": 0,
+    "factory_finished": true,
+    "factory_finished_description": "Unfaced glasswool insulation batt",
+    "manufacturing_locations": [
+      {
+        "id": 2525,
+        "location_name": "Johor Bahru, Johor, Malaysia",
+        "location_lat": 1.479858,
+        "location_lon": 103.764258,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [],
+    "storage_locations": [
+      {
+        "id": 2067,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2068,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 2069,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2070,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 2071,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://api.environdec.com/api/v1/EPDLibrary/Files/66f71254-5a58-45d3-197f-08dc8a1e81c8/Data",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 2733,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20INSULATION%20PTY%20LTD/Knauf%20Insulation%20Acoustic%20Batt/compliance/FireMark_Certificate_-_AC_100.3_3.pdf",
+        "link": "https://knauf.com/api/download-center/v1/assets/c95270d9-9fcf-43a3-beec-e83d19bc51b7?download=true&country=au",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recyclable LDPE4",
+    "files": [
+      {
+        "id": 3773,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20INSULATION%20PTY%20LTD/Knauf%20Insulation%20Acoustic%20Batt/VOC/Eurofins_IAC_Gold_Certificate_-_Glass_Mineral_Wool_with_glass_veil_facing.pdf"
+      },
+      {
+        "id": 3774,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20INSULATION%20PTY%20LTD/Knauf%20Insulation%20Acoustic%20Batt/LCA/EPD-IES-0014302.pdf"
+      },
+      {
+        "id": 3775,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/KNAUF%20INSULATION%20PTY%20LTD/Knauf%20Insulation%20Acoustic%20Batt/RecycledContent/EPD-IES-0014302.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,942 @@
+[
+  {
+    "id": 1432,
+    "company": {
+      "id": 105,
+      "name": "CATALYSTE AUSTRALIA"
+    },
+    "image": "products/CATALYSTE AUSTRALIA/O2_Velvet_Caramel_Lume_Earth.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-08T04:17:17.818657+00:00",
+    "last_update": "2025-09-07T14:00:00+00:00",
+    "created_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "updated_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "O2+",
+    "product_name": "O2+ Velvet",
+    "product_code": "Matte Solid Colours",
+    "product_description": "Decorative high pressure laminate in solid colours with matte, smudge & stain resistant finish",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "1300 mm x 2440-3050 mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "1-2 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5373,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/certificates/O2_Green_Label_Catalyste_Pte_Ltd_-_042-059-3665_Vaild_till_11_June_2026.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "ABD edging is provided to local Australian recycling plants that turn the waste into other PVC based products like piping etc.",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Catalyste Australia has a take-back program and we can recycle ABS edging by colour.",
+    "water_reduction_techniques": "80",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Specifying the correct board sizes to ensure minimal wastage and max use of the board product",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5373,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/certificates/O2_Green_Label_Catalyste_Pte_Ltd_-_042-059-3665_Vaild_till_11_June_2026.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Supplied as a finished board",
+    "manufacturing_locations": [
+      {
+        "id": 2659,
+        "location_name": "Dettingen an der Erms, Germany",
+        "location_lat": 48.527536,
+        "location_lon": 9.348833,
+        "component": "Kraft Stabilizing Paper",
+        "component_percentage": 70.0
+      },
+      {
+        "id": 2660,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Decorative Printed Paper",
+        "component_percentage": 25.0
+      },
+      {
+        "id": 2661,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Melamine Resin",
+        "component_percentage": 5.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3212,
+        "location_name": "Cheltenham VIC, Australia",
+        "location_lat": -37.965644,
+        "location_lon": 145.057852,
+        "material": "MR MDF",
+        "product_percentage": 75.0
+      },
+      {
+        "id": 3213,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "High Pressure Laminate",
+        "product_percentage": 25.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2274,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2944,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/compliance/FH14483-01_report_O2_deko_Supermatte_BCA_Group_2.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2943,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/compliance/O2_TUV_SUD_PSB_Certificate_of_Conformity_Class_0_Fire_Rating_Valid_until_1_Jul_2029.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled carboard boxes from VISY Australia packaging",
+    "files": [
+      {
+        "id": 4017,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/VOC/O2_Green_Label_Catalyste_Pte_Ltd_-_042-059-3665_Vaild_till_11_June_2026.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1433,
+    "company": {
+      "id": 105,
+      "name": "CATALYSTE AUSTRALIA"
+    },
+    "image": "products/CATALYSTE AUSTRALIA/O2_Timber.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-08T06:18:22.025635+00:00",
+    "last_update": "2025-09-07T14:00:00+00:00",
+    "created_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "updated_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "O2+",
+    "product_name": "O2+ Timber",
+    "product_code": "Matte Coloured Woodgrains",
+    "product_description": "Decorative high pressure laminate with woodgrain texture in a wide range of solid matte colours",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "1300 mm x 2440-3050 mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "1-2 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5374,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/certificates/O2_Green_Label_Catalyste_Pte_Ltd_-_042-059-3665_Vaild_till_11_June_2026.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "ABD edging is provided to local Australian recycling plants that turn the waste into other PVC based products like piping etc.",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Catalyste Australia has a take-back program and we can recycle ABS edging by colour.",
+    "water_reduction_techniques": "80",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Specifying the correct board sizes to ensure minimal wastage and max use of the board product",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5374,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/certificates/O2_Green_Label_Catalyste_Pte_Ltd_-_042-059-3665_Vaild_till_11_June_2026.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Supplied as a finished board",
+    "manufacturing_locations": [
+      {
+        "id": 2662,
+        "location_name": "Dettingen an der Erms, Germany",
+        "location_lat": 48.527536,
+        "location_lon": 9.348833,
+        "component": "Kraft Stabilizing Paper",
+        "component_percentage": 70.0
+      },
+      {
+        "id": 2663,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Decorative Printed Paper",
+        "component_percentage": 25.0
+      },
+      {
+        "id": 2664,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Melamine Resin",
+        "component_percentage": 5.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3214,
+        "location_name": "Cheltenham VIC, Australia",
+        "location_lat": -37.965644,
+        "location_lon": 145.057852,
+        "material": "MR MDF",
+        "product_percentage": 75.0
+      },
+      {
+        "id": 3215,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "High Pressure Laminate",
+        "product_percentage": 25.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2275,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2945,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/compliance/FH14483-01_report_O2_deko_Supermatte_BCA_Group_2.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2946,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/compliance/O2_TUV_SUD_PSB_Certificate_of_Conformity_Class_0_Fire_Rating_Valid_until_1_Jul_2029.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled carboard boxes from VISY Australia packaging",
+    "files": [
+      {
+        "id": 4018,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/VOC/O2_Green_Label_Catalyste_Pte_Ltd_-_042-059-3665_Vaild_till_11_June_2026.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1434,
+    "company": {
+      "id": 105,
+      "name": "CATALYSTE AUSTRALIA"
+    },
+    "image": "products/CATALYSTE AUSTRALIA/O2_Pelle_rFFeJOx.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-08T06:28:10.963127+00:00",
+    "last_update": "2025-09-07T14:00:00+00:00",
+    "created_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "updated_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "O2+",
+    "product_name": "O2+ Pelle",
+    "product_code": "Matte Coloured Leather",
+    "product_description": "Decorative high pressure laminate with  leather texture in a wide range of solid matte colours",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "1300 mm x 2440-3050 mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "1-2 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5375,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/certificates/O2_Green_Label_Catalyste_Pte_Ltd_-_042-059-3665_Vaild_till_11_June_2026.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "ABD edging is provided to local Australian recycling plants that turn the waste into other PVC based products like piping etc.",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Catalyste Australia has a take-back program and we can recycle ABS edging by colour.",
+    "water_reduction_techniques": "80",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Specifying the correct board sizes to ensure minimal wastage and max use of the board product",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5375,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/certificates/O2_Green_Label_Catalyste_Pte_Ltd_-_042-059-3665_Vaild_till_11_June_2026.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Supplied as a finished board",
+    "manufacturing_locations": [
+      {
+        "id": 2665,
+        "location_name": "Dettingen an der Erms, Germany",
+        "location_lat": 48.527536,
+        "location_lon": 9.348833,
+        "component": "Kraft Stabilizing Paper",
+        "component_percentage": 70.0
+      },
+      {
+        "id": 2666,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Decorative Printed Paper",
+        "component_percentage": 25.0
+      },
+      {
+        "id": 2667,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Melamine Resin",
+        "component_percentage": 5.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3216,
+        "location_name": "Cheltenham VIC, Australia",
+        "location_lat": -37.965644,
+        "location_lon": 145.057852,
+        "material": "MR MDF",
+        "product_percentage": 75.0
+      },
+      {
+        "id": 3217,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "High Pressure Laminate",
+        "product_percentage": 25.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2276,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2947,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/compliance/FH14483-01_report_O2_deko_Supermatte_BCA_Group_2.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2948,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/compliance/O2_TUV_SUD_PSB_Certificate_of_Conformity_Class_0_Fire_Rating_Valid_until_1_Jul_2029.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled carboard boxes from VISY Australia packaging",
+    "files": [
+      {
+        "id": 4019,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/VOC/O2_Green_Label_Catalyste_Pte_Ltd_-_042-059-3665_Vaild_till_11_June_2026.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1435,
+    "company": {
+      "id": 105,
+      "name": "CATALYSTE AUSTRALIA"
+    },
+    "image": "products/CATALYSTE AUSTRALIA/DSC02846-819x1024.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-08T06:40:25.145264+00:00",
+    "last_update": "2025-09-07T14:00:00+00:00",
+    "created_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "updated_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "O2+",
+    "product_name": "O2+ Lume",
+    "product_code": "Pearlescent Solid Colours",
+    "product_description": "Decorative high pressure laminate in solid colours with pearlescent finish",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "1300 mm x 2440-3050 mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "1-2 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5376,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/certificates/O2_Green_Label_Catalyste_Pte_Ltd_-_042-059-3665_Vaild_till_11_June_2026.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "ABD edging is provided to local Australian recycling plants that turn the waste into other PVC based products like piping etc.",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Catalyste Australia has a take-back program and we can recycle ABS edging by colour.",
+    "water_reduction_techniques": "80",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Specifying the correct board sizes to ensure minimal wastage and max use of the board product",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5376,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/certificates/O2_Green_Label_Catalyste_Pte_Ltd_-_042-059-3665_Vaild_till_11_June_2026.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Supplied as a finished board",
+    "manufacturing_locations": [
+      {
+        "id": 2668,
+        "location_name": "Dettingen an der Erms, Germany",
+        "location_lat": 48.527536,
+        "location_lon": 9.348833,
+        "component": "Kraft Stabilizing Paper",
+        "component_percentage": 70.0
+      },
+      {
+        "id": 2669,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Decorative Printed Paper",
+        "component_percentage": 25.0
+      },
+      {
+        "id": 2670,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Melamine Resin",
+        "component_percentage": 5.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3218,
+        "location_name": "Cheltenham VIC, Australia",
+        "location_lat": -37.965644,
+        "location_lon": 145.057852,
+        "material": "MR MDF",
+        "product_percentage": 75.0
+      },
+      {
+        "id": 3219,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "High Pressure Laminate",
+        "product_percentage": 25.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2277,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2949,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/compliance/FH14483-01_report_O2_deko_Supermatte_BCA_Group_2.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2950,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/compliance/O2_TUV_SUD_PSB_Certificate_of_Conformity_Class_0_Fire_Rating_Valid_until_1_Jul_2029.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled carboard boxes from VISY Australia packaging",
+    "files": [
+      {
+        "id": 4020,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/O2%2B%20Velvet/VOC/O2_Green_Label_Catalyste_Pte_Ltd_-_042-059-3665_Vaild_till_11_June_2026.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "id": 148,
+    "company": {
+      "id": 51,
+      "name": "DUCKSNEST"
+    },
+    "image": "products/DUCKSNEST/neva_chair_gallery_5-web.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-05-03T01:03:03.894267+00:00",
+    "last_update": "2024-05-09T05:56:02.638595+00:00",
+    "created_by": {
+      "id": 230,
+      "email": "susan@ducksnest.com.au"
+    },
+    "updated_by": {
+      "id": 230,
+      "email": "susan@ducksnest.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Artisan",
+    "product_name": "Artisan Neva Chair",
+    "product_code": "Dining Chair",
+    "product_description": "Solid timber from renewable resources",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "W52 cm x D53 cm x H78 cm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "Trade & Project",
+    "lead_time": "22 - 26 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 280,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DUCKSNEST/Artisan%20Neva%20Chair/certificates/fsc_certifikat_eng_vazi_do_22.06.2026.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Unsure",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "slabs and edgings, sawdust and fuel wood (FSC 100 %),",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 280,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DUCKSNEST/Artisan%20Neva%20Chair/certificates/fsc_certifikat_eng_vazi_do_22.06.2026.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 164,
+        "location_name": "Tešanj, Bosnia and Herzegovina",
+        "location_lat": 44.61457,
+        "location_lon": 17.987743,
+        "component": "Timber",
+        "component_percentage": 90.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 210,
+        "location_name": "Tešanj, Bosnia and Herzegovina",
+        "location_lat": 44.61457,
+        "location_lon": 17.987743,
+        "material": "Timber",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 222,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "location_state": " Australia",
+        "location_city": "Geelong VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Sustainability is at the core of what they do, and all Artisan pieces proudly bear FSC COC certification, ensuring responsible sourcing and manufacturing practices. Emphasising the intrinsic beauty of timber in its purest form, Artisan applies natural finishes, allowing the furniture to breathe and showcasing the natural colour diversity of wood.\r\n\r\nAs an FSC Chain of Custody certified brand, they adhere to the stringent criteria set by the global leader in sustainable forestry, FSC. This certification guarantees that the forest-based materials used in their production, including reclaimed materials, are FSC certified, and their journey is tracked throughout the manufacturing and distribution processes. Artisan also meets FSC’s core labor requirements, ensuring a fair and ethical production environment.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Recycled Cardboard - Storage Production and Sale of Indoor Furniture (FDC Mix) Percentage System",
+    "files": []
+  }
+]

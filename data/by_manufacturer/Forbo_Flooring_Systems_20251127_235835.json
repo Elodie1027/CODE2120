@@ -1,0 +1,593 @@
+[
+  {
+    "id": 207,
+    "company": {
+      "id": 83,
+      "name": "FORBO FLOORING SYSTEMS"
+    },
+    "image": "products/FORBO FLOORING SYSTEMS/Website_Powerpoint-Marmoleum_cocoa_3592_salted_caramel_3_9UHF0VM.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-06-18T23:38:05.542486+00:00",
+    "last_update": "2025-01-09T13:00:00+00:00",
+    "created_by": {
+      "id": 170,
+      "email": "info.au@forbo.com"
+    },
+    "updated_by": {
+      "id": 170,
+      "email": "info.au@forbo.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Forbo Flooring Systems",
+    "product_name": "Marmoleum",
+    "product_code": "3139",
+    "product_description": "Marmoleum - natural linoleum resilient floor covering",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "2m W x 32m L | 2.5 mm thickness",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "14-16 weeks if no stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 366,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://forbo.blob.core.windows.net/forbodocuments/ba153c6c-92f7-49e4-91c2-f095ad6b44fc/Marmoleum%202.0_and_2.5mm%20-%20Forbo%20EPD.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 367,
+        "certification": "Forestry Stewardship Council",
+        "file": null,
+        "link": "https://www.forbo.com/flooring/en-au/downloads/linoleum/p39m8t#panel_2",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 368,
+        "certification": "GECA",
+        "file": null,
+        "link": "https://www.forbo.com/flooring/en-au/downloads/linoleum/p39m8t#panel_2",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 369,
+        "certification": "Health Product Declaration (HPD)",
+        "file": null,
+        "link": "https://www.forbo.com/flooring/en-us/environment/pmwz1i",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -0.66,
+    "upfront_carbon_emissions": -0.66,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Marmoleum can be ground into biodegrable parts for reuse, adhesive residue is removed",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "they can be recycled for use in the same product production.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "EPD - waste wood, recycled Marmoleum, cocoa husks",
+    "recycling_process_description": "Product can be powderised and re used in the backing of new linoleum products",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "EPD",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "In Australia the product can reused for clean energy generation a PEF",
+    "water_reduction_techniques": "10",
+    "transport_emissions_minimisation_techniques": "Centralising logistics to minimise transport, capacity utilisation 100%",
+    "minimisation_design_strategy": "layout of joins",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "SA8000 certified, modern slavery statement",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 366,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://forbo.blob.core.windows.net/forbodocuments/ba153c6c-92f7-49e4-91c2-f095ad6b44fc/Marmoleum%202.0_and_2.5mm%20-%20Forbo%20EPD.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 367,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.forbo.com/flooring/en-au/downloads/linoleum/p39m8t#panel_2",
+        "rating": "undefined"
+      },
+      {
+        "id": 368,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.forbo.com/flooring/en-au/downloads/linoleum/p39m8t#panel_2",
+        "rating": "undefined"
+      },
+      {
+        "id": 369,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.forbo.com/flooring/en-us/environment/pmwz1i",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.forbo.com/flooring/en-au/downloads/linoleum/p39m8t#panel_2",
+    "expected_lifespan_years": 20,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Marmoleum is manufactured with a production-applied occupancy-ready finish called Topshield Pro. The latest technology is a UV-cured double-layer system with scratch resistance and dirt-repellent properties. The floor does NOT require sealing after installation, and floor care is simple.",
+    "manufacturing_locations": [
+      {
+        "id": 233,
+        "location_name": "Assendelft, Netherlands",
+        "location_lat": 52.48706,
+        "location_lon": 4.756064,
+        "component": "Marmoleum",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 300,
+        "location_name": "",
+        "location_lat": 42.259213,
+        "location_lon": 70.029473,
+        "material": "Linseed Oil",
+        "product_percentage": 25.0
+      },
+      {
+        "id": 303,
+        "location_name": "Bangladesh/ India",
+        "location_lat": 42.259213,
+        "location_lon": 70.029473,
+        "material": "Jute (biobased crop)",
+        "product_percentage": 8.0
+      },
+      {
+        "id": 301,
+        "location_name": "Germany",
+        "location_lat": 42.259213,
+        "location_lon": 70.029473,
+        "material": "Wood Flour (bi- product from milling)",
+        "product_percentage": 23.0
+      },
+      {
+        "id": 302,
+        "location_name": "Germany",
+        "location_lat": 42.259213,
+        "location_lon": 70.029473,
+        "material": "Calcium Carbonate",
+        "product_percentage": 21.0
+      },
+      {
+        "id": 304,
+        "location_name": "Amsterdam, Netherlands",
+        "location_lat": 52.367573,
+        "location_lon": 4.904139,
+        "material": "Recycled Marmoleum",
+        "product_percentage": 14.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 299,
+        "location_name": "Wetherill Park NSW 2164, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW 2164"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "water based Low VOC adhesive is required to adhere the floorcovering",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 67,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 224,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://www.forbo.com/flooring/en-au/downloads/linoleum/p39m8t",
+        "rating": "undefined"
+      },
+      {
+        "id": 226,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://www.forbo.com/flooring/en-au/downloads/linoleum/p39m8t#panel_2",
+        "rating": "Complies with AS/ISO 9239-1"
+      },
+      {
+        "id": 227,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://forbo.blob.core.windows.net/forbodocuments/27069/Forbo_Marmoleum_TopshieldPro_Slip_Test_Report.pdf",
+        "rating": "P3"
+      }
+    ],
+    "type_of_packaging": "cardboard and recycled paper",
+    "files": [
+      {
+        "id": 238,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Marmoleum/RecycledContent/Sustainability_report_FFS_2023_final_050324_.pdf"
+      },
+      {
+        "id": 239,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Marmoleum/RecycledContent/Sustainability_report_FFS_2023_final_050324__SPHO1ki.pdf"
+      },
+      {
+        "id": 240,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Marmoleum/LCA/Marmoleum_Sheet_20_25_32_mm_-EPD.pdf"
+      },
+      {
+        "id": 592,
+        "category": "CompostableCertificate",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Marmoleum/CompostableCertificate/Marmoleum_Sheet_20_25_32_mm_-EPD.pdf"
+      },
+      {
+        "id": 593,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Marmoleum/ModernSlaveryAssessment/SA_8000_Krommenie_and_Assendelft_1.pdf"
+      },
+      {
+        "id": 594,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Marmoleum/ModernSlaveryAssessment/Forbo_Modern_Slavery_Statement_Australia.pdf"
+      },
+      {
+        "id": 2843,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Marmoleum/VOC/EMISSIONS_-_VOC_Forbo_Marmoleum_sheet.pdf"
+      },
+      {
+        "id": 2844,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Marmoleum/ModernSlaveryActionPlan/Sustainability_report_FFS_2023_final_050324_.pdf"
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "company": {
+      "id": 83,
+      "name": "FORBO FLOORING SYSTEMS"
+    },
+    "image": "products/FORBO FLOORING SYSTEMS/Sphera_Element_51018_ROOMSHOT.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-16T03:58:20.256272+00:00",
+    "last_update": "2025-01-09T13:00:00+00:00",
+    "created_by": {
+      "id": 170,
+      "email": "info.au@forbo.com"
+    },
+    "updated_by": {
+      "id": 170,
+      "email": "info.au@forbo.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Forbo Flooring Systems",
+    "product_name": "Sphera",
+    "product_code": "50000",
+    "product_description": "Premium homogeneous vinyl collections offering a diverse complete design offer",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "2m W x 25 m L | 2.00 mm thickness",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "In stock or 12-14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 824,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "https://forbo.blob.core.windows.net/forbodocuments/466727/Forbo_Sphera%20Vinyl%20Flooring_GreenRate_Level%20A_Certificate.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 825,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://forbo.blob.core.windows.net/forbodocuments/92a92ff6-84c3-4f12-a05e-a5af457a584c/EPD%20Sphera.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 826,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://forbo.blob.core.windows.net/forbodocuments/1949802/Forbo_Sphera_Declare_Label.jpg",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3490,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Sphera/certificates/Best_Practice_PVC_Forbo_Certificate_of_Compliance_2022.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 1.74,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 5.75,
+    "upfront_carbon_emissions": 5.75,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "Carefully selected raw materials to offer possibilities for re-use after end of life.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Forbo is a founding member of the ResiLoop Product Stewardship Program",
+    "water_reduction_techniques": "100%",
+    "transport_emissions_minimisation_techniques": "Centralising logistics to minimise transport, capacity utilisation 100%",
+    "minimisation_design_strategy": "layout of joins",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://view.publitas.com/forboflooring-com/sustainability-report-2023/",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 824,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://forbo.blob.core.windows.net/forbodocuments/466727/Forbo_Sphera%20Vinyl%20Flooring_GreenRate_Level%20A_Certificate.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 825,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://forbo.blob.core.windows.net/forbodocuments/92a92ff6-84c3-4f12-a05e-a5af457a584c/EPD%20Sphera.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 826,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://forbo.blob.core.windows.net/forbodocuments/1949802/Forbo_Sphera_Declare_Label.jpg",
+        "rating": "undefined"
+      },
+      {
+        "id": 3490,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Sphera/certificates/Best_Practice_PVC_Forbo_Certificate_of_Compliance_2022.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://forbo.blob.core.windows.net/forbodocuments/854433/Forbo_Sphera-TVOC_test_certificate.pdf",
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "SMART-top PU lacquer",
+    "manufacturing_locations": [
+      {
+        "id": 484,
+        "location_name": "Coevorden, Netherlands",
+        "location_lat": 52.661357,
+        "location_lon": 6.741062,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 663,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "PVC",
+        "product_percentage": 43.0
+      },
+      {
+        "id": 664,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Calcium carbonate",
+        "product_percentage": 34.0
+      },
+      {
+        "id": 665,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "DOTP, non-phthalate plasticizer",
+        "product_percentage": 19.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 510,
+        "location_name": "Wetherill Park NSW, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://forbo.blob.core.windows.net/forbodocuments/92a92ff6-84c3-4f12-a05e-a5af457a584c/EPD%20Sphera.pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 602,
+        "requirement": "Slip Rating",
+        "file": null,
+        "link": "https://forbo.blob.core.windows.net/forbodocuments/36242/Forbo_Sphera_Slip_Test_Report.pdf",
+        "rating": "R10, P3"
+      },
+      {
+        "id": 1882,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Sphera/compliance/FIRE_-_AS_3837_-_AS_5637.1_Sphera_Group_3.pdf",
+        "link": "",
+        "rating": "Group 3"
+      }
+    ],
+    "type_of_packaging": "Recycled cardboard",
+    "files": [
+      {
+        "id": 692,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Sphera/RecycledContent/Sphera_-_EPD_2024.pdf"
+      },
+      {
+        "id": 693,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Sphera/ModernSlaveryAssessment/Forbo_Flooring_Systems_Australia_Modern_Salvery_Act_Policy_2024.pdf"
+      },
+      {
+        "id": 2845,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Sphera/VOC/EMISSIONS_-_VOC_CDPH_03150_Sphera.pdf"
+      },
+      {
+        "id": 2846,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FORBO%20FLOORING%20SYSTEMS/Sphera/LCA/Sphera_-_EPD_2024.pdf"
+      }
+    ]
+  }
+]

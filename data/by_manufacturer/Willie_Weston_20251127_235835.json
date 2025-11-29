@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1566,
+    "company": {
+      "id": 193,
+      "name": "WILLIE WESTON"
+    },
+    "image": "products/WILLIE WESTON/TAIT-BLAIRGOWRIE-029.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-19T01:36:45.338627+00:00",
+    "last_update": "2025-11-19T13:00:00+00:00",
+    "created_by": {
+      "id": 2207,
+      "email": "info@willieweston.com"
+    },
+    "updated_by": {
+      "id": 2207,
+      "email": "info@willieweston.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Willie Weston",
+    "product_name": "High Performance/Outdoor",
+    "product_code": "HPO",
+    "product_description": "A premium high performance fabric for heavy use in commercial interiors and exteriors",
+    "product_categories": [
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "140cm wide",
+    "price_per_unit": 185.0,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "1-2 weeks if in stock. 8-10 weeks if not in stock.",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 6002,
+        "certification": "OEKO-TEX",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/High%20Performance/Outdoor/certificates/Willie_Weston_HPO_OekoTex_Cert.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6003,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/High%20Performance/Outdoor/certificates/Willie_Weston_HPO_GRS_Cert.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Willie Weston encourages all customers to recycle fabrics through Upparel, TRAKS or similar textile recycling programs at the end of their life.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Willie Weston encourages all customers to recycle fabrics through Upparel, TRAKS or similar recycling programs at the end of their life.",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "Global Recycled Standard Certificate states 85% of the product is derived from post-consumer PET plastic bottles",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "The Italian based manufacturer of our High Performance/Outdoor fabric minimises the use of public potable water supply through a dedicated water well on-site.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Our fabrics are printed to order to reduce over production and wastage.\r\n\r\nTo minimise offcuts and wastage with any textile, we appreciate precise measurements and encourage economical pattern design and cutting techniques to maximise fabric usage.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 6002,
+        "certification": "OEKO-TEX",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/High%20Performance/Outdoor/certificates/Willie_Weston_HPO_OekoTex_Cert.jpg",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 6003,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/High%20Performance/Outdoor/certificates/Willie_Weston_HPO_GRS_Cert.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3086,
+        "location_name": "Milan, Metropolitan City of Milan, Italy",
+        "location_lat": 45.468503,
+        "location_lon": 9.182403,
+        "component": "Solution dyed polyester",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3638,
+        "location_name": "Milan, Metropolitan City of Milan, Italy",
+        "location_lat": 45.468503,
+        "location_lon": 9.182403,
+        "material": "Post-consumer PET plastic bottles",
+        "product_percentage": 85.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2482,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "High Performance / Outdoor is a premium fabric for high traffic interiors and exteriors. With excellent abrasion resistance and the ability to be bleach cleaned, this fabric is suitable for upholstery applications in educational and hospitality settings, as well as public spaces. Strong UV tolerance and water, chlorine and salt resistance make it perfect for outdoor upholstery and soft furnishings.\r\n\r\n\r\nEstablished in Naarm (Melbourne) in 2015 by two non-Indigenous art curators, Willie Weston is the first and only textile brand working exclusively with Australian First Nations artists to create textiles, wallpapers and other products for commercial interiors. Sourcing sophisticated and diverse artworks from First Nations artists across Australia, we delicately translate these works into contemporary designs.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3218,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/High%20Performance/Outdoor/compliance/Willie_Weston_High_Performance_Outdoor_Recycled_FR.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3219,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/High%20Performance/Outdoor/compliance/Willie_Weston_High_Performance_Outdoor_Recycled_FR_PTojI3A.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Willie Weston are currently exploring options for a biodegradable plastic wrap to package rolls of fabric for distribution. We use a 'Global Green Tag' verified biodegradable plastic tape for all our packaging. We recycle soft plastic packaging that we receive from suppliers and mills through Reground.",
+    "files": [
+      {
+        "id": 4578,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/High%20Performance/Outdoor/VOC/Willie_Weston_HPO_OekoTex_Cert.jpg"
+      },
+      {
+        "id": 4579,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/High%20Performance/Outdoor/RecycledContent/Willie_Weston_HPO_GRS_Cert.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1567,
+    "company": {
+      "id": 193,
+      "name": "WILLIE WESTON"
+    },
+    "image": "products/WILLIE WESTON/Mirage_CairnsAve28_sml.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-19T02:37:14.239212+00:00",
+    "last_update": "2025-11-19T13:00:00+00:00",
+    "created_by": {
+      "id": 2207,
+      "email": "info@willieweston.com"
+    },
+    "updated_by": {
+      "id": 2207,
+      "email": "info@willieweston.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Willie Weston",
+    "product_name": "Eco Commercial Wallpaper",
+    "product_code": "ECO COMM WP",
+    "product_description": "An eco-friendly, sustainable wallpaper base with a lightly textured matte surface",
+    "product_categories": [
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "130cm finished width",
+    "price_per_unit": 175.0,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "2-4 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 6007,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/Eco%20Commercial%20Wallpaper/certificates/Willie_Weston_ECO_COMM_WP_DECLARE_CERT.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6008,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/Eco%20Commercial%20Wallpaper/certificates/Willie_Weston_ECO_COMM_WP_Health_Product_Declaration.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6009,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/Eco%20Commercial%20Wallpaper/certificates/Willie_Weston_ECO_COMM_WP_VOC_TEST.jpg",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6010,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/Eco%20Commercial%20Wallpaper/certificates/ECO_COMM_WP_BREEAM_CERT.jpg",
+        "link": "",
+        "rating": "Breeam Certificate",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "The product is PVC-free and can potentially be repurposed through specialised recycling programs, such as those offered by Terracycle; however, actual recycling availability depends on local facilities and programs.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The product is PVC-free and can potentially be repurposed through specialized recycling programs, such as those offered by Terracycle; however, actual recycling availability depends on local facilities and programs.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Our Eco Commercial Wallpaper is made with a proprietary blend of polyester and natural fibers. The natural fiber component is FSC certified. It contains 31% Post Consumer Recycled content reclaimed from plastic bottles.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "The product is PVC-free and can potentially be repurposed through specialised recycling programs, such as those offered by Terracycle; however, actual recycling availability depends on local facilities and programs.",
+    "water_reduction_techniques": "Our manufacturer utilises closed-loop systems for chilling, which do not require the use of fresh water.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Our wallpapers are printed to order to reduce over production and wastage.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 6007,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/Eco%20Commercial%20Wallpaper/certificates/Willie_Weston_ECO_COMM_WP_DECLARE_CERT.jpg",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 6008,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/Eco%20Commercial%20Wallpaper/certificates/Willie_Weston_ECO_COMM_WP_Health_Product_Declaration.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 6009,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/Eco%20Commercial%20Wallpaper/certificates/Willie_Weston_ECO_COMM_WP_VOC_TEST.jpg",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 6010,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/Eco%20Commercial%20Wallpaper/certificates/ECO_COMM_WP_BREEAM_CERT.jpg",
+        "link": "",
+        "rating": "Breeam Certificate"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3090,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "component": "Printing",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3639,
+        "location_name": "Rockaway, NJ, USA",
+        "location_lat": 40.90217,
+        "location_lon": -74.514017,
+        "material": "Cellulose Pulp",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 3640,
+        "location_name": "Rockaway, NJ, USA",
+        "location_lat": 40.90217,
+        "location_lon": -74.514017,
+        "material": "Post Consumer PET (Polyethylene Terephthalate)",
+        "product_percentage": 31.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2483,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.872741,
+        "location_lon": 151.205714,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 2484,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "This eco-friendly wallpaper offers a matte, lightly textured surface and strong non-woven backing, suitable for general workplace, commercial and hospitality environments. Digitally printed in Australia, Eco Commercial Wallpaper is sustainable, PVC Free and breathable, and made from 31% post-consumer recycled content. \r\nhttps://www.willieweston.com/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3220,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/Eco%20Commercial%20Wallpaper/compliance/Willie_Weston_ECO_COMM_WP_FR_Report.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3221,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/Eco%20Commercial%20Wallpaper/compliance/Willie_Weston_ECO_COMM_WP_FR_Report_NbnuYAY.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "We use a 'Global Green Tag' verified biodegradable plastic tape for all our packaging. We recycle soft plastic packaging that we receive from suppliers and mills through Reground.",
+    "files": [
+      {
+        "id": 4580,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/Eco%20Commercial%20Wallpaper/VOC/Willie_Weston_ECO_COMM_WP_VOC_TEST.jpg"
+      },
+      {
+        "id": 4581,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/WILLIE%20WESTON/Eco%20Commercial%20Wallpaper/RecycledContent/ECO_COMM_WP_BREEAM_CERT.jpg"
+      }
+    ]
+  }
+]

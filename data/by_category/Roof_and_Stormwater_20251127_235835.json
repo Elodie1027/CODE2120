@@ -1,0 +1,664 @@
+[
+  {
+    "id": 267,
+    "company": {
+      "id": 98,
+      "name": "POROUS LANE"
+    },
+    "image": "products/POROUS LANE/Porous_Lane.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-03T03:31:36.864012+00:00",
+    "last_update": "2024-10-13T13:00:00+00:00",
+    "created_by": {
+      "id": 1045,
+      "email": "bradley@porouslane.com.au"
+    },
+    "updated_by": {
+      "id": 1045,
+      "email": "bradley@porouslane.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Porous Lane",
+    "product_name": "Permeable Pavement Systems",
+    "product_code": "N/A",
+    "product_description": "High performance circular economy permeable pavement",
+    "product_categories": [
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      },
+      {
+        "id": 11,
+        "category_name": "Roof and Stormwater"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": 280.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "$260 - $350 per sqm depending on required thickness, colour and size of installation",
+    "lead_time": "4 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": null,
+    "installation_risks_description": "",
+    "substances_of_concern": null,
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": null,
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 3,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 725,
+        "location_name": "Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Bluestone aggregate",
+        "product_percentage": 45.0
+      },
+      {
+        "id": 1100,
+        "location_name": "Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Post Consumer Tyre Aggregate",
+        "product_percentage": 45.0
+      },
+      {
+        "id": 1101,
+        "location_name": "Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Polyurethane Binder",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 898,
+        "location_name": "Campbellfield VIC, Australia",
+        "location_lat": -37.671459,
+        "location_lon": 144.955648,
+        "location_state": " Australia",
+        "location_city": "Campbellfield VIC"
+      },
+      {
+        "id": 899,
+        "location_name": "Alexandria NSW 2015, Australia",
+        "location_lat": -37.671459,
+        "location_lon": 144.955648,
+        "location_state": " Australia",
+        "location_city": "Alexandria NSW 2015"
+      }
+    ],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 0,
+    "section_D_score": 25,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 843,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/POROUS%20LANE/Permeable%20Pavement%20Systems/compliance/ATTAR_Report_20408.3.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "",
+    "files": []
+  },
+  {
+    "id": 1456,
+    "company": {
+      "id": 207,
+      "name": "FUTURE VILLAGE"
+    },
+    "image": "products/FUTURE VILLAGE/Future_Village_garden_tray.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-26T05:17:19.687653+00:00",
+    "last_update": "2025-09-25T14:00:00+00:00",
+    "created_by": {
+      "id": 2834,
+      "email": "ben@futurevillage.com.au"
+    },
+    "updated_by": {
+      "id": 2834,
+      "email": "ben@futurevillage.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Future Village",
+    "product_name": "Floating Garden Tray",
+    "product_code": "106",
+    "product_description": "Modular garden tray with water reservoir and wicking",
+    "product_categories": [
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      },
+      {
+        "id": 11,
+        "category_name": "Roof and Stormwater"
+      }
+    ],
+    "standard_dimensions": "1200 x 1200 x (220 / 380)",
+    "price_per_unit": 520.0,
+    "product_functional_unit": "m3",
+    "price_adjustment_structure": "Qty",
+    "lead_time": "2 - 6 weeka",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "THe main component- tub and the internal drain cell can be sent to plastic recycling",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "tray offcuts are sent to recycling",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "High molecular weight polyethylene and polypropylene ca be recycled back into the same raw material",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The product is modular and free standing and can be used in different locations",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Our business takes back and repurposes trays that are not required",
+    "water_reduction_techniques": "On site rainwater. 35%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "The trays come in 1200 x 1200 size and should be laid out in most efffecient formats.  The trays can be cut to any shape and then plastic welded.  If bespoke shapes required then can the offcut also be welded and reformed to be used as a separae tray.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Unsure",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 20,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2815,
+        "location_name": "Brookvale NSW, Australia",
+        "location_lat": -33.76497,
+        "location_lon": 151.270448,
+        "component": "Tray",
+        "component_percentage": 80.0
+      },
+      {
+        "id": 2816,
+        "location_name": "Glenorie NSW, Australia",
+        "location_lat": -33.601551,
+        "location_lon": 151.007874,
+        "component": "Drain Cell",
+        "component_percentage": 8.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3283,
+        "location_name": "Brookvale NSW, Australia",
+        "location_lat": -33.76497,
+        "location_lon": 151.270448,
+        "material": "High molecular weight polyethylene (HMWPE)",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2299,
+        "location_name": "Glenorie NSW, Australia",
+        "location_lat": -33.601551,
+        "location_lon": 151.007874,
+        "location_state": " Australia",
+        "location_city": "Glenorie NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Product contains 86 - 132 mm of water reservoir.  Can be adjusted for stormwater retention and detention requirements.\r\nThermal insulation - Turf.  R Value 0.82 | Garden 0.91. | Deep garden tray 1.09\r\nSUB IRRIGATION & WICKING\r\nInternal water refill system.\r\nPlumbed in or free standing elements.\r\nCompatible with standard hose snap lock fittings and other irrigation systems.\r\nPressure compensated design ensures uniform water distribution across all trays.\r\nDaisy chain trays together for simplified, scalable irrigation setup.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2987,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FUTURE%20VILLAGE/Floating%20Garden%20Tray/compliance/250902_JV25-00223_Future_Village_Garden_Trays_CAN_1.pdf",
+        "link": "",
+        "rating": "Type B & C No FRL Required. Type A May require roof FRLs, but concessions exist "
+      },
+      {
+        "id": 2988,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FUTURE%20VILLAGE/Floating%20Garden%20Tray/compliance/250902_JV25-00223_Future_Village_Garden_Trays_CAN_1_n0JOwci.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "they require no packaging other than strapping",
+    "files": [
+      {
+        "id": 4139,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FUTURE%20VILLAGE/Floating%20Garden%20Tray/ModernSlaveryActionPlan/Future_Village_modern-slavery-policy.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1574,
+    "company": {
+      "id": 220,
+      "name": "ASKIN PERFORMANCE PANELS"
+    },
+    "image": "products/ASKIN PERFORMANCE PANELS/Volcore_Flat_Joint.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-26T01:18:23.543135+00:00",
+    "last_update": "2025-11-25T13:00:00+00:00",
+    "created_by": {
+      "id": 380,
+      "email": "kylie.robertson@askin.net.au"
+    },
+    "updated_by": {
+      "id": 380,
+      "email": "kylie.robertson@askin.net.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "ASKIN",
+    "product_name": "Volcore",
+    "product_code": "VOL",
+    "product_description": "Volcore non-combustible mineral wool core securely bonded between two layers of pre-finished steel",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      },
+      {
+        "id": 22,
+        "category_name": "Insulation, Barriers, Membranes, Air tightness systems"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 11,
+        "category_name": "Roof and Stormwater"
+      }
+    ],
+    "standard_dimensions": "1000mm - 1200mm wide / 13.5m lengths",
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "4 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 6034,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/certificates/ASKIN_Eco_Choice_Aotearoa_Certificate_EC-57_to_August_26.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6035,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/certificates/ASKIN_Green_Building_Council_Australia_57_RPV.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Steel can be repurposed as can mineral wool",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "Mineral wool and steel can be reprocessed",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Panels can be removed and reinstalled in a different location",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Panel layout to determine the optimal size panel, minimising wastage",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 6034,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/certificates/ASKIN_Eco_Choice_Aotearoa_Certificate_EC-57_to_August_26.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 6035,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/certificates/ASKIN_Green_Building_Council_Australia_57_RPV.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Wear protective gloves, protective clothing, eye protection and respiratory protection.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 60,
+    "manufacturers_warranty_years": 50,
+    "factory_finished": true,
+    "factory_finished_description": "0.6 Thick G300S AM100 high performance steel with pre-painted superior polyester finish coat of 25 microns. Other high-performance products, Colorbond® Ultra, Colorbond® stainless steel are available to suit project specific applications.",
+    "manufacturing_locations": [
+      {
+        "id": 3115,
+        "location_name": "Dandenong South VIC, Australia",
+        "location_lat": -38.031696,
+        "location_lon": 145.21206,
+        "component": "Volcore Panel",
+        "component_percentage": 85.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3655,
+        "location_name": "Lumut, Perak, Malaysia",
+        "location_lat": 4.236302,
+        "location_lon": 100.63222,
+        "material": "Mineral wool",
+        "product_percentage": 60.0
+      },
+      {
+        "id": 3656,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Bluescope Steel",
+        "product_percentage": 40.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2540,
+        "location_name": "Dandenong South VIC, Australia",
+        "location_lat": -38.031696,
+        "location_lon": 145.21206,
+        "location_state": " Australia",
+        "location_city": "Dandenong South VIC"
+      },
+      {
+        "id": 2541,
+        "location_name": "Malaga WA, Australia",
+        "location_lat": -31.855476,
+        "location_lon": 115.893397,
+        "location_state": " Australia",
+        "location_city": "Malaga WA"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3233,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/compliance/CM40333-I02-R00_Volcore_Exteriors.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3234,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/compliance/CM40334-I02-R00_Volcore_Interiors_2022_Amdt._2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3235,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/compliance/CM40335-I02-R00_Volcore_Roofing_2022_Amdt._2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3236,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/compliance/CM40335-I02-R00_Volcore_Roofing_2022_Amdt._2_JkNTPyv.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3237,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/compliance/CM40334-I02-R00_Volcore_Interiors_2022_Amdt._2_Yl7JrYQ.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3238,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/compliance/CM40333-I02-R00_Volcore_Exteriors_ODN8hR1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 3239,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/compliance/VOLCORE_CERTIFICATE_AS5637.1.pdf",
+        "link": "",
+        "rating": "Group 1"
+      },
+      {
+        "id": 3240,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/compliance/ASKIN_FRLSystems_Volcore_PanelFRL_2025.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 3241,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ASKIN%20PERFORMANCE%20PANELS/Volcore/compliance/CM40333-I02-R00_Volcore_Exteriors_s8UqhGd.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Plastic wrapping to protect panels on delivery",
+    "files": []
+  }
+]

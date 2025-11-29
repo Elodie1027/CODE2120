@@ -1,0 +1,1482 @@
+[
+  {
+    "id": 831,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/7596___Lifestyle_Image___Four.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-06T23:58:08.580544+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Togama S.A.U",
+    "product_name": "Navy Blue Polyurethane Cord Pool Mosaic",
+    "product_code": "7596",
+    "product_description": "Mosaics that are durable, vibrant, and perfect for stunning pool designs.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "333x333mm",
+    "price_per_unit": 42.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $42/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2706,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/14001_INGLES.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2707,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/30350001_QM15_EN_2023-11-24.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2708,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2709,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/NIFU25Y.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2710,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/TOGAMA_PLACEMENT_GUIDE.pdf",
+        "link": "",
+        "rating": "Placement Guide",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Non-treated water is used, as per Spanish laws, the Industrial areas don’t have access (conducts) of treated water.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "Follow the recommendations set out in the placement guide",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Togama S.A.U is firmly committed to equality and inclusion. We have an Equality Plan that complies with all regulations established by current European legislation. This plan is designed to ensure fairness in the workplace, promoting equal opportunities and preventing any form of discrimination. \r\n\r\nTogama S.A.U are continuously evaluating and improving our policies to ensure that all internal processes align with the principles of justice and equality, in accordance with the highest standards required by European legislation. \r\n\r\nTogama S.A.U are also an official collaborator for social inclusion with the Spanish Down Syndrome association.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2706,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/14001_INGLES.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2707,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/30350001_QM15_EN_2023-11-24.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2708,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2709,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/NIFU25Y.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2710,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/TOGAMA_PLACEMENT_GUIDE.pdf",
+        "link": "",
+        "rating": "Placement Guide"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Gloss finish. \r\nPool Internal Wall and Floor application only.",
+    "manufacturing_locations": [
+      {
+        "id": 1291,
+        "location_name": "Villarreal, Spain",
+        "location_lat": 39.939771,
+        "location_lon": -0.100593,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1822,
+        "location_name": "Spain",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Recycled Glass",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1249,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Recycled plastic, wood and cardboard.",
+    "files": [
+      {
+        "id": 2352,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/RecycledContent/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/PISCINA_MILO25Y_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-07T00:47:26.913077+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Togama S.A.U",
+    "product_name": "Milos Polyurethane Cord Pool Mosaic",
+    "product_code": "7744",
+    "product_description": "Mosaics that are durable, vibrant, and perfect for stunning pool designs.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "333x333mm",
+    "price_per_unit": 52.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $52/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2711,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/14001_INGLES.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2712,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/30350001_QM15_EN_2023-11-24.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2713,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2715,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/TOGAMA_PLACEMENT_GUIDE.pdf",
+        "link": "",
+        "rating": "Placement Guide",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Non-treated water is used, as per Spanish laws, the Industrial areas don’t have access (conducts) of treated water.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "Follow the recommendations set out in the placement guide",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Togama S.A.U is firmly committed to equality and inclusion. We have an Equality Plan that complies with all regulations established by current European legislation. This plan is designed to ensure fairness in the workplace, promoting equal opportunities and preventing any form of discrimination. \r\n\r\nTogama S.A.U are continuously evaluating and improving our policies to ensure that all internal processes align with the principles of justice and equality, in accordance with the highest standards required by European legislation. \r\n\r\nTogama S.A.U are also an official collaborator for social inclusion with the Spanish Down Syndrome association.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2711,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/14001_INGLES.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2712,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/30350001_QM15_EN_2023-11-24.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2713,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2715,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/TOGAMA_PLACEMENT_GUIDE.pdf",
+        "link": "",
+        "rating": "Placement Guide"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Gloss finish. \r\nPool Internal Wall and Floor application only.",
+    "manufacturing_locations": [
+      {
+        "id": 1292,
+        "location_name": "Villarreal, Spain",
+        "location_lat": 39.939771,
+        "location_lon": -0.100593,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1823,
+        "location_name": "Spain",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Recycled Glass",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1250,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Recycled plastic, wood and cardboard.",
+    "files": [
+      {
+        "id": 2354,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Milos%20Polyurethane%20Cord%20Pool%20Mosaic/RecycledContent/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": 833,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/G338_GLOSSY_BLUE_HEXAGONAL_33X30_3.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-07T01:05:08.049530+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Togama S.A.U",
+    "product_name": "Blue Diamond Hexagon Polyurethane Cord Pool Mosaic",
+    "product_code": "77270",
+    "product_description": "Mosaics that are durable, vibrant, and perfect for stunning pool designs.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "330x298mm",
+    "price_per_unit": 15.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $15/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2716,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/14001_INGLES.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2717,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/30350001_QM15_EN_2023-11-24.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2718,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2719,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/TOGAMA_PLACEMENT_GUIDE.pdf",
+        "link": "",
+        "rating": "Placement Guide",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2720,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Blue%20Diamond%20Hexagon%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/G33860Y.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Non-treated water is used, as per Spanish laws, the Industrial areas don’t have access (conducts) of treated water.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "Follow the recommendations set out in the placement guide",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Togama S.A.U is firmly committed to equality and inclusion. We have an Equality Plan that complies with all regulations established by current European legislation. This plan is designed to ensure fairness in the workplace, promoting equal opportunities and preventing any form of discrimination. \r\n\r\nTogama S.A.U are continuously evaluating and improving our policies to ensure that all internal processes align with the principles of justice and equality, in accordance with the highest standards required by European legislation. \r\n\r\nTogama S.A.U are also an official collaborator for social inclusion with the Spanish Down Syndrome association.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2716,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/14001_INGLES.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2717,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/30350001_QM15_EN_2023-11-24.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2718,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2719,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/TOGAMA_PLACEMENT_GUIDE.pdf",
+        "link": "",
+        "rating": "Placement Guide"
+      },
+      {
+        "id": 2720,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Blue%20Diamond%20Hexagon%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/G33860Y.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Gloss finish. \r\nApplication on Pool Internal Wall and Floor, Bathroom Wall and Floor, Kitchen and Laundry Splashback.",
+    "manufacturing_locations": [
+      {
+        "id": 1293,
+        "location_name": "Villarreal, Spain",
+        "location_lat": 39.939771,
+        "location_lon": -0.100593,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1824,
+        "location_name": "Spain",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Recycled Glass",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1251,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Recycled plastic, wood and cardboard.",
+    "files": [
+      {
+        "id": 2356,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Blue%20Diamond%20Hexagon%20Polyurethane%20Cord%20Pool%20Mosaic/RecycledContent/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": 834,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/PISCINA_OCEAN_25X25.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-07T01:15:51.786471+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Togama S.A.U",
+    "product_name": "Ocean Dark Blue Pool Mosaic",
+    "product_code": "7745",
+    "product_description": "Mosaics that are durable, vibrant, and perfect for stunning pool designs.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "333x333mm",
+    "price_per_unit": 52.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $52/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2721,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/14001_INGLES.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2722,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/30350001_QM15_EN_2023-11-24.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2723,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2724,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/TOGAMA_PLACEMENT_GUIDE.pdf",
+        "link": "",
+        "rating": "Placement Guide",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Non-treated water is used, as per Spanish laws, the Industrial areas don’t have access (conducts) of treated water.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "Follow the recommendations set out in the placement guide",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Togama S.A.U is firmly committed to equality and inclusion. We have an Equality Plan that complies with all regulations established by current European legislation. This plan is designed to ensure fairness in the workplace, promoting equal opportunities and preventing any form of discrimination. \r\n\r\nTogama S.A.U are continuously evaluating and improving our policies to ensure that all internal processes align with the principles of justice and equality, in accordance with the highest standards required by European legislation. \r\n\r\nTogama S.A.U are also an official collaborator for social inclusion with the Spanish Down Syndrome association.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2721,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/14001_INGLES.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2722,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/30350001_QM15_EN_2023-11-24.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2723,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2724,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/TOGAMA_PLACEMENT_GUIDE.pdf",
+        "link": "",
+        "rating": "Placement Guide"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Gloss finish. \r\nPool Internal Wall and Floor application only.",
+    "manufacturing_locations": [
+      {
+        "id": 1294,
+        "location_name": "Villarreal, Spain",
+        "location_lat": 39.939771,
+        "location_lon": -0.100593,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1825,
+        "location_name": "Spain",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Recycled Glass",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1252,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Recycled plastic, wood and cardboard.",
+    "files": [
+      {
+        "id": 2358,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Ocean%20Dark%20Blue%20Pool%20Mosaic/RecycledContent/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": 835,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/AMB_SIXTIES_WHITE_DIAMOND1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-07T01:40:32.073754+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Togama S.A.U",
+    "product_name": "White Diamond Hexagon Polyurethane Cord Pool Mosaic",
+    "product_code": "77260",
+    "product_description": "Mosaics that are durable, vibrant, and perfect for stunning pool designs.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "330x298mm",
+    "price_per_unit": 15.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $15/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2725,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/14001_INGLES.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2726,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/30350001_QM15_EN_2023-11-24.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2727,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2728,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/TOGAMA_PLACEMENT_GUIDE.pdf",
+        "link": "",
+        "rating": "Placement Guide",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2730,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/White%20Diamond%20Hexagon%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/G30560Y.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Non-treated water is used, as per Spanish laws, the Industrial areas don’t have access (conducts) of treated water.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "Follow the recommendations set out in the placement guide",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Togama S.A.U is firmly committed to equality and inclusion. We have an Equality Plan that complies with all regulations established by current European legislation. This plan is designed to ensure fairness in the workplace, promoting equal opportunities and preventing any form of discrimination. \r\n\r\nTogama S.A.U are continuously evaluating and improving our policies to ensure that all internal processes align with the principles of justice and equality, in accordance with the highest standards required by European legislation. \r\n\r\nTogama S.A.U are also an official collaborator for social inclusion with the Spanish Down Syndrome association.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2725,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/14001_INGLES.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2726,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/30350001_QM15_EN_2023-11-24.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2727,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2728,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/TOGAMA_PLACEMENT_GUIDE.pdf",
+        "link": "",
+        "rating": "Placement Guide"
+      },
+      {
+        "id": 2730,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/White%20Diamond%20Hexagon%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/G30560Y.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Gloss finish. \r\nApplication on Pool Internal Wall and Floor, Bathroom Wall and Floor, Kitchen and Laundry Splashback.",
+    "manufacturing_locations": [
+      {
+        "id": 1295,
+        "location_name": "Villarreal, Spain",
+        "location_lat": 39.939771,
+        "location_lon": -0.100593,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1826,
+        "location_name": "Spain",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Recycled Glass",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1253,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Recycled plastic, wood and cardboard.",
+    "files": [
+      {
+        "id": 2360,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/White%20Diamond%20Hexagon%20Polyurethane%20Cord%20Pool%20Mosaic/RecycledContent/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": 836,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/AMB_SIXTIES_G343_-_2.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-12-07T01:55:52.934704+00:00",
+    "last_update": "2024-12-06T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Togama S.A.U",
+    "product_name": "Black Diamond Hexagon Polyurethane Cord Pool Mosaic",
+    "product_code": "77250",
+    "product_description": "Mosaics that are durable, vibrant, and perfect for stunning pool designs.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "330x298mm",
+    "price_per_unit": 15.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $15/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2731,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/14001_INGLES.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2732,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/30350001_QM15_EN_2023-11-24.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2733,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2734,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/TOGAMA_PLACEMENT_GUIDE.pdf",
+        "link": "",
+        "rating": "Placement Guide",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2736,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Black%20Diamond%20Hexagon%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/G34360Y.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Non-treated water is used, as per Spanish laws, the Industrial areas don’t have access (conducts) of treated water.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "Follow the recommendations set out in the placement guide",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Togama S.A.U is firmly committed to equality and inclusion. We have an Equality Plan that complies with all regulations established by current European legislation. This plan is designed to ensure fairness in the workplace, promoting equal opportunities and preventing any form of discrimination. \r\n\r\nTogama S.A.U are continuously evaluating and improving our policies to ensure that all internal processes align with the principles of justice and equality, in accordance with the highest standards required by European legislation. \r\n\r\nTogama S.A.U are also an official collaborator for social inclusion with the Spanish Down Syndrome association.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2731,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/14001_INGLES.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2732,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/30350001_QM15_EN_2023-11-24.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2733,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2734,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Navy%20Blue%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/TOGAMA_PLACEMENT_GUIDE.pdf",
+        "link": "",
+        "rating": "Placement Guide"
+      },
+      {
+        "id": 2736,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Black%20Diamond%20Hexagon%20Polyurethane%20Cord%20Pool%20Mosaic/certificates/G34360Y.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Gloss finish. \r\nApplication on Pool Internal Wall and Floor, Bathroom Wall and Floor, Kitchen and Laundry Splashback.",
+    "manufacturing_locations": [
+      {
+        "id": 1296,
+        "location_name": "Villarreal, Spain",
+        "location_lat": 39.939771,
+        "location_lon": -0.100593,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 1827,
+        "location_name": "Spain",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Recycled Glass",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1254,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Recycled plastic, wood and cardboard.",
+    "files": [
+      {
+        "id": 2362,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Black%20Diamond%20Hexagon%20Polyurethane%20Cord%20Pool%20Mosaic/RecycledContent/SELF-DECLARED_ENVIRONMENTAL_CLAIM_2022.pdf"
+      }
+    ]
+  }
+]

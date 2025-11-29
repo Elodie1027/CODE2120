@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1316,
+    "company": {
+      "id": 140,
+      "name": "DESIGN NATION"
+    },
+    "image": "products/DESIGN NATION/SILU.jpeg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-22T06:29:17.419766+00:00",
+    "last_update": "2025-07-22T14:00:00+00:00",
+    "created_by": {
+      "id": 1457,
+      "email": "janis@designnation.com.au"
+    },
+    "updated_by": {
+      "id": 1457,
+      "email": "janis@designnation.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "ONDARRETA",
+    "product_name": "Silu Side Chair",
+    "product_code": "SSILRB",
+    "product_description": "A fusion of traditional wood bending techniques and traditional know-how. Stacking timber chair",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "760 x 530 x 530 mm",
+    "price_per_unit": null,
+    "product_functional_unit": null,
+    "price_adjustment_structure": null,
+    "lead_time": "14-16 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4868,
+        "certification": "Other",
+        "file": null,
+        "link": "Quality Management System",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4867,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Silu%20Side%20Chair/certificates/ISO_9001_Certificate_Quality_Management_2022-2025_IQNET_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4869,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Silu%20Side%20Chair/certificates/ISO_14001_Certificate_Environmental_Management_System_2022-2025_IQNET_.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4870,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Silu%20Side%20Chair/certificates/ISO_14006_Certificate_ED-0003-2014_IN_2023-10-19.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 10.9,
+    "upfront_carbon_emissions": 10.9,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "Wood and polypropylene",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "eco-designed to facilitate demount-ability",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "We organise our shipments so that trucks leave our premises at full load or with shared loads wherever possible, thus optimising the use of resources and reducing emissions.",
+    "minimisation_design_strategy": "Reduction of material used in components without compromising strengths, efficiency in production processes, optimization of product design and packaging, new more efficient machinery,",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4868,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "Quality Management System",
+        "rating": ""
+      },
+      {
+        "id": 4867,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Silu%20Side%20Chair/certificates/ISO_9001_Certificate_Quality_Management_2022-2025_IQNET_.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4869,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Silu%20Side%20Chair/certificates/ISO_14001_Certificate_Environmental_Management_System_2022-2025_IQNET_.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 4870,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Silu%20Side%20Chair/certificates/ISO_14006_Certificate_ED-0003-2014_IN_2023-10-19.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": true,
+    "factory_finished_description": "Fully finished and factory-assembled product.",
+    "manufacturing_locations": [
+      {
+        "id": 2430,
+        "location_name": "Azpeitia, España",
+        "location_lat": 43.182598,
+        "location_lon": -2.266732,
+        "component": "Plywood",
+        "component_percentage": 68.0
+      },
+      {
+        "id": 2431,
+        "location_name": "Tarragona, España",
+        "location_lat": 41.118883,
+        "location_lon": 1.244491,
+        "component": "Glides",
+        "component_percentage": 0.1
+      },
+      {
+        "id": 2432,
+        "location_name": "Azpeitia, España",
+        "location_lat": 43.182598,
+        "location_lon": -2.266732,
+        "component": "Beech",
+        "component_percentage": 23.9
+      },
+      {
+        "id": 2433,
+        "location_name": "Zarauz, España",
+        "location_lat": 43.284771,
+        "location_lon": -2.171397,
+        "component": "Polypropylene",
+        "component_percentage": 6.7
+      },
+      {
+        "id": 2434,
+        "location_name": "Getaria, España",
+        "location_lat": 43.302858,
+        "location_lon": -2.204608,
+        "component": "Screws",
+        "component_percentage": 0.6
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2972,
+        "location_name": "Azpeitia, España ",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Wood",
+        "product_percentage": 92.5
+      },
+      {
+        "id": 2973,
+        "location_name": "Irún, España",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Steel",
+        "product_percentage": 0.6
+      },
+      {
+        "id": 2974,
+        "location_name": "Zarauz, España",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Polypropylene",
+        "product_percentage": 6.9
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2023,
+        "location_name": "Revesby NSW, Australia",
+        "location_lat": -33.945247,
+        "location_lon": 151.018035,
+        "location_state": " Australia",
+        "location_city": "Revesby NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Wooden structure color customizable by means of varnishes: Nude, Natural, White Nacar, Toffee and Black.",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "We work mostly, 80% of purchases are made within 200km, thus supporting the local economy and maintaining close and trusting relationships with our suppliers.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2701,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Silu%20Side%20Chair/compliance/MATERIAL_STEEL_COLOUR_EPOXY.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "For packaging we use items that are mainly made from recycled materials. On average, our boxes have 70% recycled content, and several of our references already boast 100% recycled content. All these materials come from responsibly and sustainably managed forests, which is guaranteed by the FSC certificate. As for the bags used to protect our products, we can confirm that 50% of them are made from recycled materials. The materials we use are 100% recyclable and retain their quality and properties after each recycling cycle. To simplify the process and promote sustainability, we avoid using staples in our packaging.",
+    "files": [
+      {
+        "id": 3689,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Silu%20Side%20Chair/ModernSlaveryAssessment/Supplier_Code_of_Conduct.pdf"
+      },
+      {
+        "id": 3690,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Silu%20Side%20Chair/RecycledContent/PRODUCT_LIFE_CYCLE.pdf"
+      },
+      {
+        "id": 3704,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DESIGN%20NATION/Silu%20Side%20Chair/RecycledContent/Silu_sustainability_EN.pdf"
+      }
+    ]
+  }
+]

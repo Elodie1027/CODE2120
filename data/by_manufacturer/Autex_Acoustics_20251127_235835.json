@@ -1,0 +1,1883 @@
+[
+  {
+    "id": 504,
+    "company": {
+      "id": 16,
+      "name": "Autex Acoustics"
+    },
+    "image": "products/Autex Acoustics/Cube_Groove_DyOq1H2.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-30T04:29:57.257809+00:00",
+    "last_update": "2025-09-10T14:00:00+00:00",
+    "created_by": {
+      "id": 116,
+      "email": "robj@autex.com.au"
+    },
+    "updated_by": {
+      "id": 116,
+      "email": "robj@autex.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Autex Acoustics",
+    "product_name": "Groove",
+    "product_code": ".",
+    "product_description": "A light weight panel cut with designs that form subtle patterns adding depth, nuance, and texture.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "1220mmW x 2440mmL & 2740mmL upto 3600mmL",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "3 -10 bussiness days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1311,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Autex_Environmental_Management_System_ISO14001-_2027.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1312,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Autex_International_Panel_Declare_ATX-0002_2025_9UfeCJ5.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1313,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Autex_International_Panel_Declare_ATX-0002_2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1314,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Autex_Acoustics_Panels_and_Tiles_EPD_EN_15804_2026.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1315,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Autex__Health_and_Safety_Management_System_ISO_45001-2027.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1316,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Autex_Interior_Acoustics_GreenRate_Level_A_2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1317,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Cube_Cascade_Frontier_Grid_Ceiling_Tiles_Horizon_Cove_Loch_Lattice_Vicinity_HPD_2027.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 1.89,
+    "upfront_carbon_emissions": 1.89,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Can be repurposed - reformed into ancillary fixings or new panels dependent on condition.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Autex products are made from 100% PET. Uncontaminated offcuts are homogenous PET which is 100% recyclable. Contact your local recycling facility to enquire about recycling PET textile offcuts.",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "Mechanically mounted products can be reused as they are. Autex has also developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Can be installed using proprietary or third party fixing to enable demount-ability",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "We have dry manufacturing facilities. No waste water is generated in the manufacturing of our products.",
+    "transport_emissions_minimisation_techniques": "Freight emissions are accounted and fully offset annually. Air freight is avoided wherever possible. Packaging is fully consolidated and stock managed to reduce freighting TKM.",
+    "minimisation_design_strategy": "Product is manufactured to standard construction sizes or made to order to suit specific lengths reduce wastage onsite, packaging and transportation loads.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1311,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Autex_Environmental_Management_System_ISO14001-_2027.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1312,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Autex_International_Panel_Declare_ATX-0002_2025_9UfeCJ5.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1313,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Autex_International_Panel_Declare_ATX-0002_2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1314,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Autex_Acoustics_Panels_and_Tiles_EPD_EN_15804_2026.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1315,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Autex__Health_and_Safety_Management_System_ISO_45001-2027.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1316,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Autex_Interior_Acoustics_GreenRate_Level_A_2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1317,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/certificates/Cube_Cascade_Frontier_Grid_Ceiling_Tiles_Horizon_Cove_Loch_Lattice_Vicinity_HPD_2027.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "Accumulation of landfilled PET waste can contribute to pollution and the formation of microplastics. Diversion from landfills through recycling can reduce this risk.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 638,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "component": "PET Panels",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 915,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "PET fibre",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 768,
+        "location_name": "Bayswater VIC, Australia",
+        "location_lat": -37.842601,
+        "location_lon": 145.270482,
+        "location_state": " Australia",
+        "location_city": "Bayswater VIC"
+      },
+      {
+        "id": 769,
+        "location_name": "Yatala QLD, Australia",
+        "location_lat": -27.750808,
+        "location_lon": 153.217466,
+        "location_state": " Australia",
+        "location_city": "Yatala QLD"
+      },
+      {
+        "id": 770,
+        "location_name": "Malaga WA, Australia",
+        "location_lat": -31.855476,
+        "location_lon": 115.893397,
+        "location_state": " Australia",
+        "location_city": "Malaga WA"
+      },
+      {
+        "id": 771,
+        "location_name": "Glendenning NSW, Australia",
+        "location_lat": -33.746135,
+        "location_lon": 150.853643,
+        "location_state": " Australia",
+        "location_city": "Glendenning NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Spinfix 100% PET mounting clips provide a concealed fixing option and allows for reuse and recycling.  Adhesive fixing can contaminate the product making it unsuitable or more difficult to recycle.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 751,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/compliance/FAR_4055_Issue_6_C1_BRANZ_Report_summary.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Autex products are typically packaged in readily brown recyclable, compostable cardboard packaging. Packaging is made locally in Australia.",
+    "files": [
+      {
+        "id": 1068,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/ModernSlaveryAssessment/Autex_Modern_Slavery_Statement_2024.pdf"
+      },
+      {
+        "id": 1069,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/ModernSlaveryActionPlan/Autex_Modern_Slavery_Statement_2024.pdf"
+      },
+      {
+        "id": 1070,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/VOC/AutexAcousticPanels_VOC_Emissions_CDPH_v1.2-2023-2028_Comparisson_Emission_Data.pdf"
+      },
+      {
+        "id": 1071,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Autex%20Cube%E2%84%A2/RecycledContent/Autex_IA_Recycled_Content_Declaration_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "company": {
+      "id": 16,
+      "name": "Autex Acoustics"
+    },
+    "image": "products/Autex Acoustics/Cube_.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-30T05:16:00.487236+00:00",
+    "last_update": "2025-09-22T14:00:00+00:00",
+    "created_by": {
+      "id": 116,
+      "email": "robj@autex.com.au"
+    },
+    "updated_by": {
+      "id": 116,
+      "email": "robj@autex.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Autex Acoustics",
+    "product_name": "Cube",
+    "product_code": "100% polyester Acoustic Panel",
+    "product_description": "A lightweight panel made from compressed polyester felt that has endless design flexability",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "1220 wide up to 3600mm long",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Typically 3-10 Business days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1324,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_International_Panel_Declare_ATX-0002_2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1325,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Acoustics_Panels_and_Tiles_EPD_EN_15804_2026.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1326,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Interior_Acoustics_GreenRate_Level_A_2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1327,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Symphony_Sordino_Composition_Visage_HPD_2027.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1328,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Environmental_Management_System_ISO14001-_2027.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1329,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex__Health_and_Safety_Management_System_ISO_45001-2027.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "Yes",
+    "carbon_offsets": 1.89,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 0.0,
+    "upfront_carbon_emissions": 0.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Mechanically mounted products can be reused as they are. Autex has  developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "76",
+    "recycled_content_description": "",
+    "recycling_process_description": "Mechanically mounted products can be reused as they are. Autex has developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Can be installed using proprietary Autex spinfix or third party fixings to enable demount-ability",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "We have dry manufacturing facilities. Waste water is not generated in the manufacturing of our products.",
+    "transport_emissions_minimisation_techniques": "Freight emissions are accounted and fully offset annually. Airfreight is avoided wherever possible. Packaging is fully consolidated and stock managed to reduce freighting TKM.",
+    "minimisation_design_strategy": "Product is manufactured to standard construction sizes or made to order to suit specific lengths helping the reduction of wastage onsite, packaging and transportation loads.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1324,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_International_Panel_Declare_ATX-0002_2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1325,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Acoustics_Panels_and_Tiles_EPD_EN_15804_2026.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1326,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Interior_Acoustics_GreenRate_Level_A_2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1327,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Symphony_Sordino_Composition_Visage_HPD_2027.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1328,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Environmental_Management_System_ISO14001-_2027.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1329,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex__Health_and_Safety_Management_System_ISO_45001-2027.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "Accumulation of landfilled PET waste can contribute to pollution and the formation of microplastics. Diversion from landfills through recycling can reduce this risk.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Cube is  ready to install and is the base product used to create:\r\nFrontier Acoustic baffle ceiling and wall system\r\nHorizon Suspended and direct fixed  geometric shapes\r\nGrid Tiles.\r\nGroove.\r\nVerve Contoured Panels.\r\nMirage Textured Panels.\r\nCascade Hanging Screens.\r\nVicinity Desk screens.\r\nLanes:  Battened linear style acoustic system.",
+    "manufacturing_locations": [
+      {
+        "id": 640,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "component": "100 % PET Felt",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 926,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "PET Fibre",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 781,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 782,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 783,
+        "location_name": "Yatala QLD, Australia",
+        "location_lat": -27.750808,
+        "location_lon": 153.217466,
+        "location_state": " Australia",
+        "location_city": "Yatala QLD"
+      },
+      {
+        "id": 784,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Refer to installation instructions for fixing options. Adhesive free options are available for all applications.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Cube and the systems and product made from it contain a minimum of 80% recycled content and are recyclable. Cube can be installed using a variety of methods that will allow adaptive reuse, or eliminate contamination from adhesives. Adhesive free solutions will typically enhance the acoustic performance.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 752,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/compliance/FAR_4055_Issue_6_C1_BRANZ_Report_summary.pdf",
+        "link": "",
+        "rating": "1"
+      }
+    ],
+    "type_of_packaging": "Autex products are typically packaged in brown recyclable, compostable cardboard packaging. Packaging is made locally in Australia.",
+    "files": [
+      {
+        "id": 1074,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/VOC/AutexAcousticPanels_VOC_Emissions_CDPH_v1.2-2023-2028_Comparisson_Emission_Data.pdf"
+      },
+      {
+        "id": 1076,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/RecycledContent/Autex_IA_Recycled_Content_Declaration_2024.pdf"
+      },
+      {
+        "id": 1075,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/LCA/Autex_Acoustics_Panels_and_Tiles_EPD_EN_15804_2026.pdf"
+      },
+      {
+        "id": 1077,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/ModernSlaveryAssessment/Autex_Modern_Slavery_Statement_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "company": {
+      "id": 16,
+      "name": "Autex Acoustics"
+    },
+    "image": "products/Autex Acoustics/composition.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-01T05:09:39.669519+00:00",
+    "last_update": "2025-09-22T14:00:00+00:00",
+    "created_by": {
+      "id": 116,
+      "email": "robj@autex.com.au"
+    },
+    "updated_by": {
+      "id": 116,
+      "email": "robj@autex.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Autex Acoustics",
+    "product_name": "Composition (12Mm)",
+    "product_code": "(100 polyester acoustic wall lining)",
+    "product_description": "Flexible acoustic pinboard wall lining suitable for flat and curved surfaces",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "Supplied In 10-12mm thick 1220mm rolls and panels",
+    "price_per_unit": null,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "Typically 3-10 Business days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1341,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_International_Panel_Declare_ATX-0002_2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1342,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Interior_Acoustics_GreenRate_Level_A_2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1343,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Symphony_Sordino_Composition_Visage_HPD_2027.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1344,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Environmental_Management_System_ISO14001-_2027.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1345,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex__Health_and_Safety_Management_System_ISO_45001-2027.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1359,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Composition%20%2812Mm%29/certificates/Autex_Acoustics_Wallcovering_EPD_EN_15804_2026.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "Yes",
+    "carbon_offsets": 2.14,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 0.0,
+    "upfront_carbon_emissions": 0.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "Mechanically mounted products can be reused as they are. Autex has  developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Product must be un-contaminated.",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Mechanically mounted products can be reused as they are. Autex has developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "Not Typically",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "We have dry manufacturing facilities. Waste water is not generated in the manufacturing of our products.",
+    "transport_emissions_minimisation_techniques": "Freight emissions are accounted and fully offset annually. Airfreight is avoided wherever possible. Packaging is fully consolidated and stock managed to reduce freighting TKM.",
+    "minimisation_design_strategy": "Product is manufactured to standard construction sizes or made to order to suit specific lengths helping the reduction of wastage onsite, packaging and transportation loads.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1341,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_International_Panel_Declare_ATX-0002_2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1342,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Interior_Acoustics_GreenRate_Level_A_2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1343,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Symphony_Sordino_Composition_Visage_HPD_2027.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1344,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Environmental_Management_System_ISO14001-_2027.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1345,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex__Health_and_Safety_Management_System_ISO_45001-2027.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1359,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Composition%20%2812Mm%29/certificates/Autex_Acoustics_Wallcovering_EPD_EN_15804_2026.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "Accumulation of landfilled PET waste can contribute to pollution and the formation of microplastics. Diversion from landfills through recycling can reduce this risk.",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Installation methods can include adhesives, Appropriate OH&S precautions are required.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Prefinished ready for installation, no additional finish's are required.",
+    "manufacturing_locations": [
+      {
+        "id": 647,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "component": "Backing ",
+        "component_percentage": 75.0
+      },
+      {
+        "id": 648,
+        "location_name": "Auckland, New Zealand",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "component": "Fabric Facings ",
+        "component_percentage": 25.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 927,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "PET",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 795,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 796,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 797,
+        "location_name": "Yatala QLD, Australia",
+        "location_lat": -27.750808,
+        "location_lon": 153.217466,
+        "location_state": " Australia",
+        "location_city": "Yatala QLD"
+      },
+      {
+        "id": 798,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Refer to installation instructions for fixing options, where possible avoid adhesive options to maximise repurposing and recycling opportunities.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 758,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/compliance/FAR_4055_Issue_6_C1_BRANZ_Report_summary.pdf",
+        "link": "",
+        "rating": "1"
+      }
+    ],
+    "type_of_packaging": "Composition 12mm roll form is typically packaged in plastic packaging is made locally in Australia. Panels are packaged in brown cardboard  packaging.",
+    "files": [
+      {
+        "id": 1093,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/RecycledContent/Autex_IA_Recycled_Content_Declaration_2024.pdf"
+      },
+      {
+        "id": 1094,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/ModernSlaveryAssessment/Autex_Modern_Slavery_Statement_2024.pdf"
+      },
+      {
+        "id": 1095,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Composition/VOC/AutexAcousticPanels_VOC_Emissions_CDPH_v1.2-2023-2028_Comparisson_Emission_Data.pdf"
+      },
+      {
+        "id": 1096,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Composition/LCA/Autex_Acoustics_Wallcovering_EPD_EN_15804_2026.pdf"
+      }
+    ]
+  },
+  {
+    "id": 511,
+    "company": {
+      "id": 16,
+      "name": "Autex Acoustics"
+    },
+    "image": "products/Autex Acoustics/composition.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-01T05:28:13.747176+00:00",
+    "last_update": "2025-09-22T14:00:00+00:00",
+    "created_by": {
+      "id": 116,
+      "email": "robj@autex.com.au"
+    },
+    "updated_by": {
+      "id": 116,
+      "email": "robj@autex.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Autex Acoustics",
+    "product_name": "Composition 18Mm",
+    "product_code": "(100% Polyester acoustic wall covering)",
+    "product_description": "Acoustic Pinboard Ideal for education environments.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "Supplied In 16-18 thick 1220mm wide panels up to 3.6 long.",
+    "price_per_unit": null,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "Typically 3-10 Business days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1351,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_International_Panel_Declare_ATX-0002_2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1352,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Interior_Acoustics_GreenRate_Level_A_2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1353,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Symphony_Sordino_Composition_Visage_HPD_2027.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1354,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Environmental_Management_System_ISO14001-_2027.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1355,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex__Health_and_Safety_Management_System_ISO_45001-2027.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1360,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Composition%2018Mm/certificates/Autex_International_Wallcovering_Declare_ATX-0005_2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 2.14,
+    "upfront_carbon_emissions": 2.14,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Mechanically mounted products can be reused as they are. Autex has  developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Product must be un contaminated.",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Mechanically mounted products can be reused as they are. Autex has developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "When specified and installed using Autex proprietary concealed spin fix clips or other mechanical fixings product can be recycled. Adhesive fixing may limit reuse and recycling options.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "We have dry manufacturing facilities. Waste water is not generated in the manufacturing of our products.",
+    "transport_emissions_minimisation_techniques": "Freight emissions are accounted and fully offset annually. Airfreight is avoided wherever possible. Packaging is fully consolidated and stock managed to reduce freighting TKM.",
+    "minimisation_design_strategy": "Product is manufactured to standard construction sizes or made to order to suit specific lengths helping the reduction of wastage onsite, packaging and transportation loads.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1351,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_International_Panel_Declare_ATX-0002_2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1352,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Interior_Acoustics_GreenRate_Level_A_2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1353,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Symphony_Sordino_Composition_Visage_HPD_2027.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1354,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex_Environmental_Management_System_ISO14001-_2027.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1355,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/certificates/Autex__Health_and_Safety_Management_System_ISO_45001-2027.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1360,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Composition%2018Mm/certificates/Autex_International_Wallcovering_Declare_ATX-0005_2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "Accumulation of landfilled PET waste can contribute to pollution and the formation of microplastics. Diversion from landfills through recycling can reduce this risk.",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Installation methods can include adhesives, Appropriate OH&S precautions are required.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Prefinished ready for installation, no additional finish's are required.",
+    "manufacturing_locations": [
+      {
+        "id": 651,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "component": "Backing ",
+        "component_percentage": 75.0
+      },
+      {
+        "id": 652,
+        "location_name": "Auckland, New Zealand",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "component": "Fabric Facings ",
+        "component_percentage": 25.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 928,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "PET",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 803,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 804,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 805,
+        "location_name": "Yatala QLD, Australia",
+        "location_lat": -27.750808,
+        "location_lon": 153.217466,
+        "location_state": " Australia",
+        "location_city": "Yatala QLD"
+      },
+      {
+        "id": 806,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Refer to installation instructions for fixing options, where possible avoid adhesive options to maximise repurposing and recycling opportunities.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 760,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/compliance/FAR_4055_Issue_6_C1_BRANZ_Report_summary.pdf",
+        "link": "",
+        "rating": "1"
+      }
+    ],
+    "type_of_packaging": "Composition 12mm roll form is typically packaged in plastic packaging is made locally in Australia.",
+    "files": [
+      {
+        "id": 1103,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/RecycledContent/Autex_IA_Recycled_Content_Declaration_2024.pdf"
+      },
+      {
+        "id": 1104,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Cube/ModernSlaveryAssessment/Autex_Modern_Slavery_Statement_2024.pdf"
+      },
+      {
+        "id": 1105,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Composition/VOC/AutexAcousticPanels_VOC_Emissions_CDPH_v1.2-2023-2028_Comparisson_Emission_Data.pdf"
+      },
+      {
+        "id": 1106,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Composition/LCA/Autex_Acoustics_Wallcovering_EPD_EN_15804_2026.pdf"
+      },
+      {
+        "id": 1107,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Composition/VOC/Composition_MV_ASSETS_2024_09_30_1449_1.zip"
+      }
+    ]
+  },
+  {
+    "id": 513,
+    "company": {
+      "id": 16,
+      "name": "Autex Acoustics"
+    },
+    "image": "products/Autex Acoustics/QS_Panel_Mix.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-10-02T00:18:46.332316+00:00",
+    "last_update": "2024-10-01T14:00:00+00:00",
+    "created_by": {
+      "id": 112,
+      "email": "marketing@autex.com.au"
+    },
+    "updated_by": {
+      "id": 112,
+      "email": "marketing@autex.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Autex Acoustics",
+    "product_name": "Quietspace Panel",
+    "product_code": "(100% polyester fibre acoustic panel)",
+    "product_description": "A discrete, high-performance acoustic treatment engineered to absorb high levels of sound energy.",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "Thickness 25 mm | 50 mm | 75 mm | 100 mm. Size 1200 mm x 2400 mm | 1200 mm x 2700 mm Custom sizes available up to 3600mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10-15 business days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1361,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Autex_International_Panel_Declare_ATX-0002_2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1362,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Quietspace_Panel_APA_Accent_Ceiling_Tiles_HPD_2027.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1363,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Quietspace_Variations_GreenRate_2024.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1364,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Autex_Acoustics_Panels_and_Tiles_EPD_EN_15804_2026.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1365,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Autex_Environmental_Management_System_ISO14001-_2027.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 3.53,
+    "upfront_carbon_emissions": 3.53,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Mechanically mounted products can be reused as they are. Autex has developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Clean uncontaminated off cuts can be repurposed. Autex has developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Mechanically mounted products can be reused as they are. Autex has developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "We have dry manufacturing facilities. Waste water is not generated in the manufacturing of our products.",
+    "transport_emissions_minimisation_techniques": "Freight emissions are accounted and fully offset annually. Airfreight is avoided wherever possible. Packaging is fully consolidated and stock managed to reduce freighting TKM.",
+    "minimisation_design_strategy": "Product is manufactured to standard construction sizes or made to order to suit specific lengths from 1.2m - 3.6m helping the reduction of wastage onsite, packaging and transportation loads.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1361,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Autex_International_Panel_Declare_ATX-0002_2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1362,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Quietspace_Panel_APA_Accent_Ceiling_Tiles_HPD_2027.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1363,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Quietspace_Variations_GreenRate_2024.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1364,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Autex_Acoustics_Panels_and_Tiles_EPD_EN_15804_2026.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1365,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Autex_Environmental_Management_System_ISO14001-_2027.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "Potential to degrade into micro-plastics when landfilled or incorrectly disposed of in the environment.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Available in 3 Nude Finish's ( white grey and black  or with any Vertiface colour option factory applied.",
+    "manufacturing_locations": [
+      {
+        "id": 655,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "component": "Panel",
+        "component_percentage": 80.0
+      },
+      {
+        "id": 656,
+        "location_name": "Auckland, New Zealand",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "component": "Vertiface Fabric (optional)",
+        "component_percentage": 20.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 932,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "PET",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 814,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 815,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 816,
+        "location_name": "Yatala QLD, Australia",
+        "location_lat": -27.750808,
+        "location_lon": 153.217466,
+        "location_state": " Australia",
+        "location_city": "Yatala QLD"
+      },
+      {
+        "id": 817,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "When specified and installed using Autex proprietary concealed spin fix clips or other mechanical fixings product can be recycled. Adhesive fixing may limit reuse and recycling options.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 762,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/compliance/FAR_4055_Issue_6_C1_BRANZ_Report_summary.pdf",
+        "link": "",
+        "rating": "1"
+      }
+    ],
+    "type_of_packaging": "Product is typically supplied in locally made recyclable cardboard packaging,  products may be supplied on reusable-returnable pallets if required.",
+    "files": [
+      {
+        "id": 1113,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/VOC/Autex_Acoustics_VOC_Emissions_ASTM_D5116_CV170908_2017.pdf"
+      },
+      {
+        "id": 1114,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/RecycledContent/Autex_IA_Recycled_Content_Declaration_2024.pdf"
+      },
+      {
+        "id": 1115,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/ModernSlaveryAssessment/Autex_Modern_Slavery_Statement_2024.pdf"
+      },
+      {
+        "id": 1116,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/ModernSlaveryActionPlan/Autex_Modern_Slavery_Statement_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1225,
+    "company": {
+      "id": 16,
+      "name": "Autex Acoustics"
+    },
+    "image": "products/Autex Acoustics/ASL_Cover_Image_GQegbMO.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-14T05:51:50.259978+00:00",
+    "last_update": "2025-05-13T14:00:00+00:00",
+    "created_by": {
+      "id": 116,
+      "email": "robj@autex.com.au"
+    },
+    "updated_by": {
+      "id": 116,
+      "email": "robj@autex.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Autex Acoustics",
+    "product_name": "Asl - Acoustic Soffit Liner",
+    "product_code": "ASL",
+    "product_description": "High performing acoustic and thermal lining for soffits, slabs, and ceiling applications",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 22,
+        "category_name": "Insulation, Barriers, Membranes, Air tightness systems"
+      }
+    ],
+    "standard_dimensions": "Thickness 50 mm | 150 mm |Size 1200 Custom sizes available up to 3600mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10-15 business days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4346,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Autex_International_Panel_Declare_ATX-0002_2025.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4347,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Quietspace_Panel_APA_Accent_Ceiling_Tiles_HPD_2027.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4348,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Quietspace_Variations_GreenRate_2024.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4349,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Autex_Acoustics_Panels_and_Tiles_EPD_EN_15804_2026.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4350,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Autex_Environmental_Management_System_ISO14001-_2027.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 3.53,
+    "upfront_carbon_emissions": 3.53,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Mechanically mounted products can be reused as they are. Autex has developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Clean uncontaminated off cuts can be repurposed. Autex has developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "Mechanically mounted products can be reused as they are. Autex has developed bespoke recycling machinery to reprocess uncontaminated waste back into reusable rPET raw material.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "We have dry manufacturing facilities. Waste water is not generated in the manufacturing of our products.",
+    "transport_emissions_minimisation_techniques": "Freight emissions are accounted and fully offset annually. Airfreight is avoided wherever possible. Packaging is fully consolidated and stock managed to reduce freighting TKM.",
+    "minimisation_design_strategy": "Product is manufactured to standard construction sizes or made to order to suit specific lengths from 1.2m - 3.6m helping the reduction of wastage onsite, packaging and transportation loads.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4346,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Autex_International_Panel_Declare_ATX-0002_2025.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4347,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Quietspace_Panel_APA_Accent_Ceiling_Tiles_HPD_2027.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4348,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Quietspace_Variations_GreenRate_2024.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4349,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Autex_Acoustics_Panels_and_Tiles_EPD_EN_15804_2026.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4350,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/certificates/Autex_Environmental_Management_System_ISO14001-_2027.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "Potential to degrade into micro-plastics when landfilled or incorrectly disposed of in the environment.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 50,
+    "factory_finished": true,
+    "factory_finished_description": "Available in 3 standard colours. Flint, Charcoal & Flint Reclaim, options in white and black on request, conditions apply.",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 2792,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "PET",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1861,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1862,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1863,
+        "location_name": "Yatala QLD, Australia",
+        "location_lat": -27.750808,
+        "location_lon": 153.217466,
+        "location_state": " Australia",
+        "location_city": "Yatala QLD"
+      },
+      {
+        "id": 1864,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "When specified and installed using Autex proprietary concealed spin fix clips or other mechanical fixings product can be recycled. Adhesive fixing may limit reuse and recycling options.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2528,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/compliance/FAR_4055_Issue_6_C1_BRANZ_Report_summary.pdf",
+        "link": "",
+        "rating": "1"
+      }
+    ],
+    "type_of_packaging": "Product is typically supplied in locally made recyclable cardboard packaging,  products may be supplied on reusable-returnable pallets if required.",
+    "files": [
+      {
+        "id": 3436,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/RecycledContent/Autex_IA_Recycled_Content_Declaration_2024.pdf"
+      },
+      {
+        "id": 3437,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/ModernSlaveryAssessment/Autex_Modern_Slavery_Statement_2024.pdf"
+      },
+      {
+        "id": 3438,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Autex%20Acoustics/Quietspace%20Panel/ModernSlaveryActionPlan/Autex_Modern_Slavery_Statement_2024.pdf"
+      }
+    ]
+  }
+]

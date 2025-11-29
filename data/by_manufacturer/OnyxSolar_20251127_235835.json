@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1193,
+    "company": {
+      "id": 15,
+      "name": "METZ SPECIALITY MATERIALS"
+    },
+    "image": "products/METZ SPECIALITY MATERIALS/WCH_41.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-04-23T05:36:56.564136+00:00",
+    "last_update": "2025-04-30T14:00:00+00:00",
+    "created_by": {
+      "id": 2217,
+      "email": "enver@metztiles.com.au"
+    },
+    "updated_by": {
+      "id": 2217,
+      "email": "enver@metztiles.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "OnyxSolar",
+    "product_name": "Building Integrated Photovoltaics (Bipv) - Onyxsolar",
+    "product_code": "Photovoltaic Glass - OnyxSolar",
+    "product_description": "Building Integrated Photovoltaic Solutions by OnyxSolar",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      },
+      {
+        "id": 20,
+        "category_name": "Glass and glazing"
+      }
+    ],
+    "standard_dimensions": "upto 4000x2000",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "8-10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4263,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Building%20Integrated%20Photovoltaics%20%28Bipv%29%20-%20Onyxsolar/certificates/GlobalEPD_EN15804-063_-_ONYX_SOLAR_IN.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4264,
+        "certification": "Other",
+        "file": null,
+        "link": "•\thttps://onyxsolar.com/images/3.resources/certifications/docs/Class-A_UL790_safety-glass.pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 11.83,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 7.55,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 8.24,
+    "upfront_carbon_emissions": 8.24,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Recycling Glass, 98% \r\nrecovered & recycled Silicon, 95% \r\nCopper, 33% \r\nOther metals, 95%",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Module C1, starts when the product is replaced or dismantled and has no additional functionality. It includes on-site disassembly and sorting operations. The solar photovoltaic glass is manually disassembled from the building and transported (module C2) for recycling, assuming 550 km as the transport distance (UNE EN 17074:2020). Module C3 includes the collection of waste fractions, as well as the treatment of material flows that are to be recycled or subject to energy recovery, and finally final disposal in landfill (module C4), quantified at 15% (Directive 2012/19/EU).",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "electric forklifts",
+    "minimisation_design_strategy": "The product is customized to suit the application, hence no wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "https://property.informed365.com",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4263,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Building%20Integrated%20Photovoltaics%20%28Bipv%29%20-%20Onyxsolar/certificates/GlobalEPD_EN15804-063_-_ONYX_SOLAR_IN.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4264,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "•\thttps://onyxsolar.com/images/3.resources/certifications/docs/Class-A_UL790_safety-glass.pdf",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "OnyxSolar Photovoltaic Glass products are customized to suit the requirements of each project and are supplied ready to be installed without further finishing needed.",
+    "manufacturing_locations": [
+      {
+        "id": 2278,
+        "location_name": "Ávila‎, Spain",
+        "location_lat": 40.656685,
+        "location_lon": -4.681209,
+        "component": "Photovoltaic Glass",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2667,
+        "location_name": "Pontevedra, Spain",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Glass",
+        "product_percentage": 88.0
+      },
+      {
+        "id": 2668,
+        "location_name": "Alessandria, Province of Alessandria, Italy",
+        "location_lat": 44.907273,
+        "location_lon": 8.61168,
+        "material": "Encapsulants",
+        "product_percentage": 9.0
+      },
+      {
+        "id": 2669,
+        "location_name": "Yilan City, Yilan County, Taiwan",
+        "location_lat": 24.759115,
+        "location_lon": 121.75374,
+        "material": "Cells",
+        "product_percentage": 2.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1831,
+        "location_name": "Huntingwood NSW, Australia",
+        "location_lat": -33.797307,
+        "location_lon": 150.876739,
+        "location_state": " Australia",
+        "location_city": "Huntingwood NSW"
+      },
+      {
+        "id": 1837,
+        "location_name": "Ávila‎, Spain",
+        "location_lat": 40.656685,
+        "location_lon": -4.681209,
+        "location_state": " Spain",
+        "location_city": "Ávila‎"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2503,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "•\thttps://onyxsolar.com/images/3.resources/certifications/docs/Fire_test-CLASS-A_61730.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 2504,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "•\thttps://onyxsolar.com/images/3.resources/certifications/docs/Fire-CLASS-A_bifacials.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 2505,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "•\thttps://onyxsolar.com/images/3.resources/certifications/docs/Class-A_UL790_safety-glass.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Wood box and wooden dividers",
+    "files": [
+      {
+        "id": 3423,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Building%20Integrated%20Photovoltaics%20%28Bipv%29%20-%20Onyxsolar/VOC/GlobalEPD_EN15804-063_-_ONYX_SOLAR_IN.pdf"
+      },
+      {
+        "id": 3424,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/METZ%20SPECIALITY%20MATERIALS/Building%20Integrated%20Photovoltaics%20%28Bipv%29%20-%20Onyxsolar/LCA/GlobalEPD_EN15804-063_-_ONYX_SOLAR_IN.pdf"
+      }
+    ]
+  }
+]

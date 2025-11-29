@@ -1,0 +1,182 @@
+[
+  {
+    "id": 364,
+    "company": {
+      "id": 123,
+      "name": "BRIGGS VENEERS PTY LTD"
+    },
+    "image": "",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-12T05:12:43.948276+00:00",
+    "last_update": "2024-08-11T14:00:00+00:00",
+    "created_by": {
+      "id": 0,
+      "email": ""
+    },
+    "updated_by": {
+      "id": 0,
+      "email": ""
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Briggs Veneers",
+    "product_name": "Eco-Cert Natural Veneers",
+    "product_code": "N/A",
+    "product_description": "Environmentally Certified to be from responsibly managed forests.  FSC 100% with Chain of Custody",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Layon Sheet size, substrate size, grain direction, Efficient matching options such as random mismatch.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "These requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.briggs.com.au/Portals/0/Downloads/Sustainability%20&%20OHS/04%20-%20Emissions,%20Health%20&%20Safety%20Certification/Formaldehyde_Statement_Natural_Timber_Veneer.pdf",
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 659,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Timber Veneer",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 507,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full composability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once pressed onto board and fabricated, the timber veneer will need to be sealed.  There are various options depending on application including but not limited to LOW VOC water based, acrylic-urethane, poly-urethane single and 2 PAC coatings etc.",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 38,
+    "section_E_score": 71,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Sustainable wood veneers have many environmental benefits:\r\nLow embodied energy\r\nCarbon storage – growing trees absorb carbon dioxide which is then “locked up” for the life of the tree and wooden products made from that tree\r\nLand use and biodiversity – Sustainably managed native forests are a natural ecosystem and consequently have high biodiversity. Plantations also support a reasonable degree of biodiversity.\r\nWood is a renewable resource\r\nVeneer is one of the most environmentally efficient and economical ways to use beautiful timbers because one cubic metre of veneer can cover more than 1,000 m2 of panel surface\r\n\r\nThe Briggs Group is committed to the responsible use of the world’s resources. We are proud to have pioneered the use of Australian sustainable hardwoods for veneer, harvested in accordance with passing the strict environmental guidelines that are required by Government. By law, Australian State Forest land cannot be permanently cleared; it must always be replanted or regenerated.  Sustainable harvest means that the amount of timber that grows back each year is greater than, or equal to, the amount harvested. Furthermore, such forests are managed in accordance with strict laws and regulations to protect biodiversity, endangered species, water quality and other environmental values.  Additionally, all the Australian veneer that we get sliced, and all the veneer that we import, is checked under our Due Diligence program as being legally harvested.",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 599,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://www.briggs.com.au/resources-downloads",
+        "rating": "2 or 3 depending on substrate"
+      },
+      {
+        "id": 598,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "https://www.briggs.com.au/resources-downloads",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "",
+    "files": [
+      {
+        "id": 658,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BRIGGS%20VENEERS%20PTY%20LTD/Eco-Cert%20Natural%20Veneers/ModernSlaveryAssessment/Chain_of_Custody_Certificate_FSC_2026.pdf"
+      }
+    ]
+  }
+]

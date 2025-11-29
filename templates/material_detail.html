@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ product.product_name or product.product_code or "Material detail" }} - Sustainability</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+  </head>
+  <body>
+    <div class="detail-layout">
+      <div class="back-link">
+        <a href="{{ url_for('index') }}">&larr; Back to the selector</a>
+      </div>
+
+      <article class="detail-card">
+        <header>
+          <div class="detail-header-main">
+            <h1 class="detail-title">
+              {{ product.product_name or product.product_code or ("Material #" ~ product.id) }}
+            </h1>
+            {% if product.manufacturer_name %}
+            <div class="detail-subtitle">
+              Manufacturer: {{ product.manufacturer_name }}
+            </div>
+            {% endif %}
+            {% if categories %}
+            <div class="detail-subtitle">
+              Categories:
+              {% for c in categories %}
+              <span class="badge">{{ c }}</span>
+              {% endfor %}
+            </div>
+            {% endif %}
+          </div>
+        </header>
+
+        {% if product.product_description %}
+        <section class="detail-section" style="margin-top: 14px;">
+          <h3>Summary</h3>
+          <p>{{ product.product_description }}</p>
+        </section>
+        {% endif %}
+
+        <section class="detail-scores">
+          <div class="detail-score-card">
+            <div class="detail-score-label">Total sustainability score</div>
+            <div class="detail-score-value" style="color:#16a34a;">
+              {{ "%.1f"|format(product.total_score or 0) }}
+              <span class="badge grade-badge">{{ product.total_label or "—" }}</span>
+            </div>
+          </div>
+          <div class="detail-score-card">
+            <div class="detail-score-label">Hazardous substances (VOC + concern substances)</div>
+            <div class="detail-score-value">
+              {{ "%.0f"|format(product.hazardous_substances_score or 0) }}
+            </div>
+          </div>
+          <div class="detail-score-card">
+            <div class="detail-score-label">Circularity & lifetime (CLSI)</div>
+            <div class="detail-score-value">
+              {{ "%.0f"|format(product.circularity_lifespan_score or 0) }}
+            </div>
+          </div>
+          <div class="detail-score-card">
+            <div class="detail-score-label">Certifications (LCA + other)</div>
+            <div class="detail-score-value">
+              {{ "%.0f"|format(product.certification_score or 0) }}
+            </div>
+          </div>
+        </section>
+
+        <section class="detail-grid">
+          <div class="detail-section">
+            <h3>Hazardous substances</h3>
+            <p>VOC: {{ product.volatile_organic_compounds or "No data" }}</p>
+            <p>Substances of concern: {{ product.substances_of_concern or "No data" }}</p>
+          </div>
+
+          <div class="detail-section">
+            <h3>Circularity & lifetime</h3>
+            <p>Recyclable percentage: {{ product.recyclable_percentage or "No data" }}</p>
+            <p>Recycled content: {{ product.recycled_content_percentage or "No data" }}</p>
+            <p>Reusable: {{ product.reusable or "No data" }}</p>
+            <p>Expected lifespan (years): {{ product.expected_lifespan_years or "No data" }}</p>
+          </div>
+        </section>
+
+        <section class="detail-grid" style="margin-top: 12px;">
+          <div class="detail-section">
+            <h3>Certifications & LCA</h3>
+            <p>Independent LCA: {{ product.independent_lca or "No data" }}</p>
+            {% if product.certifications %}
+            <ul class="detail-list">
+              {% for cert in product.certifications %}
+              <li>
+                {{ cert.certification }}
+              </li>
+              {% endfor %}
+            </ul>
+            {% else %}
+            <p>No certification data.</p>
+            {% endif %}
+          </div>
+        </section>
+      </article>
+    </div>
+  </body>
+</html>
+
+

@@ -1,0 +1,1172 @@
+[
+  {
+    "id": 1568,
+    "company": {
+      "id": 39,
+      "name": "POLYTEC"
+    },
+    "image": "products/POLYTEC/Product_paper_breakdown_Decorative_PB_qEAyi3P.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-20T00:39:40.987112+00:00",
+    "last_update": "2025-11-23T13:00:00+00:00",
+    "created_by": {
+      "id": 103,
+      "email": "mitchellr@polytec.com.au"
+    },
+    "updated_by": {
+      "id": 103,
+      "email": "mitchellr@polytec.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Porta Products Pty Ltd",
+    "product_name": "Particle Decorative Board",
+    "product_code": "Particle Decorative Board",
+    "product_description": "Particle Decorative Board is a moisture-resistant E0 & E1 Particleboard bonded with resin.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "16mm, 18, 3600 x 1800mm Select Colours",
+    "price_per_unit": null,
+    "product_functional_unit": "m3",
+    "price_adjustment_structure": null,
+    "lead_time": "Generally in stock - MTO will attract lead time",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5997,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-particleboard-environmental-product-declaration-epd.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5998,
+        "certification": "GreenTag - Modern Slavery Declaration",
+        "file": null,
+        "link": "https://architectsdeclareapp.s3.amazonaws.com/media/products/POLYTEC/Decorated%20Melamine%20Particleboard/certificates/b-04.10-Modern_Slavery_St_CXB8Js3.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5999,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-ecospecifier-green-tag-mr-particle-board.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6000,
+        "certification": "ISO 14025",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-particleboard-environmental-product-declaration-epd.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6001,
+        "certification": "Forestry Stewardship Council",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-chain-of-custody-certificate.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6004,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-chain-of-custody-certificate.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6005,
+        "certification": "Responsible Wood",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-chain-of-custody-certificate.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6006,
+        "certification": "Other",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/environment/polytec-technical-formaldehyde-emission-classifications.pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 3440.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 9.6,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -637.0,
+    "upfront_carbon_emissions": -637.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Onshore recycling facility installed at local Manufacturing plants.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "The manufacturing of particleboard utilises recycled wood and off cuts in the production of new particleboard at Oberon facility. Offcuts of MDF is used for packing material and gluts.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "reDirect Wood Recycling has been established to provide a closed loop particleboard and wood recycling service. By installing a reDirect Recycling service you will enjoy significant cost savings in landfill charges.\r\nThe reDirect Wood Recovery Initiative has been designed to service polytec customers who are buying raw and melamine coated particleboard products. reDirect Wood Recycling will reclaim materials that would otherwise go to landfill, thereby reducing waste, preserving plantation pine forests and protecting the environment for future generations. The manufacturing of particleboard utilises recycled wood and off cuts in the production of new particleboard. By opting for wood off cut collection through reDirect Recycling you are assisting in creating sustainable manufacturing practices.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The entire product with edging or laminate can be recycled or repurposed.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "reDirect Wood Recycling has been established to provide a closed loop particleboard and wood recycling service. By installing a reDirect Recycling service you will enjoy significant cost savings in landfill charges.\r\nThe reDirect Wood Recovery Initiative has been designed to service polytec customers who are buying raw and melamine coated particleboard products. reDirect Wood Recycling will reclaim materials that would otherwise go to landfill, thereby reducing waste, preserving plantation pine forests and protecting the environment for future generations. The manufacturing of particleboard utilises recycled wood and off cuts in the production of new particleboard. By opting for wood off cut collection through reDirect Recycling you are assisting in creating sustainable manufacturing practices.",
+    "water_reduction_techniques": "polytec’s main source of water comes from our Waste Water Treatment Plant (WWTP). Community\r\ntown water is used only to supplement that which is consumed as recycled and softened water.\r\nThe WWTP treats effluent to a tertiary treatment level through Ultra filtration (UF) and Reverse\r\nOsmosis (RO) and returned to the MDF facility as softened water for use in the boilers and or\r\nmanufacturing process. Approximately 2/3 of our Oberon Manufacturing facility daily water\r\nrequirement is supplied by our WWTP.\r\nWith the exception of a portion of the HPP site, the WWTP manages all the wastewater and\r\nstormwater from the surrounding sites at the Oberon Timber Complex (OTC).",
+    "transport_emissions_minimisation_techniques": "Australian Owned/Australian Made local manufacturing",
+    "minimisation_design_strategy": "Designing to the sheet sizes and try to optimise the sheet to its maximum.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "https://modernslaveryregister.gov.au/statements/cuZyaGcaV1z5o3r/pdf/",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://modernslaveryregister.gov.au/statements/cuZyaGcaV1z5o3r/pdf/",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5997,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-particleboard-environmental-product-declaration-epd.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 5998,
+        "certification": "GreenTag - Modern Slavery Declaration",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://architectsdeclareapp.s3.amazonaws.com/media/products/POLYTEC/Decorated%20Melamine%20Particleboard/certificates/b-04.10-Modern_Slavery_St_CXB8Js3.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 5999,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-ecospecifier-green-tag-mr-particle-board.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 6000,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-particleboard-environmental-product-declaration-epd.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 6001,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-chain-of-custody-certificate.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 6004,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-chain-of-custody-certificate.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 6005,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-chain-of-custody-certificate.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 6006,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/environment/polytec-technical-formaldehyde-emission-classifications.pdf",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.polytec.com.au/docs/technical/polytec-technical-voc-lpm-particleboard-certificate.pdf",
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Matt",
+    "manufacturing_locations": [
+      {
+        "id": 3100,
+        "location_name": "Somersby NSW, Australia",
+        "location_lat": -33.356903,
+        "location_lon": 151.290435,
+        "component": "Melamine Laminate ",
+        "component_percentage": 2.0
+      },
+      {
+        "id": 3101,
+        "location_name": "Mount Gambier SA, Australia",
+        "location_lat": -37.828441,
+        "location_lon": 140.780676,
+        "component": "Raw Board Production ",
+        "component_percentage": 98.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3641,
+        "location_name": "Mount Gambier SA, Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Timber ",
+        "product_percentage": 85.0
+      },
+      {
+        "id": 3642,
+        "location_name": "",
+        "location_lat": -37.828441,
+        "location_lon": 140.780676,
+        "material": "Paper",
+        "product_percentage": 2.0
+      },
+      {
+        "id": 3643,
+        "location_name": "",
+        "location_lat": -37.828441,
+        "location_lon": 140.780676,
+        "material": "Resin & Wax",
+        "product_percentage": 13.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2485,
+        "location_name": "Mitchell ACT, Australia",
+        "location_lat": -35.21549,
+        "location_lon": 149.141553,
+        "location_state": " Australia",
+        "location_city": "Mitchell ACT"
+      },
+      {
+        "id": 2486,
+        "location_name": "Albury NSW, Australia",
+        "location_lat": -36.073729,
+        "location_lon": 146.913542,
+        "location_state": " Australia",
+        "location_city": "Albury NSW"
+      },
+      {
+        "id": 2487,
+        "location_name": "Somersby NSW, Australia",
+        "location_lat": -33.356903,
+        "location_lon": 151.290435,
+        "location_state": " Australia",
+        "location_city": "Somersby NSW"
+      },
+      {
+        "id": 2488,
+        "location_name": "Coffs Harbour NSW, Australia",
+        "location_lat": -30.298612,
+        "location_lon": 153.109392,
+        "location_state": " Australia",
+        "location_city": "Coffs Harbour NSW"
+      },
+      {
+        "id": 2489,
+        "location_name": "Nowra NSW, Australia",
+        "location_lat": -34.88705,
+        "location_lon": 150.600514,
+        "location_state": " Australia",
+        "location_city": "Nowra NSW"
+      },
+      {
+        "id": 2490,
+        "location_name": "Oberon NSW, Australia",
+        "location_lat": -33.70372,
+        "location_lon": 149.85426,
+        "location_state": " Australia",
+        "location_city": "Oberon NSW"
+      },
+      {
+        "id": 2491,
+        "location_name": "Tamworth NSW, Australia",
+        "location_lat": -31.092748,
+        "location_lon": 150.932033,
+        "location_state": " Australia",
+        "location_city": "Tamworth NSW"
+      },
+      {
+        "id": 2492,
+        "location_name": "Winnellie NT, Australia",
+        "location_lat": -12.428621,
+        "location_lon": 130.870608,
+        "location_state": " Australia",
+        "location_city": "Winnellie NT"
+      },
+      {
+        "id": 2493,
+        "location_name": "Murarrie QLD, Australia",
+        "location_lat": -27.45686,
+        "location_lon": 153.098563,
+        "location_state": " Australia",
+        "location_city": "Murarrie QLD"
+      },
+      {
+        "id": 2494,
+        "location_name": "Bundaberg QLD, Australia",
+        "location_lat": -24.866081,
+        "location_lon": 152.348865,
+        "location_state": " Australia",
+        "location_city": "Bundaberg QLD"
+      },
+      {
+        "id": 2495,
+        "location_name": "Cairns QLD, Australia",
+        "location_lat": -16.920348,
+        "location_lon": 145.770953,
+        "location_state": " Australia",
+        "location_city": "Cairns QLD"
+      },
+      {
+        "id": 2496,
+        "location_name": "Townsville QLD, Australia",
+        "location_lat": -19.258964,
+        "location_lon": 146.816948,
+        "location_state": " Australia",
+        "location_city": "Townsville QLD"
+      },
+      {
+        "id": 2497,
+        "location_name": "Cavan SA, Australia",
+        "location_lat": -34.826829,
+        "location_lon": 138.600608,
+        "location_state": " Australia",
+        "location_city": "Cavan SA"
+      },
+      {
+        "id": 2498,
+        "location_name": "Prospect TAS, Australia",
+        "location_lat": -41.470428,
+        "location_lon": 147.134,
+        "location_state": " Australia",
+        "location_city": "Prospect TAS"
+      },
+      {
+        "id": 2499,
+        "location_name": "Sunshine VIC, Australia",
+        "location_lat": -37.781263,
+        "location_lon": 144.83273,
+        "location_state": " Australia",
+        "location_city": "Sunshine VIC"
+      },
+      {
+        "id": 2500,
+        "location_name": "Canning Vale WA, Australia",
+        "location_lat": -32.088742,
+        "location_lon": 115.917785,
+        "location_state": " Australia",
+        "location_city": "Canning Vale WA"
+      },
+      {
+        "id": 2501,
+        "location_name": "Mount Gambier SA, Australia",
+        "location_lat": -37.828441,
+        "location_lon": 140.780676,
+        "location_state": " Australia",
+        "location_city": "Mount Gambier SA"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 21.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://www.polytec.com.au/docs/technical/polytec-technical-particleboard-environmental-product-declaration-epd.pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our website https://www.polytec.com.au/ contains all product information, including technical specifications, installation information and warranty. The EPD data is from the substrate.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3215,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://architectsdeclareapp.s3.amazonaws.com/media/products/POLYTEC/Decorated%20Melamine%20Particleboard/compliance/polytec-technical-fire-rati_L3Om0A1.pdf",
+        "rating": ""
+      },
+      {
+        "id": 3216,
+        "requirement": "Fire Resistance FRL",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-fire-rating-particleboard-16mm.pdf",
+        "rating": ""
+      },
+      {
+        "id": 3226,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "https://www.polytec.com.au/docs/technical/polytec-technical-light-reflectance-value.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Gluts and strapping.",
+    "files": []
+  },
+  {
+    "id": 1570,
+    "company": {
+      "id": 39,
+      "name": "POLYTEC"
+    },
+    "image": "products/POLYTEC/MDF_Product_Paper_Breakdown_nbG4Ujj.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-21T01:20:42.872363+00:00",
+    "last_update": "2025-11-20T13:00:00+00:00",
+    "created_by": {
+      "id": 103,
+      "email": "mitchellr@polytec.com.au"
+    },
+    "updated_by": {
+      "id": 103,
+      "email": "mitchellr@polytec.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Porta Products Pty Ltd",
+    "product_name": "Mdf Decorative Board",
+    "product_code": "MDF Decorative Board",
+    "product_description": "MDF Decorative Board is moisture resistant with a durable melamine surface for interior use.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "16mm, 18mm, 25mm, 32mm (3600x1800 & 2400x1200) Thickness & sheet sizes vary depending on standard range & special order",
+    "price_per_unit": null,
+    "product_functional_unit": "m3",
+    "price_adjustment_structure": null,
+    "lead_time": "Generally in stock - MTO will attract lead time",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 6021,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://www.polytec.com.au/docs/technical/polytec-technical-mdf-environmental-product-declaration-epd.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6022,
+        "certification": "GreenTag – Green Rate",
+        "file": null,
+        "link": "https://www.polytec.com.au/docs/technical/polytec-technical-ecospecifier-green-tag-e0-mr-mdf-and-ldf.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6023,
+        "certification": "ISO 14025",
+        "file": null,
+        "link": "https://www.polytec.com.au/docs/technical/polytec-technical-mdf-environmental-product-declaration-epd.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6024,
+        "certification": "Other",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/environment/polytec-technical-formaldehyde-emission-classifications.pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6025,
+        "certification": "GreenTag - Modern Slavery Declaration",
+        "file": null,
+        "link": "https://modernslaveryregister.gov.au/statements/cuZyaGcaV1z5o3r/pdf/",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6026,
+        "certification": "Forestry Stewardship Council",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-chain-of-custody-certificate.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6027,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-chain-of-custody-certificate.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 6028,
+        "certification": "Responsible Wood",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-chain-of-custody-certificate.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 3460.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 13.7,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -395.0,
+    "upfront_carbon_emissions": -395.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "MDF is acceptable for energy recovery. Gluts from MDF are manufactured from repurposed MDF and are consistently reclaimed and reused.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The entire door or benchtop with edging or laminate can be recycled or repurposed.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "MDF is acceptable for energy recovery.",
+    "water_reduction_techniques": "polytec’s main source of water comes from our Waste Water Treatment Plant (WWTP). Community\r\ntown water is used only to supplement that which is consumed as recycled and softened water.\r\nThe WWTP treats effluent to a tertiary treatment level through Ultra filtration (UF) and Reverse\r\nOsmosis (RO) and returned to the MDF facility as softened water for use in the boilers and or\r\nmanufacturing process. Approximately 2/3 of our Oberon Manufacturing facility daily water\r\nrequirement is supplied by our WWTP.\r\nWith the exception of a portion of the HPP site, the WWTP manages all the wastewater and\r\nstormwater from the surrounding sites at the Oberon Timber Complex (OTC).",
+    "transport_emissions_minimisation_techniques": "Australian Owned/Australian Made local manufacturing",
+    "minimisation_design_strategy": "Waste deduction is most effective when production is optimised for the highest possible yield of decorative board.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "https://modernslaveryregister.gov.au/statements/cuZyaGcaV1z5o3r/pdf/",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://modernslaveryregister.gov.au/statements/cuZyaGcaV1z5o3r/pdf/",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 6021,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.polytec.com.au/docs/technical/polytec-technical-mdf-environmental-product-declaration-epd.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 6022,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.polytec.com.au/docs/technical/polytec-technical-ecospecifier-green-tag-e0-mr-mdf-and-ldf.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 6023,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.polytec.com.au/docs/technical/polytec-technical-mdf-environmental-product-declaration-epd.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 6024,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/environment/polytec-technical-formaldehyde-emission-classifications.pdf",
+        "rating": ""
+      },
+      {
+        "id": 6025,
+        "certification": "GreenTag - Modern Slavery Declaration",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://modernslaveryregister.gov.au/statements/cuZyaGcaV1z5o3r/pdf/",
+        "rating": "undefined"
+      },
+      {
+        "id": 6026,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-chain-of-custody-certificate.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 6027,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-chain-of-custody-certificate.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 6028,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://https/www.polytec.com.au/docs/technical/polytec-technical-chain-of-custody-certificate.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.polytec.com.au/docs/technical/polytec-technical-voc-lpm-e0-mdf-certificate.pdf",
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Various finishes including Matt, Texture, Woodmatt, Sheen,\r\nFinegrain, Ravine,Legato, Smooth, Venette, Createc",
+    "manufacturing_locations": [
+      {
+        "id": 3102,
+        "location_name": "Mount Gambier SA, Australia",
+        "location_lat": -37.828441,
+        "location_lon": 140.780676,
+        "component": "Raw Board Production",
+        "component_percentage": 49.0
+      },
+      {
+        "id": 3103,
+        "location_name": "Oberon NSW, Australia",
+        "location_lat": -33.70372,
+        "location_lon": 149.85426,
+        "component": "Raw Board Production ",
+        "component_percentage": 49.0
+      },
+      {
+        "id": 3104,
+        "location_name": "Somersby NSW, Australia",
+        "location_lat": -33.356903,
+        "location_lon": 151.290435,
+        "component": "Melamine Laminating ",
+        "component_percentage": 2.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3648,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Paper",
+        "product_percentage": 2.0
+      },
+      {
+        "id": 3649,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Wax",
+        "product_percentage": 1.0
+      },
+      {
+        "id": 3650,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Wood",
+        "product_percentage": 70.0
+      },
+      {
+        "id": 3651,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Resin",
+        "product_percentage": 20.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2519,
+        "location_name": "Mitchell ACT, Australia",
+        "location_lat": -35.21549,
+        "location_lon": 149.141553,
+        "location_state": " Australia",
+        "location_city": "Mitchell ACT"
+      },
+      {
+        "id": 2520,
+        "location_name": "Albury NSW, Australia",
+        "location_lat": -36.073729,
+        "location_lon": 146.913542,
+        "location_state": " Australia",
+        "location_city": "Albury NSW"
+      },
+      {
+        "id": 2521,
+        "location_name": "Somersby NSW, Australia",
+        "location_lat": -33.356903,
+        "location_lon": 151.290435,
+        "location_state": " Australia",
+        "location_city": "Somersby NSW"
+      },
+      {
+        "id": 2522,
+        "location_name": "Coffs Harbour NSW, Australia",
+        "location_lat": -30.298612,
+        "location_lon": 153.109392,
+        "location_state": " Australia",
+        "location_city": "Coffs Harbour NSW"
+      },
+      {
+        "id": 2523,
+        "location_name": "Nowra NSW, Australia",
+        "location_lat": -34.88705,
+        "location_lon": 150.600514,
+        "location_state": " Australia",
+        "location_city": "Nowra NSW"
+      },
+      {
+        "id": 2524,
+        "location_name": "Oberon NSW, Australia",
+        "location_lat": -33.70372,
+        "location_lon": 149.85426,
+        "location_state": " Australia",
+        "location_city": "Oberon NSW"
+      },
+      {
+        "id": 2525,
+        "location_name": "Tamworth NSW, Australia",
+        "location_lat": -31.092748,
+        "location_lon": 150.932033,
+        "location_state": " Australia",
+        "location_city": "Tamworth NSW"
+      },
+      {
+        "id": 2526,
+        "location_name": "Winnellie NT, Australia",
+        "location_lat": -12.428621,
+        "location_lon": 130.870608,
+        "location_state": " Australia",
+        "location_city": "Winnellie NT"
+      },
+      {
+        "id": 2527,
+        "location_name": "Murarrie QLD, Australia",
+        "location_lat": -27.45686,
+        "location_lon": 153.098563,
+        "location_state": " Australia",
+        "location_city": "Murarrie QLD"
+      },
+      {
+        "id": 2528,
+        "location_name": "Bundaberg QLD, Australia",
+        "location_lat": -24.866081,
+        "location_lon": 152.348865,
+        "location_state": " Australia",
+        "location_city": "Bundaberg QLD"
+      },
+      {
+        "id": 2529,
+        "location_name": "Cairns QLD, Australia",
+        "location_lat": -16.920348,
+        "location_lon": 145.770953,
+        "location_state": " Australia",
+        "location_city": "Cairns QLD"
+      },
+      {
+        "id": 2530,
+        "location_name": "Townsville QLD, Australia",
+        "location_lat": -19.258964,
+        "location_lon": 146.816948,
+        "location_state": " Australia",
+        "location_city": "Townsville QLD"
+      },
+      {
+        "id": 2531,
+        "location_name": "Cavan SA, Australia",
+        "location_lat": -34.826829,
+        "location_lon": 138.600608,
+        "location_state": " Australia",
+        "location_city": "Cavan SA"
+      },
+      {
+        "id": 2532,
+        "location_name": "Prospect SA, Australia",
+        "location_lat": -34.88822,
+        "location_lon": 138.594101,
+        "location_state": " Australia",
+        "location_city": "Prospect SA"
+      },
+      {
+        "id": 2533,
+        "location_name": "Sunshine VIC, Australia",
+        "location_lat": -37.781263,
+        "location_lon": 144.83273,
+        "location_state": " Australia",
+        "location_city": "Sunshine VIC"
+      },
+      {
+        "id": 2534,
+        "location_name": "Canning Vale WA, Australia",
+        "location_lat": -32.088742,
+        "location_lon": 115.917785,
+        "location_state": " Australia",
+        "location_city": "Canning Vale WA"
+      },
+      {
+        "id": 2535,
+        "location_name": "Mount Gambier SA, Australia",
+        "location_lat": -37.828441,
+        "location_lon": 140.780676,
+        "location_state": " Australia",
+        "location_city": "Mount Gambier SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 21.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://www.polytec.com.au/docs/technical/polytec-technical-mdf-environmental-product-declaration-epd.pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our website https://www.polytec.com.au contains all product information, including technical specifications, installation information and warranty. The EPD information is on the MDF substrate.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3227,
+        "requirement": "Luminance Contrast",
+        "file": null,
+        "link": "https://www.polytec.com.au/docs/technical/polytec-technical-light-reflectance-value.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 3228,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://www.polytec.com.au/docs/technical/polytec-technical-fire-rating-lpm-mdf.pdf",
+        "rating": ""
+      },
+      {
+        "id": 3229,
+        "requirement": "Fire Resistance FRL",
+        "file": null,
+        "link": "https://www.polytec.com.au/docs/technical/polytec-technical-fire-rating-lpm-mdf.pdf",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Gluts and strapping (gluts are manufactured from repurposed MDF and are consistently reclaimed and reused).",
+    "files": []
+  },
+  {
+    "id": 1571,
+    "company": {
+      "id": 39,
+      "name": "POLYTEC"
+    },
+    "image": "products/POLYTEC/Easycraft_Contours.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-11-21T03:40:20.490574+00:00",
+    "last_update": "2025-11-23T13:00:00+00:00",
+    "created_by": {
+      "id": 103,
+      "email": "mitchellr@polytec.com.au"
+    },
+    "updated_by": {
+      "id": 103,
+      "email": "mitchellr@polytec.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Porta Products Pty Ltd",
+    "product_name": "Easycraft Contours",
+    "product_code": "Easycraft Contours",
+    "product_description": "Easycraft Contours offer a versatile design solution for walls, ceiling and joinery.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "91mm wide 21mm thick",
+    "price_per_unit": null,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 6029,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/POLYTEC/Easycraft%20Contours/certificates/Porta_Products_Pty_Ltd_SGSCH-PEFC-COC-500007_PEFC_Iss15.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 34600.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 13.7,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -395.0,
+    "upfront_carbon_emissions": -395.0,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "The entire product can be demounted for energy recovery.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Remember during onsite installation the product has been designed for no offcuts, as all optimisations completed at manufacture in Australia step with the size of the panels. During manufacturing, offcuts is used for packing material and gluts, and can be used in energy recovery.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The entire product can be demounted for reuse or energy recovery.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "polytec’s main source of water comes from our Waste Water Treatment Plant (WWTP). Community\r\ntown water is used only to supplement that which is consumed as recycled and softened water.\r\nThe WWTP treats effluent to a tertiary treatment level through Ultra filtration (UF) and Reverse\r\nOsmosis (RO) and returned to the MDF facility as softened water for use in the boilers and or\r\nmanufacturing process. Approximately 2/3 of our Oberon Manufacturing facility daily water\r\nrequirement is supplied by our WWTP.\r\nWith the exception of a portion of the HPP site, the WWTP manages all the wastewater and\r\nstormwater from the surrounding sites at the Oberon Timber Complex (OTC).",
+    "transport_emissions_minimisation_techniques": "Australian Owned/Australian Made local manufacturing",
+    "minimisation_design_strategy": "The whole design of Easycraft Contours enables almost no onsite waste as products are sizes designed for install areas ready to put in with minimal additional resources and quicker time.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "https://modernslaveryregister.gov.au/statements/cuZyaGcaV1z5o3r/pdf/",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://modernslaveryregister.gov.au/statements/cuZyaGcaV1z5o3r/pdf/",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 6029,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/POLYTEC/Easycraft%20Contours/certificates/Porta_Products_Pty_Ltd_SGSCH-PEFC-COC-500007_PEFC_Iss15.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3107,
+        "location_name": "Bridgewater TAS, Australia",
+        "location_lat": -42.734614,
+        "location_lon": 147.240655,
+        "component": "Feed Stock Production ",
+        "component_percentage": 50.0
+      },
+      {
+        "id": 3108,
+        "location_name": "Epping VIC, Australia",
+        "location_lat": -37.637675,
+        "location_lon": 145.026475,
+        "component": "Moulding ",
+        "component_percentage": 50.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3652,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Tasmanian Oak ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2537,
+        "location_name": "Epping VIC, Australia",
+        "location_lat": -37.637675,
+        "location_lon": 145.026475,
+        "location_state": " Australia",
+        "location_city": "Epping VIC"
+      },
+      {
+        "id": 2538,
+        "location_name": "Bridgewater TAS, Australia",
+        "location_lat": -42.734614,
+        "location_lon": 147.240655,
+        "location_state": " Australia",
+        "location_city": "Bridgewater TAS"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Easycraft Contours is designed from the outset to require less time and resources for fixing. This easy install has avoided additional time and materials for fixing. This improves reuse opportunities.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Raw timber",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 21.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://www.polytec.com.au/docs/technical/polytec-technical-mdf-environmental-product-declaration-epd.pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our website https://www.polytec.com.au contains all product information, including technical specifications, EPDs, installation information and warranty.",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 3231,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://www.polytec.com.au/docs/technical/polytec-technical-fire-rating-lpm-mdf.pdf",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Gluts and strapping.",
+    "files": []
+  }
+]

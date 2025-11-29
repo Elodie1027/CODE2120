@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1538,
+    "company": {
+      "id": 13,
+      "name": "Tarkett"
+    },
+    "image": "products/Tarkett/IN_AU_Academix_634012005_Rouge_634012002_Sand_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-10-27T01:46:31.833058+00:00",
+    "last_update": "2025-11-09T13:00:00+00:00",
+    "created_by": {
+      "id": 1521,
+      "email": "jarrod.casey@tarkett.com"
+    },
+    "updated_by": {
+      "id": 1521,
+      "email": "jarrod.casey@tarkett.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Tandus",
+    "product_name": "Academix",
+    "product_code": "634014",
+    "product_description": "Create learning spaces that are comfortable, calm, and focused",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "500mm x 500mm",
+    "price_per_unit": 31.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Indicative Supply per m2",
+    "lead_time": "1-12 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5892,
+        "certification": "Other",
+        "file": null,
+        "link": "https://media.tarkett-image.com/docs/DS_AU_Academix.pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5893,
+        "certification": "Other",
+        "file": null,
+        "link": "https://media.tarkett-image.com/docs/CR_AU_ACCS_Tandus_Academix.pdf",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": 0.0,
+    "carbon_functional_unit": null,
+    "embodied_energy": 0.0,
+    "embodied_energy_provided": null,
+    "embodied_water_content": 0.0,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "Recycled within Tarkett's own facilities",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "Products collected at end-of-life are then recycled responsibly rather than going to landfill",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "Designed for disassembly. 100% of components used in the remanufacture of new carpet tiles",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Tarkett Take Back - Products collected at end-of-life are then recycled responsibly rather than going to landfill",
+    "water_reduction_techniques": "100% - Plants use water capture technology to reuse continuously",
+    "transport_emissions_minimisation_techniques": "Renewable fuel powered vehicles.",
+    "minimisation_design_strategy": "Full tiles can be recycled",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "UN Global Compact Early Adopter program and C2C",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5892,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://media.tarkett-image.com/docs/DS_AU_Academix.pdf",
+        "rating": ""
+      },
+      {
+        "id": 5893,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://media.tarkett-image.com/docs/CR_AU_ACCS_Tandus_Academix.pdf",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 20,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Manufactured entirely in Tarkett plant. Locally stocked for 1 - 2 week delivery.",
+    "manufacturing_locations": [
+      {
+        "id": 3042,
+        "location_name": "Yong Kang, Jinhua, Zhejiang, China",
+        "location_lat": 28.88851,
+        "location_lon": 120.04731,
+        "component": "Polyamide Nylon 6, Polyethylene Terephthalate ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3587,
+        "location_name": "Yongkang, Jinhua, Zhejiang, China",
+        "location_lat": 28.88851,
+        "location_lon": 120.04731,
+        "material": "Polyamide Nylon 6, Polyethylene Terephthalate ",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2397,
+        "location_name": "Gregory Hills NSW, Australia",
+        "location_lat": -34.02794,
+        "location_lon": 150.775129,
+        "location_state": " Australia",
+        "location_city": "Gregory Hills NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 75,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 33,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3140,
+        "requirement": "Combustibility / Flammability",
+        "file": null,
+        "link": "media.tarkett-image.com/docs/CR_AU_Fire_Academix_Cushion.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard with Cradle-to-Cradle Bronze level certified",
+    "files": []
+  }
+]

@@ -1,0 +1,4602 @@
+[
+  {
+    "id": 428,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Bricks_Sea_Gloss.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-07T05:19:41.869688+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks Sea Gloss",
+    "product_code": "4407",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 77.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $77/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2517,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Sea%20Gloss/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1142,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Sea%20Gloss/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2491,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Sea%20Gloss/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2492,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Sea%20Gloss/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2517,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Sea%20Gloss/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1142,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Sea%20Gloss/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2491,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Sea%20Gloss/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2492,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Sea%20Gloss/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 576,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 822,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 676,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 663,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Sea%20Gloss/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 897,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Sea%20Gloss/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2211,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Sea%20Gloss/LCA/002-050_BIa_ENG_EPD.pdf"
+      },
+      {
+        "id": 2193,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Sea%20Gloss/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4408_Bricks_Mint_Lifestyle.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-07T05:51:36.861459+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks Mint",
+    "product_code": "4408",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 77.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $77/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1138,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mint/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60.",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2483,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mint/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2484,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mint/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2513,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mint/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1138,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mint/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60."
+      },
+      {
+        "id": 2483,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mint/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2484,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mint/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2513,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mint/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 577,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 823,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 677,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 653,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mint/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 893,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mint/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2207,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mint/LCA/002-050_BIa_ENG_EPD.pdf"
+      },
+      {
+        "id": 2189,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mint/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4409_Bricks_Aqua_Lifestyle.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T00:15:17.156120+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks Aqua",
+    "product_code": "4409",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 77.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $77/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2473,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Aqua/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2474,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Aqua/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1133,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Aqua/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2508,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Aqua/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2473,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Aqua/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2474,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Aqua/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1133,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Aqua/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2508,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Aqua/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 578,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 824,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 708,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 654,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Aqua/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 888,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Aqua/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2184,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Aqua/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      },
+      {
+        "id": 2202,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Aqua/LCA/002-050_BIa_ENG_EPD.pdf"
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4410_Bricks_Amarillo_Lifestyle.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T00:19:52.682265+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks Amarillo",
+    "product_code": "4410",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 77.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $77/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2471,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Amarillo/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2472,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Amarillo/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1132,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Amarillo/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2507,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Amarillo/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2471,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Amarillo/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2472,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Amarillo/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1132,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Amarillo/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2507,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Amarillo/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 579,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 825,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 709,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 655,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Amarillo/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 887,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Amarillo/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2183,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Amarillo/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      },
+      {
+        "id": 2201,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Amarillo/LCA/002-050_BIa_ENG_EPD.pdf"
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4411_Bricks_White_Lifestyle_Gloss.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T00:30:36.117769+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks White",
+    "product_code": "4411",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 77.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $77/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2519,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20White/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1145,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20White/certificates/Recycled_content_porcelain_tiles_Ljdd3Fd.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2495,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20White/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2496,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20White/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2519,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20White/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1145,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20White/certificates/Recycled_content_porcelain_tiles_Ljdd3Fd.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2495,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20White/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2496,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20White/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 580,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 826,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 710,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 656,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20White/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 899,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20White/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2213,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20White/LCA/002-050_BIa_ENG_EPD.pdf"
+      },
+      {
+        "id": 2195,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20White/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4412_Bricks_Obsidian_Lifestyle.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T00:44:15.692563+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks Obsidian",
+    "product_code": "4412",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 77.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $77/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1139,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Obsidian/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2486,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Obsidian/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2485,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Obsidian/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2514,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Obsidian/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1139,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Obsidian/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2486,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Obsidian/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2485,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Obsidian/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2514,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Obsidian/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 581,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 827,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 711,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 657,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Obsidian/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 894,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Obsidian/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2208,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Obsidian/LCA/002-050_BIa_ENG_EPD.pdf"
+      },
+      {
+        "id": 2190,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Obsidian/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4413_Bricks_Grey_Lifestyle.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T00:51:27.445774+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks Grey",
+    "product_code": "4413",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 77.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $77/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2479,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Grey/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1136,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Grey/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2480,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Grey/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2511,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Grey/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2479,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Grey/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1136,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Grey/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2480,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Grey/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2511,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Grey/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 582,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 828,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 712,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 658,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Grey/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 891,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Grey/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2205,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Grey/LCA/002-050_BIa_ENG_EPD.pdf"
+      },
+      {
+        "id": 2187,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Grey/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4414_Bricks_Cotto_Lifestyle.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T01:05:00.324749+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks Cotto",
+    "product_code": "4414",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 77.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $77/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2475,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Cotto/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2476,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Cotto/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1134,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Cotto/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2509,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Cotto/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2475,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Cotto/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2476,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Cotto/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1134,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Cotto/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2509,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Cotto/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 583,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 829,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 713,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 659,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Cotto/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 889,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Cotto/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2185,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Cotto/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      },
+      {
+        "id": 2203,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Cotto/LCA/002-050_BIa_ENG_EPD.pdf"
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4415_Bricks_Green_Lifestyle.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T01:34:11.754100+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks Green",
+    "product_code": "4415",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 77.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $77/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1135,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Green/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2477,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Green/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2478,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Green/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2510,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Green/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1135,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Green/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2477,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Green/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2478,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Green/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2510,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Green/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 584,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 830,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 714,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 660,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Green/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 890,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Green/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2204,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Green/LCA/002-050_BIa_ENG_EPD.pdf"
+      },
+      {
+        "id": 2186,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Green/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4416_Bricks_Taupe_Lifestyle.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T01:36:57.439582+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks Taupe",
+    "product_code": "4416",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 77.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $77/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2518,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Taupe/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1143,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Taupe/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2493,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Taupe/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2494,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Taupe/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2518,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Taupe/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1143,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Taupe/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2493,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Taupe/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2494,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Taupe/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 585,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 831,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 715,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 661,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Taupe/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 898,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Taupe/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2212,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Taupe/LCA/002-050_BIa_ENG_EPD.pdf"
+      },
+      {
+        "id": 2194,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Taupe/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4417_Bricks_Ocean_Lifestyle.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T01:41:26.358584+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks Ocean",
+    "product_code": "4417",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 77.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $77/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1140,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2487,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2488,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2515,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1140,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2487,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2488,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2515,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 586,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 832,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 716,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 662,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 895,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2209,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/LCA/002-050_BIa_ENG_EPD.pdf"
+      },
+      {
+        "id": 2191,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4499_Bricks_Mattone_Lifestyle__5Agj0u1.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T02:35:51.976591+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks Mattone",
+    "product_code": "4499 & 4500",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 77.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $77/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1137,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2481,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2482,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2512,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1137,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2481,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2482,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2512,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Glossy finish (wall only), available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3).",
+    "manufacturing_locations": [
+      {
+        "id": 588,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 834,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 718,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 667,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/compliance/R29971_-_Slip_Check_Majorca_Bricks__Small_Format_bTeepZN.pdf",
+        "link": "",
+        "rating": "P3"
+      },
+      {
+        "id": 669,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": "Gloss"
+      },
+      {
+        "id": 668,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/compliance/Bricks_Matt_-_Technical_Data.pdf",
+        "link": "",
+        "rating": "Matt "
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 892,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2206,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/LCA/002-050_BIa_ENG_EPD.pdf"
+      },
+      {
+        "id": 2188,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Mattone/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4835_Bricks_Off_White_Lifestyle.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T02:43:39.986056+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Bricks Off White",
+    "product_code": "4835",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "60x246mm",
+    "price_per_unit": 49.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $49/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1141,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Off%20White/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2489,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Off%20White/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2490,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Off%20White/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2516,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Off%20White/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1141,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Off%20White/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2489,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Off%20White/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2490,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Off%20White/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2516,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Off%20White/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in a multitude of colours.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 589,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 835,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 719,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 670,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Ocean/compliance/Bricks_Glossy_-_Technical_Data.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 896,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Off%20White/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2210,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Off%20White/LCA/002-050_BIa_ENG_EPD.pdf"
+      },
+      {
+        "id": 2192,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Bricks%20Off%20White/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4627_Majorca_Aqua_Lifestyle.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T03:04:22.983453+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Majorca Aqua",
+    "product_code": "4627",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "100x100mm",
+    "price_per_unit": 78.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $78/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2498,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1131,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2520,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2497,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 43% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2498,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1131,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2520,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2497,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in green, white, mattone and night.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 590,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 836,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 720,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 672,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/compliance/Majorca_Glossy_-_Technical_data_sheet.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 886,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2196,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      },
+      {
+        "id": 2214,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/LCA/002-050_BIa_ENG_EPD.pdf"
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4628_Majorca_Green_Lifestyle.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T04:14:28.306339+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Majorca Green",
+    "product_code": "4628",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "100x100mm",
+    "price_per_unit": 78.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $78/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1146,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2499,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Green/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2500,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Green/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2521,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Green/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 43% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1146,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2499,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Green/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2500,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Green/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2521,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Green/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in aqua, white, mattone and night.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 591,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 837,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 721,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 673,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/compliance/Majorca_Glossy_-_Technical_data_sheet.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 901,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Green/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2197,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Green/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      },
+      {
+        "id": 2215,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Green/LCA/002-050_BIa_ENG_EPD.pdf"
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4629_Majorca_White_Lifestyle.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T04:32:54.671456+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Majorca White",
+    "product_code": "4629",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "100x100mm",
+    "price_per_unit": 78.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $78/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1147,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2505,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20White/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2524,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20White/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2506,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20White/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.09,
+    "upfront_carbon_emissions": 4.09,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1147,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2505,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20White/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2524,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20White/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2506,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20White/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in aqua, green, mattone and night.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 592,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 838,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 722,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 674,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/compliance/Majorca_Glossy_-_Technical_data_sheet.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 903,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20White/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2200,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20White/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      },
+      {
+        "id": 2218,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20White/LCA/002-050_BIa_ENG_EPD.pdf"
+      }
+    ]
+  },
+  {
+    "id": 462,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4632_Majorca_Night_Lifestyle.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T04:44:34.733577+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Majorca Night",
+    "product_code": "4632",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "100x100mm",
+    "price_per_unit": 78.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $78/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2503,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Night/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1148,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2504,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Night/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2523,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Night/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2503,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Night/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1148,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      },
+      {
+        "id": 2504,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Night/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2523,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Night/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "WALL APPLICATION ONLY.\r\n\r\nGlossy finish, available in aqua, green, mattone and white.\r\n\r\nMatt finish (Slip Rating: P3) available in mattone only.",
+    "manufacturing_locations": [
+      {
+        "id": 593,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 839,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 723,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 675,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/compliance/Majorca_Glossy_-_Technical_data_sheet.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 905,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Night/RecycledContent/4632_Majorca_Night_Lifestyle.jpg"
+      },
+      {
+        "id": 2199,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Night/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      },
+      {
+        "id": 2217,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Night/LCA/002-050_BIa_ENG_EPD.pdf"
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/4631_Majorca_Mattone_Lifestyle.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-14T04:55:10.509498+00:00",
+    "last_update": "2024-11-29T13:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "MTC International",
+    "product_name": "Majorca Mattone",
+    "product_code": "4630 & 4631",
+    "product_description": "Vibrant range of wall tiles, covering a rich variety of colours with a glossy or matt finish.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "100x100mm",
+    "price_per_unit": 78.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Priced based on m2 purchased, starting from $78/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 2501,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Mattone/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2502,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Mattone/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 2522,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Mattone/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1149,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 67.3,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 4.48,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 4.13,
+    "upfront_carbon_emissions": 4.13,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "Product contains 45% recycled content, as per the Product Self-Declaration ESM-60.",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% of water is recycled to eliminate potable water use.",
+    "transport_emissions_minimisation_techniques": "Transport has not been included in the LCA.",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 2501,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Mattone/certificates/ISO14001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2502,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Mattone/certificates/ISO_9001_2015.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2522,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Mattone/certificates/002-050_BIa_ENG_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 1149,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Aqua/certificates/Recycled_content_porcelain_tiles.pdf",
+        "link": "",
+        "rating": "Product Self-Declaration ESM-60"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Glossy finish (wall only), available in aqua, green, night and white.\r\n\r\nMatt finish (Slip Rating: P3) available.",
+    "manufacturing_locations": [
+      {
+        "id": 594,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 840,
+        "location_name": "Castellon, Spain",
+        "location_lat": 39.983799,
+        "location_lon": 0.020988,
+        "material": "Powder, ceramic glazes, colours and inks",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 724,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 677,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Mattone/compliance/R29971_-_Slip_Check_Majorca_Bricks__Small_Format.pdf",
+        "link": "",
+        "rating": "P3"
+      },
+      {
+        "id": 679,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Mattone/compliance/Majorca_matt_-_Technical_data_sheet.pdf",
+        "link": "",
+        "rating": "Matt"
+      },
+      {
+        "id": 678,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Mattone/compliance/Majorca_Glossy_-_Technical_data_sheet.pdf",
+        "link": "",
+        "rating": "Glossy"
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets. Cardboards and Europallets are 100% recycled.",
+    "files": [
+      {
+        "id": 907,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Mattone/RecycledContent/Recycled_content_porcelain_tiles.pdf"
+      },
+      {
+        "id": 2198,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Mattone/ModernSlaveryAssessment/Slavery_Declaration.pdf"
+      },
+      {
+        "id": 2216,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Majorca%20Mattone/LCA/002-050_BIa_ENG_EPD.pdf"
+      }
+    ]
+  }
+]

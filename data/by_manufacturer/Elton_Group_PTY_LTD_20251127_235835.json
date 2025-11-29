@@ -1,0 +1,238 @@
+[
+  {
+    "id": 1439,
+    "company": {
+      "id": 206,
+      "name": "ELTON GROUP"
+    },
+    "image": "products/ELTON GROUP/ER-Xilo2-FlamedWhite-Moda-mckimm-TimKaye-Tile_1.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-17T05:01:10.838549+00:00",
+    "last_update": "2025-11-05T13:00:00+00:00",
+    "created_by": {
+      "id": 2743,
+      "email": "colleen@eltongroup.com"
+    },
+    "updated_by": {
+      "id": 2743,
+      "email": "colleen@eltongroup.com"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Elton Group PTY LTD",
+    "product_name": "Eveneer Raw - Alpilignum",
+    "product_code": "Eveneer Raw - ALPIlignum",
+    "product_description": "Curated range of sustainable recomposed timber veneers",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      },
+      {
+        "id": 32,
+        "category_name": "Wall Covering"
+      }
+    ],
+    "standard_dimensions": "3000x1200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "POA",
+    "lead_time": "2-10 working days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5388,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ELTON%20GROUP/Eveneer%20Raw%20-%20Alpilignum/certificates/FSC-COC-Certificate-001908-Elton-Group-Pty-Ltd-v4.0.pdf",
+        "link": "https://eltongroup.com/wp-content/uploads/2022/12/FSC-COC-Certificate-001908-Elton-Group-Pty-Ltd-v4.0.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Yes — we encourage designers to reuse or upcycle offcuts and can provide guidance on effective ways to minimise waste.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "76",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The product can be reused where appropriate; its demountability depends on the installation method and application conditions.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 70% recycled water used at Veneer manufacturing site",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Align panel and joinery dimensions with standard sheet sizes to maximise material yield. For instance, designing 600 mm wide modules from a 1200 mm wide sheet minimises offcuts and waste compared to non-modular dimensions.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5388,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ELTON%20GROUP/Eveneer%20Raw%20-%20Alpilignum/certificates/FSC-COC-Certificate-001908-Elton-Group-Pty-Ltd-v4.0.pdf",
+        "link": "https://eltongroup.com/wp-content/uploads/2022/12/FSC-COC-Certificate-001908-Elton-Group-Pty-Ltd-v4.0.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2683,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "component": "Veneered Panel ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3224,
+        "location_name": "Modigliana, Province of Forlì-Cesena, Italy",
+        "location_lat": 44.157563,
+        "location_lon": 11.793342,
+        "material": "Raw Reconstructed Timber Veneer",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 3225,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "E0 MR MDF",
+        "product_percentage": 96.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2280,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 2282,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 2283,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 2281,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Yes — where mechanical fixings are used, panels can be designed for demountability and reuse. Adhesive methods may limit recyclability or reinstallation potential.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed. There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 3185,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ELTON%20GROUP/Eveneer%20Raw%20-%20Alpilignum/compliance/ER_Alpilignum_Group_Number_Assessment_-_OCT_2025_gNJNyIS.pdf",
+        "link": "",
+        "rating": "1"
+      }
+    ],
+    "type_of_packaging": "Reusable timber crates and pallets are used with recyclable plastic strapping. Veneer and edging are packaged in recycled cardboard. Veneer crates are wrapped in plastic to protect the veneer from water & sun light - this can be reused.",
+    "files": [
+      {
+        "id": 4025,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ELTON%20GROUP/Eveneer%20Raw%20-%20Alpilignum/VOC/ATTCQA_0016E_2500.pdf"
+      }
+    ]
+  }
+]

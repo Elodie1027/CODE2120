@@ -1,0 +1,462 @@
+[
+  {
+    "id": 426,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Gentle_Stone_White_wliKxXK.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-07T01:58:18.126870+00:00",
+    "last_update": "2024-09-06T14:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Victoria PLC",
+    "product_name": "Gentle Stone White",
+    "product_code": "3121",
+    "product_description": "Elegant slate reinterpreted into a coloured body porcelain stoneware collection",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "600x1200mm",
+    "price_per_unit": 60.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $60/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1047,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Gentle%20Stone%20White/certificates/EPD-Italian_Ceramic_Tiles-EN_2023_j6nODZr.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 27.3,
+    "upfront_carbon_emissions": 27.3,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "Pre-consumer recycled raw materials: 8%",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes - The total amount of waste water during the drying process is recycled in the form of steam or it is released into the internal waste water treatment and reused internally or externally.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Please refer to their website: https://www.victoriaplc.com/modern-slavery-act/ . Victoria PLC  is an international manufacturer that is committed to preventing acts of modern slavery and human trafficking from occurring within its business and supply chains.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://www.victoriaplc.com/modern-slavery-act/",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1047,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Gentle%20Stone%20White/certificates/EPD-Italian_Ceramic_Tiles-EN_2023_j6nODZr.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish (Slip Rating P2), also available in black.",
+    "manufacturing_locations": [
+      {
+        "id": 571,
+        "location_name": "Castelvetro di Modena, Province of Modena, Italy",
+        "location_lat": 44.504361,
+        "location_lon": 10.944035,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 809,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Clay",
+        "product_percentage": 42.0
+      },
+      {
+        "id": 810,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Sand",
+        "product_percentage": 13.0
+      },
+      {
+        "id": 811,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Feldspar",
+        "product_percentage": 35.0
+      },
+      {
+        "id": 812,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Rhyolite",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 813,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Auxiliary additives and glaze",
+        "product_percentage": 6.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 674,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 646,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Gentle%20Stone%20White/compliance/NATA_Slip_Test_Report_S220050_Gentle_Stone_Matt_Italian_Porcelain_Tile_1_MDRbBIW.pdf",
+        "link": "",
+        "rating": "P2"
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets.",
+    "files": [
+      {
+        "id": 831,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Gentle%20Stone%20White/LCA/EPD-Italian_Ceramic_Tiles-EN_2023_mVgVGWO.pdf"
+      },
+      {
+        "id": 832,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Gentle%20Stone%20White/RecycledContent/DECLARATION_LEED_-_ASCOT_1_A98LMKG.pdf"
+      },
+      {
+        "id": 830,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Gentle%20Stone%20White/VOC/DECLARATION_LEED_-_ASCOT_1_iiisFPK.pdf"
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "company": {
+      "id": 63,
+      "name": "THE DESIGN LAB"
+    },
+    "image": "products/THE DESIGN LAB/Gentle_Stone_Black_DkL29J4.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-07T02:43:04.068981+00:00",
+    "last_update": "2024-09-06T14:00:00+00:00",
+    "created_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "updated_by": {
+      "id": 505,
+      "email": "thedesignlab@tfo.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Victoria PLC",
+    "product_name": "Gentle Stone Black",
+    "product_code": "3122",
+    "product_description": "Elegant slate reinterpreted into a coloured body porcelain stoneware collection",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "600x1200mm",
+    "price_per_unit": 60.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Price based on m2 purchased, starting from $60/m2 inc. GST",
+    "lead_time": "Usually available immediately on site at Smithfield",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1049,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Gentle%20Stone%20Black/certificates/EPD-Italian_Ceramic_Tiles-EN_2023.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 27.3,
+    "upfront_carbon_emissions": 27.3,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Available through third party recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "They can be used as fill material for construction sites and as background material for road beds.",
+    "recycled_content_percentage": "6",
+    "recycled_content_description": "Pre-consumer recycled raw materials: 8%",
+    "recycling_process_description": "They can be used as fill material for construction sites and as background material for road beds, thus reducing the need for quarried gravel.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes - The total amount of waste water during the drying process is recycled in the form of steam or it is released into the internal waste water treatment and reused internally or externally.",
+    "transport_emissions_minimisation_techniques": "Unsure",
+    "minimisation_design_strategy": "To minimise offcuts or wastage, it is recommended to consider the layout, design and size of the tile",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Please refer to their website: https://www.victoriaplc.com/modern-slavery-act/ . Victoria PLC  is an international manufacturer that is committed to preventing acts of modern slavery and human trafficking from occurring within its business and supply chains.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://www.victoriaplc.com/modern-slavery-act/",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1049,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Gentle%20Stone%20Black/certificates/EPD-Italian_Ceramic_Tiles-EN_2023.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral found in many types of rock and soil, and therefore  is found in many construction materials including tiles.  Please contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": true,
+    "factory_finished_description": "Matt finish (Slip Rating P2), also available in white.",
+    "manufacturing_locations": [
+      {
+        "id": 572,
+        "location_name": "Castelvetro di Modena, Province of Modena, Italy",
+        "location_lat": 44.504361,
+        "location_lon": 10.944035,
+        "component": "",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 814,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Clay",
+        "product_percentage": 42.0
+      },
+      {
+        "id": 815,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Sand",
+        "product_percentage": 13.0
+      },
+      {
+        "id": 816,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Feldspar",
+        "product_percentage": 35.0
+      },
+      {
+        "id": 817,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Rhyolite",
+        "product_percentage": 4.0
+      },
+      {
+        "id": 818,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Auxiliary additives and glaze",
+        "product_percentage": 6.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 675,
+        "location_name": "Smithfield NSW, Australia",
+        "location_lat": -33.853572,
+        "location_lon": 150.940686,
+        "location_state": " Australia",
+        "location_city": "Smithfield NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Our mission is to drive change in our industry by making a conscious effort to shift the way in which we source and procure products.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 648,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Gentle%20Stone%20Black/compliance/NATA_Slip_Test_Report_S220050_Gentle_Stone_Matt_Italian_Porcelain_Tile_1.pdf",
+        "link": "",
+        "rating": "P2"
+      }
+    ],
+    "type_of_packaging": "The tiles are packed in cardboard boxes, wrapped with polyethylene film and plastic straps, and stacked on wooden pallets.",
+    "files": [
+      {
+        "id": 837,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Gentle%20Stone%20Black/LCA/EPD-Italian_Ceramic_Tiles-EN_2023_Od1UcDf.pdf"
+      },
+      {
+        "id": 838,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Gentle%20Stone%20Black/RecycledContent/DECLARATION_LEED_-_ASCOT_1_FeN6qyq.pdf"
+      },
+      {
+        "id": 836,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/THE%20DESIGN%20LAB/Gentle%20Stone%20Black/VOC/DECLARATION_LEED_-_ASCOT_1_xE9gybS.pdf"
+      }
+    ]
+  }
+]

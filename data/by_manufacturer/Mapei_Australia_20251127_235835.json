@@ -1,0 +1,275 @@
+[
+  {
+    "id": 196,
+    "company": {
+      "id": 84,
+      "name": "MAPEI AUSTRALIA"
+    },
+    "image": "products/MAPEI AUSTRALIA/Keraflex_Maxi_S1_Zero.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-06-12T23:50:33.707854+00:00",
+    "last_update": "2024-07-17T14:00:00+00:00",
+    "created_by": {
+      "id": 702,
+      "email": "m.fernando@mapei.com.au"
+    },
+    "updated_by": {
+      "id": 702,
+      "email": "m.fernando@mapei.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Mapei Australia",
+    "product_name": "Keraflex Maxi S1 Zero",
+    "product_code": "1193620",
+    "product_description": "C2TE S1 grey tile adhesive with CO2 emissions  fully offset in the entire life cycle",
+    "product_categories": [
+      {
+        "id": 24,
+        "category_name": "Adhesives, Fillers & Sealants"
+      },
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "20 Kg Bag",
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "N/A",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 347,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MAPEI%20AUSTRALIA/Keraflex%20Maxi%20S1%20Zero/certificates/7_data-2_9bf464de82084a488e43535e82123cfe.pdf",
+        "link": "https://environdec.com/library/epd6065",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 348,
+        "certification": "ISO 14025",
+        "file": null,
+        "link": "https://environdec.com/library/epd6065",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 349,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MAPEI%20AUSTRALIA/Keraflex%20Maxi%20S1%20Zero/certificates/8_8_5437-plus-mapei-en_38642b38fe334d8895144cda17ebe8f6-2_74875d4cee9e4054b5013ec280fe609a.pdf",
+        "link": "https://www.mapei.com/au/en/products-and-solutions/products/detail/keraflex-maxi-s1-zero",
+        "rating": "Very low emission (VOC)",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 0.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 0.58,
+    "upfront_carbon_emissions": 0.58,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Through available C&D recycling facilities in each state",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Available C&D recycling facilities in each state",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "optimised product stacking and placement in trucks. backloading trucks where possible, standard truck idling avoidance",
+    "minimisation_design_strategy": "Refer to limitiations in the TDS and installation guidelines.",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 347,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MAPEI%20AUSTRALIA/Keraflex%20Maxi%20S1%20Zero/certificates/7_data-2_9bf464de82084a488e43535e82123cfe.pdf",
+        "link": "https://environdec.com/library/epd6065",
+        "rating": "undefined"
+      },
+      {
+        "id": 348,
+        "certification": "ISO 14025",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://environdec.com/library/epd6065",
+        "rating": "undefined"
+      },
+      {
+        "id": 349,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MAPEI%20AUSTRALIA/Keraflex%20Maxi%20S1%20Zero/certificates/8_8_5437-plus-mapei-en_38642b38fe334d8895144cda17ebe8f6-2_74875d4cee9e4054b5013ec280fe609a.pdf",
+        "link": "https://www.mapei.com/au/en/products-and-solutions/products/detail/keraflex-maxi-s1-zero",
+        "rating": "Very low emission (VOC)"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "free crystalline silica (Ø >10 µ) - Care must be taken and the during the opening of bags, mixing and processing of products. Use appropriate PPE. Safety Data Sheet must be refereed to.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://www.mapei.com/au/en/products-and-solutions/products/detail/keraflex-maxi-s1-zero",
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 223,
+        "location_name": "Wacol QLD, Australia",
+        "location_lat": -27.588756,
+        "location_lon": 152.925417,
+        "component": "Adhesive Powder ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 542,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Prtland Cement (25-50%)",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 282,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Free Crystalline Silica (25-50%)",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 280,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Calcium carbonate (5-10%) ",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 271,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 272,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 273,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 274,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      },
+      {
+        "id": 275,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Mixed with water in accordance with the Technical Data Sheet and applied by trowel.",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "KERAFLEX MAXI S1 ZERO is part of the CO2 Fully Offset in the Entire Life Cycle line of products. CO2 emissions measured throughout the life cycle of products from the Zero line in 2024 using Life Cycle Assessment (LCA) methodology, verified and certified with EPDs, have been offset through the acquisition of certified carbon credits in support of forestry protection projects. A commitment to the planet, to people and to biodiversity. For more details on how emissions are calculated and on climate mitigation projects financed through certified carbon credits, visit the webpage zero.mapei.com.\r\n\r\nFor work method statements including the most common application of Keraflex Maxi S1 Zero visit https://www.mapei.com/au/en/products-and-solutions/solutions/solutions-list?product=keraflex-maxi-s1",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Paper bags (with PET internal lining). 89.9 % recyclable (for available local streams)",
+    "files": [
+      {
+        "id": 209,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MAPEI%20AUSTRALIA/Keraflex%20Maxi%20S1%20Zero/VOC/8_8_5437-plus-mapei-en_38642b38fe334d8895144cda17ebe8f6-2_74875d4cee9e4054b5013ec280fe609a.pdf"
+      },
+      {
+        "id": 210,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MAPEI%20AUSTRALIA/Keraflex%20Maxi%20S1%20Zero/LCA/7_data-2_9bf464de82084a488e43535e82123cfe.pdf"
+      }
+    ]
+  }
+]

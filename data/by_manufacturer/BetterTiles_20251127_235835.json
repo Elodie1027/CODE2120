@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1050,
+    "company": {
+      "id": 162,
+      "name": "BETTERTILES PTY LTD."
+    },
+    "image": "products/BETTERTILES PTY LTD./Screenshot_2025-02-18_at_4.37.40pm.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-02-18T05:37:17.132953+00:00",
+    "last_update": "2025-02-25T13:00:00+00:00",
+    "created_by": {
+      "id": 1988,
+      "email": "info@bettertiles.com.au"
+    },
+    "updated_by": {
+      "id": 1988,
+      "email": "info@bettertiles.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "BetterTiles",
+    "product_name": "Surface Avorio",
+    "product_code": "80010",
+    "product_description": "Surface Avorio is a versatile porcelain tile designed for both floors and walls.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "298x600mm",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 3942,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BETTERTILES%20PTY%20LTD./Surface%20Avorio/certificates/Eco_Content_Spec_SURFACE_RANGE.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 3946,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BETTERTILES%20PTY%20LTD./Surface%20Avorio/certificates/BetterTiles-Eco_preferred_content_report_3.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Some porcelain tiles are designed for onshore recycling, where they can be crushed and repurposed into new tiles, road base, or other construction materials.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Yes, porcelain tile offcuts can be recycled into new tiles, crushed for road base or aggregate, or upcycled for creative projects like mosaics or furniture surfaces.",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "Porcelain tiles are crushed into various aggregate sizes and repurposed as raw material for new tiles, road bases, or other construction applications. They can also be used in landscaping, drainage systems, and eco-friendly concrete production, reducing landfill waste and promoting sustainability.",
+    "recycling_process_description": "Yes, porcelain tiles can be deconstructed and reprocessed into raw materials. Once removed, they can be crushed and used in the production of new tiles, road base, or other construction materials. This process helps reduce landfill waste and supports a circular economy in the building industry.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "95%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "To minimise offcuts and wastage, consider:\r\n\r\n- Tile Sizing & Layout: Choose tile sizes that best fit the space to reduce cuts.\r\n- Grid-Based Design: Align tiles with room dimensions to avoid unnecessary trimming.\r\n- Modular Coordination: Use standardised tile sizes that align with fixtures and joints.\r\n- Precision Cutting: Plan cuts strategically to reuse offcuts in less visible areas.\r\n- Ordering Efficiently: Calculate tile quantities carefully to avoid excess waste.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 3942,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BETTERTILES%20PTY%20LTD./Surface%20Avorio/certificates/Eco_Content_Spec_SURFACE_RANGE.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 3946,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BETTERTILES%20PTY%20LTD./Surface%20Avorio/certificates/BetterTiles-Eco_preferred_content_report_3.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica is a naturally occurring mineral present in various rocks, soil, and construction materials, including tiles. To minimise silica exposure when working with porcelain tiles, installers should follow industry-recommended safety measures and wear appropriate PPE. Contact us for more information.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1869,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "component": "Clay",
+        "component_percentage": 70.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2285,
+        "location_name": "Foshan, Guangdong Province, China",
+        "location_lat": 23.02185,
+        "location_lon": 113.12192,
+        "material": "Clay",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1567,
+        "location_name": "Granville NSW, Australia",
+        "location_lat": -33.835458,
+        "location_lon": 151.009506,
+        "location_state": " Australia",
+        "location_city": "Granville NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "To enable recycling or reuse, mechanical fixing methods (such as clip systems) are preferred over adhesives, as they allow easier tile removal. Avoid strong adhesives and epoxy-based grouts, which make tile recovery difficult. Composting is not applicable.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Porcelain tiles are a sustainable choice as they are made from natural materials, free from VOCs (volatile organic compounds), and contribute to healthier indoor air quality. They are highly durable, reducing the need for frequent replacements, and can be recycled at the end of their life cycle.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Recycled Cardboard Boxes",
+    "files": []
+  }
+]

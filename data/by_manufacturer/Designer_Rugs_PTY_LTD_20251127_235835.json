@@ -1,0 +1,219 @@
+[
+  {
+    "id": 42,
+    "company": {
+      "id": 11,
+      "name": "DESIGNER RUGS PTY LTD"
+    },
+    "image": "products/Designer Rugs PTY LTD/WOLFRAM_SILVER.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-15T01:31:42.883425+00:00",
+    "last_update": "2024-05-06T06:11:55.591823+00:00",
+    "created_by": {
+      "id": 97,
+      "email": "lynne@designerrugs.com.au"
+    },
+    "updated_by": {
+      "id": 97,
+      "email": "lynne@designerrugs.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Designer Rugs PTY LTD",
+    "product_name": "Wolfram",
+    "product_code": "MC 1881-  HANDTUFTED -MTO",
+    "product_description": "HANDTUFTED RUG - Wool Blend - Cut & Loop pile // Color: Beige Neutral pile height variance",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 28,
+        "category_name": "Other"
+      }
+    ],
+    "standard_dimensions": "SIZING MADE TO ORDER",
+    "price_per_unit": 0.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "14 OR 16 WEEKS",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 32,
+        "certification": "Carpet Institute - ECS",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Designer%20Rugs%20PTY%20LTD/Wolfram/certificates/Test_Certificate_Australian_Wool.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "OFFCUTS CAN BE REUSED FOR SAMPLING AND OR CAR MATS OR MATS",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "PLEASE NOTE AS  HAND MADE PRODUCT CONSISTING 100% OF WOOLEN YARN ALOT OF THE QUESTIONS REGARDING DECONSTRUCTED -RECYCLE-TAKEBACK AND REUSE ARE N/S THE RUGS CAN BE CLEANED AND REUSED IN A SECOND HAND MARKET - FREELAY RUGS.ASA NATURAL FIBRE PER THE NZ WOOL AUTHORITY WOOL IS A BIODEGRADABLE FIBRE THAT CAN BREAK DOWN AT END OF LIFE.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "DEPENDENT ON WHICH ORIGIN OF MANUFACTURE EITHER RECYCLED WATER OR HARVESTED RAIN WATER IS USED. PRODUCT IS MANUFACTURED BY HAND- NOT MACHINE MADE",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "YARN FOR THE PROJECT IS NOT TAKEN FROM A PREDYED STOCK PILE OF YARN .THE ONLY YARN DYED OR USED IN THE MANUFACTURE IS THE EXACT AMOUNT FOR THE SPECIFIC SIZE OF THE RUG/S-THE PRODUCT IS MADE TO ORDER TO THE ACTUAL SIZE REQUIREMENT OF THE SPECIFIED AREA OF USE AS SUCH THERE IS NO WASTAGE.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 32,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Designer%20Rugs%20PTY%20LTD/Wolfram/certificates/Test_Certificate_Australian_Wool.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 5,
+    "manufacturers_warranty_years": 3,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 147,
+        "location_name": "New Delhi, Delhi, India",
+        "location_lat": 28.613939,
+        "location_lon": 77.209021,
+        "component": "YARN",
+        "component_percentage": 1.0
+      },
+      {
+        "id": 148,
+        "location_name": "Delhi, India",
+        "location_lat": 28.686274,
+        "location_lon": 77.221783,
+        "component": "Handtufting",
+        "component_percentage": 1.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 176,
+        "location_name": "Christchurch, New Zealand",
+        "location_lat": -43.53203,
+        "location_lon": 172.636648,
+        "material": "WOOL",
+        "product_percentage": 1.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 180,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 181,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 0.0,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Designer Rugs is dedicated to the improvement of sustainability. We are constantly striving to improve our environmental performance and reduce our impact on the environment.\r\n \r\nWe produce high-quality product, designed to stand the tests of time. Not only are we proud to supply premium product to our clients, but it also reflects our stance on the environmental impact of planned obsolesce – the long lifecycle of our product means reduced waste.  In our rug production, processes are hand controlled to reduce wastage and our carbon footprint.\r\n \r\nDesigner Rugs recognises the importance of renewable materials. Wool forms the major component of our product, which is a naturally renewable and sustainable product. Sheep are part of the natural carbon cycle, consuming the organic carbon stored in plants and converting it to wool. This hard-wearing fibre is also biodegradable at the end of its lifespan.All Wool Fibre [100% Wool] is Carbon Neutral.https://woolsnz.com/sustainability\r\n \r\nWe aim use distribution methods for our product that are environmentally friendly, re-using packaging as much as we can and providing reusable rug bags where possible. We encourage the return and reuse of samples and tufts provided for the product selection process to reduce the impact of sample and tuft production.\r\n \r\nInternally, our respect for the environment extends to our office policies, where we aim to communicate digitally wherever possible to prevent unnecessary printing. We practice a policy of working without electric lights if they are not required and of ensuring all power is only used when absolutely necessary and we recycle everything we can.\r\n \r\nWe enable specifiers to meet their environmental commitments without compromise aesthetics and quality. Our 100% NZ Wool Products have been tested to the Carpet and Rug Institute Green label Specification (Green Star IEQ-13) for volatile organic compounds (VOCs) and the results indicate the products are low-VOC emitting. Specifying and using these products contributes one credit point under the Green Star Design IEQ-13 credit. \r\n \r\nOur environmental and social responsibilities are of paramount importance, and we are committed to the long term aims of sustainable development in all our business activities.\r\n \r\nRegarding Greenstar [GECA] compliant member document, we do not prescribe to GECA or third party  GREENSTAR membership programs certification that requires the provision of company financial details and profit $ details/turnover to ascertain a point or certification consideration of product.\r\n\r\n\r\nIn accordance with Sustainable practise as custom made rugs specific for the project only the yarn required for the rugs are dyed and manufactured and then handtufted by hand, hence creating a n extensive less footprint than machine made product and/ or yarn bank stored with wastage and negating disposal into land waste of unused yarn. \r\n\r\nOur Sustainability policy can be found on our website on the following links,\r\n\r\nhttps://www.designerrugs.com.au/commercial/materials-and-construction/\r\n\r\nhttps://www.designerrugs.com.au/responsible-manufacturing/\r\n\r\nhttps://www.designerrugs.com.au/designer-rugs-a-30-year-design-legacy-like-no-other/\r\n\r\nRegarding our association with Supply Nation, our collaborative indigenous-first nation partner KARI.ORGare a registered Supply Nation Member additional information regarding our existing collaborations and partnerships for over 18 years with Artist Minnie Pwerle and now her family trust and with other first nations artists can be found on the following link, https://www.designerrugs.com.au/indigenous-collections/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 23,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Designer%20Rugs%20PTY%20LTD/Wolfram/compliance/FIRE_TEST_REPORT_2022__100_NZ_WOOL_9mm_Um39BrO.pdf",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "PACKAGING AND WRAP - PLASTIC THAT CAN BE RECYCLED & WOODEN CRATES THAT CAN BE RECYCLED",
+    "files": [
+      {
+        "id": 22,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Designer%20Rugs%20PTY%20LTD/Wolfram/VOC/Test_Certificate_Australian_Wool.pdf"
+      },
+      {
+        "id": 23,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Designer%20Rugs%20PTY%20LTD/Wolfram/VOC/Test_Certificate_India_Wool.pdf"
+      }
+    ]
+  }
+]

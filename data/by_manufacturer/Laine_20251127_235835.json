@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1438,
+    "company": {
+      "id": 199,
+      "name": "LAINE"
+    },
+    "image": "products/LAINE/Laine_Tactile_image.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-17T00:20:33.192543+00:00",
+    "last_update": "2025-11-04T13:00:00+00:00",
+    "created_by": {
+      "id": 2647,
+      "email": "jeremy@laine.com.au"
+    },
+    "updated_by": {
+      "id": 2647,
+      "email": "jeremy@laine.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Laine",
+    "product_name": "Tactile",
+    "product_code": "Tactile",
+    "product_description": "Durable woven textured fabric available in 11 earthy colourways",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": "width 138cm",
+    "price_per_unit": null,
+    "product_functional_unit": "linear meter",
+    "price_adjustment_structure": null,
+    "lead_time": "stocked",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5827,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/LAINE/Tactile/certificates/Reach_for_Laine_Render_Solitude_Tactile.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5828,
+        "certification": "OEKO-TEX",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/LAINE/Tactile/certificates/Laine_Oeko_Tex_cetificate_Render_Tactile_Solitude.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "57% of the yarn uses no water in production, 43% of the yarn uses water of which 50% is recycled water.",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Laine have completed a 2025 audit of our suppliers to confirm that there are no concerns with them with Human Rights and Modern Slavery",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5827,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/LAINE/Tactile/certificates/Reach_for_Laine_Render_Solitude_Tactile.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5828,
+        "certification": "OEKO-TEX",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/LAINE/Tactile/certificates/Laine_Oeko_Tex_cetificate_Render_Tactile_Solitude.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 3065,
+        "location_name": "Jiaxing, Zhejiang, China",
+        "location_lat": 30.753924,
+        "location_lon": 120.758543,
+        "component": "Polyester",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [],
+    "storage_locations": [
+      {
+        "id": 2279,
+        "location_name": "Bayswater VIC, Australia",
+        "location_lat": -37.842601,
+        "location_lon": 145.270482,
+        "location_state": " Australia",
+        "location_city": "Bayswater VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Product can be recycled if no adhesives used.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 60,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 50,
+    "section_E_score": 43,
+    "section_F_score": 100,
+    "section_G_score": 67,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 2969,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/LAINE/Tactile/compliance/Tactile_AS1530.3_Fire_Test_Report.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Cardboard roller which is recyclable & Low-density polyethylene which is recyclable through specialist companies",
+    "files": [
+      {
+        "id": 4534,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/LAINE/Tactile/VOC/Laine_Oeko_Tex_cetificate_Render_Tactile_Solitude.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "id": 32,
+    "company": {
+      "id": 5,
+      "name": "KAOLIN PORCELAIN SURFACES"
+    },
+    "image": "products/Kaolin Tiles/WeChat_Image_20220930103311.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-01-29T23:00:55.631411+00:00",
+    "last_update": "2024-05-09T03:05:58.599764+00:00",
+    "created_by": {
+      "id": 39,
+      "email": "a.bourtsev@kaolin.com.au"
+    },
+    "updated_by": {
+      "id": 39,
+      "email": "a.bourtsev@kaolin.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Kaolin",
+    "product_name": "Kaolin Porcelain Tiles (All)",
+    "product_code": null,
+    "product_description": "All Kaolin Porcelain tiles have achieved the highest Level A GreenRate rating from Global GreenTag.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": "various",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "price varies from $30/sqm up to $700/sqm",
+    "lead_time": "8 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 29,
+        "certification": "GreenTag – Green Rate",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Kaolin%20Tiles/Kaolin%20Porcelain%20Tiles%20%28all%29/certificates/Kaolin_GreenTag.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 12.8,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 3.46,
+    "upfront_carbon_emissions": 3.46,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "It can be recycled with our Product Stewardship with Bingo and go into the roadbase as an example",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "For certain application we recommend to cut or fabricate with tiles in our factory prior to ship to Australia. In that case all the offcuts will be straight recycled and go back into the production.",
+    "recycled_content_percentage": "1",
+    "recycled_content_description": "All defect and broken tiles during the manufacturing process and recycled and used back into the production",
+    "recycling_process_description": "All the components of procelain can be easily reprocessed back into the same raw materials or same product, which is porcelain tiles",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Porcelain tiles are biodegradable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "We have a Product Stewardship program with Bingo. As a company, we place a strong emphasis on establishing and organizing end-of-life take-back and recovery programs for our products to promote responsible product stewardship. We understand the importance of managing the full lifecycle of our products and ensuring they are recycled or recovered in an environmentally sustainable manner.",
+    "water_reduction_techniques": "We are proud to have implemented a water conservation system that allows us to reuse up to 100% of our water. Not only do we reintegrate this water back into our production processes, but we also ensure its purification for use in the irrigation system of neighboring farms. By maximizing our water efficiency and minimizing waste, we contribute positively to the environment and support sustainable practices in our local community.",
+    "transport_emissions_minimisation_techniques": "All our products are stored in our factorie's AI warehouse. AI warehouse allow us to stack pallets 30m height and therefore reduced the land footprint 6 times. It also allows us to achieve high accuracy and safety as there are not forklifts driving around. We do not stock any of our products in Australia and therfore our CO2 emissions are much smaller compared to suppliers having stock in Australia. We deliver items straight from our warehouse in China to construction site in Australia within 8 weeks. We have never missed this deadline.",
+    "minimisation_design_strategy": "We recommend to design and work out wastage and set-out based on the size of tile and not just on pure square meterage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Yes. As part of our commitment to fair labor practices, we have third-party verified Modern Slavery Declarations (Level A GreenRate from Global Greentag), ensuring that our supply chain is free from any exploitative or unethical labor practices. These certifications and measures reflect our strong emphasis on social responsibility and equity, both within our organization and throughout our supply chain. We value the practice of fair labour. As a family business, we consider all our employees as part of the family and treat them like that. 95% of our workforce with experience of 10 years stayed with us and plans to stay. We attract talent from local area as well as from all over the country. Those values are being extended not only to our own employees, but to our partners and suppliers as well. We have practices in place to confirm and verify the fair treatment of labour in all the mines of raw materials.\r\nAs much as we try to verify the origin of materials and the practice of fair labour with respect to human rights, we also urge our customers to take that into consideration when choosing which material to supply. As a family business, we are terrified and truly disappointed to find out about horrible circumstances that labourers must work in some stone quarries, with child labour as not an exception. ILO identified up to 1 million children working in mines and quarries around the world. (https://www.ilo.org/ipec/areas/Miningandquarrying/lang--en/index.htm) We do encourage our customers, to make a choice not only for sustainable and environmentally friendly products, but also to make a conscious choice with respect to other families from all over the world.\r\nAs an organization, we are actively working to combat these unethical practices, and we urge the Australian A&D industry to be conscious of their sourcing decisions to prevent supporting such practices in the supply chain.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 29,
+        "certification": "GreenTag – Green Rate",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Kaolin%20Tiles/Kaolin%20Porcelain%20Tiles%20%28all%29/certificates/Kaolin_GreenTag.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Low silica content (only 16%) - report from SafeWork Australia can be provided. For the installation need to follow Kaolin SDS.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 50,
+    "factory_finished": true,
+    "factory_finished_description": "Variety of finishes include polished, honed, matt, textured, leathered and anti-slip",
+    "manufacturing_locations": [
+      {
+        "id": 23,
+        "location_name": "Qingyuan, Guangdong Province, China",
+        "location_lat": 23.68201,
+        "location_lon": 113.05615,
+        "component": "Porcelain Tile",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 34,
+        "location_name": "Qingyuan, Guangdong Province, China",
+        "location_lat": 23.68201,
+        "location_lon": 113.05615,
+        "material": "Clay",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 35,
+        "location_name": "Qingyuan, Guangdong Province, China",
+        "location_lat": 23.68201,
+        "location_lon": 113.05615,
+        "material": "Feldspar",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 37,
+        "location_name": "Qingyuan, Guangdong Province, China",
+        "location_lat": 23.68201,
+        "location_lon": 113.05615,
+        "material": "Quartz",
+        "product_percentage": 5.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 37,
+        "location_name": "Wetherill Park NSW, Australia",
+        "location_lat": -33.848814,
+        "location_lon": 150.899489,
+        "location_state": " Australia",
+        "location_city": "Wetherill Park NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "We recommend to install tiles with Green Certified glues and grouts to ensure it is possible to be recycled or to be biodegradable",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "N/A",
+    "incomplete_details": "",
+    "other_comments": "As we are a manufacturer, we hold Level A GreenRate from Global GreenTag for all our ranges, which is quite unique for Australia. Our Level A certification provides you with the maximum of points for assessments under the GBCA for Greenstar buildings. They recognize our Level A as the highest level of certification on the Australian Market. For example for GreenStar “Design and As Built v1.3” for clause 21.1 “Sustainable Products” our product gives you the highest coefficient value. As there are only 2 companies on the Australian Market that supply that level of porcelain tiles, the choice is very scare.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 17,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Kaolin%20Tiles/Kaolin%20Porcelain%20Tiles%20%28all%29/compliance/KAOLIN_-_Precious_Stone_Se_NqdVPNp.pdf",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "We work with recycled cardboard. As we store in our AI warehouse, we only pack pallets when it is ordered for specific client, therefor minimize the plastic wrapping.",
+    "files": [
+      {
+        "id": 20,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Kaolin%20Tiles/Kaolin%20Porcelain%20Tiles%20%28all%29/LCA/LCA_Kaolin.jpeg"
+      },
+      {
+        "id": 21,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Kaolin%20Tiles/Kaolin%20Porcelain%20Tiles%20%28all%29/ModernSlaveryAssessment/Kaolin_GreenTag.pdf"
+      }
+    ]
+  }
+]

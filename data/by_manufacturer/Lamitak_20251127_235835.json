@@ -1,0 +1,824 @@
+[
+  {
+    "id": 1429,
+    "company": {
+      "id": 105,
+      "name": "CATALYSTE AUSTRALIA"
+    },
+    "image": "products/CATALYSTE AUSTRALIA/Lamitak_Joyful_Sophis-5-ezgif.com-webp-to-jpg-converter_1_x4WgLTR.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-08T02:02:28.693450+00:00",
+    "last_update": "2025-09-07T14:00:00+00:00",
+    "created_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "updated_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Lamitak",
+    "product_name": "Lamitak Solids",
+    "product_code": "Solid Colours",
+    "product_description": "Decorative high pressure laminate in a wide range of solid colours,in variety of textures & finishes",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "2440mm x 1220mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "1-2 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5365,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Solids/certificates/Lamitak_Certification_of_Lamitak_HPL_Content.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5364,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Solids/certificates/Green_Label_Certificate_2022-2024.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5366,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Solids/certificates/Lamitak_GREENGUARD_Gold_Certification_16_Dec_2024.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "ABD edging is provided to local Australian recycling plants that turn the waste into other PVC based products like piping etc.",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Catalyste Australia has a take-back program and we can recycle ABS edging by colour.",
+    "water_reduction_techniques": "80",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Specifying the correct board sizes to ensure minimal wastage and max use of the board product",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5365,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Solids/certificates/Lamitak_Certification_of_Lamitak_HPL_Content.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5364,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Solids/certificates/Green_Label_Certificate_2022-2024.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5366,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Solids/certificates/Lamitak_GREENGUARD_Gold_Certification_16_Dec_2024.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": true,
+    "factory_finished_description": "Supplied as a finished board",
+    "manufacturing_locations": [
+      {
+        "id": 2650,
+        "location_name": "Dettingen an der Erms, Germany",
+        "location_lat": 48.527536,
+        "location_lon": 9.348833,
+        "component": "Kraft Stabilizing Paper",
+        "component_percentage": 70.0
+      },
+      {
+        "id": 2651,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Decorative Printed Paper",
+        "component_percentage": 25.0
+      },
+      {
+        "id": 2652,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Melamine resin",
+        "component_percentage": 5.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3206,
+        "location_name": "Cheltenham VIC, Australia",
+        "location_lat": -37.965644,
+        "location_lon": 145.057852,
+        "material": "MR MDF",
+        "product_percentage": 75.0
+      },
+      {
+        "id": 3207,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "High Pressure Laminate",
+        "product_percentage": 25.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2271,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2934,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Solids/compliance/FH10916-1_test_report_Lamitak_BCA_Group_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2935,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Solids/compliance/EG-20295-LL_Surteco_Karla_Tivoli_Elm_Laminate_LRV_Test_20200615.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2936,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Solids/compliance/FH10916-1_test_report_Lamitak_BCA_Group_1_ozrMSn8.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled carboard boxes from VISY Australia packaging",
+    "files": [
+      {
+        "id": 4014,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Solids/VOC/Lamitak_GREENGUARD_Gold_Certification_16_Dec_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1430,
+    "company": {
+      "id": 105,
+      "name": "CATALYSTE AUSTRALIA"
+    },
+    "image": "products/CATALYSTE AUSTRALIA/Lamitak-Urban_Shades_7-Schwarz_Zermatt-Bryson_Tobias-ezgif._9eAK5Uz.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-08T03:31:14.785146+00:00",
+    "last_update": "2025-10-20T13:00:00+00:00",
+    "created_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "updated_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Lamitak",
+    "product_name": "Lamitak Patterns",
+    "product_code": "Fabric, Stone, Cement Textures",
+    "product_description": "Decorative high pressure laminate in variety of detailed fabric, stone, cement textures",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "2440mm x 1220mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "1-2 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5367,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Patterns/certificates/Lamitak_Certification_of_Lamitak_HPL_Content.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5368,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Patterns/certificates/Lamitak_GREENGUARD_Gold_Certification_16_Dec_2024.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5369,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Patterns/certificates/Green_Label_Certificate_2022-2024.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "ABD edging is provided to local Australian recycling plants that turn the waste into other PVC based products like piping etc.",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Catalyste Australia has a take-back program and we can recycle ABS edging by colour.",
+    "water_reduction_techniques": "80",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Specifying the correct board sizes to ensure minimal wastage and max use of the board product",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5367,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Patterns/certificates/Lamitak_Certification_of_Lamitak_HPL_Content.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5368,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Patterns/certificates/Lamitak_GREENGUARD_Gold_Certification_16_Dec_2024.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 5369,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Patterns/certificates/Green_Label_Certificate_2022-2024.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": true,
+    "factory_finished_description": "Supplied as a finished board",
+    "manufacturing_locations": [
+      {
+        "id": 2653,
+        "location_name": "Dettingen an der Erms, Germany",
+        "location_lat": 48.527536,
+        "location_lon": 9.348833,
+        "component": "Kraft Stabilizing Paper",
+        "component_percentage": 70.0
+      },
+      {
+        "id": 2654,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Decorative Printed Paper",
+        "component_percentage": 20.0
+      },
+      {
+        "id": 2655,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Melamine resin",
+        "component_percentage": 5.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3208,
+        "location_name": "Cheltenham VIC, Australia",
+        "location_lat": -37.965644,
+        "location_lon": 145.057852,
+        "material": "MR MDF",
+        "product_percentage": 75.0
+      },
+      {
+        "id": 3209,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "High Pressure Laminate",
+        "product_percentage": 25.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2272,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2937,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Patterns/compliance/FH10916-1_test_report_Lamitak_BCA_Group_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2939,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Patterns/compliance/FH10916-1_test_report_Lamitak_BCA_Group_1_ozrMSn8.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 2938,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Patterns/compliance/EG-20295-LL_Surteco_Karla_Tivoli_Elm_Laminate_LRV_Test_20200615.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "type_of_packaging": "Recycled carboard boxes from VISY Australia packaging",
+    "files": [
+      {
+        "id": 4015,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Patterns/VOC/Lamitak_GREENGUARD_Gold_Certification_16_Dec_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1431,
+    "company": {
+      "id": 105,
+      "name": "CATALYSTE AUSTRALIA"
+    },
+    "image": "products/CATALYSTE AUSTRALIA/Lamitak_6_Life_with_Nature_7-v6-ezgif.com-webp-to-jpg-conve_7SPP4H8.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-08T04:03:33.400404+00:00",
+    "last_update": "2025-09-07T14:00:00+00:00",
+    "created_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "updated_by": {
+      "id": 1145,
+      "email": "hayley@catalyste.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Lamitak",
+    "product_name": "Lamitak Woodgrains",
+    "product_code": "Woods",
+    "product_description": "Decorative high pressure laminate with diverse and detailed textural & lifelike natural woodgrains",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "2440mm x 1220mm",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "1-2 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5370,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Woodgrains/certificates/Lamitak_Certification_of_Lamitak_HPL_Content_JkRg24p.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5371,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Woodgrains/certificates/Green_Label_Certificate_2022-2024.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 5372,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Woodgrains/certificates/Lamitak_GREENGUARD_Gold_Certification_16_Dec_2024.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "ABD edging is provided to local Australian recycling plants that turn the waste into other PVC based products like piping etc.",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Unsure",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Catalyste Australia has a take-back program and we can recycle ABSedging by colour.",
+    "water_reduction_techniques": "80",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Specifying the correct board sizes to ensure minimal wastage and max use of the board product",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5370,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Woodgrains/certificates/Lamitak_Certification_of_Lamitak_HPL_Content_JkRg24p.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5371,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Woodgrains/certificates/Green_Label_Certificate_2022-2024.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 5372,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Woodgrains/certificates/Lamitak_GREENGUARD_Gold_Certification_16_Dec_2024.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 2,
+    "factory_finished": true,
+    "factory_finished_description": "Supplied as a finished board",
+    "manufacturing_locations": [
+      {
+        "id": 2656,
+        "location_name": "Dettingen an der Erms, Germany",
+        "location_lat": 48.527536,
+        "location_lon": 9.348833,
+        "component": "Kraft Stabilizing Paper",
+        "component_percentage": 70.0
+      },
+      {
+        "id": 2657,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Decorative Printed Paper",
+        "component_percentage": 25.0
+      },
+      {
+        "id": 2658,
+        "location_name": "Buttenwiesen, Germany",
+        "location_lat": 48.6054,
+        "location_lon": 10.72068,
+        "component": "Melamine Resin",
+        "component_percentage": 5.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3210,
+        "location_name": "Cheltenham VIC, Australia",
+        "location_lat": -37.965644,
+        "location_lon": 145.057852,
+        "material": "MR MDF",
+        "product_percentage": 75.0
+      },
+      {
+        "id": 3211,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "High Pressure Laminate",
+        "product_percentage": 25.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2273,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2940,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Woodgrains/compliance/FH10916-1_test_report_Lamitak_BCA_Group_1_fuMAhTp.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2941,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Woodgrains/compliance/EG-20295-LL_Surteco_Karla_Tivoli_Elm_Laminate_LRV_Test_20200615_d4XIfPl.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2942,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Woodgrains/compliance/FH10916-1_test_report_Lamitak_BCA_Group_1_ozrMSn8_G6nPs6b.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Recycled carboard boxes from VISY Australia packaging",
+    "files": [
+      {
+        "id": 4016,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CATALYSTE%20AUSTRALIA/Lamitak%20Woodgrains/VOC/Lamitak_GREENGUARD_Gold_Certification_16_Dec_2024_nw8IfHn.pdf"
+      }
+    ]
+  }
+]

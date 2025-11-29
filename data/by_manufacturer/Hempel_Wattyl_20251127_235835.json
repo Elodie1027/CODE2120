@@ -1,0 +1,1200 @@
+[
+  {
+    "id": 408,
+    "company": {
+      "id": 116,
+      "name": "HEMPEL"
+    },
+    "image": "products/HEMPEL/Screenshot_2024-08-29_171951.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-29T06:37:32.784653+00:00",
+    "last_update": "2024-08-28T14:00:00+00:00",
+    "created_by": {
+      "id": 1223,
+      "email": "chrro@hempel.com"
+    },
+    "updated_by": {
+      "id": 1223,
+      "email": "chrro@hempel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Hempel (Wattyl)",
+    "product_name": "Hempel (Wattyl)  Hempathane Hs55610 Gloss",
+    "product_code": "55610",
+    "product_description": "Gloss polyurethane topcoat for structural steel and concrete",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "2 hours",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 966,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/certificates/BREGENEPD000404_-_Hempathane_HS55610.pdf",
+        "link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000404.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 967,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/certificates/BREGENEPD000404_-_Hempathane_HS55610_jgmfjfH.pdf",
+        "link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000404.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 968,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/certificates/APAS_2911_HEMPATHANE_HS_55610_-_1502.1.pdf",
+        "link": "https://vs.csiro.au/apas/list-of-certified-products/",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 24.51,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 2.38,
+    "upfront_carbon_emissions": 2.38,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "Product can remain on structural steel when being repurposed.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Product can remain on structural steel when being repurposed.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "Bulk supply and materials applied offsite.",
+    "minimisation_design_strategy": "Product can be ratio mixed to lower quantities to reduce wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "Business is ceased with any companies or countries that are identified as forementioned.",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 966,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/certificates/BREGENEPD000404_-_Hempathane_HS55610.pdf",
+        "link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000404.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 967,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/certificates/BREGENEPD000404_-_Hempathane_HS55610_jgmfjfH.pdf",
+        "link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000404.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 968,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/certificates/APAS_2911_HEMPATHANE_HS_55610_-_1502.1.pdf",
+        "link": "https://vs.csiro.au/apas/list-of-certified-products/",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "Isocyanate",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 532,
+        "location_name": "West Footscray VIC, Australia",
+        "location_lat": -37.800671,
+        "location_lon": 144.871665,
+        "component": "Paint",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 764,
+        "location_name": "West Footscray VIC, Australia",
+        "location_lat": -37.800671,
+        "location_lon": 144.871665,
+        "material": "Australia",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 765,
+        "location_name": "Frankfurt, Germany",
+        "location_lat": 50.110922,
+        "location_lon": 8.682127,
+        "material": "",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 766,
+        "location_name": "Amsterdam, Netherlands",
+        "location_lat": 52.367573,
+        "location_lon": 4.904139,
+        "material": "",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 767,
+        "location_name": "Kuantan, Pahang, Malaysia",
+        "location_lat": 3.816829,
+        "location_lon": 103.331717,
+        "material": "",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 768,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "material": "",
+        "product_percentage": 15.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 616,
+        "location_name": "West Footscray VIC, Australia",
+        "location_lat": -37.800671,
+        "location_lon": 144.871665,
+        "location_state": " Australia",
+        "location_city": "West Footscray VIC"
+      },
+      {
+        "id": 617,
+        "location_name": "Kilburn SA, Australia",
+        "location_lat": -34.858113,
+        "location_lon": 138.583101,
+        "location_state": " Australia",
+        "location_city": "Kilburn SA"
+      },
+      {
+        "id": 618,
+        "location_name": "Success WA, Australia",
+        "location_lat": -32.130633,
+        "location_lon": 115.855003,
+        "location_state": " Australia",
+        "location_city": "Success WA"
+      },
+      {
+        "id": 619,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 620,
+        "location_name": "Launceston TAS, Australia",
+        "location_lat": -41.433221,
+        "location_lon": 147.144088,
+        "location_state": " Australia",
+        "location_city": "Launceston TAS"
+      },
+      {
+        "id": 621,
+        "location_name": "Padstow NSW, Australia",
+        "location_lat": -33.95045,
+        "location_lon": 151.0309,
+        "location_state": " Australia",
+        "location_city": "Padstow NSW"
+      },
+      {
+        "id": 622,
+        "location_name": "Warners Bay NSW, Australia",
+        "location_lat": -32.974572,
+        "location_lon": 151.647683,
+        "location_state": " Australia",
+        "location_city": "Warners Bay NSW"
+      },
+      {
+        "id": 623,
+        "location_name": "Browns Plains QLD, Australia",
+        "location_lat": -27.662436,
+        "location_lon": 153.052773,
+        "location_state": " Australia",
+        "location_city": "Browns Plains QLD"
+      },
+      {
+        "id": 624,
+        "location_name": "Springvale VIC, Australia",
+        "location_lat": -37.948721,
+        "location_lon": 145.152943,
+        "location_state": " Australia",
+        "location_city": "Springvale VIC"
+      },
+      {
+        "id": 625,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "location_state": " Australia",
+        "location_city": "Geelong VIC"
+      },
+      {
+        "id": 626,
+        "location_name": "Brooklyn VIC, Australia",
+        "location_lat": -37.817349,
+        "location_lon": 144.846536,
+        "location_state": " Australia",
+        "location_city": "Brooklyn VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000404.pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Hempathane is a high solids protective coating gloss topcoat for structural steel in all environments including highly corrosive C5.  If a low gloss finish is required, please nominate Hempathane HS55613",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel Pails which can be re-used or recycled by steel recycling facilities.",
+    "files": [
+      {
+        "id": 763,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/ModernSlaveryAssessment/Hempel_Wattyl_Modern_Slavery_Statement_16783_frzsdobovyrk.pdf"
+      },
+      {
+        "id": 764,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/ModernSlaveryActionPlan/Hempel_Wattyl_Modern_Slavery_Statement_16783_frzsdobovyrk.pdf"
+      },
+      {
+        "id": 765,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/VOC/Hempathane_HS_55610_-_2024.pdf"
+      },
+      {
+        "id": 766,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/LCA/BREGENEPD000404_-_Hempathane_HS55610.pdf"
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "company": {
+      "id": 116,
+      "name": "HEMPEL"
+    },
+    "image": "products/HEMPEL/Screenshot_2024-08-29_175006.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-29T06:40:42.832315+00:00",
+    "last_update": "2024-08-28T14:00:00+00:00",
+    "created_by": {
+      "id": 1223,
+      "email": "chrro@hempel.com"
+    },
+    "updated_by": {
+      "id": 1223,
+      "email": "chrro@hempel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Hempel (Wattyl)",
+    "product_name": "Hempel (Wattyl) Hempathane Hs55613 Low Gloss",
+    "product_code": "55613",
+    "product_description": "Low gloss polyurethane topcoat for structural steel and concrete",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "2 hours",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 969,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/certificates/BREGENEPD000404_-_Hempathane_HS55610.pdf",
+        "link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000404.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 970,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/certificates/BREGENEPD000404_-_Hempathane_HS55610_jgmfjfH.pdf",
+        "link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000404.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 971,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/certificates/APAS_2911_HEMPATHANE_HS_55610_-_1502.1.pdf",
+        "link": "https://vs.csiro.au/apas/list-of-certified-products/",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 24.51,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 2.38,
+    "upfront_carbon_emissions": 2.38,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "Product can remain on structural steel when being repurposed.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Product can remain on structural steel when being repurposed.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "Bulk supply and materials applied offsite.",
+    "minimisation_design_strategy": "Product can be ratio mixed to lower quantities to reduce wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "Business is ceased with any companies or countries that are identified as forementioned.",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 969,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/certificates/BREGENEPD000404_-_Hempathane_HS55610.pdf",
+        "link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000404.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 970,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/certificates/BREGENEPD000404_-_Hempathane_HS55610_jgmfjfH.pdf",
+        "link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000404.pdf",
+        "rating": "undefined"
+      },
+      {
+        "id": 971,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/certificates/APAS_2911_HEMPATHANE_HS_55610_-_1502.1.pdf",
+        "link": "https://vs.csiro.au/apas/list-of-certified-products/",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "Isocyanate",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 533,
+        "location_name": "West Footscray VIC, Australia",
+        "location_lat": -37.800671,
+        "location_lon": 144.871665,
+        "component": "Paint",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 769,
+        "location_name": "West Footscray VIC, Australia",
+        "location_lat": -37.800671,
+        "location_lon": 144.871665,
+        "material": "Australia",
+        "product_percentage": 20.0
+      },
+      {
+        "id": 770,
+        "location_name": "Frankfurt, Germany",
+        "location_lat": 50.110922,
+        "location_lon": 8.682127,
+        "material": "",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 771,
+        "location_name": "Amsterdam, Netherlands",
+        "location_lat": 52.367573,
+        "location_lon": 4.904139,
+        "material": "",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 772,
+        "location_name": "Kuantan, Pahang, Malaysia",
+        "location_lat": 3.816829,
+        "location_lon": 103.331717,
+        "material": "",
+        "product_percentage": 15.0
+      },
+      {
+        "id": 773,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "material": "",
+        "product_percentage": 15.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 627,
+        "location_name": "West Footscray VIC, Australia",
+        "location_lat": -37.800671,
+        "location_lon": 144.871665,
+        "location_state": " Australia",
+        "location_city": "West Footscray VIC"
+      },
+      {
+        "id": 628,
+        "location_name": "Kilburn SA, Australia",
+        "location_lat": -34.858113,
+        "location_lon": 138.583101,
+        "location_state": " Australia",
+        "location_city": "Kilburn SA"
+      },
+      {
+        "id": 629,
+        "location_name": "Success WA, Australia",
+        "location_lat": -32.130633,
+        "location_lon": 115.855003,
+        "location_state": " Australia",
+        "location_city": "Success WA"
+      },
+      {
+        "id": 630,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 631,
+        "location_name": "Launceston TAS, Australia",
+        "location_lat": -41.433221,
+        "location_lon": 147.144088,
+        "location_state": " Australia",
+        "location_city": "Launceston TAS"
+      },
+      {
+        "id": 632,
+        "location_name": "Padstow NSW, Australia",
+        "location_lat": -33.95045,
+        "location_lon": 151.0309,
+        "location_state": " Australia",
+        "location_city": "Padstow NSW"
+      },
+      {
+        "id": 633,
+        "location_name": "Warners Bay NSW, Australia",
+        "location_lat": -32.974572,
+        "location_lon": 151.647683,
+        "location_state": " Australia",
+        "location_city": "Warners Bay NSW"
+      },
+      {
+        "id": 634,
+        "location_name": "Browns Plains QLD, Australia",
+        "location_lat": -27.662436,
+        "location_lon": 153.052773,
+        "location_state": " Australia",
+        "location_city": "Browns Plains QLD"
+      },
+      {
+        "id": 635,
+        "location_name": "Springvale VIC, Australia",
+        "location_lat": -37.948721,
+        "location_lon": 145.152943,
+        "location_state": " Australia",
+        "location_city": "Springvale VIC"
+      },
+      {
+        "id": 636,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "location_state": " Australia",
+        "location_city": "Geelong VIC"
+      },
+      {
+        "id": 637,
+        "location_name": "Brooklyn VIC, Australia",
+        "location_lat": -37.817349,
+        "location_lon": 144.846536,
+        "location_state": " Australia",
+        "location_city": "Brooklyn VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000404.pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Hempathane is a high solids protective coating gloss topcoat for structural steel in all environments including highly corrosive C5.  If a low gloss finish is required, please nominate Hempathane HS55613",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel Pails which can be re-used or recycled by steel recycling facilities.",
+    "files": [
+      {
+        "id": 767,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/ModernSlaveryAssessment/Hempel_Wattyl_Modern_Slavery_Statement_16783_frzsdobovyrk.pdf"
+      },
+      {
+        "id": 768,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/ModernSlaveryActionPlan/Hempel_Wattyl_Modern_Slavery_Statement_16783_frzsdobovyrk.pdf"
+      },
+      {
+        "id": 769,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/VOC/Hempathane_HS_55610_-_2024.pdf"
+      },
+      {
+        "id": 770,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Hempathane%20Hs55610/LCA/BREGENEPD000404_-_Hempathane_HS55610.pdf"
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "company": {
+      "id": 116,
+      "name": "HEMPEL"
+    },
+    "image": "products/HEMPEL/Screenshot_2024-08-29_172952_Wg2MfMu.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-29T07:32:03.832971+00:00",
+    "last_update": "2024-08-28T14:00:00+00:00",
+    "created_by": {
+      "id": 1223,
+      "email": "chrro@hempel.com"
+    },
+    "updated_by": {
+      "id": 1223,
+      "email": "chrro@hempel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Hempel (Wattyl)",
+    "product_name": "Hempel (Wattyl) Avantguard 860",
+    "product_code": "17990",
+    "product_description": "Activated Zinc Rich Primer for highest level corrosion protection",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "1 Day",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 972,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Avantguard%20860/certificates/Hempadur_Avantguard_860_APAS_2916-1.pdf",
+        "link": "https://vs.csiro.au/apas/list-of-certified-products/",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": 9.36,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "When applied to steel, the coating can be dismantled and reused along with the structural steel.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Paint Back Scheme.",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Material can be ratio mixed in smaller volumes to prevent wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "Companies or countries identified are prohibited from conducting business with Hempel",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 972,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Avantguard%20860/certificates/Hempadur_Avantguard_860_APAS_2916-1.pdf",
+        "link": "https://vs.csiro.au/apas/list-of-certified-products/",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "Hazardous material prior to application and curing.  Once cured material is non hazardous.",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "Bisphenol A",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 534,
+        "location_name": "Kluang, Johor, Malaysia",
+        "location_lat": 2.033873,
+        "location_lon": 103.319859,
+        "component": "Paint",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 774,
+        "location_name": "Kluang, Johor, Malaysia",
+        "location_lat": 2.033873,
+        "location_lon": 103.319859,
+        "material": "Zinc ",
+        "product_percentage": 85.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 638,
+        "location_name": "West Footscray VIC, Australia",
+        "location_lat": -37.800671,
+        "location_lon": 144.871665,
+        "location_state": " Australia",
+        "location_city": "West Footscray VIC"
+      },
+      {
+        "id": 639,
+        "location_name": "Success WA, Australia",
+        "location_lat": -32.130633,
+        "location_lon": 115.855003,
+        "location_state": " Australia",
+        "location_city": "Success WA"
+      },
+      {
+        "id": 640,
+        "location_name": "Padstow NSW, Australia",
+        "location_lat": -33.95045,
+        "location_lon": 151.0309,
+        "location_state": " Australia",
+        "location_city": "Padstow NSW"
+      },
+      {
+        "id": 641,
+        "location_name": "Warners Bay NSW, Australia",
+        "location_lat": -32.974572,
+        "location_lon": 151.647683,
+        "location_state": " Australia",
+        "location_city": "Warners Bay NSW"
+      },
+      {
+        "id": 642,
+        "location_name": "Browns Plains QLD, Australia",
+        "location_lat": -27.662436,
+        "location_lon": 153.052773,
+        "location_state": " Australia",
+        "location_city": "Browns Plains QLD"
+      },
+      {
+        "id": 643,
+        "location_name": "Kilburn SA, Australia",
+        "location_lat": -34.858113,
+        "location_lon": 138.583101,
+        "location_state": " Australia",
+        "location_city": "Kilburn SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Spray, brush, roll applications",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Avantguard 860 incorporates Hempel's patented Activated Zinc Rich technology providing significantly improved utilization of the metallic zinc in the film for longer corrosion protection and asset durability.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel pails use to package can be reused or recycled.",
+    "files": [
+      {
+        "id": 771,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Avantguard%20860/ModernSlaveryAssessment/Hempel_Wattyl_Modern_Slavery_Statement_16783_frzsdobovyrk.pdf"
+      },
+      {
+        "id": 772,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempel%20Avantguard%20860/ModernSlaveryActionPlan/Hempel_Wattyl_Modern_Slavery_Statement_16783_frzsdobovyrk.pdf"
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "company": {
+      "id": 116,
+      "name": "HEMPEL"
+    },
+    "image": "products/HEMPEL/Screenshot_2024-08-29_171652.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-08-29T07:47:17.719376+00:00",
+    "last_update": "2024-08-28T14:00:00+00:00",
+    "created_by": {
+      "id": 1223,
+      "email": "chrro@hempel.com"
+    },
+    "updated_by": {
+      "id": 1223,
+      "email": "chrro@hempel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Hempel (Wattyl)",
+    "product_name": "Hempel (Wattyl) Hempaprime Multi 500",
+    "product_code": "45950",
+    "product_description": "High Build Low VOC Epoxy primer intermediate coating for corrosion protection of steel",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      },
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "2 hours",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 973,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempaprime%20Multi%20500/certificates/Hempadur_Avantguard_860_APAS_2916-1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 974,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempaprime%20Multi%20500/certificates/BREGENEPD000402_-_Hempeprime_Multi_500_EPD.pdf",
+        "link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000403.pdf",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 36.59,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 2.55,
+    "upfront_carbon_emissions": 2.55,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "https://www.paintback.com.au",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "Manufactuing in country to reduce transport, & supply in bulk",
+    "minimisation_design_strategy": "Product can be mixed to smaller volumetric requirements to minimize waste",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "Withdrawal of business from identified business/countries",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "Yes",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 973,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempaprime%20Multi%20500/certificates/Hempadur_Avantguard_860_APAS_2916-1.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 974,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempaprime%20Multi%20500/certificates/BREGENEPD000402_-_Hempeprime_Multi_500_EPD.pdf",
+        "link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000403.pdf",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "Yes",
+    "substances_of_concern_description": "Bisphenol A",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 535,
+        "location_name": "West Footscray VIC, Australia",
+        "location_lat": -37.800671,
+        "location_lon": 144.871665,
+        "component": "Paint",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 775,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "material": "Coating",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 644,
+        "location_name": "West Footscray VIC, Australia",
+        "location_lat": -37.800671,
+        "location_lon": 144.871665,
+        "location_state": " Australia",
+        "location_city": "West Footscray VIC"
+      },
+      {
+        "id": 645,
+        "location_name": "Kilburn SA, Australia",
+        "location_lat": -34.858113,
+        "location_lon": 138.583101,
+        "location_state": " Australia",
+        "location_city": "Kilburn SA"
+      },
+      {
+        "id": 646,
+        "location_name": "Launceston TAS, Australia",
+        "location_lat": -41.433221,
+        "location_lon": 147.144088,
+        "location_state": " Australia",
+        "location_city": "Launceston TAS"
+      },
+      {
+        "id": 647,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 648,
+        "location_name": "Success WA, Australia",
+        "location_lat": -32.130633,
+        "location_lon": 115.855003,
+        "location_state": " Australia",
+        "location_city": "Success WA"
+      },
+      {
+        "id": 649,
+        "location_name": "Browns Plains QLD, Australia",
+        "location_lat": -27.662436,
+        "location_lon": 153.052773,
+        "location_state": " Australia",
+        "location_city": "Browns Plains QLD"
+      },
+      {
+        "id": 650,
+        "location_name": "Warners Bay NSW, Australia",
+        "location_lat": -32.974572,
+        "location_lon": 151.647683,
+        "location_state": " Australia",
+        "location_city": "Warners Bay NSW"
+      },
+      {
+        "id": 651,
+        "location_name": "Padstow NSW, Australia",
+        "location_lat": -33.95045,
+        "location_lon": 151.0309,
+        "location_state": " Australia",
+        "location_city": "Padstow NSW"
+      },
+      {
+        "id": 652,
+        "location_name": "Brooklyn VIC, Australia",
+        "location_lat": -37.817349,
+        "location_lon": 144.846536,
+        "location_state": " Australia",
+        "location_city": "Brooklyn VIC"
+      },
+      {
+        "id": 653,
+        "location_name": "Geelong VIC, Australia",
+        "location_lat": -38.149918,
+        "location_lon": 144.361719,
+        "location_state": " Australia",
+        "location_city": "Geelong VIC"
+      },
+      {
+        "id": 654,
+        "location_name": "Springvale VIC, Australia",
+        "location_lat": -37.948721,
+        "location_lon": 145.152943,
+        "location_state": " Australia",
+        "location_city": "Springvale VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://www.greenbooklive.com/filelibrary/EN_15804/EPD/BREGENEPD000403.pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "Hempaprime Multi 500 offers class leading low VOC values for primer/intermediate coatings for structural steel.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel pails are used and can be recycled across Australia at steel recycling facilities",
+    "files": [
+      {
+        "id": 773,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempaprime%20Multi%20500/VOC/Hempaprime_Multi_500_2024_TDS.pdf"
+      },
+      {
+        "id": 774,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempaprime%20Multi%20500/LCA/BREGENEPD000402_-_Hempeprime_Multi_500_EPD.pdf"
+      },
+      {
+        "id": 775,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempaprime%20Multi%20500/ModernSlaveryAssessment/Hempel_Wattyl_Modern_Slavery_Statement_16783_frzsdobovyrk.pdf"
+      },
+      {
+        "id": 776,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/HEMPEL/Hempaprime%20Multi%20500/ModernSlaveryActionPlan/Hempel_Wattyl_Modern_Slavery_Statement_16783_frzsdobovyrk.pdf"
+      }
+    ]
+  }
+]

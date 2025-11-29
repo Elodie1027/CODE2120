@@ -1,0 +1,1742 @@
+[
+  {
+    "id": 62,
+    "company": {
+      "id": 8,
+      "name": "Decor Systems"
+    },
+    "image": "products/Decor Systems/Architects_Declare_4.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-28T23:48:55.682796+00:00",
+    "last_update": "2024-07-02T14:00:00+00:00",
+    "created_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "updated_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Decor Systems",
+    "product_name": "Decorzen",
+    "product_code": null,
+    "product_description": "DecorZen acoustic panels are perforated MDF or Plywood with a laminate, paint or veneer finish.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "2400/3000x1200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "6-9 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 55,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor-Systems-FSC-Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 56,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor_Systems_-_GECA_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 218,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/DSS-0001_24_0322.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "The product can be uninstalled and re-used.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Our product can be uninstalled and used for similar purposes",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Products reach the end of their product life cycle for several reasons. Decor Systems recognises that end-of-life milestones are often key to maintaining environmental sustainability initiatives.\r\n\r\nWith that in mind, we have set out below our End of Product Lifecycle Policy which aims to dually maintain the ongoing sustainability of our products and simultaneously support school facilities in areas that are designated in lower socio-economic regions.\r\n\r\nIf our acoustic panel systems attain their end of life due to building demolition or refurbishment, Decor Systems commits to donating usable panels to educational facilities (schools, training centres, childcare, etc.) in regions identified as having a high proportion of students with learning challenges.\r\n\r\nSpecial consideration is given to centres that focus on literacy programs for Indigenous students.\r\n\r\nThe following conditions apply:\r\n\r\nLiaise with Decor Systems to determine suitability before panels are returned. Photos will be required both before and after dismantling to ascertain suitability.\r\nPanels to be dismantled and returned to Decor Systems at the client’s cost.\r\nPanels must be in reasonable condition in their original manufactured sizes.\r\nThe final decision will rest with Decor Systems as to the suitability of the panels for re-deployment to alternative projects.",
+    "water_reduction_techniques": "40%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Decor Systems offers free shop drawings to ensure accurate site measurement and minimal wastage. We also offer a site measurement service using the latest technology for added accuracy.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Decor Systems is committed to ethical business practices and the eradication of modern slavery in all its forms. We firmly believe in upholding human rights, promoting social responsibility, and maintaining transparency in our operations and supply chains. This Modern Slavery Statement outlines our approach to combating modern slavery and human trafficking, the steps we have taken to prevent its occurrence, and our plans for continuous improvement.\r\n\r\nINTRODUCTION\r\nThis is the second Modern Slavery Statement submitted by Decor Systems. Decor Systems has elected to publish this statement voluntarily, as informed by the Modern Slavery Act 2018.\r\n\r\nThe purpose of this statement is to outline the business’ systems for identifying the risk of modern slavery in our operations and supply chain and implementing processes to minimise any risk.\r\n\r\nDecor Systems recognise that slavery and human trafficking can occur in many forms including forced labour, child labour, human trafficking, forced marriage and deceptive methods of recruiting labour.\r\n\r\nDecor Systems are committed to operating responsibly and maintaining ethical standards across our operations, with a particular focus on risk areas within our supply chain.\r\n\r\nSTRUCTURE\r\nDecor Systems is a family owned Australian owned and operated vertically integrated manufacturer, supplier and retailer of architectural acoustic panel systems.\r\n\r\nOur headquarters, manufacturing and supply facility located in Glendenning, NSW. Decor Systems maintains offices in Brisbane and Melbourne.\r\n\r\nOPERATIONS AND SUPPLY CHAINS\r\nDecor Systems is committed to the superior design, production and supply of quality products and services. We have been in the business for over 50 years and offer an extensive range of innovative products, professional services, experience, and industry knowledge.\r\n\r\nWith a growing team of Sales and Project Consultants located throughout Australia, , a modern manufacturing and supply facility and an international sourcing team, Decor Systems has a valued reputation for reliably delivering state-of-the-art architectural solutions.\r\n\r\nDecor Systems’ supply chain includes both local and overseas suppliers with whom the business has established, long-standing supply agreements in place.\r\n\r\nOur manufacturing facility produces custom and made-to-order products, sourcing raw materials and componentry from tier one suppliers mostly located in Australia.\r\n\r\nOur importing division sources and assembles materials that requires little or no customisation, with raw materials sourced largely from suppliers located in Germany, USA and Latvia, as well as some local Australian suppliers.\r\n\r\nADDRESSING THE RISK OF MODERN SLAVERY PRACTICES\r\nThe Decor Systems executive team are committed to ethical procurement and oppose slavery in all its forms.\r\n\r\nPolicies and risk management processes have been implemented to identify and address the risk of modern slavery in our supply chain. This includes routine supplier evaluation and supply chain mapping that encompasses a range of environmental and ethical risks, including modern slavery.\r\n\r\nWithin this supply chain analysis, BFX has identified two areas of risk. First, a generally low risk of modern slavery in the construction supplies sector. Second, some second-tier suppliers where materials are imported from overseas have a medium geographic and entity risk.\r\n\r\nDUE DILIGENCE AND REMEDIATION PROCESSES\r\nTo date, Decor Systems has had no reported incidents of modern slavery or breaches by its overseas suppliers.\r\n\r\nNevertheless, Decor Systems recognises the inherent risk of slavery and human trafficking within the supply chain and has established internal processes to guide supplier selection and tendering, including:\r\n\r\nConsideration of certain factors before a supplier is awarded a supply contract. For example, the potential supplier’s reputation, ability to supply, integrity, financial strength and compliance with legislation and best practice.\r\nEnsuring that Decor Systems do not purchase materials from suppliers that breach the UN Guiding Principles. If any existing suppliers are found to have breached the UN Guiding Principles, Decor Systems will take immediate steps to reassess those supply arrangements.\r\nStaff training within Decor Systems direct supply chain,in which supplier evaluation is conducted prior to engagement of suppliers.\r\nExisting suppliers are audited in line with Decor Systems GECA, FSC and Illegal Logging Audit requirements.\r\nFUTURE COMMITMENTS\r\nOver the next year, Decor Systems focus areas will be:\r\n\r\nFurther refining our procurement processes and training our procurement team with best practice initiatives.\r\nReviewing identified risk areas in the supply chain and reporting to the Decor Systems board.\r\nDavid Faulkes\r\nChief Executive Officer",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 55,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor-Systems-FSC-Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 56,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor_Systems_-_GECA_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 218,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/DSS-0001_24_0322.jpg",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 44,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "MDF",
+        "component_percentage": 70.0
+      },
+      {
+        "id": 299,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Veneer",
+        "component_percentage": 30.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 61,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "MDF",
+        "product_percentage": 70.0
+      },
+      {
+        "id": 400,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Veneer",
+        "product_percentage": 30.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 56,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Decor Systems is Indigenous-owned with Supply Nation certification. https://decorsystems.com.au/products/decorzen/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 36,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://cdn.sanity.io/files/lbvt8rt8/production/a74ff6972e4690f5e0b296fdff855fc01bd47258.pdf",
+        "rating": null
+      },
+      {
+        "id": 37,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://cdn.sanity.io/files/lbvt8rt8/production/e901a5a5cb188545eb6756593f628969b16b801d.pdf",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Shrinkwrap, timber pallets",
+    "files": [
+      {
+        "id": 37,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/VOC/VOC_Emission_TestCert_Alpin_MDF_Industries_-_MDF_pro_vNG77fP.png"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "company": {
+      "id": 8,
+      "name": "Decor Systems"
+    },
+    "image": "products/Decor Systems/1.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-29T03:12:51.846350+00:00",
+    "last_update": "2024-07-02T14:00:00+00:00",
+    "created_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "updated_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Decor Systems",
+    "product_name": "Contours Of Country",
+    "product_code": null,
+    "product_description": "Acoustic panels designed by First Nations artists.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "2400/3000x1200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "6-9 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 59,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor-Systems-FSC-Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 60,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor_Systems_-_GECA_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 214,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Contours%20Of%20Country/certificates/DSS-0001_24_0322.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "Our product is made from MDF and timber or laminate veneer, which can be recycled for other uses.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Our product can be uninstalled and used for similar purposes",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Products reach the end of their product life cycle for several reasons. Decor Systems recognises that end-of-life milestones are often key to maintaining environmental sustainability initiatives.\r\n\r\nWith that in mind, we have set out below our End of Product Lifecycle Policy which aims to dually maintain the ongoing sustainability of our products and simultaneously support school facilities in areas that are designated in lower socio-economic regions.\r\n\r\nIf our acoustic panel systems attain their end of life due to building demolition or refurbishment, Decor Systems commits to donating usable panels to educational facilities (schools, training centres, childcare, etc.) in regions identified as having a high proportion of students with learning challenges.\r\n\r\nSpecial consideration is given to centres that focus on literacy programs for Indigenous students.\r\n\r\nThe following conditions apply:\r\n\r\nLiaise with Decor Systems to determine suitability before panels are returned. Photos will be required both before and after dismantling to ascertain suitability.\r\nPanels to be dismantled and returned to Decor Systems at the client’s cost.\r\nPanels must be in reasonable condition in their original manufactured sizes.\r\nThe final decision will rest with Decor Systems as to the suitability of the panels for re-deployment to alternative projects.",
+    "water_reduction_techniques": "40%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Decor Systems offers free shop drawings to ensure accurate site measurement and minimal wastage. We also offer a site measurement service using the latest technology for added accuracy.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Decor Systems is committed to ethical business practices and the eradication of modern slavery in all its forms. We firmly believe in upholding human rights, promoting social responsibility, and maintaining transparency in our operations and supply chains. This Modern Slavery Statement outlines our approach to combating modern slavery and human trafficking, the steps we have taken to prevent its occurrence, and our plans for continuous improvement.\r\n\r\nINTRODUCTION\r\nThis is the second Modern Slavery Statement submitted by Decor Systems. Decor Systems has elected to publish this statement voluntarily, as informed by the Modern Slavery Act 2018.\r\n\r\nThe purpose of this statement is to outline the business’ systems for identifying the risk of modern slavery in our operations and supply chain and implementing processes to minimise any risk.\r\n\r\nDecor Systems recognise that slavery and human trafficking can occur in many forms including forced labour, child labour, human trafficking, forced marriage and deceptive methods of recruiting labour.\r\n\r\nDecor Systems are committed to operating responsibly and maintaining ethical standards across our operations, with a particular focus on risk areas within our supply chain.\r\n\r\nSTRUCTURE\r\nDecor Systems is a family owned Australian owned and operated vertically integrated manufacturer, supplier and retailer of architectural acoustic panel systems.\r\n\r\nOur headquarters, manufacturing and supply facility located in Glendenning, NSW. Decor Systems maintains offices in Brisbane and Melbourne.\r\n\r\nOPERATIONS AND SUPPLY CHAINS\r\nDecor Systems is committed to the superior design, production and supply of quality products and services. We have been in the business for over 50 years and offer an extensive range of innovative products, professional services, experience, and industry knowledge.\r\n\r\nWith a growing team of Sales and Project Consultants located throughout Australia, , a modern manufacturing and supply facility and an international sourcing team, Decor Systems has a valued reputation for reliably delivering state-of-the-art architectural solutions.\r\n\r\nDecor Systems’ supply chain includes both local and overseas suppliers with whom the business has established, long-standing supply agreements in place.\r\n\r\nOur manufacturing facility produces custom and made-to-order products, sourcing raw materials and componentry from tier one suppliers mostly located in Australia.\r\n\r\nOur importing division sources and assembles materials that requires little or no customisation, with raw materials sourced largely from suppliers located in Germany, USA and Latvia, as well as some local Australian suppliers.\r\n\r\nADDRESSING THE RISK OF MODERN SLAVERY PRACTICES\r\nThe Decor Systems executive team are committed to ethical procurement and oppose slavery in all its forms.\r\n\r\nPolicies and risk management processes have been implemented to identify and address the risk of modern slavery in our supply chain. This includes routine supplier evaluation and supply chain mapping that encompasses a range of environmental and ethical risks, including modern slavery.\r\n\r\nWithin this supply chain analysis, BFX has identified two areas of risk. First, a generally low risk of modern slavery in the construction supplies sector. Second, some second-tier suppliers where materials are imported from overseas have a medium geographic and entity risk.\r\n\r\nDUE DILIGENCE AND REMEDIATION PROCESSES\r\nTo date, Decor Systems has had no reported incidents of modern slavery or breaches by its overseas suppliers.\r\n\r\nNevertheless, Decor Systems recognises the inherent risk of slavery and human trafficking within the supply chain and has established internal processes to guide supplier selection and tendering, including:\r\n\r\nConsideration of certain factors before a supplier is awarded a supply contract. For example, the potential supplier’s reputation, ability to supply, integrity, financial strength and compliance with legislation and best practice.\r\nEnsuring that Decor Systems do not purchase materials from suppliers that breach the UN Guiding Principles. If any existing suppliers are found to have breached the UN Guiding Principles, Decor Systems will take immediate steps to reassess those supply arrangements.\r\nStaff training within Decor Systems direct supply chain,in which supplier evaluation is conducted prior to engagement of suppliers.\r\nExisting suppliers are audited in line with Decor Systems GECA, FSC and Illegal Logging Audit requirements.\r\nFUTURE COMMITMENTS\r\nOver the next year, Decor Systems focus areas will be:\r\n\r\nFurther refining our procurement processes and training our procurement team with best practice initiatives.\r\nReviewing identified risk areas in the supply chain and reporting to the Decor Systems board.\r\nDavid Faulkes\r\nChief Executive Officer",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 59,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor-Systems-FSC-Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 60,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor_Systems_-_GECA_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 214,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Contours%20Of%20Country/certificates/DSS-0001_24_0322.jpg",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 30,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 52,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "MDF",
+        "component_percentage": 70.0
+      },
+      {
+        "id": 295,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Veneer",
+        "component_percentage": 30.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 69,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "MDF",
+        "product_percentage": 70.0
+      },
+      {
+        "id": 392,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Veneer",
+        "product_percentage": 30.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 58,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Decor Systems is Indigenous-owned and Certified by Supply Nation. Contours of Country returns 15% of the revenue of every sale to the artist. https://decorsystems.com.au/products/contours-of-country/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 40,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://cdn.sanity.io/files/lbvt8rt8/production/a74ff6972e4690f5e0b296fdff855fc01bd47258.pdf",
+        "rating": null
+      },
+      {
+        "id": 41,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://cdn.sanity.io/files/lbvt8rt8/production/e901a5a5cb188545eb6756593f628969b16b801d.pdf",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Shrinkwrap, timber pallets",
+    "files": [
+      {
+        "id": 39,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/VOC/VOC_Emission_TestCert_Alpin_MDF_Industries_-_MDF_pro_vNG77fP.png"
+      },
+      {
+        "id": 388,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Contours%20Of%20Country/ModernSlaveryAssessment/Decor_Systems_Modern_Slavery_Statement.pdf"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "company": {
+      "id": 8,
+      "name": "Decor Systems"
+    },
+    "image": "products/Decor Systems/2.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-29T03:16:47.199701+00:00",
+    "last_update": "2024-07-02T14:00:00+00:00",
+    "created_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "updated_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Decor Systems",
+    "product_name": "Decoreagle",
+    "product_code": null,
+    "product_description": "Linear acoustic panels that achieve a slat look at a fraction of the cost.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "2400/3000x1200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "6-9 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 61,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor-Systems-FSC-Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 62,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor_Systems_-_GECA_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 215,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decoreagle/certificates/DSS-0001_24_0322.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "The product can be uninstalled and re-used.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Our product can be uninstalled and used for similar purposes",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Products reach the end of their product life cycle for several reasons. Decor Systems recognises that end-of-life milestones are often key to maintaining environmental sustainability initiatives.\r\n\r\nWith that in mind, we have set out below our End of Product Lifecycle Policy which aims to dually maintain the ongoing sustainability of our products and simultaneously support school facilities in areas that are designated in lower socio-economic regions.\r\n\r\nIf our acoustic panel systems attain their end of life due to building demolition or refurbishment, Decor Systems commits to donating usable panels to educational facilities (schools, training centres, childcare, etc.) in regions identified as having a high proportion of students with learning challenges.\r\n\r\nSpecial consideration is given to centres that focus on literacy programs for Indigenous students.\r\n\r\nThe following conditions apply:\r\n\r\nLiaise with Decor Systems to determine suitability before panels are returned. Photos will be required both before and after dismantling to ascertain suitability.\r\nPanels to be dismantled and returned to Decor Systems at the client’s cost.\r\nPanels must be in reasonable condition in their original manufactured sizes.\r\nThe final decision will rest with Decor Systems as to the suitability of the panels for re-deployment to alternative projects.",
+    "water_reduction_techniques": "40%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Decor Systems offers free shop drawings to ensure accurate site measurement and minimal wastage. We also offer a site measurement service using the latest technology for added accuracy.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Decor Systems is committed to ethical business practices and the eradication of modern slavery in all its forms. We firmly believe in upholding human rights, promoting social responsibility, and maintaining transparency in our operations and supply chains. This Modern Slavery Statement outlines our approach to combating modern slavery and human trafficking, the steps we have taken to prevent its occurrence, and our plans for continuous improvement.\r\n\r\nINTRODUCTION\r\nThis is the second Modern Slavery Statement submitted by Decor Systems. Decor Systems has elected to publish this statement voluntarily, as informed by the Modern Slavery Act 2018.\r\n\r\nThe purpose of this statement is to outline the business’ systems for identifying the risk of modern slavery in our operations and supply chain and implementing processes to minimise any risk.\r\n\r\nDecor Systems recognise that slavery and human trafficking can occur in many forms including forced labour, child labour, human trafficking, forced marriage and deceptive methods of recruiting labour.\r\n\r\nDecor Systems are committed to operating responsibly and maintaining ethical standards across our operations, with a particular focus on risk areas within our supply chain.\r\n\r\nSTRUCTURE\r\nDecor Systems is a family owned Australian owned and operated vertically integrated manufacturer, supplier and retailer of architectural acoustic panel systems.\r\n\r\nOur headquarters, manufacturing and supply facility located in Glendenning, NSW. Decor Systems maintains offices in Brisbane and Melbourne.\r\n\r\nOPERATIONS AND SUPPLY CHAINS\r\nDecor Systems is committed to the superior design, production and supply of quality products and services. We have been in the business for over 50 years and offer an extensive range of innovative products, professional services, experience, and industry knowledge.\r\n\r\nWith a growing team of Sales and Project Consultants located throughout Australia, , a modern manufacturing and supply facility and an international sourcing team, Decor Systems has a valued reputation for reliably delivering state-of-the-art architectural solutions.\r\n\r\nDecor Systems’ supply chain includes both local and overseas suppliers with whom the business has established, long-standing supply agreements in place.\r\n\r\nOur manufacturing facility produces custom and made-to-order products, sourcing raw materials and componentry from tier one suppliers mostly located in Australia.\r\n\r\nOur importing division sources and assembles materials that requires little or no customisation, with raw materials sourced largely from suppliers located in Germany, USA and Latvia, as well as some local Australian suppliers.\r\n\r\nADDRESSING THE RISK OF MODERN SLAVERY PRACTICES\r\nThe Decor Systems executive team are committed to ethical procurement and oppose slavery in all its forms.\r\n\r\nPolicies and risk management processes have been implemented to identify and address the risk of modern slavery in our supply chain. This includes routine supplier evaluation and supply chain mapping that encompasses a range of environmental and ethical risks, including modern slavery.\r\n\r\nWithin this supply chain analysis, BFX has identified two areas of risk. First, a generally low risk of modern slavery in the construction supplies sector. Second, some second-tier suppliers where materials are imported from overseas have a medium geographic and entity risk.\r\n\r\nDUE DILIGENCE AND REMEDIATION PROCESSES\r\nTo date, Decor Systems has had no reported incidents of modern slavery or breaches by its overseas suppliers.\r\n\r\nNevertheless, Decor Systems recognises the inherent risk of slavery and human trafficking within the supply chain and has established internal processes to guide supplier selection and tendering, including:\r\n\r\nConsideration of certain factors before a supplier is awarded a supply contract. For example, the potential supplier’s reputation, ability to supply, integrity, financial strength and compliance with legislation and best practice.\r\nEnsuring that Decor Systems do not purchase materials from suppliers that breach the UN Guiding Principles. If any existing suppliers are found to have breached the UN Guiding Principles, Decor Systems will take immediate steps to reassess those supply arrangements.\r\nStaff training within Decor Systems direct supply chain,in which supplier evaluation is conducted prior to engagement of suppliers.\r\nExisting suppliers are audited in line with Decor Systems GECA, FSC and Illegal Logging Audit requirements.\r\nFUTURE COMMITMENTS\r\nOver the next year, Decor Systems focus areas will be:\r\n\r\nFurther refining our procurement processes and training our procurement team with best practice initiatives.\r\nReviewing identified risk areas in the supply chain and reporting to the Decor Systems board.\r\nDavid Faulkes\r\nChief Executive Officer",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 61,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor-Systems-FSC-Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 62,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor_Systems_-_GECA_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 215,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decoreagle/certificates/DSS-0001_24_0322.jpg",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 56,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "MDF",
+        "component_percentage": 70.0
+      },
+      {
+        "id": 296,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Veneer",
+        "component_percentage": 30.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 73,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "MDF",
+        "product_percentage": 70.0
+      },
+      {
+        "id": 394,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Veneer",
+        "product_percentage": 30.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 59,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Decor Systems is Indigenous-owned with Supply Nation certification. https://decorsystems.com.au/products/decoreagle/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 44,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://cdn.sanity.io/files/lbvt8rt8/production/df9ce1daec405c0008e25043d343564a18ba2660.pdf",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Shrinkwrap, timber pallets",
+    "files": [
+      {
+        "id": 40,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/VOC/VOC_Emission_TestCert_Alpin_MDF_Industries_-_MDF_pro_vNG77fP.png"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "company": {
+      "id": 8,
+      "name": "Decor Systems"
+    },
+    "image": "products/Decor Systems/Architects_Declare_3.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-29T03:51:24.462663+00:00",
+    "last_update": "2024-07-02T14:00:00+00:00",
+    "created_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "updated_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Decor Systems",
+    "product_name": "Decorlini",
+    "product_code": null,
+    "product_description": "Acoustic panels with a linear profile and very high NRC rating.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "2400/3000x128mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "6-8 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 65,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor-Systems-FSC-Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 66,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor_Systems_-_GECA_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 216,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorlini/certificates/DSS-0001_24_0322.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "The product can be uninstalled and re-used.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Our product can be uninstalled and used for similar purposes",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Products reach the end of their product life cycle for several reasons. Decor Systems recognises that end-of-life milestones are often key to maintaining environmental sustainability initiatives.\r\n\r\nWith that in mind, we have set out below our End of Product Lifecycle Policy which aims to dually maintain the ongoing sustainability of our products and simultaneously support school facilities in areas that are designated in lower socio-economic regions.\r\n\r\nIf our acoustic panel systems attain their end of life due to building demolition or refurbishment, Decor Systems commits to donating usable panels to educational facilities (schools, training centres, childcare, etc.) in regions identified as having a high proportion of students with learning challenges.\r\n\r\nSpecial consideration is given to centres that focus on literacy programs for Indigenous students.\r\n\r\nThe following conditions apply:\r\n\r\nLiaise with Decor Systems to determine suitability before panels are returned. Photos will be required both before and after dismantling to ascertain suitability.\r\nPanels to be dismantled and returned to Decor Systems at the client’s cost.\r\nPanels must be in reasonable condition in their original manufactured sizes.\r\nThe final decision will rest with Decor Systems as to the suitability of the panels for re-deployment to alternative projects.",
+    "water_reduction_techniques": "40%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Decor Systems offers free shop drawings to ensure accurate site measurement and minimal wastage. We also offer a site measurement service using the latest technology for added accuracy.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Decor Systems is committed to ethical business practices and the eradication of modern slavery in all its forms. We firmly believe in upholding human rights, promoting social responsibility, and maintaining transparency in our operations and supply chains. This Modern Slavery Statement outlines our approach to combating modern slavery and human trafficking, the steps we have taken to prevent its occurrence, and our plans for continuous improvement.\r\n\r\nINTRODUCTION\r\nThis is the second Modern Slavery Statement submitted by Decor Systems. Decor Systems has elected to publish this statement voluntarily, as informed by the Modern Slavery Act 2018.\r\n\r\nThe purpose of this statement is to outline the business’ systems for identifying the risk of modern slavery in our operations and supply chain and implementing processes to minimise any risk.\r\n\r\nDecor Systems recognise that slavery and human trafficking can occur in many forms including forced labour, child labour, human trafficking, forced marriage and deceptive methods of recruiting labour.\r\n\r\nDecor Systems are committed to operating responsibly and maintaining ethical standards across our operations, with a particular focus on risk areas within our supply chain.\r\n\r\nSTRUCTURE\r\nDecor Systems is a family owned Australian owned and operated vertically integrated manufacturer, supplier and retailer of architectural acoustic panel systems.\r\n\r\nOur headquarters, manufacturing and supply facility located in Glendenning, NSW. Decor Systems maintains offices in Brisbane and Melbourne.\r\n\r\nOPERATIONS AND SUPPLY CHAINS\r\nDecor Systems is committed to the superior design, production and supply of quality products and services. We have been in the business for over 50 years and offer an extensive range of innovative products, professional services, experience, and industry knowledge.\r\n\r\nWith a growing team of Sales and Project Consultants located throughout Australia, , a modern manufacturing and supply facility and an international sourcing team, Decor Systems has a valued reputation for reliably delivering state-of-the-art architectural solutions.\r\n\r\nDecor Systems’ supply chain includes both local and overseas suppliers with whom the business has established, long-standing supply agreements in place.\r\n\r\nOur manufacturing facility produces custom and made-to-order products, sourcing raw materials and componentry from tier one suppliers mostly located in Australia.\r\n\r\nOur importing division sources and assembles materials that requires little or no customisation, with raw materials sourced largely from suppliers located in Germany, USA and Latvia, as well as some local Australian suppliers.\r\n\r\nADDRESSING THE RISK OF MODERN SLAVERY PRACTICES\r\nThe Decor Systems executive team are committed to ethical procurement and oppose slavery in all its forms.\r\n\r\nPolicies and risk management processes have been implemented to identify and address the risk of modern slavery in our supply chain. This includes routine supplier evaluation and supply chain mapping that encompasses a range of environmental and ethical risks, including modern slavery.\r\n\r\nWithin this supply chain analysis, BFX has identified two areas of risk. First, a generally low risk of modern slavery in the construction supplies sector. Second, some second-tier suppliers where materials are imported from overseas have a medium geographic and entity risk.\r\n\r\nDUE DILIGENCE AND REMEDIATION PROCESSES\r\nTo date, Decor Systems has had no reported incidents of modern slavery or breaches by its overseas suppliers.\r\n\r\nNevertheless, Decor Systems recognises the inherent risk of slavery and human trafficking within the supply chain and has established internal processes to guide supplier selection and tendering, including:\r\n\r\nConsideration of certain factors before a supplier is awarded a supply contract. For example, the potential supplier’s reputation, ability to supply, integrity, financial strength and compliance with legislation and best practice.\r\nEnsuring that Decor Systems do not purchase materials from suppliers that breach the UN Guiding Principles. If any existing suppliers are found to have breached the UN Guiding Principles, Decor Systems will take immediate steps to reassess those supply arrangements.\r\nStaff training within Decor Systems direct supply chain,in which supplier evaluation is conducted prior to engagement of suppliers.\r\nExisting suppliers are audited in line with Decor Systems GECA, FSC and Illegal Logging Audit requirements.\r\nFUTURE COMMITMENTS\r\nOver the next year, Decor Systems focus areas will be:\r\n\r\nFurther refining our procurement processes and training our procurement team with best practice initiatives.\r\nReviewing identified risk areas in the supply chain and reporting to the Decor Systems board.\r\nDavid Faulkes\r\nChief Executive Officer",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 65,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor-Systems-FSC-Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 66,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor_Systems_-_GECA_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 216,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorlini/certificates/DSS-0001_24_0322.jpg",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 64,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "MDF",
+        "component_percentage": 70.0
+      },
+      {
+        "id": 297,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Veneer",
+        "component_percentage": 30.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 86,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "MDF",
+        "product_percentage": 70.0
+      },
+      {
+        "id": 395,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Veneer",
+        "product_percentage": 30.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 61,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Decor Systems is Indigenous-owned with Supply Nation certification. https://decorsystems.com.au/products/decorlini/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 48,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://cdn.sanity.io/files/lbvt8rt8/production/2b7311c684bd9249f0f038a8d9bd9eadc9a17d13.jpg",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Shrinkwrap, timber pallets",
+    "files": [
+      {
+        "id": 42,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/VOC/VOC_Emission_TestCert_Alpin_MDF_Industries_-_MDF_pro_vNG77fP.png"
+      },
+      {
+        "id": 389,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorlini/ModernSlaveryAssessment/Decor_Systems_Modern_Slavery_Statement.pdf"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "company": {
+      "id": 8,
+      "name": "Decor Systems"
+    },
+    "image": "products/Decor Systems/Architects_Declare_6.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-29T04:03:31.395183+00:00",
+    "last_update": "2024-07-02T14:00:00+00:00",
+    "created_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "updated_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Decor Systems",
+    "product_name": "Decorslat",
+    "product_code": null,
+    "product_description": "Slatted panels available in solid timber or MDF with veneer or laminate finish and acoustic fleece.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "2400x600mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "6-9 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 67,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor-Systems-FSC-Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 68,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor_Systems_-_GECA_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 217,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorslat/certificates/DSS-0001_24_0322.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "The product can be uninstalled and re-used.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Our product can be uninstalled and used for similar purposes",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Products reach the end of their product life cycle for several reasons. Decor Systems recognises that end-of-life milestones are often key to maintaining environmental sustainability initiatives.\r\n\r\nWith that in mind, we have set out below our End of Product Lifecycle Policy which aims to dually maintain the ongoing sustainability of our products and simultaneously support school facilities in areas that are designated in lower socio-economic regions.\r\n\r\nIf our acoustic panel systems attain their end of life due to building demolition or refurbishment, Decor Systems commits to donating usable panels to educational facilities (schools, training centres, childcare, etc.) in regions identified as having a high proportion of students with learning challenges.\r\n\r\nSpecial consideration is given to centres that focus on literacy programs for Indigenous students.\r\n\r\nThe following conditions apply:\r\n\r\nLiaise with Decor Systems to determine suitability before panels are returned. Photos will be required both before and after dismantling to ascertain suitability.\r\nPanels to be dismantled and returned to Decor Systems at the client’s cost.\r\nPanels must be in reasonable condition in their original manufactured sizes.\r\nThe final decision will rest with Decor Systems as to the suitability of the panels for re-deployment to alternative projects.",
+    "water_reduction_techniques": "40%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Decor Systems offers free shop drawings to ensure accurate site measurement and minimal wastage. We also offer a site measurement service using the latest technology for added accuracy.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Decor Systems is committed to ethical business practices and the eradication of modern slavery in all its forms. We firmly believe in upholding human rights, promoting social responsibility, and maintaining transparency in our operations and supply chains. This Modern Slavery Statement outlines our approach to combating modern slavery and human trafficking, the steps we have taken to prevent its occurrence, and our plans for continuous improvement.\r\n\r\nINTRODUCTION\r\nThis is the second Modern Slavery Statement submitted by Decor Systems. Decor Systems has elected to publish this statement voluntarily, as informed by the Modern Slavery Act 2018.\r\n\r\nThe purpose of this statement is to outline the business’ systems for identifying the risk of modern slavery in our operations and supply chain and implementing processes to minimise any risk.\r\n\r\nDecor Systems recognise that slavery and human trafficking can occur in many forms including forced labour, child labour, human trafficking, forced marriage and deceptive methods of recruiting labour.\r\n\r\nDecor Systems are committed to operating responsibly and maintaining ethical standards across our operations, with a particular focus on risk areas within our supply chain.\r\n\r\nSTRUCTURE\r\nDecor Systems is a family owned Australian owned and operated vertically integrated manufacturer, supplier and retailer of architectural acoustic panel systems.\r\n\r\nOur headquarters, manufacturing and supply facility located in Glendenning, NSW. Decor Systems maintains offices in Brisbane and Melbourne.\r\n\r\nOPERATIONS AND SUPPLY CHAINS\r\nDecor Systems is committed to the superior design, production and supply of quality products and services. We have been in the business for over 50 years and offer an extensive range of innovative products, professional services, experience, and industry knowledge.\r\n\r\nWith a growing team of Sales and Project Consultants located throughout Australia, , a modern manufacturing and supply facility and an international sourcing team, Decor Systems has a valued reputation for reliably delivering state-of-the-art architectural solutions.\r\n\r\nDecor Systems’ supply chain includes both local and overseas suppliers with whom the business has established, long-standing supply agreements in place.\r\n\r\nOur manufacturing facility produces custom and made-to-order products, sourcing raw materials and componentry from tier one suppliers mostly located in Australia.\r\n\r\nOur importing division sources and assembles materials that requires little or no customisation, with raw materials sourced largely from suppliers located in Germany, USA and Latvia, as well as some local Australian suppliers.\r\n\r\nADDRESSING THE RISK OF MODERN SLAVERY PRACTICES\r\nThe Decor Systems executive team are committed to ethical procurement and oppose slavery in all its forms.\r\n\r\nPolicies and risk management processes have been implemented to identify and address the risk of modern slavery in our supply chain. This includes routine supplier evaluation and supply chain mapping that encompasses a range of environmental and ethical risks, including modern slavery.\r\n\r\nWithin this supply chain analysis, BFX has identified two areas of risk. First, a generally low risk of modern slavery in the construction supplies sector. Second, some second-tier suppliers where materials are imported from overseas have a medium geographic and entity risk.\r\n\r\nDUE DILIGENCE AND REMEDIATION PROCESSES\r\nTo date, Decor Systems has had no reported incidents of modern slavery or breaches by its overseas suppliers.\r\n\r\nNevertheless, Decor Systems recognises the inherent risk of slavery and human trafficking within the supply chain and has established internal processes to guide supplier selection and tendering, including:\r\n\r\nConsideration of certain factors before a supplier is awarded a supply contract. For example, the potential supplier’s reputation, ability to supply, integrity, financial strength and compliance with legislation and best practice.\r\nEnsuring that Decor Systems do not purchase materials from suppliers that breach the UN Guiding Principles. If any existing suppliers are found to have breached the UN Guiding Principles, Decor Systems will take immediate steps to reassess those supply arrangements.\r\nStaff training within Decor Systems direct supply chain,in which supplier evaluation is conducted prior to engagement of suppliers.\r\nExisting suppliers are audited in line with Decor Systems GECA, FSC and Illegal Logging Audit requirements.\r\nFUTURE COMMITMENTS\r\nOver the next year, Decor Systems focus areas will be:\r\n\r\nFurther refining our procurement processes and training our procurement team with best practice initiatives.\r\nReviewing identified risk areas in the supply chain and reporting to the Decor Systems board.\r\nDavid Faulkes\r\nChief Executive Officer",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 67,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor-Systems-FSC-Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 68,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/certificates/Decor_Systems_-_GECA_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 217,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorslat/certificates/DSS-0001_24_0322.jpg",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 70,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "MDF",
+        "component_percentage": 70.0
+      },
+      {
+        "id": 298,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "component": "Veneer",
+        "component_percentage": 30.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 90,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "MDF",
+        "product_percentage": 70.0
+      },
+      {
+        "id": 396,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "material": "Veneer",
+        "product_percentage": 30.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 62,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Decor Systems is Indigenous-owned with Supply Nation certification. https://decorsystems.com.au/products/decorslat/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 51,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": null,
+        "link": "https://cdn.sanity.io/files/lbvt8rt8/production/01dc12bcd8424508e5c535ba4832155baf7c8e84.pdf",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Shrinkwrap, timber pallets",
+    "files": [
+      {
+        "id": 43,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Decorzen/VOC/VOC_Emission_TestCert_Alpin_MDF_Industries_-_MDF_pro_vNG77fP.png"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "company": {
+      "id": 8,
+      "name": "Decor Systems"
+    },
+    "image": "products/Decor Systems/Architects_Declare_5_TE7EdDt.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-29T04:45:45.137937+00:00",
+    "last_update": "2025-03-06T13:00:00+00:00",
+    "created_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "updated_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Decor Systems",
+    "product_name": "Cewood",
+    "product_code": null,
+    "product_description": "Wood wool acoustic panels",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "1200x600mm, 2400x600mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Typically in stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 71,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Cewood/certificates/epd-Acoustic_Panels.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 72,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Cewood/certificates/Decor_Systems_-_GECA_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 73,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Cewood/certificates/COC_CRT_SIACEWOOD_092821.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 436,
+        "certification": "Cradle to Cradle Certified",
+        "file": null,
+        "link": "https://www.cewood.com/references-2/cewood-achieve-c2c-bronze-certification",
+        "rating": "Bronze",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 45.0,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 3.41,
+    "upfront_carbon_emissions": 3.41,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Any excess product can be recycled as per the recycling guide.",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The product can be uninstalled and reused in the same or similar capacity.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Products reach the end of their product life cycle for a number of reasons. Decor Systems recognises that end-of-life milestones are often key to maintaining environmental sustainability initiatives.\r\n\r\nWith that in mind, we have set out below our End of Product Lifecycle Policy which aims to dually maintain the ongoing sustainability of our products and simultaneously support school facilities in areas that are designated in lower socio-economic regions.\r\n\r\nIn the event that our acoustic panel systems attain their end of life due to building demolition or refurbishment, Decor Systems commits to donating usable panels to educational facilities (schools, training centres, childcare, etc.) in regions that are identified as having a high proportion of students with learning challenges.\r\n\r\nSpecial consideration is given to centres that focus on literacy programs for Indigenous students.\r\n\r\nThe following conditions apply:\r\n\r\nLiaise with Decor Systems to determine suitability before panels are returned. Photos will be required both before and after dismantling to ascertain suitability.\r\nPanels to be dismantled and returned to Decor Systems at the client’s cost.\r\nPanels must be in reasonable condition in their original manufactured sizes.\r\nThe final decision will rest with Decor Systems as to the suitability of the panels for re-deployment to alternative projects.",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "NA",
+    "minimisation_design_strategy": "Decor Systems offers free shop drawings to ensure accurate site measurement and minimal wastage. We also offer a site measurement service using the latest technology for added accuracy.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Decor Systems is committed to ethical business practices and the eradication of modern slavery in all its forms. We firmly believe in upholding human rights, promoting social responsibility, and maintaining transparency in our operations and supply chains. This Modern Slavery Statement outlines our approach to combating modern slavery and human trafficking, the steps we have taken to prevent its occurrence, and our plans for continuous improvement.\r\n\r\nINTRODUCTION\r\nThis is the second Modern Slavery Statement submitted by Decor Systems. Decor Systems has elected to publish this statement voluntarily, as informed by the Modern Slavery Act 2018.\r\n\r\nThe purpose of this statement is to outline the business’ systems for identifying the risk of modern slavery in our operations and supply chain and implementing processes to minimise any risk.\r\n\r\nDecor Systems recognise that slavery and human trafficking can occur in many forms including forced labour, child labour, human trafficking, forced marriage and deceptive methods of recruiting labour.\r\n\r\nDecor Systems are committed to operating responsibly and maintaining ethical standards across our operations, with a particular focus on risk areas within our supply chain.\r\n\r\nSTRUCTURE\r\nDecor Systems is a family owned Australian owned and operated vertically integrated manufacturer, supplier and retailer of architectural acoustic panel systems.\r\n\r\nOur headquarters, manufacturing and supply facility located in Glendenning, NSW. Decor Systems maintains offices in Brisbane and Melbourne.\r\n\r\nOPERATIONS AND SUPPLY CHAINS\r\nDecor Systems is committed to the superior design, production and supply of quality products and services. We have been in the business for over 50 years and offer an extensive range of innovative products, professional services, experience, and industry knowledge.\r\n\r\nWith a growing team of Sales and Project Consultants located throughout Australia, , a modern manufacturing and supply facility and an international sourcing team, Decor Systems has a valued reputation for reliably delivering state-of-the-art architectural solutions.\r\n\r\nDecor Systems’ supply chain includes both local and overseas suppliers with whom the business has established, long-standing supply agreements in place.\r\n\r\nOur manufacturing facility produces custom and made-to-order products, sourcing raw materials and componentry from tier one suppliers mostly located in Australia.\r\n\r\nOur importing division sources and assembles materials that requires little or no customisation, with raw materials sourced largely from suppliers located in Germany, USA and Latvia, as well as some local Australian suppliers.\r\n\r\nADDRESSING THE RISK OF MODERN SLAVERY PRACTICES\r\nThe Decor Systems executive team are committed to ethical procurement and oppose slavery in all its forms.\r\n\r\nPolicies and risk management processes have been implemented to identify and address the risk of modern slavery in our supply chain. This includes routine supplier evaluation and supply chain mapping that encompasses a range of environmental and ethical risks, including modern slavery.\r\n\r\nWithin this supply chain analysis, BFX has identified two areas of risk. First, a generally low risk of modern slavery in the construction supplies sector. Second, some second-tier suppliers where materials are imported from overseas have a medium geographic and entity risk.\r\n\r\nDUE DILIGENCE AND REMEDIATION PROCESSES\r\nTo date, Decor Systems has had no reported incidents of modern slavery or breaches by its overseas suppliers.\r\n\r\nNevertheless, Decor Systems recognises the inherent risk of slavery and human trafficking within the supply chain and has established internal processes to guide supplier selection and tendering, including:\r\n\r\nConsideration of certain factors before a supplier is awarded a supply contract. For example, the potential supplier’s reputation, ability to supply, integrity, financial strength and compliance with legislation and best practice.\r\nEnsuring that Decor Systems do not purchase materials from suppliers that breach the UN Guiding Principles. If any existing suppliers are found to have breached the UN Guiding Principles, Decor Systems will take immediate steps to reassess those supply arrangements.\r\nStaff training within Decor Systems direct supply chain,in which supplier evaluation is conducted prior to engagement of suppliers.\r\nExisting suppliers are audited in line with Decor Systems GECA, FSC and Illegal Logging Audit requirements.\r\nFUTURE COMMITMENTS\r\nOver the next year, Decor Systems focus areas will be:\r\n\r\nFurther refining our procurement processes and training our procurement team with best practice initiatives.\r\nReviewing identified risk areas in the supply chain and reporting to the Decor Systems board.\r\nDavid Faulkes\r\nChief Executive Officer",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 71,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Cewood/certificates/epd-Acoustic_Panels.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 72,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Cewood/certificates/Decor_Systems_-_GECA_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 73,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Cewood/certificates/COC_CRT_SIACEWOOD_092821.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 436,
+        "certification": "Cradle to Cradle Certified",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.cewood.com/references-2/cewood-achieve-c2c-bronze-certification",
+        "rating": "Bronze"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 77,
+        "location_name": "Riga, Latvia",
+        "location_lat": 56.967694,
+        "location_lon": 24.105622,
+        "component": "Wood",
+        "component_percentage": 30.0
+      },
+      {
+        "id": 78,
+        "location_name": "Riga, Latvia",
+        "location_lat": 56.967694,
+        "location_lon": 24.105622,
+        "component": "Cement",
+        "component_percentage": 50.0
+      },
+      {
+        "id": 79,
+        "location_name": "Riga, Latvia",
+        "location_lat": 56.967694,
+        "location_lon": 24.105622,
+        "component": "Limestone",
+        "component_percentage": 1.0
+      },
+      {
+        "id": 80,
+        "location_name": "Riga, Latvia",
+        "location_lat": 56.967694,
+        "location_lon": 24.105622,
+        "component": "Oil",
+        "component_percentage": 0.3
+      },
+      {
+        "id": 81,
+        "location_name": "Riga, Latvia",
+        "location_lat": 56.967694,
+        "location_lon": 24.105622,
+        "component": "Water",
+        "component_percentage": 0.1
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 96,
+        "location_name": "Riga, Latvia",
+        "location_lat": 56.967694,
+        "location_lon": 24.105622,
+        "material": "Wood",
+        "product_percentage": 30.0
+      },
+      {
+        "id": 97,
+        "location_name": "Riga, Latvia",
+        "location_lat": 56.967694,
+        "location_lon": 24.105622,
+        "material": "Cement",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 98,
+        "location_name": "Riga, Latvia",
+        "location_lat": 56.967694,
+        "location_lon": 24.105622,
+        "material": "Limestone",
+        "product_percentage": 1.0
+      },
+      {
+        "id": 99,
+        "location_name": "Riga, Latvia",
+        "location_lat": 56.967694,
+        "location_lon": 24.105622,
+        "material": "oil",
+        "product_percentage": 0.3
+      },
+      {
+        "id": 100,
+        "location_name": "Riga, Latvia",
+        "location_lat": 56.967694,
+        "location_lon": 24.105622,
+        "material": "Water",
+        "product_percentage": 0.1
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 65,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Decor Systems is Indigenous-owned with Supply Nation certification. https://decorsystems.com.au/products/cewood/",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2323,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Cewood/compliance/Cewood_-_IGNL-3083-06-02_I01R00_Ignis_Labs_Certificate_26112019.pdf",
+        "link": "https://cdn.sanity.io/files/lbvt8rt8/production/fcd14a44b35ce2825ec674366d2cc20bef826ff1.pdf",
+        "rating": "1"
+      }
+    ],
+    "type_of_packaging": "Polyethylene, cardboard, and other plastics",
+    "files": [
+      {
+        "id": 46,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Cewood/VOC/M1_Emission_classification_F.pdf"
+      },
+      {
+        "id": 47,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Cewood/VOC/M1-unpainted-panels-4160-CEWOOD-en.pdf"
+      },
+      {
+        "id": 48,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Cewood/LCA/epd-Acoustic_Panels.pdf"
+      },
+      {
+        "id": 49,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Cewood/RecycledContent/CW_Recycling_instructions.pdf"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "company": {
+      "id": 8,
+      "name": "Decor Systems"
+    },
+    "image": "products/Decor Systems/CoverForce-Decor-Systems25_nItNS9D.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-01T00:08:23.048480+00:00",
+    "last_update": "2024-07-03T14:00:00+00:00",
+    "created_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "updated_by": {
+      "id": 88,
+      "email": "rebecca.fox@decorsystems.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Decor Systems",
+    "product_name": "Vogl",
+    "product_code": "Vogl",
+    "product_description": "Vogl offers a seamless system of perforated plasterboard ceiling panels",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "1998x1198mm",
+    "price_per_unit": 65.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Typically in stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 456,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Vogl/certificates/EPD_2022_2027_english_b2CWXLm.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 457,
+        "certification": "GECA",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Vogl/certificates/Decor_Systems_-_GECA_Certificate_tLQXPYc.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": 0.13,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": 2.41,
+    "upfront_carbon_emissions": 2.41,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "1",
+    "recycled_content_description": "Recycled Paper",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Products reach the end of their product life cycle for a number of\r\nreasons. Decor Systems recognises that end-of-life milestones are\r\noften key to maintaining environmental sustainability initiatives. With\r\nthat in mind, we have set out below our End of Product Lifecycle\r\nPolicy which aims to dually maintain the ongoing sustainability of our\r\nproducts and simultaneously support school facilities in areas that\r\nare designated in lower socio-economic regions. In the event that our\r\nacoustic panel systems attain their end of life due to building\r\ndemolition or refurbishment, Decor Systems commits to donating\r\nusable panels to educational facilities (schools, training centres,\r\nchildcare, etc.) in regions that are identified as having a high\r\nproportion of students with learning challenges. Special consideration\r\nis given to centres that focus on literacy programs for Indigenous\r\nstudents. The following conditions apply: Liaise with Decor Systems to\r\ndetermine suitability before panels are returned. Photos will be\r\nrequired both before and after dismantling to ascertain suitability.\r\nPanels to be dismantled and returned to Decor Systems at the client’s\r\ncost. Panels must be in reasonable condition in their original\r\nmanufactured sizes. The final decision will rest with Decor Systems as\r\nto the suitability of the panels for re-deployment to alternative\r\nprojects.",
+    "water_reduction_techniques": "30",
+    "transport_emissions_minimisation_techniques": "Routes are calculated on shortest distance",
+    "minimisation_design_strategy": "Vogl is fully perforated end to end, this means that there is less\r\nwastage when cut to size.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Decor Systems is committed to ethical business practices and the\r\neradication of modern slavery in all its forms. We firmly believe in upholding human rights, promoting social responsibility, and maintaining transparency in our operations and supply chains. This Modern Slavery Statement outlines our approach to combating\r\nmodern slavery and human trafficking, the steps we have taken to prevent its occurrence, and our plans for continuous improvement.\r\n\r\nINTRODUCTION \r\nThis is the second Modern Slavery Statement\r\nsubmitted by Decor Systems. Decor Systems has elected to publish this statement voluntarily, as informed by the Modern Slavery Act 2018. The purpose of this statement is to outline the business’\r\nsystems for identifying the risk of modern slavery in our operations and supply chain and implementing processes to minimise any risk.\r\nDecor Systems recognise that slavery and human trafficking can occur in many forms including forced labour, child labour, human\r\ntrafficking, forced marriage and deceptive methods of recruiting labour. Decor Systems are committed to operating responsibly and maintaining ethical standards across our operations, with a particular\r\nfocus on risk areas within our supply chain. \r\n\r\nSTRUCTURE \r\nDecor Systems is a family owned Australian owned and operated vertically integrated manufacturer, supplier and retailer of architectural acoustic panel systems. Our headquarters, manufacturing and supply\r\nfacility located in Glendenning, NSW. Decor Systems maintains offices in Brisbane and Melbourne. \r\nOPERATIONS AND SUPPLY CHAINS \r\nDecorSystems is committed to the superior design, production and supply of quality products and services. We have been in the business for\r\nover 50 years and offer an extensive range of innovative products,\r\nprofessional services, experience, and industry knowledge. With a growing team of Sales and Project Consultants located throughout\r\nAustralia, , a modern manufacturing and supply facility and an international sourcing team, Decor Systems has a valued reputation for reliably delivering state-of-the-art architectural solutions. Decor\r\nSystems’ supply chain includes both local and overseas suppliers with whom the business has established, long-standing supply\r\nagreements in place. Our manufacturing facility produces custom and\r\nmade-to-order products, sourcing raw materials and componentry from tier one suppliers mostly located in Australia. Our importing division sources and assembles materials that requires little or no\r\ncustomisation, with raw materials sourced largely from suppliers located in Germany, USA and Latvia, as well as some local Australian\r\nsuppliers. \r\n\r\nADDRESSING THE RISK OF MODERN SLAVERY PRACTICES\r\n\r\nThe Decor Systems executive team are committed to ethical\r\nprocurement and oppose slavery in all its forms. Policies and risk\r\nmanagement processes have been implemented to identify and\r\naddress the risk of modern slavery in our supply chain. This includes\r\nroutine supplier evaluation and supply chain mapping that\r\nencompasses a range of environmental and ethical risks, including\r\nmodern slavery. Within this supply chain analysis, BFX has identified\r\ntwo areas of risk. First, a generally low risk of modern slavery in the\r\nconstruction supplies sector. Second, some second-tier suppliers\r\nwhere materials are imported from overseas have a medium\r\ngeographic and entity risk. \r\nDUE DILIGENCE AND REMEDIATION\r\nPROCESSES \r\nTo date, Decor Systems has had no reported incidents of\r\nmodern slavery or breaches by its overseas suppliers. Nevertheless,\r\nDecor Systems recognises the inherent risk of slavery and human\r\ntrafficking within the supply chain and has established internal\r\nprocesses to guide supplier selection and tendering, including:\r\nConsideration of certain factors before a supplier is awarded a supply\r\ncontract. For example, the potential supplier’s reputation, ability to\r\nsupply, integrity, financial strength and compliance with legislation\r\nand best practice. Ensuring that Decor Systems do not purchase\r\nmaterials from suppliers that breach the UN Guiding Principles. If any\r\nexisting suppliers are found to have breached the UN Guiding\r\nPrinciples, Decor Systems will take immediate steps to reassess those\r\nsupply arrangements. Staff training within Decor Systems direct\r\nsupply chain,in which supplier evaluation is conducted prior to\r\nengagement of suppliers. Existing suppliers are audited in line with\r\nDecor Systems GECA, FSC and Illegal Logging Audit requirements.\r\nFUTURE COMMITMENTS \r\n\r\nOver the next year, Decor Systems focus\r\nareas will be: Further refining our procurement processes and\r\ntraining our procurement team with best practice initiatives.\r\nReviewing identified risk areas in the supply chain and reporting to\r\nthe Decor Systems board. David Faulkes Chief Executive Officer",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://decorsystems.com.au/modern-slavery-statement/",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 456,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Vogl/certificates/EPD_2022_2027_english_b2CWXLm.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 457,
+        "certification": "GECA",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Vogl/certificates/Decor_Systems_-_GECA_Certificate_tLQXPYc.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 278,
+        "location_name": "Emskirchen, Germany",
+        "location_lat": 49.550881,
+        "location_lon": 10.712809,
+        "component": "Plasterboard",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 383,
+        "location_name": "Emskirchen, Germany",
+        "location_lat": 49.550881,
+        "location_lon": 10.712809,
+        "material": "Plasterboard",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 355,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 297,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Vogl/compliance/Vogl_FI11428_Final_Certificate_txfpBnO.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 298,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Vogl/compliance/Vogl_FI11428_Final_Certificate_KfJKoQ7.pdf",
+        "link": "",
+        "rating": "1"
+      }
+    ],
+    "type_of_packaging": "Polyethylene, cardboard, and other plastics",
+    "files": [
+      {
+        "id": 373,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Vogl/VOC/EPD_2022_2027_english_bfgvESZ.pdf"
+      },
+      {
+        "id": 374,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Vogl/LCA/EPD_2022_2027_english_i7vIS5Z.pdf"
+      },
+      {
+        "id": 375,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Decor%20Systems/Vogl/RecycledContent/EPD_2022_2027_english_cI8lrY2.pdf"
+      }
+    ]
+  }
+]

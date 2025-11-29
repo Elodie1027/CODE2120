@@ -1,0 +1,3491 @@
+[
+  {
+    "id": 290,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/18_Gum_spotted_Crown.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-11T01:48:27.616950+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "Spotted Gum Timber Veneer",
+    "product_code": "SG-TV",
+    "product_description": "Matilda Veneer is Australia’s leading manufacturer of timber veneer.",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "Varies depending on log size and cut",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "Pricing varies withing the species based on quality of the veneer.",
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 527,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 528,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 529,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 527,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 528,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 529,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 338,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Slicing of logs into veneer",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3024,
+        "location_name": "South East Queensland, Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Spotted Gum logs",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 3025,
+        "location_name": "Northern NSW, Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Spotted Gum logs",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 411,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 439,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/3_Blackbutt_Quarter.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-12T02:59:20.074675+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "Blackbutt Timber Veneer",
+    "product_code": "BB-TV",
+    "product_description": "Matilda Veneer is Australia’s leading manufacturer of timber veneer.",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 537,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 538,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 539,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 537,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 538,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 539,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 341,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Slicing of logs into veneer",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3027,
+        "location_name": "Northern NSW, Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Blackbutt logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 425,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 448,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1332,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/190718_Penguin_Parade_0248_sml.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-30T04:56:43.880880+00:00",
+    "last_update": "2025-07-29T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "Fireply X",
+    "product_code": "FP-X",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": "2400mm x 1200mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "4 - 10 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4925,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4926,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 95% timber which is compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Design to full sheets size (2400mm x 1200mm grid) where possible.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4925,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4926,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": true,
+    "factory_finished_description": "Two pack polyurethane",
+    "manufacturing_locations": [
+      {
+        "id": 2494,
+        "location_name": "Logroño, Spain",
+        "location_lat": 42.46272,
+        "location_lon": -2.444985,
+        "component": "Plywood",
+        "component_percentage": 95.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3010,
+        "location_name": "Logroño, Spain",
+        "location_lat": 42.46272,
+        "location_lon": -2.444985,
+        "material": "European Poplar",
+        "product_percentage": 95.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2039,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2716,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Fireply%20X/compliance/Fireply_X_-_Testing_and_Conformity_Statement.pdf",
+        "link": "",
+        "rating": "Group 2"
+      }
+    ],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3726,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      },
+      {
+        "id": 3727,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Fireply%20X/VOC/Fireply_X_Product_Sheet.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1335,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/Blackbutt_-_Feature.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-03T23:02:08.778010+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "Blackbutt (Feature) Timber Veneer",
+    "product_code": "BB(F)-TV",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4934,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4935,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4936,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4934,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4935,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4936,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2496,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Slicing of logs into veneer",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3023,
+        "location_name": "Northern NSW, Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Blackbutt logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2041,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3733,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1336,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/19_Ironbark_grey_Quarter.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-03T23:07:51.927474+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "Grey Ironbark",
+    "product_code": "GI-TV",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4937,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4938,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4939,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4937,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4938,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4939,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2497,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Slicing of logs into veneer",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3020,
+        "location_name": "South East Queensland, Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Grey Ironbark logs",
+        "product_percentage": 50.0
+      },
+      {
+        "id": 3021,
+        "location_name": "Northern NSW, Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Grey Ironbark logs",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2042,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3734,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1338,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/American_White_Oak.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-04T03:52:29.283844+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "American White Oak Veneer",
+    "product_code": "AO-TV",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4940,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4941,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4942,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4940,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4941,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4942,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2499,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Veneer slicing",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3029,
+        "location_name": "USA",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "American white Oak logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2043,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3736,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1339,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/American_Walnut-3.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-04T04:03:36.813288+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "American Walnut",
+    "product_code": "AW-TV",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4943,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4944,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4945,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4943,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4944,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4945,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2500,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Veneer slicing",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3031,
+        "location_name": "USA",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "American Walnut logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2044,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3737,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1340,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/Iarrah.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-04T04:06:37.648383+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "Jarrah Veneer",
+    "product_code": "JA-TV",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4946,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4947,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4948,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4946,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4947,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4948,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2501,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Slicing of logs into veneer",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3034,
+        "location_name": "Southern WA, Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Jarrah logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2045,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3738,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1341,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/Plantation_Oak.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-04T04:08:40.344434+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "Plantation Oak",
+    "product_code": "PO-TV",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4949,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4950,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4951,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4949,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4950,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4951,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2502,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Veneer slicing",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3037,
+        "location_name": "Spain",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Plantation Oak logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2046,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3739,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1342,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/Hoop_Pine_2_8mikwCI.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-04T04:10:44.243790+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "Hoop Pine (Araucaria)",
+    "product_code": "HP-TV",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4952,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4953,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4954,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4952,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4953,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4954,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2503,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Slicing of logs into veneer",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3047,
+        "location_name": "South East Queensland, Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Hoop Pine logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2047,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3740,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1343,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/Candlenut_8M0XZIo.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-04T06:06:41.529629+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "Candlenut Truewood",
+    "product_code": "CN-TW",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4968,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4969,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4970,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4968,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4969,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4970,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2506,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Slicing of logs into veneer",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3049,
+        "location_name": "North Queensland, Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Candlenut logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2048,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3747,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1344,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/American_Walnut-2.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-04T06:08:24.262286+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "American Walnut Truewood",
+    "product_code": "AW-TW",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4971,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4972,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4973,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4971,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4972,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4973,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2507,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Veneer slicing",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3050,
+        "location_name": "USA",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "American Walnut logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2049,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3748,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1345,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/American_Walnut_iScuYNw.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-04T06:10:41.464177+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "American Walnut Rough Cut",
+    "product_code": "AW-RC",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4974,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4975,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4976,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4974,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4975,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4976,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2508,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Veneer slicing",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3051,
+        "location_name": "USA",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "American Walnut logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2050,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3749,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1347,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/Smoked_Oak_PL1z5u7.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-04T06:27:57.336502+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "Smoked Oak",
+    "product_code": "SO-SM",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4980,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4981,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4982,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4980,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4981,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4982,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2510,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Veneer slicing",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3053,
+        "location_name": "USA",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "American white Oak logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2052,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3751,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1348,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/Aged_Oak.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-04T06:29:17.194534+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "Aged Oak",
+    "product_code": "AO-AG",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4983,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4984,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4985,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4983,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4984,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4985,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2511,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Veneer slicing",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3054,
+        "location_name": "USA",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "American white Oak logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2053,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3752,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1349,
+    "company": {
+      "id": 107,
+      "name": "MATILDA VENEER"
+    },
+    "image": "products/MATILDA VENEER/1_Pine_hoop_Crown.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-04T06:30:45.382158+00:00",
+    "last_update": "2025-08-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "updated_by": {
+      "id": 1157,
+      "email": "meg@matildaveneer.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Matilda Veneer",
+    "product_name": "Hoop Pine (Araucaria) Rotary Cut",
+    "product_code": "HP-RO",
+    "product_description": "Matilda Veneer is are suppliers of decorative and innovative wood panels.",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4986,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4987,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4988,
+        "certification": "Responsible Wood",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "All offcuts are compostable.",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Product is 100% timber, so fully compostable.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Selection of logs of the required length for your project to minimise wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Core labour requirements are assessed annually as part of our FSC certification process.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4986,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4987,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_PEFC.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4988,
+        "certification": "Responsible Wood",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/certificates/COC_CRT_Matilda_092721_RW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 49,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2512,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Slicing of logs into veneer",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3055,
+        "location_name": "South East Queensland, Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Hoop Pine logs",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2054,
+        "location_name": "Molendinar QLD, Australia",
+        "location_lat": -27.974431,
+        "location_lon": 153.358998,
+        "location_state": " Australia",
+        "location_city": "Molendinar QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "A natural sealant and compostable substrate should be selected to ensure full compostability at end of life.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Once fabricated, the timber veneer will need to be sealed.  There are various options depending on the level of protection required, ranging from oils and waxes through to 2 pack polyurethane.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Re-usable timber pallets and plastic wrap for waterproofing and securing is used when transporting.",
+    "files": [
+      {
+        "id": 3753,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/MATILDA%20VENEER/Spotted%20Gum%20Timber%20Veneer/ModernSlaveryAssessment/Appendix_O_Self-Assessment_Core_Labour_2023_signed.pdf"
+      }
+    ]
+  }
+]

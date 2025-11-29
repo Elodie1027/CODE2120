@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1456,
+    "company": {
+      "id": 207,
+      "name": "FUTURE VILLAGE"
+    },
+    "image": "products/FUTURE VILLAGE/Future_Village_garden_tray.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-26T05:17:19.687653+00:00",
+    "last_update": "2025-09-25T14:00:00+00:00",
+    "created_by": {
+      "id": 2834,
+      "email": "ben@futurevillage.com.au"
+    },
+    "updated_by": {
+      "id": 2834,
+      "email": "ben@futurevillage.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Future Village",
+    "product_name": "Floating Garden Tray",
+    "product_code": "106",
+    "product_description": "Modular garden tray with water reservoir and wicking",
+    "product_categories": [
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      },
+      {
+        "id": 11,
+        "category_name": "Roof and Stormwater"
+      }
+    ],
+    "standard_dimensions": "1200 x 1200 x (220 / 380)",
+    "price_per_unit": 520.0,
+    "product_functional_unit": "m3",
+    "price_adjustment_structure": "Qty",
+    "lead_time": "2 - 6 weeka",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "THe main component- tub and the internal drain cell can be sent to plastic recycling",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "tray offcuts are sent to recycling",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "High molecular weight polyethylene and polypropylene ca be recycled back into the same raw material",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The product is modular and free standing and can be used in different locations",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Our business takes back and repurposes trays that are not required",
+    "water_reduction_techniques": "On site rainwater. 35%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "The trays come in 1200 x 1200 size and should be laid out in most efffecient formats.  The trays can be cut to any shape and then plastic welded.  If bespoke shapes required then can the offcut also be welded and reformed to be used as a separae tray.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Unsure",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 20,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2815,
+        "location_name": "Brookvale NSW, Australia",
+        "location_lat": -33.76497,
+        "location_lon": 151.270448,
+        "component": "Tray",
+        "component_percentage": 80.0
+      },
+      {
+        "id": 2816,
+        "location_name": "Glenorie NSW, Australia",
+        "location_lat": -33.601551,
+        "location_lon": 151.007874,
+        "component": "Drain Cell",
+        "component_percentage": 8.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3283,
+        "location_name": "Brookvale NSW, Australia",
+        "location_lat": -33.76497,
+        "location_lon": 151.270448,
+        "material": "High molecular weight polyethylene (HMWPE)",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2299,
+        "location_name": "Glenorie NSW, Australia",
+        "location_lat": -33.601551,
+        "location_lon": 151.007874,
+        "location_state": " Australia",
+        "location_city": "Glenorie NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Product contains 86 - 132 mm of water reservoir.  Can be adjusted for stormwater retention and detention requirements.\r\nThermal insulation - Turf.  R Value 0.82 | Garden 0.91. | Deep garden tray 1.09\r\nSUB IRRIGATION & WICKING\r\nInternal water refill system.\r\nPlumbed in or free standing elements.\r\nCompatible with standard hose snap lock fittings and other irrigation systems.\r\nPressure compensated design ensures uniform water distribution across all trays.\r\nDaisy chain trays together for simplified, scalable irrigation setup.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2987,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FUTURE%20VILLAGE/Floating%20Garden%20Tray/compliance/250902_JV25-00223_Future_Village_Garden_Trays_CAN_1.pdf",
+        "link": "",
+        "rating": "Type B & C No FRL Required. Type A May require roof FRLs, but concessions exist "
+      },
+      {
+        "id": 2988,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FUTURE%20VILLAGE/Floating%20Garden%20Tray/compliance/250902_JV25-00223_Future_Village_Garden_Trays_CAN_1_n0JOwci.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "they require no packaging other than strapping",
+    "files": [
+      {
+        "id": 4139,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FUTURE%20VILLAGE/Floating%20Garden%20Tray/ModernSlaveryActionPlan/Future_Village_modern-slavery-policy.pdf"
+      }
+    ]
+  }
+]

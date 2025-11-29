@@ -1,0 +1,181 @@
+[
+  {
+    "id": 168,
+    "company": {
+      "id": 77,
+      "name": "HOLCIM AUSTRALIA PTY LTD"
+    },
+    "image": "products/HOLCIM AUSTRALIA PTY LTD/ECOPact_Image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-05-22T23:13:37.925579+00:00",
+    "last_update": "2024-05-22T14:00:00+00:00",
+    "created_by": {
+      "id": 641,
+      "email": "dylan.viviers@holcim.com"
+    },
+    "updated_by": {
+      "id": 641,
+      "email": "dylan.viviers@holcim.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Holcim Australia",
+    "product_name": "Holcim Ecopact",
+    "product_code": "Low Carbon Concrete",
+    "product_description": "ECOPact low-carbon concrete delivers 100% performance offering at least 30% lower CO2",
+    "product_categories": [
+      {
+        "id": 7,
+        "category_name": "Concrete"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      },
+      {
+        "id": 6,
+        "category_name": "Structure and Structural Framing"
+      },
+      {
+        "id": 10,
+        "category_name": "Substructure"
+      },
+      {
+        "id": 25,
+        "category_name": "Waterproofing"
+      }
+    ],
+    "standard_dimensions": "Low carbon Readymix concrete delivered to site",
+    "price_per_unit": 5.0,
+    "product_functional_unit": "m3",
+    "price_adjustment_structure": "$5.00 per/m3 on top of conventional concrete",
+    "lead_time": "As per standard concrete ordering",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 306,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://epd-australasia.com/?s=holcim&post_type=epd",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 307,
+        "certification": "Other",
+        "file": null,
+        "link": "https://www.holcim.com.au/climate-active-certification",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 306,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://epd-australasia.com/?s=holcim&post_type=epd",
+        "rating": "undefined"
+      },
+      {
+        "id": 307,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.holcim.com.au/climate-active-certification",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": null,
+    "installation_risks_description": "",
+    "substances_of_concern": null,
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": null,
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Low Carbon Readymix concrete delivered to site, which is pumped, placed and finished as per the project specifications",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 0,
+    "section_D_score": 25,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "",
+    "files": []
+  }
+]

@@ -1,0 +1,867 @@
+[
+  {
+    "id": 1350,
+    "company": {
+      "id": 137,
+      "name": "ACOUFELT PTY LTD"
+    },
+    "image": "products/ACOUFELT PTY LTD/79a1bae9-7e6a-4fdb-b008-7ae4d61eb311.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-04T07:19:51.798625+00:00",
+    "last_update": "2025-08-04T14:00:00+00:00",
+    "created_by": {
+      "id": 1592,
+      "email": "karina.deboar@acoufelt.com"
+    },
+    "updated_by": {
+      "id": 1592,
+      "email": "karina.deboar@acoufelt.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Acouflor",
+    "product_name": "Quietback",
+    "product_code": "QB",
+    "product_description": "Acoustic carpet tiles",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "500 x 500 mm, 250 x 1000 mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 - 6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4989,
+        "certification": "Carpet Institute - ECS",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC08_Acouflor_QuietBack_Escape_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4990,
+        "certification": "Carpet Institute - ECS",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC08_Acouflor_QuietBack_MultiStorey_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4991,
+        "certification": "Carpet Institute - ECS",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC08_Acouflor_QuietBack_Urban_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4992,
+        "certification": "Carpet Institute - ECS",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC09_Acouflor_QuietBack_Elemental_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4993,
+        "certification": "Carpet Institute - ECS",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC09_Acouflor_QuietBack_Flinders_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4994,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC11_Acouflor_QuietBack_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4995,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC05_Acoufelt_QuietBack_EPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4996,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC07_Acouflor_QuietBack_HPD.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 14.44,
+    "upfront_carbon_emissions": 14.44,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Resource Co - Alternative Fuel",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Resource Co - Alternative Fuels",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "up to 85% recycled PET in felt backing",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Resource Co - Alternative Fuels",
+    "water_reduction_techniques": "harvested rainwater",
+    "transport_emissions_minimisation_techniques": "modular boxed final goods",
+    "minimisation_design_strategy": "ensure full tiles are installed by designing the layout to have least amount of cuts as possible",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "According to our BMS, 9001",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4989,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC08_Acouflor_QuietBack_Escape_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4990,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC08_Acouflor_QuietBack_MultiStorey_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4991,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC08_Acouflor_QuietBack_Urban_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4992,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC09_Acouflor_QuietBack_Elemental_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4993,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC09_Acouflor_QuietBack_Flinders_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4994,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC11_Acouflor_QuietBack_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4995,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC05_Acoufelt_QuietBack_EPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4996,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/certificates/QBEC07_Acouflor_QuietBack_HPD.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 20,
+    "manufacturers_warranty_years": 20,
+    "factory_finished": true,
+    "factory_finished_description": "Carpet Tiles supplied in cartons of 5sqm",
+    "manufacturing_locations": [
+      {
+        "id": 2518,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "component": "Carpet Tile",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3056,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "Solution dyed nylon",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 3058,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "polyester",
+        "product_percentage": 30.0
+      },
+      {
+        "id": 3059,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "Calcium carbonate",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 3060,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "Carboxylated styrene butadiene",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2055,
+        "location_name": "Bayswater VIC, Australia",
+        "location_lat": -37.842601,
+        "location_lon": 145.270482,
+        "location_state": " Australia",
+        "location_city": "Bayswater VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 18.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://www.globalgreentag.com/products/quietback/",
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Acoustic carpet tiles provide soft underfoot comfort and address reverberation issues in spaces where we work, learn and live.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2721,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/compliance/QBFT01_Acoufelt_QuietBack_8mm_Fire_Test_Report_AS_ISO_9239.1.pdf",
+        "link": "",
+        "rating": "Pass"
+      },
+      {
+        "id": 2722,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/compliance/QBFT02_Acoufelt_QuietBack_10mm_Fire_Test_Report_AS_ISO_9239.1.pdf",
+        "link": "",
+        "rating": "Pass"
+      },
+      {
+        "id": 2723,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/compliance/QBQA05_Acoufelt_QuietBack_Wet_Pendulum_Slip_Test_Report.pdf",
+        "link": "",
+        "rating": "P5"
+      }
+    ],
+    "type_of_packaging": "Recycled cardboard box",
+    "files": [
+      {
+        "id": 3754,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/VOC/QBEC03_Acouflor_QuietBack_10mm_TVOC_ISO_10580.pdf"
+      },
+      {
+        "id": 3755,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/LCA/QBEC05_Acoufelt_QuietBack_EPD.pdf"
+      },
+      {
+        "id": 3756,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/RecycledContent/QBEC05_Acoufelt_QuietBack_EPD.pdf"
+      },
+      {
+        "id": 3757,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/ModernSlaveryAssessment/GCC_Certificate_ISO_9001_-_1212-Q-1_-_Acoufelt_Pty_Ltd.pdf"
+      },
+      {
+        "id": 3758,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/ModernSlaveryActionPlan/GCC_Certificate_ISO_9001_-_1212-Q-1_-_Acoufelt_Pty_Ltd.pdf"
+      },
+      {
+        "id": 3759,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Quietback/ModernSlaveryActionPlan/P-29_Modern_Slavery_Policy_v1_1.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1351,
+    "company": {
+      "id": 137,
+      "name": "ACOUFELT PTY LTD"
+    },
+    "image": "",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-05T07:32:57.232055+00:00",
+    "last_update": "2025-08-04T14:00:00+00:00",
+    "created_by": {
+      "id": 1592,
+      "email": "karina.deboar@acoufelt.com"
+    },
+    "updated_by": {
+      "id": 1592,
+      "email": "karina.deboar@acoufelt.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Acouflor",
+    "product_name": "Softstep Carpet Tile",
+    "product_code": "ST",
+    "product_description": "Acoustic carpet tiles",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "500 x 1000 mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 - 6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4997,
+        "certification": "Carpet Institute - ECS",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Softstep%20Carpet%20Tile/certificates/SSEC04_Acouflor_SoftStep_Grand_Central_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4998,
+        "certification": "Carpet Institute - ECS",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Softstep%20Carpet%20Tile/certificates/SSEC05_Acouflor_SoftStep_Ridges_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4999,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Softstep%20Carpet%20Tile/certificates/SSEC06_Acouflor_SoftStep_LaidBack_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Resource Co - Alternative Fuel",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "80% recycled PET in felt backing",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Resource Co - Alternative Fuel",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "use full tiles as much as possible",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "According to our BMS, 9001",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4997,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Softstep%20Carpet%20Tile/certificates/SSEC04_Acouflor_SoftStep_Grand_Central_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4998,
+        "certification": "Carpet Institute - ECS",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Softstep%20Carpet%20Tile/certificates/SSEC05_Acouflor_SoftStep_Ridges_ECS_Certificate.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4999,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Softstep%20Carpet%20Tile/certificates/SSEC06_Acouflor_SoftStep_LaidBack_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Boxed carpet tiles",
+    "manufacturing_locations": [
+      {
+        "id": 2519,
+        "location_name": "Guangzhou, Guangdong Province, China",
+        "location_lat": 23.12908,
+        "location_lon": 113.26436,
+        "component": "SoftStep Carpet Tiles",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3061,
+        "location_name": "Guangzhou, Guangdong Province, China",
+        "location_lat": 23.12908,
+        "location_lon": 113.26436,
+        "material": "Solution dyed nylon",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 3062,
+        "location_name": "Guangzhou, Guangdong Province, China",
+        "location_lat": 23.12908,
+        "location_lon": 113.26436,
+        "material": "Polyester",
+        "product_percentage": 30.0
+      },
+      {
+        "id": 3063,
+        "location_name": "Guangzhou, Guangdong Province, China",
+        "location_lat": 23.12908,
+        "location_lon": 113.26436,
+        "material": "Calcium carbonate",
+        "product_percentage": 5.0
+      },
+      {
+        "id": 3064,
+        "location_name": "Guangzhou, Guangdong Province, China",
+        "location_lat": 23.12908,
+        "location_lon": 113.26436,
+        "material": "Fibre glass",
+        "product_percentage": 2.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2056,
+        "location_name": "Bayswater VIC, Australia",
+        "location_lat": -37.842601,
+        "location_lon": 145.270482,
+        "location_state": " Australia",
+        "location_city": "Bayswater VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 14.0,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "SoftStep carpet tiles provide comfort under foot and acoustic value of 0.25 NRC",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2725,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Softstep%20Carpet%20Tile/compliance/LBSSFT01_Acouflor_LaidBack_SoftStep_Fire_Test_Report_AS_ISO_9239.1.pdf",
+        "link": "",
+        "rating": "Pass"
+      },
+      {
+        "id": 2726,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Softstep%20Carpet%20Tile/compliance/SSQA02_Acouflor_SoftStep_All_Quality_Assurance_Test_Reports.pdf",
+        "link": "",
+        "rating": "P5"
+      }
+    ],
+    "type_of_packaging": "Recycled cardboard boxes",
+    "files": [
+      {
+        "id": 3760,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Softstep%20Carpet%20Tile/VOC/SSEC03_Acoufelt_SoftStep_Carpet_Tile_TVOC_Test_Report.pdf"
+      },
+      {
+        "id": 3761,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Softstep%20Carpet%20Tile/ModernSlaveryAssessment/GCC_Certificate_ISO_9001_-_1212-Q-1_-_Acoufelt_Pty_Ltd.pdf"
+      },
+      {
+        "id": 3762,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Softstep%20Carpet%20Tile/ModernSlaveryActionPlan/P-29_Modern_Slavery_Policy_v1_1.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1352,
+    "company": {
+      "id": 137,
+      "name": "ACOUFELT PTY LTD"
+    },
+    "image": "",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-08-05T07:47:23.309289+00:00",
+    "last_update": "2025-08-04T14:00:00+00:00",
+    "created_by": {
+      "id": 1592,
+      "email": "karina.deboar@acoufelt.com"
+    },
+    "updated_by": {
+      "id": 1592,
+      "email": "karina.deboar@acoufelt.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Acouflor",
+    "product_name": "Laidback Carpet Tiles",
+    "product_code": "LB",
+    "product_description": "Felt Backed Carpet Tiles",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "500 x 1000 mm",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 - 6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 5000,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Laidback%20Carpet%20Tiles/certificates/SSEC06_Acouflor_SoftStep_LaidBack_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Resource Co - Alternative Fuels",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "80% recycled PET in felt backing",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Resource Co - Alternative Fuels",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "use full tiles",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "According to our BMS - 9001",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 5000,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Laidback%20Carpet%20Tiles/certificates/SSEC06_Acouflor_SoftStep_LaidBack_Declare_Label.jpg",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 15,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": true,
+    "factory_finished_description": "Carpet Tiles supplied in cartons",
+    "manufacturing_locations": [
+      {
+        "id": 2520,
+        "location_name": "Guangzhou, Guangdong Province, China",
+        "location_lat": 23.12908,
+        "location_lon": 113.26436,
+        "component": "LaidBack Carpet Tiles",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3065,
+        "location_name": "Guangzhou, Guangdong Province, China",
+        "location_lat": 23.12908,
+        "location_lon": 113.26436,
+        "material": "Solution dyed nylon",
+        "product_percentage": 40.0
+      },
+      {
+        "id": 3066,
+        "location_name": "Guangzhou, Guangdong Province, China",
+        "location_lat": 23.12908,
+        "location_lon": 113.26436,
+        "material": "Polyester",
+        "product_percentage": 30.0
+      },
+      {
+        "id": 3067,
+        "location_name": "Guangzhou, Guangdong Province, China",
+        "location_lat": 23.12908,
+        "location_lon": 113.26436,
+        "material": "Calcium Carbonate",
+        "product_percentage": 10.0
+      },
+      {
+        "id": 3068,
+        "location_name": "Guangzhou, Guangdong Province, China",
+        "location_lat": 23.12908,
+        "location_lon": 113.26436,
+        "material": "Fibre Glass",
+        "product_percentage": 2.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2057,
+        "location_name": "Bayswater VIC, Australia",
+        "location_lat": -37.842601,
+        "location_lon": 145.270482,
+        "location_state": " Australia",
+        "location_city": "Bayswater VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 8.0,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "LaidBack carpet tiles provide acoustic comfort of 0.25 NRC in a wide format tile",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2728,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Laidback%20Carpet%20Tiles/compliance/LBQA01_Acouflor_LaidBack_All_Quality_Assurance_Test_Reports.pdf",
+        "link": "",
+        "rating": "P5"
+      },
+      {
+        "id": 2727,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Laidback%20Carpet%20Tiles/compliance/LBSSFT01_Acouflor_LaidBack_SoftStep_Fire_Test_Report_AS_ISO_9239.1.pdf",
+        "link": "",
+        "rating": "Pass"
+      }
+    ],
+    "type_of_packaging": "recycled cardboard boxes",
+    "files": [
+      {
+        "id": 3763,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Laidback%20Carpet%20Tiles/VOC/SSEC03_Acoufelt_SoftStep_Carpet_Tile_TVOC_Test_Report.pdf"
+      },
+      {
+        "id": 3764,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Laidback%20Carpet%20Tiles/ModernSlaveryAssessment/GCC_Certificate_ISO_9001_-_1212-Q-1_-_Acoufelt_Pty_Ltd.pdf"
+      },
+      {
+        "id": 3765,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Laidback%20Carpet%20Tiles/ModernSlaveryActionPlan/P-29_Modern_Slavery_Policy_v1_1.pdf"
+      }
+    ]
+  }
+]

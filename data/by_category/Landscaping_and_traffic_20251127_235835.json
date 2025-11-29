@@ -1,0 +1,2047 @@
+[
+  {
+    "id": 59,
+    "company": {
+      "id": 27,
+      "name": "BRICKWORKS BUILDING PRODUCTS"
+    },
+    "image": "",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-27T05:34:00.128857+00:00",
+    "last_update": "2024-05-02T12:01:14.490568+00:00",
+    "created_by": {
+      "id": 96,
+      "email": "eve.castle@brickworks.com.au"
+    },
+    "updated_by": {
+      "id": 96,
+      "email": "eve.castle@brickworks.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Austral Bricks",
+    "product_name": "Haven Clay Pavers",
+    "product_code": "Haven_arkose",
+    "product_description": "Haven pavers are crafted in a smaller format to match brickwork 230Lx76Wx65D",
+    "product_categories": [
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      },
+      {
+        "id": 8,
+        "category_name": "Masonry"
+      }
+    ],
+    "standard_dimensions": "230mm L x 76mm W x 65mm D",
+    "price_per_unit": 150.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Four weeks from order placement",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 54,
+        "certification": "Declare label",
+        "file": null,
+        "link": "https://declare.living-future.org/products/alfresco-haven-clay-pavers-rochedale",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": "No",
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "1",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Recycled in manufactured form or use as waste stream in new manufacturing",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 54,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://declare.living-future.org/products/alfresco-haven-clay-pavers-rochedale",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 100,
+    "factory_finished": true,
+    "factory_finished_description": "smooth finish p5 slip rating",
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 67,
+    "section_G_score": 100,
+    "responsible_products_rating": 0.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://bbp.style/PUBLIC/products/technical-information/australbricks/AB-Brickworks-Australia-2020-Climate-Active-PDS-20201120-Signed.pdf",
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "",
+    "files": [
+      {
+        "id": 35,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BRICKWORKS%20BUILDING%20PRODUCTS/Haven%20Clay%20Pavers/ModernSlaveryAssessment/BKW_Mode_wkGxPjC.pdf"
+      },
+      {
+        "id": 36,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/BRICKWORKS%20BUILDING%20PRODUCTS/Haven%20Clay%20Pavers/ModernSlaveryActionPlan/BKW_Mode_ubX0XQ1.pdf"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "company": {
+      "id": 26,
+      "name": "CHELMSTONE PTY LTD"
+    },
+    "image": "products/CHELMSTONE PTY LTD/Chelmstone-Tactile-Cautional-Voodoo-334-TGSI.PNG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-28T04:23:29.469203+00:00",
+    "last_update": "2024-05-09T06:33:30.098853+00:00",
+    "created_by": {
+      "id": 148,
+      "email": "tweller@chelmstone.com.au"
+    },
+    "updated_by": {
+      "id": 148,
+      "email": "tweller@chelmstone.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Chelmstone",
+    "product_name": "Hazard Tactile - Voodoo",
+    "product_code": "CHELMC34V",
+    "product_description": "Chelmstone Hazard Tactile Voodoo - 300 x 300 x 40mm",
+    "product_categories": [
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      }
+    ],
+    "standard_dimensions": "300 x 300 x 40mm",
+    "price_per_unit": 16.5,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "1-3 days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "Onshore facilities such as boral would recycle",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "Can be crushed and recycled",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Product can be crushed and re-used",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "50%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "It is a precast concrete product. Dry cutting will expose silica",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": null,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 93,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "component": "Seventeen Mile Rocks, QLD",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 113,
+        "location_name": "Ipswich QLD, Australia",
+        "location_lat": -27.614614,
+        "location_lon": 152.760842,
+        "material": "Aggregate",
+        "product_percentage": 50.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 95,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Use a glue based adhesive",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Sealed with a penetrative sealer",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 71,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CHELMSTONE%20PTY%20LTD/Hazard%20Tactile%20-%20Voodoo/compliance/TGSI_Independent_Slip_Testing.pdf",
+        "link": "",
+        "rating": null
+      },
+      {
+        "id": 72,
+        "requirement": "Luminance Contrast",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CHELMSTONE%20PTY%20LTD/Hazard%20Tactile%20-%20Voodoo/compliance/Chelmstone_Luminance_Values_TGSI.JPG",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "",
+    "files": []
+  },
+  {
+    "id": 168,
+    "company": {
+      "id": 77,
+      "name": "HOLCIM AUSTRALIA PTY LTD"
+    },
+    "image": "products/HOLCIM AUSTRALIA PTY LTD/ECOPact_Image.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-05-22T23:13:37.925579+00:00",
+    "last_update": "2024-05-22T14:00:00+00:00",
+    "created_by": {
+      "id": 641,
+      "email": "dylan.viviers@holcim.com"
+    },
+    "updated_by": {
+      "id": 641,
+      "email": "dylan.viviers@holcim.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Holcim Australia",
+    "product_name": "Holcim Ecopact",
+    "product_code": "Low Carbon Concrete",
+    "product_description": "ECOPact low-carbon concrete delivers 100% performance offering at least 30% lower CO2",
+    "product_categories": [
+      {
+        "id": 7,
+        "category_name": "Concrete"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      },
+      {
+        "id": 6,
+        "category_name": "Structure and Structural Framing"
+      },
+      {
+        "id": 10,
+        "category_name": "Substructure"
+      },
+      {
+        "id": 25,
+        "category_name": "Waterproofing"
+      }
+    ],
+    "standard_dimensions": "Low carbon Readymix concrete delivered to site",
+    "price_per_unit": 5.0,
+    "product_functional_unit": "m3",
+    "price_adjustment_structure": "$5.00 per/m3 on top of conventional concrete",
+    "lead_time": "As per standard concrete ordering",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 306,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": null,
+        "link": "https://epd-australasia.com/?s=holcim&post_type=epd",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 307,
+        "certification": "Other",
+        "file": null,
+        "link": "https://www.holcim.com.au/climate-active-certification",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 306,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://epd-australasia.com/?s=holcim&post_type=epd",
+        "rating": "undefined"
+      },
+      {
+        "id": 307,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://www.holcim.com.au/climate-active-certification",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": null,
+    "installation_risks_description": "",
+    "substances_of_concern": null,
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": null,
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 50,
+    "manufacturers_warranty_years": null,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [],
+    "material_locations": [],
+    "storage_locations": [],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Low Carbon Readymix concrete delivered to site, which is pumped, placed and finished as per the project specifications",
+    "section_A_score": 70,
+    "section_B_score": 0,
+    "section_C_score": 0,
+    "section_D_score": 25,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "",
+    "files": []
+  },
+  {
+    "id": 267,
+    "company": {
+      "id": 98,
+      "name": "POROUS LANE"
+    },
+    "image": "products/POROUS LANE/Porous_Lane.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-03T03:31:36.864012+00:00",
+    "last_update": "2024-10-13T13:00:00+00:00",
+    "created_by": {
+      "id": 1045,
+      "email": "bradley@porouslane.com.au"
+    },
+    "updated_by": {
+      "id": 1045,
+      "email": "bradley@porouslane.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Porous Lane",
+    "product_name": "Permeable Pavement Systems",
+    "product_code": "N/A",
+    "product_description": "High performance circular economy permeable pavement",
+    "product_categories": [
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      },
+      {
+        "id": 11,
+        "category_name": "Roof and Stormwater"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": 280.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": "$260 - $350 per sqm depending on required thickness, colour and size of installation",
+    "lead_time": "4 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": null,
+    "installation_risks_description": "",
+    "substances_of_concern": null,
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": null,
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 3,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [],
+    "material_locations": [
+      {
+        "id": 725,
+        "location_name": "Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Bluestone aggregate",
+        "product_percentage": 45.0
+      },
+      {
+        "id": 1100,
+        "location_name": "Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Post Consumer Tyre Aggregate",
+        "product_percentage": 45.0
+      },
+      {
+        "id": 1101,
+        "location_name": "Australia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Polyurethane Binder",
+        "product_percentage": 10.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 898,
+        "location_name": "Campbellfield VIC, Australia",
+        "location_lat": -37.671459,
+        "location_lon": 144.955648,
+        "location_state": " Australia",
+        "location_city": "Campbellfield VIC"
+      },
+      {
+        "id": 899,
+        "location_name": "Alexandria NSW 2015, Australia",
+        "location_lat": -37.671459,
+        "location_lon": 144.955648,
+        "location_state": " Australia",
+        "location_city": "Alexandria NSW 2015"
+      }
+    ],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 0,
+    "section_D_score": 25,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 843,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/POROUS%20LANE/Permeable%20Pavement%20Systems/compliance/ATTAR_Report_20408.3.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "",
+    "files": []
+  },
+  {
+    "id": 271,
+    "company": {
+      "id": 100,
+      "name": "CEMENT AUSTRALIA PTY LTD"
+    },
+    "image": "products/CEMENT AUSTRALIA PTY LTD/Screenshot_2024-07-04_115528.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-07-04T01:32:17.105758+00:00",
+    "last_update": "2024-07-03T14:00:00+00:00",
+    "created_by": {
+      "id": 1101,
+      "email": "martin.lynch@cemaust.com.au"
+    },
+    "updated_by": {
+      "id": 1101,
+      "email": "martin.lynch@cemaust.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Cement Australia",
+    "product_name": "Low Carbon Cement 20Kg",
+    "product_code": "18211",
+    "product_description": "A replacement for GP Cement with 30% less carbon and comparable strength performance and workability",
+    "product_categories": [
+      {
+        "id": 7,
+        "category_name": "Concrete"
+      },
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      },
+      {
+        "id": 8,
+        "category_name": "Masonry"
+      }
+    ],
+    "standard_dimensions": "20kg",
+    "price_per_unit": null,
+    "product_functional_unit": "kg",
+    "price_adjustment_structure": null,
+    "lead_time": "In stock",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 481,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CEMENT%20AUSTRALIA%20PTY%20LTD/Low%20Carbon%20Cement%2020Kg/certificates/EPD_Low_Carbon_Cement.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": 0.0,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Low Carbon Cement is used to create concrete or mortar which can be recycled into other construction materials at concrete recycling facilities",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Low Carbon Cement is used to create concrete or mortar which can be recycled into other construction materials at concrete recycling facilities",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "The product contains fly ash which is a waste product from coal fired power stations and is compliant to AS3582.1",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Low Carbon Cement is used to create concrete or mortar which can be recycled into other construction materials at concrete recycling facilities",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 481,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/CEMENT%20AUSTRALIA%20PTY%20LTD/Low%20Carbon%20Cement%2020Kg/certificates/EPD_Low_Carbon_Cement.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 312,
+        "location_name": "Gladstone QLD, Australia",
+        "location_lat": -23.842649,
+        "location_lon": 151.248859,
+        "component": "Cement",
+        "component_percentage": 70.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 425,
+        "location_name": "Gladstone QLD, Australia",
+        "location_lat": -23.842649,
+        "location_lon": 151.248859,
+        "material": "Fly Ash",
+        "product_percentage": 30.0
+      },
+      {
+        "id": 424,
+        "location_name": "Gladstone QLD, Australia",
+        "location_lat": -23.842649,
+        "location_lon": 151.248859,
+        "material": "Cement",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 364,
+        "location_name": "West Footscray VIC, Australia",
+        "location_lat": -37.800671,
+        "location_lon": 144.871665,
+        "location_state": " Australia",
+        "location_city": "West Footscray VIC"
+      },
+      {
+        "id": 365,
+        "location_name": "Clyde NSW, Australia",
+        "location_lat": -33.833407,
+        "location_lon": 151.018731,
+        "location_state": " Australia",
+        "location_city": "Clyde NSW"
+      },
+      {
+        "id": 366,
+        "location_name": "Pinkenba QLD, Australia",
+        "location_lat": -27.430944,
+        "location_lon": 153.111294,
+        "location_state": " Australia",
+        "location_city": "Pinkenba QLD"
+      }
+    ],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 86,
+    "section_F_score": 100,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Cement Australia has developed a new product called Low Carbon Cement in 20kg bags as a direct replacement for GP Cement 20kg bags.  Low Carbon Cement is a blend of GP Cement, Fly Ash and proprietary additives to achieve a product that provides both a 30% carbon reduction relative to GP Cement, whilst also maintaining comparable strength performance and workability to GP Cement.  Cement Australia has already received positive feedback from a number of field trials across Melbourne indicating that there was no difference in performance to GP.  Low Carbon Cement complies with the Type GB requirements of Australian Standard AS3972 and will be supported by an independently verified Environmental Product Declaration (EPD).  \r\n\r\nCement Australia is leading the construction industry with a clear solution to reduce embodied carbon in concrete and mortar without compromising on strength performance or compliance to Australian Standards, and support our societies need to decarbonisation and reach net zero emissions by 2050.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Paper sacks are used for packaging which can be recycled",
+    "files": []
+  },
+  {
+    "id": 481,
+    "company": {
+      "id": 132,
+      "name": "SABDRAIN AUSTRALASIA"
+    },
+    "image": "products/SABDRAIN AUSTRALASIA/slot.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-25T00:02:43.651888+00:00",
+    "last_update": "2024-09-24T14:00:00+00:00",
+    "created_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "updated_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Jonite",
+    "product_name": "Stone Trench Grate",
+    "product_code": "JONITETRENCH",
+    "product_description": "Reinforced stone trench grates with a range of designs & colours with customization available.",
+    "product_categories": [
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      }
+    ],
+    "standard_dimensions": "Sizes up to 1M wide",
+    "price_per_unit": 170.0,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "Priced per quantity",
+    "lead_time": "14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1217,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1218,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1219,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Jonite can be crushed and broken down into smaller aggregates to be used as road base.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "N/A",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Ensure job is measured thoroughly. Jonite produces exact amounts for each project.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1217,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1218,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1219,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Created from 95% natural aggregates and advanced hybrid polymers, Jonite products provide a finish which is both luxurious and natural to the touch",
+    "manufacturing_locations": [
+      {
+        "id": 615,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "component": "Calcium oxide",
+        "component_percentage": 69.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 867,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "Calcium oxide",
+        "product_percentage": 69.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 745,
+        "location_name": "Campbelltown NSW, Australia",
+        "location_lat": -34.066615,
+        "location_lon": 150.819557,
+        "location_state": " Australia",
+        "location_city": "Campbelltown NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 704,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 705,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1_dyjtfme.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 706,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_Water_AbsorptionSS245.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 707,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_SlipTest_SS485.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Wooden crate, cardboard packing with plastic film wrap",
+    "files": [
+      {
+        "id": 958,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/RecycledContent/R20240326351.pdf"
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "company": {
+      "id": 132,
+      "name": "SABDRAIN AUSTRALASIA"
+    },
+    "image": "products/SABDRAIN AUSTRALASIA/jonitepoolweb_24.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-25T01:23:42.286313+00:00",
+    "last_update": "2024-09-24T14:00:00+00:00",
+    "created_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "updated_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Jonite",
+    "product_name": "Stone Pool Grates",
+    "product_code": "JONITEPOOL",
+    "product_description": "Stone specialty pool grates with a range of designs & colours with customization available.",
+    "product_categories": [
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      }
+    ],
+    "standard_dimensions": "Sizes up to 1M wide",
+    "price_per_unit": 170.0,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "Priced per quantity",
+    "lead_time": "14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1220,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1221,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1222,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Jonite can be crushed and broken down into smaller aggregates to be used as road base.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "N/A",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Ensure job is measured thoroughly. Jonite produces exact amounts for each project.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1220,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1221,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1222,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Created from 95% natural aggregates and advanced hybrid polymers, Jonite products provide a finish which is both luxurious and natural to the touch",
+    "manufacturing_locations": [
+      {
+        "id": 616,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "component": "Calcium oxide",
+        "component_percentage": 69.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 868,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "Calcium oxide",
+        "product_percentage": 69.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 746,
+        "location_name": "Campbelltown NSW, Australia",
+        "location_lat": -34.066615,
+        "location_lon": 150.819557,
+        "location_state": " Australia",
+        "location_city": "Campbelltown NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 708,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 709,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1_dyjtfme.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 710,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_Water_AbsorptionSS245.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 711,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_SlipTest_SS485.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Wooden crate, cardboard packing with plastic film wrap",
+    "files": [
+      {
+        "id": 959,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/RecycledContent/R20240326351.pdf"
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "company": {
+      "id": 132,
+      "name": "SABDRAIN AUSTRALASIA"
+    },
+    "image": "products/SABDRAIN AUSTRALASIA/full_02_-_tree_grate__custom__2.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-09-25T01:37:06.813249+00:00",
+    "last_update": "2024-09-24T14:00:00+00:00",
+    "created_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "updated_by": {
+      "id": 1482,
+      "email": "tarrick@sabdrain.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Jonite",
+    "product_name": "Stone Tree Grates",
+    "product_code": "JONITETREE",
+    "product_description": "Reinforced stone tree grates in a range of designs & colours with customization available.",
+    "product_categories": [
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      }
+    ],
+    "standard_dimensions": "Sizes up to 5M diameter",
+    "price_per_unit": 4000.0,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": "Priced per unit",
+    "lead_time": "14 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 1223,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1224,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 1225,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": "",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "Unsure",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "N/A",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "Unsure",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Jonite can be crushed and broken down into smaller aggregates to be used as road base.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "N/A",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Ensure job is measured thoroughly. Jonite produces exact amounts for each project.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 1223,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/e12cecba-0d20-4d59-a993-37e0553dd63a.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1224,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/3900ca82-4e24-4db7-a943-fd4f0e73dbb0.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 1225,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/certificates/9370826c-152d-436b-a667-2b477d10f3e1.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 1,
+    "factory_finished": true,
+    "factory_finished_description": "Created from 95% natural aggregates and advanced hybrid polymers, Jonite products provide a finish which is both luxurious and natural to the touch",
+    "manufacturing_locations": [
+      {
+        "id": 617,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "component": "Calcium oxide",
+        "component_percentage": 69.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 869,
+        "location_name": "Singapore",
+        "location_lat": 1.281187,
+        "location_lon": 103.85034,
+        "material": "Calcium oxide",
+        "product_percentage": 69.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 747,
+        "location_name": "Campbelltown NSW, Australia",
+        "location_lat": -34.066615,
+        "location_lon": 150.819557,
+        "location_state": " Australia",
+        "location_city": "Campbelltown NSW"
+      }
+    ],
+    "specific_installation": "Unsure",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 712,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 713,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_BS476Part7FireTest_1_dyjtfme.pdf",
+        "link": "",
+        "rating": ""
+      },
+      {
+        "id": 714,
+        "requirement": "Water, damp or weatherproofing (including FP1.4)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_Water_AbsorptionSS245.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 715,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Elementa/compliance/JN_SlipTest_SS485.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "Wooden crate, cardboard packing with plastic film wrap",
+    "files": [
+      {
+        "id": 960,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/SABDRAIN%20AUSTRALASIA/Modubloc/RecycledContent/R20240326351.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1094,
+    "company": {
+      "id": 172,
+      "name": "MUDTEC PTY. LTD."
+    },
+    "image": "products/MUDTEC PTY. LTD./COM_NO_Holes.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-03-27T07:50:23.434697+00:00",
+    "last_update": "2025-03-27T13:00:00+00:00",
+    "created_by": {
+      "id": 2180,
+      "email": "info@mudtec.com.au"
+    },
+    "updated_by": {
+      "id": 2180,
+      "email": "info@mudtec.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Mudtec Pty. Ltd.",
+    "product_name": "Mudtec Earth Bricks",
+    "product_code": "MT EB1",
+    "product_description": "Compressed earth bricks that are sustainable, fire-safe, breathable, ideal for eco-friendly builds.",
+    "product_categories": [
+      {
+        "id": 2,
+        "category_name": "External Wall Claddings and Facades and systems"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      },
+      {
+        "id": 8,
+        "category_name": "Masonry"
+      },
+      {
+        "id": 28,
+        "category_name": "Other"
+      }
+    ],
+    "standard_dimensions": "350/250/90",
+    "price_per_unit": 7.5,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "4-6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": 0.42,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "The product can be crushed and used to make new bricks.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Offcuts can be reused or crushed to make new bricks.",
+    "recycled_content_percentage": "Unsure",
+    "recycled_content_description": "",
+    "recycling_process_description": "Yes, old bricks can be crushed and turned into new bricks.",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "95",
+    "compostable_conditions": "Bricks are made from unfired soil. If crushed, will return to the earth.",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Bricks can be reused by careful dismantling and removing mortar.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Yes, 100% rainwater",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "The dimensions of the bricks should be considered to reduce wastage.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "All components made locally.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "Silica content. Use wet cut saw and P2 dust mask when cutting.",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "No",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 100,
+    "manufacturers_warranty_years": 20,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2032,
+        "location_name": "Somersby NSW, Australia",
+        "location_lat": -33.356903,
+        "location_lon": 151.290435,
+        "component": "Brick manufacturing",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2420,
+        "location_name": "Branxton NSW, Australia",
+        "location_lat": -32.655954,
+        "location_lon": 151.3514,
+        "material": "Overburden soil",
+        "product_percentage": 62.0
+      },
+      {
+        "id": 2421,
+        "location_name": "Somersby NSW, Australia",
+        "location_lat": -33.356903,
+        "location_lon": 151.290435,
+        "material": "Brickies Sand",
+        "product_percentage": 32.0
+      },
+      {
+        "id": 2422,
+        "location_name": "",
+        "location_lat": -33.356903,
+        "location_lon": 151.290435,
+        "material": "Portland Cement",
+        "product_percentage": 6.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1647,
+        "location_name": "Somersby NSW, Australia",
+        "location_lat": -33.356903,
+        "location_lon": 151.290435,
+        "location_state": " Australia",
+        "location_city": "Somersby NSW"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "For single skin external walls, coat in a siloxane based breathable sealant or render with lime plaster.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Our product is made using local materials, with minimal processing and can be reused, recycled into new bricks or returned to the soil at end of life.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Reusable pallets. Plastic wrap can be recycled with soft plastics.",
+    "files": []
+  },
+  {
+    "id": 1456,
+    "company": {
+      "id": 207,
+      "name": "FUTURE VILLAGE"
+    },
+    "image": "products/FUTURE VILLAGE/Future_Village_garden_tray.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-09-26T05:17:19.687653+00:00",
+    "last_update": "2025-09-25T14:00:00+00:00",
+    "created_by": {
+      "id": 2834,
+      "email": "ben@futurevillage.com.au"
+    },
+    "updated_by": {
+      "id": 2834,
+      "email": "ben@futurevillage.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Future Village",
+    "product_name": "Floating Garden Tray",
+    "product_code": "106",
+    "product_description": "Modular garden tray with water reservoir and wicking",
+    "product_categories": [
+      {
+        "id": 29,
+        "category_name": "External Works, Landscaping and Traffic"
+      },
+      {
+        "id": 5,
+        "category_name": "Landscaping and traffic"
+      },
+      {
+        "id": 11,
+        "category_name": "Roof and Stormwater"
+      }
+    ],
+    "standard_dimensions": "1200 x 1200 x (220 / 380)",
+    "price_per_unit": 520.0,
+    "product_functional_unit": "m3",
+    "price_adjustment_structure": "Qty",
+    "lead_time": "2 - 6 weeka",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "THe main component- tub and the internal drain cell can be sent to plastic recycling",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "tray offcuts are sent to recycling",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "",
+    "recycling_process_description": "High molecular weight polyethylene and polypropylene ca be recycled back into the same raw material",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "The product is modular and free standing and can be used in different locations",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "Our business takes back and repurposes trays that are not required",
+    "water_reduction_techniques": "On site rainwater. 35%",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "The trays come in 1200 x 1200 size and should be laid out in most efffecient formats.  The trays can be cut to any shape and then plastic welded.  If bespoke shapes required then can the offcut also be welded and reformed to be used as a separae tray.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Unsure",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 20,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2815,
+        "location_name": "Brookvale NSW, Australia",
+        "location_lat": -33.76497,
+        "location_lon": 151.270448,
+        "component": "Tray",
+        "component_percentage": 80.0
+      },
+      {
+        "id": 2816,
+        "location_name": "Glenorie NSW, Australia",
+        "location_lat": -33.601551,
+        "location_lon": 151.007874,
+        "component": "Drain Cell",
+        "component_percentage": 8.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3283,
+        "location_name": "Brookvale NSW, Australia",
+        "location_lat": -33.76497,
+        "location_lon": 151.270448,
+        "material": "High molecular weight polyethylene (HMWPE)",
+        "product_percentage": 90.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2299,
+        "location_name": "Glenorie NSW, Australia",
+        "location_lat": -33.601551,
+        "location_lon": 151.007874,
+        "location_state": " Australia",
+        "location_city": "Glenorie NSW"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Product contains 86 - 132 mm of water reservoir.  Can be adjusted for stormwater retention and detention requirements.\r\nThermal insulation - Turf.  R Value 0.82 | Garden 0.91. | Deep garden tray 1.09\r\nSUB IRRIGATION & WICKING\r\nInternal water refill system.\r\nPlumbed in or free standing elements.\r\nCompatible with standard hose snap lock fittings and other irrigation systems.\r\nPressure compensated design ensures uniform water distribution across all trays.\r\nDaisy chain trays together for simplified, scalable irrigation setup.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2987,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FUTURE%20VILLAGE/Floating%20Garden%20Tray/compliance/250902_JV25-00223_Future_Village_Garden_Trays_CAN_1.pdf",
+        "link": "",
+        "rating": "Type B & C No FRL Required. Type A May require roof FRLs, but concessions exist "
+      },
+      {
+        "id": 2988,
+        "requirement": "BAL Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FUTURE%20VILLAGE/Floating%20Garden%20Tray/compliance/250902_JV25-00223_Future_Village_Garden_Trays_CAN_1_n0JOwci.pdf",
+        "link": "",
+        "rating": ""
+      }
+    ],
+    "type_of_packaging": "they require no packaging other than strapping",
+    "files": [
+      {
+        "id": 4139,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/FUTURE%20VILLAGE/Floating%20Garden%20Tray/ModernSlaveryActionPlan/Future_Village_modern-slavery-policy.pdf"
+      }
+    ]
+  }
+]

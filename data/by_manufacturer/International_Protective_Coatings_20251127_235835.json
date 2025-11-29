@@ -1,0 +1,235 @@
+[
+  {
+    "id": 1051,
+    "company": {
+      "id": 165,
+      "name": "AKZO NOBEL PTY LIMITED"
+    },
+    "image": "products/AKZO NOBEL PTY LIMITED/paint_can_image.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-02-19T05:00:30.332064+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "updated_by": {
+      "id": 1891,
+      "email": "keith.owen@akzonobel.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "International Protective Coatings",
+    "product_name": "Interzinc 52",
+    "product_code": "EPA142",
+    "product_description": "Zinc Rich Epoxy Primer",
+    "product_categories": [
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "litre",
+    "price_adjustment_structure": null,
+    "lead_time": "1 day",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4030,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interzinc%2052/certificates/1.1.00462.2023_MRPI-EPD_Interzinc_52.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 12.11,
+    "upfront_carbon_emissions": 12.11,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "0",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "No",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "No",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "Percentage depends on the manufacturing location",
+    "transport_emissions_minimisation_techniques": "Not applicable",
+    "minimisation_design_strategy": "Optimised specifications to reduce materials usage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4030,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interzinc%2052/certificates/1.1.00462.2023_MRPI-EPD_Interzinc_52.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Yes",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "refer to SDS",
+    "substances_of_concern": "Unsure",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Not Applicable",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 15,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 1964,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "component": "Finished product",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2337,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "material": "Bulk of raw materials manufactured in Asia",
+        "product_percentage": 70.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1535,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      },
+      {
+        "id": 1536,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 1537,
+        "location_name": "Hobart TAS, Australia",
+        "location_lat": -42.882606,
+        "location_lon": 147.32572,
+        "location_state": " Australia",
+        "location_city": "Hobart TAS"
+      },
+      {
+        "id": 1538,
+        "location_name": "Brisbane QLD, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Brisbane QLD"
+      },
+      {
+        "id": 1539,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -27.470453,
+        "location_lon": 153.026034,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 1540,
+        "location_name": "Darwin NT, Australia",
+        "location_lat": -12.463733,
+        "location_lon": 130.844445,
+        "location_state": " Australia",
+        "location_city": "Darwin NT"
+      },
+      {
+        "id": 1541,
+        "location_name": "Adelaide SA, Australia",
+        "location_lat": -34.928499,
+        "location_lon": 138.600746,
+        "location_state": " Australia",
+        "location_city": "Adelaide SA"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "Applied by protective coatings qualified applicator",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "https://www.akzonobel.com/en/about-us/sustainability-",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [],
+    "type_of_packaging": "Steel can, recyclable",
+    "files": [
+      {
+        "id": 3216,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interzinc%2052/ModernSlaveryActionPlan/akzoNobel-modern-slavery-statement-2023.pdf"
+      },
+      {
+        "id": 3215,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/AKZO%20NOBEL%20PTY%20LIMITED/Interzinc%2052/ModernSlaveryAssessment/akzoNobel-modern-slavery-statement-2023.pdf"
+      }
+    ]
+  }
+]

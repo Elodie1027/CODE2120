@@ -1,0 +1,242 @@
+[
+  {
+    "id": 129,
+    "company": {
+      "id": 40,
+      "name": "ORTECH INDUSTRIES"
+    },
+    "image": "products/ORTECH INDUSTRIES/DSC_0862.2.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-14T23:05:08.238937+00:00",
+    "last_update": "2024-05-09T04:45:39.099204+00:00",
+    "created_by": {
+      "id": 191,
+      "email": "rosie@ortech.com.au"
+    },
+    "updated_by": {
+      "id": 191,
+      "email": "rosie@ortech.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Ortech Industries",
+    "product_name": "Durra Panel",
+    "product_code": "S50 Natural Finish",
+    "product_description": "Durra Panel is a truly sustainable compressed straw panel building material with a 100% straw core.",
+    "product_categories": [
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "Standard width: 1187mm, Length: 1200-3600mm",
+    "price_per_unit": 39.1,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "4-6 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 244,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORTECH%20INDUSTRIES/Durra%20Panel/certificates/Durra_Panel_-_Environmental_Product_Declaration_m70wTZN.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": 12.6,
+    "embodied_energy_provided": "Yes",
+    "embodied_water_content": 0.01,
+    "embodied_water_content_provided": "Yes",
+    "net_carbon_emissions": -19.3,
+    "upfront_carbon_emissions": -19.3,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "Durra Panel is 100% biodegradable and can be shredded and used as compost at the end of its useful life.",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Durra Panel is 100% biodegradable and can be shredded and used as compost at the end of its useful life.",
+    "recycled_content_percentage": "95",
+    "recycled_content_description": "Durra Panel is primarily made from reclaimed wheat straw, a by-product of annual harvesting.\r\n\r\nVisy kraft liner used is made from 100% recycled materials.",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "95",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Durra Panel and Durra Steel Sections can be used to create modular wall and ceiling systems which are simple to demount and reuse.",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "Durra Panel is 100% biodegradable and can be shredded and used as compost at the end of its useful life.",
+    "water_reduction_techniques": "0%",
+    "transport_emissions_minimisation_techniques": "Durra Panel is supplied direct from manufacturing facility to customer, typically no offsite storage required.",
+    "minimisation_design_strategy": "Durra Panel can provide made to order lengths which avoid waste both during the manufacturing process and cutting onsite.",
+    "modern_slavery_assessment_complete": "No",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 244,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORTECH%20INDUSTRIES/Durra%20Panel/certificates/Durra_Panel_-_Environmental_Product_Declaration_m70wTZN.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 70,
+    "manufacturers_warranty_years": 5,
+    "factory_finished": true,
+    "factory_finished_description": "Product is factory finished, ready for immediate installation after delivery.",
+    "manufacturing_locations": [
+      {
+        "id": 135,
+        "location_name": "Bendigo VIC, Australia",
+        "location_lat": -36.757016,
+        "location_lon": 144.279391,
+        "component": "Durra Panel",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 171,
+        "location_name": "Elmore VIC, Australia",
+        "location_lat": -36.496782,
+        "location_lon": 144.606961,
+        "material": "Straw",
+        "product_percentage": 96.22
+      },
+      {
+        "id": 172,
+        "location_name": "Tumut NSW, Australia",
+        "location_lat": -35.310866,
+        "location_lon": 148.231162,
+        "material": "Recycled kraft paper liner",
+        "product_percentage": 3.55
+      },
+      {
+        "id": 173,
+        "location_name": "Seven Hills NSW, Australia",
+        "location_lat": -33.777912,
+        "location_lon": 150.932158,
+        "material": "Water based PVA glue",
+        "product_percentage": 0.23
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 173,
+        "location_name": "Bendigo VIC, Australia",
+        "location_lat": -36.757016,
+        "location_lon": 144.279391,
+        "location_state": " Australia",
+        "location_city": "Bendigo VIC"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "To assist in demounting and biodegrading:\r\n- Dry fixing methods are recommended (screw fixings only).\r\n- Avoid toxic paints/coatings.\r\n- Use low VOCs paints or natural sealants such as beeswax.",
+    "applied_finish_required": true,
+    "applied_finish_required_description": "When installing Durra Panel, it’s important to remember that the building envelope must be weathertight before you begin the installation.\r\n\r\nDurra Panel wall and ceiling surfaces must be finished with an undercoat sealer immediately after product installation has been completed.",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "- Durra Panel is made from one of the world's most wasted resources, straw.\r\n- By purchasing this waste material, local farmers receive a secondary source of income and stubble burning is reduced.\r\n- The manufacturing process uses no resins or binding agents, no water or gas and produces zero toxic waste.\r\n- Durra Panel creates healthy indoor air environments, being 99.9% free from VOCs (biophilia).\r\n- Durra Panel sustainably provides acoustic, thermal and fire resistant benefits within the one product.\r\n- Demountable and reusable or 100% biodegradable at end of life.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 126,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORTECH%20INDUSTRIES/Durra%20Panel/compliance/AS_5637.1-2015_Group_Rating_Assessment_Rev_A_j4FJYoK.pdf",
+        "link": "",
+        "rating": null
+      },
+      {
+        "id": 127,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORTECH%20INDUSTRIES/Durra%20Panel/compliance/CSIRO_Durra_Panel_Ceiling_-_1_Hour_Fire_Rating_5mkUDCw.pdf",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "Standard cardboard and plastic wrap is used to protect the product during transport.",
+    "files": [
+      {
+        "id": 104,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORTECH%20INDUSTRIES/Durra%20Panel/VOC/TRP501_-_CETEC_VOC_Emissions_Sept_2008_CV080914.pdf"
+      },
+      {
+        "id": 105,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORTECH%20INDUSTRIES/Durra%20Panel/VOC/TRP501_-_CETEC_VOC_Emissions_Sept_2008_CV080914_p6fxlft.pdf"
+      },
+      {
+        "id": 106,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORTECH%20INDUSTRIES/Durra%20Panel/VOC/TRP501_-_CETEC_VOC_Emissions_Sept_2008_CV080914_oy5YD3c.pdf"
+      },
+      {
+        "id": 107,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORTECH%20INDUSTRIES/Durra%20Panel/LCA/Durra_Panel_-_Environmental_Product_Declaration.pdf"
+      },
+      {
+        "id": 108,
+        "category": "CompostableCertificate",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORTECH%20INDUSTRIES/Durra%20Panel/CompostableCertificate/Total_Elemental_Analysis.pdf"
+      },
+      {
+        "id": 109,
+        "category": "CompostableCertificate",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ORTECH%20INDUSTRIES/Durra%20Panel/CompostableCertificate/Total_Elemental_Analysis_RKO26GS.pdf"
+      }
+    ]
+  }
+]

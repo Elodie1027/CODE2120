@@ -1,0 +1,197 @@
+[
+  {
+    "id": 39,
+    "company": {
+      "id": 9,
+      "name": "Oslek Flooring"
+    },
+    "image": "products/Oslek Flooring/IVRY7840.JPG",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-02-13T23:14:16.219793+00:00",
+    "last_update": "2024-02-14T00:43:18.707090+00:00",
+    "created_by": {
+      "id": 93,
+      "email": "fiona@oslek.com.au"
+    },
+    "updated_by": {
+      "id": 93,
+      "email": "fiona@oslek.com.au"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Oslek Flooring",
+    "product_name": "Engineered Timber Flooring",
+    "product_code": null,
+    "product_description": "Premium engineered flooring in European or Australian Oak, coated in VOC-free LED Hardwax Oil.",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      },
+      {
+        "id": 16,
+        "category_name": "Paint & Applied Finishes"
+      },
+      {
+        "id": 9,
+        "category_name": "Timber"
+      }
+    ],
+    "standard_dimensions": "1900 x 190 x 15/4",
+    "price_per_unit": 140.0,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "2 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": null,
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": null,
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": null,
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": null,
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": null,
+    "compostable_percentage": null,
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": null,
+    "reusable_description": "",
+    "end_of_life_program": null,
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "",
+    "modern_slavery_assessment_complete": null,
+    "modern_slavery_action_plan_complete": null,
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "",
+    "modern_slavery_incidents": null,
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": null,
+    "risk_of_harm_posed_description": "",
+    "installation_risks": null,
+    "installation_risks_description": "",
+    "substances_of_concern": null,
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": null,
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "European oak finished in Mitcham, Melbourne using VOC-free LED Hardwax Oil.",
+    "manufacturing_locations": [
+      {
+        "id": 25,
+        "location_name": "Mitcham VIC, Australia",
+        "location_lat": -37.816358,
+        "location_lon": 145.193668,
+        "component": "Engineered Timber Flooring ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 40,
+        "location_name": "Suqian, Jiangsu, China",
+        "location_lat": 33.96193,
+        "location_lon": 118.27549,
+        "material": "Plywood",
+        "product_percentage": 73.0
+      },
+      {
+        "id": 41,
+        "location_name": "Jiaxing, Zhejiang, China",
+        "location_lat": 30.753924,
+        "location_lon": 120.758543,
+        "material": "Veneer",
+        "product_percentage": 25.0
+      },
+      {
+        "id": 42,
+        "location_name": "Someren, Netherlands",
+        "location_lat": 51.384967,
+        "location_lon": 5.712367,
+        "material": "LED Hardwax Oil ",
+        "product_percentage": 2.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 38,
+        "location_name": "Mitcham VIC, Australia",
+        "location_lat": -37.816358,
+        "location_lon": 145.193668,
+        "location_state": " Australia",
+        "location_city": "Mitcham VIC"
+      }
+    ],
+    "specific_installation": null,
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 0,
+    "section_D_score": 25,
+    "section_E_score": 0,
+    "section_F_score": 67,
+    "section_G_score": 0,
+    "responsible_products_rating": null,
+    "independent_lca": null,
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [
+      {
+        "id": 18,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Oslek%20Flooring/Engineered%20Timber%20Flooring/compliance/Timber-Flooring-Slip-Test__xhgEZ0w.pdf",
+        "link": "",
+        "rating": null
+      },
+      {
+        "id": 19,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/Oslek%20Flooring/Engineered%20Timber%20Flooring/compliance/H___extract__texsys__temp__iBOcVcY.PDF",
+        "link": "",
+        "rating": null
+      }
+    ],
+    "type_of_packaging": "",
+    "files": []
+  }
+]

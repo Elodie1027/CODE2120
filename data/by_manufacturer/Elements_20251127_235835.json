@@ -1,0 +1,185 @@
+[
+  {
+    "id": 132,
+    "company": {
+      "id": 48,
+      "name": "DISTRICT FURNITURE PTY LTD"
+    },
+    "image": "products/DISTRICT FURNITURE PTY LTD/DUO_Single.360.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2024-04-17T01:35:39.612803+00:00",
+    "last_update": "2024-07-24T14:00:00+00:00",
+    "created_by": {
+      "id": 70,
+      "email": "vanessam@district.com.au"
+    },
+    "updated_by": {
+      "id": 70,
+      "email": "vanessam@district.com.au"
+    },
+    "user_role": "Supplier",
+    "manufacturer_name": "Elements",
+    "product_name": "Duo Workstation & Table Base",
+    "product_code": "DUO",
+    "product_description": "DUO provides scalability without clutter and privacy without walls. This tidy aesthetic invites more",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "Varies",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "12-14 Weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "The Duo Base is constructed of almost 95% steel which is commercially recyclable in Australia.",
+    "recyclable_offcuts": "Unsure",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Unsure",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Duo is comprised of steel components designed to be easily configured and disassembled.",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "At the end of a product's life, District connects clients with GreenChair, who facilitate the reuse of furniture by collecting and distributing to an extensive network of charities.",
+    "water_reduction_techniques": "No",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Consider whether single desks or multi-user workstation systems are needed. Single workstations offer greater flexibility and can be more easily reused at the end of their life. However, multi-station workstations require less upfront raw material.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "No",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "District voluntarily report under the Modern Slavery Act 2018. In 2024 District engaged an external consultant to provide a gap analysis of our statement and we are now working on robust Action Plan for implementation FY24-25.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": null,
+    "manufacturers_warranty_years": 10,
+    "factory_finished": true,
+    "factory_finished_description": "Powdercoated in Dulux Surreal Effects Mannex (Black, Grey or Suede)",
+    "manufacturing_locations": [
+      {
+        "id": 384,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Steel ",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 573,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "material": "Steel ",
+        "product_percentage": 99.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 175,
+        "location_name": "Perth WA, Australia",
+        "location_lat": -31.951399,
+        "location_lon": 115.861678,
+        "location_state": " Australia",
+        "location_city": "Perth WA"
+      },
+      {
+        "id": 176,
+        "location_name": "Melbourne VIC, Australia",
+        "location_lat": -37.813628,
+        "location_lon": 144.963058,
+        "location_state": " Australia",
+        "location_city": "Melbourne VIC"
+      },
+      {
+        "id": 177,
+        "location_name": "Sydney NSW, Australia",
+        "location_lat": -33.86882,
+        "location_lon": 151.209296,
+        "location_state": " Australia",
+        "location_city": "Sydney NSW"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Adhesive can not be used to glue workstation or meeting table tops to the base. Tops must have pilot holes to ensure screw fixing to frame only.",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 80,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 0.0,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": false,
+    "compliance_requirements": [],
+    "type_of_packaging": "Currently clear plastic film and packing foam are used to transport the workstations to site. However, District are reviewing their packaging via our APCO membership and reporting framework with an aim to reduce reliance for protective plastics.",
+    "files": [
+      {
+        "id": 572,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DISTRICT%20FURNITURE%20PTY%20LTD/Duo%20Workstation%20%26%20Table%20Base/VOC/Dulux_Powder_Coatings_Surreal_Effects_Mannex_textured_range.pdf"
+      },
+      {
+        "id": 573,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/DISTRICT%20FURNITURE%20PTY%20LTD/Duo%20Workstation%20%26%20Table%20Base/ModernSlaveryAssessment/FY22-23_District-Modern-Slavery-Statement.pdf"
+      }
+    ]
+  }
+]

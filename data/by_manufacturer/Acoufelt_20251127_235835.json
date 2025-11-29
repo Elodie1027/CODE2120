@@ -1,0 +1,270 @@
+[
+  {
+    "id": 1334,
+    "company": {
+      "id": 137,
+      "name": "ACOUFELT PTY LTD"
+    },
+    "image": "products/ACOUFELT PTY LTD/51a0d4be-703b-4402-88da-9c87910f15d7.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-07-30T06:27:08.222780+00:00",
+    "last_update": "2025-08-04T14:00:00+00:00",
+    "created_by": {
+      "id": 1592,
+      "email": "karina.deboar@acoufelt.com"
+    },
+    "updated_by": {
+      "id": 1592,
+      "email": "karina.deboar@acoufelt.com"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Acoufelt",
+    "product_name": "Filasorb Panel",
+    "product_code": null,
+    "product_description": "Acoustic panel",
+    "product_categories": [
+      {
+        "id": 33,
+        "category_name": "Acoustics"
+      },
+      {
+        "id": 1,
+        "category_name": "Ceiling and Soffit (Systems and Finishes)"
+      },
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 31,
+        "category_name": "Textiles"
+      }
+    ],
+    "standard_dimensions": null,
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "1 - 8 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4964,
+        "certification": "Declare label",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/certificates/FEC26_Acoufelt_FilaSorb_Acoustic_Panel_Declare_Label_3PV_XW46y76.jpg",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4965,
+        "certification": "Environmental Product Declaration (EPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/certificates/FEC16_Acoufelt_FilaSorb_Panels_WoodBeQuiet_Planks_EPDThailand_Gate_t0wHrss.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4966,
+        "certification": "Health Product Declaration (HPD)",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/certificates/FEC24_Acoufelt_FilaSorb_Panel_HPD_7NPydVE.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4967,
+        "certification": "SCS Indoor Advantage",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/certificates/FEC32_Acoufelt_FilaSorb_Acoustic_Panel_SCS_Global_Indoor_Advantage_Gold_Certificate_KBxoUPW.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": "No",
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 6.51,
+    "upfront_carbon_emissions": 6.51,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "UPPAREL can recycle 100% PET panel",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Upparel",
+    "recycled_content_percentage": "51",
+    "recycled_content_description": "60% recycled PET",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Use magnets/lock-in t-grid design and other non-adhesive install options",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "UPPAREL",
+    "water_reduction_techniques": "water is not used in the making of this product, the factory harvests rainwater for amenities",
+    "transport_emissions_minimisation_techniques": "modular packing for installation on site, top loading",
+    "minimisation_design_strategy": "using full panel",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "According to BMS",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4964,
+        "certification": "Declare label",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/certificates/FEC26_Acoufelt_FilaSorb_Acoustic_Panel_Declare_Label_3PV_XW46y76.jpg",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4965,
+        "certification": "Environmental Product Declaration (EPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/certificates/FEC16_Acoufelt_FilaSorb_Panels_WoodBeQuiet_Planks_EPDThailand_Gate_t0wHrss.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4966,
+        "certification": "Health Product Declaration (HPD)",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/certificates/FEC24_Acoufelt_FilaSorb_Panel_HPD_7NPydVE.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4967,
+        "certification": "SCS Indoor Advantage",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/certificates/FEC32_Acoufelt_FilaSorb_Acoustic_Panel_SCS_Global_Indoor_Advantage_Gold_Certificate_KBxoUPW.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "Unsure",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 20,
+    "manufacturers_warranty_years": 20,
+    "factory_finished": true,
+    "factory_finished_description": "Acoustic Panel",
+    "manufacturing_locations": [
+      {
+        "id": 2505,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "component": "Acoustic Panel",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 3045,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "material": "polyester",
+        "product_percentage": 100.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 2040,
+        "location_name": "Bayswater North VIC, Australia",
+        "location_lat": -37.825988,
+        "location_lon": 145.287497,
+        "location_state": " Australia",
+        "location_city": "Bayswater North VIC"
+      }
+    ],
+    "specific_installation": "NA",
+    "specific_installation_methods": "Magnets & other none-adhesive options that can be discussed with our Team",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": 13.0,
+    "independent_lca": "Yes",
+    "independent_lca_link": "https://www.globalgreentag.com/products/filasorb-woodbequiet/",
+    "independent_lca_scope": "Cradle to Gate (A1-A3)",
+    "incomplete_details": "",
+    "other_comments": "Acoustic products support healthy spaces by reducing noise and reverberation which supports a positive mental wellbeing and aids in better concentration in places where we work, learn and live.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2720,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/compliance/FFT09_Acoufelt_FilaSorb_12_Fire_Test_Certificate_AS_ISO_9705_k5pUsUX.pdf",
+        "link": "",
+        "rating": "Group 1"
+      }
+    ],
+    "type_of_packaging": "recycled cardboard boxes",
+    "files": [
+      {
+        "id": 3732,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/ModernSlaveryAssessment/GCC_Certificate_ISO_9001_-_1212-Q-1_-_Acoufelt_Pty_Ltd.pdf"
+      },
+      {
+        "id": 3735,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/ModernSlaveryActionPlan/GCC_Certificate_ISO_9001_-_1212-Q-1_-_Acoufelt_Pty_Ltd.pdf"
+      },
+      {
+        "id": 3744,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/VOC/FEC25_Acoufelt_FilaSorb_Panel_TVOC_Emission_Test_Certificate_CDPH_i50hRg7.pdf"
+      },
+      {
+        "id": 3745,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/LCA/FEC16_Acoufelt_FilaSorb_Panels_WoodBeQuiet_Planks_EPDThailand_Gate_EakvyLi.pdf"
+      },
+      {
+        "id": 3746,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/ACOUFELT%20PTY%20LTD/Filasorb%20Panel/RecycledContent/FEC16_Acoufelt_FilaSorb_Panels_WoodBeQuiet_Planks_EPDThailand_Gate_DokOYAw.pdf"
+      }
+    ]
+  }
+]

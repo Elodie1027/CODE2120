@@ -1,0 +1,896 @@
+[
+  {
+    "id": 1110,
+    "company": {
+      "id": 152,
+      "name": "STYLECRAFT"
+    },
+    "image": "products/STYLECRAFT/0804_Arper_CATIFA46_CRO_PO00117__0468.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-04-01T03:49:50.279830+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1846,
+      "email": "alid@stylecraft.com.au"
+    },
+    "updated_by": {
+      "id": 1846,
+      "email": "alid@stylecraft.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Arper",
+    "product_name": "Catifa 46 Sled",
+    "product_code": "Art. 0468",
+    "product_description": "Chair with polypropylene shell and front upholstery on sled base.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "560mm x 500mm x 800mm, 460mm S/H",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "6-8 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4070,
+        "certification": "GREENGUARD",
+        "file": null,
+        "link": "https://arper-cdn.thron.com/delivery/public/document/arper/503a4b7a-653c-4385-9cde-87cc5a155450/aurfir/WEB/Greenguard_certifications",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 43.5,
+    "upfront_carbon_emissions": 43.5,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "51",
+    "recyclable_percentage_description": "The metal part is easily separable (53% on the weight product)",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Scraps are collected and delivered to specialised companies for recycling or reuse",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Shell and base are easily separated and replaced if needed",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "Our scheduling system for deliveries across metro areas is geared to maximum vehicle efficiency.",
+    "minimisation_design_strategy": "Deliver packaging separated by material type to a collection point for recycling",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "https://www.arper.com/en_GB/sustainability-report",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://www.arper.com/en_GB/sustainability-report",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4070,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": null,
+        "link": "https://arper-cdn.thron.com/delivery/public/document/arper/503a4b7a-653c-4385-9cde-87cc5a155450/aurfir/WEB/Greenguard_certifications",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "Yes",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": "https://arper-cdn.thron.com/delivery/public/document/arper/503a4b7a-653c-4385-9cde-87cc5a155450/aurfir/WEB/Greenguard_certifications",
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2057,
+        "location_name": "Pasiano di Pordenone, PN, Italia",
+        "location_lat": 45.850229,
+        "location_lon": 12.628099,
+        "component": "Steel base ",
+        "component_percentage": 53.11
+      },
+      {
+        "id": 2055,
+        "location_name": "Villa del Conte, PD, Italia",
+        "location_lat": 45.962651,
+        "location_lon": 12.65515,
+        "component": "Shell ",
+        "component_percentage": 31.04
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2466,
+        "location_name": "Treviso, TV, Italia",
+        "location_lat": 45.666934,
+        "location_lon": 12.243061,
+        "material": "Polycarbonte ",
+        "product_percentage": 1.68
+      },
+      {
+        "id": 2467,
+        "location_name": "Treviso, TV, Italia",
+        "location_lat": 45.666934,
+        "location_lon": 12.243061,
+        "material": "Glue ",
+        "product_percentage": 0.32
+      },
+      {
+        "id": 2468,
+        "location_name": "Treviso, TV, Italia",
+        "location_lat": 45.666934,
+        "location_lon": 12.243061,
+        "material": "LDPE",
+        "product_percentage": 0.01
+      },
+      {
+        "id": 2460,
+        "location_name": "Milano, MI, Italia",
+        "location_lat": 45.468503,
+        "location_lon": 9.182403,
+        "material": "Steel",
+        "product_percentage": 53.11
+      },
+      {
+        "id": 2461,
+        "location_name": "Botlek Rotterdam, Paesi Bassi",
+        "location_lat": 51.874948,
+        "location_lon": 4.282547,
+        "material": "Polypropylene ",
+        "product_percentage": 20.18
+      },
+      {
+        "id": 2462,
+        "location_name": "Gorla Maggiore, VA, Italia",
+        "location_lat": 45.665169,
+        "location_lon": 8.896841,
+        "material": "Polypropylene",
+        "product_percentage": 10.87
+      },
+      {
+        "id": 2463,
+        "location_name": "Ebeltoft, Danimarca",
+        "location_lat": 56.196327,
+        "location_lon": 10.677857,
+        "material": "Fabric",
+        "product_percentage": 6.47
+      },
+      {
+        "id": 2464,
+        "location_name": "Castelfranco Veneto, TV, Italia",
+        "location_lat": 45.671782,
+        "location_lon": 11.928302,
+        "material": "ABS",
+        "product_percentage": 5.17
+      },
+      {
+        "id": 2465,
+        "location_name": "Comun Nuovo, BG, Italia",
+        "location_lat": 45.671782,
+        "location_lon": 11.928302,
+        "material": "Polyurethane",
+        "product_percentage": 2.12
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1761,
+        "location_name": "Santo Stino di Livenza, Metropolitan City of Venice, Italy",
+        "location_lat": 45.729765,
+        "location_lon": 12.681486,
+        "location_state": " Metropolitan City of Venice",
+        "location_city": "Santo Stino di Livenza"
+      },
+      {
+        "id": 1806,
+        "location_name": "Alexandria NSW, Australia",
+        "location_lat": -33.908027,
+        "location_lon": 151.190258,
+        "location_state": " Australia",
+        "location_city": "Alexandria NSW"
+      },
+      {
+        "id": 1807,
+        "location_name": "Williamstown VIC, Australia",
+        "location_lat": -37.858348,
+        "location_lon": 144.893764,
+        "location_state": " Australia",
+        "location_city": "Williamstown VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2431,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%20Sled/compliance/Omologazione_Divina_Duna_Palm_C46-C53.pdf",
+        "link": "",
+        "rating": "Divina - Class 1IM Italian Regulation"
+      },
+      {
+        "id": 2432,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%20Sled/compliance/DCPREV.REGISTRO_UFFICIALE.2017.0009464_Ist_Omologazione.pdf",
+        "link": "",
+        "rating": "Elmosoft - Class 1IM Italian Regulation"
+      },
+      {
+        "id": 2433,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%20Sled/compliance/Catifa46_PP_FF_Field_OM.pdf",
+        "link": "",
+        "rating": "Field - Class 1IM Italian Regulation"
+      },
+      {
+        "id": 2435,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%20Sled/compliance/Catifa46_PP_FFCushion_Revive_OM.pdf",
+        "link": "",
+        "rating": "Revive 1 - Class 1IM Italian Regulation"
+      },
+      {
+        "id": 2436,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%20Sled/compliance/Omologazione_2718_40816_C46_PP_FF_Remix.pdf",
+        "link": "",
+        "rating": "Remix - Class 1IM Italian Regulation"
+      },
+      {
+        "id": 2437,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%20Sled/compliance/C46_PP_FF__Cushion_HA_Omologazione_donbg3w.pdf",
+        "link": "",
+        "rating": "Hallingdal - Class 1IM Italian Regulation"
+      }
+    ],
+    "type_of_packaging": "Cardboard >99% and plastic < 1%. Packaging 100%recyclable",
+    "files": [
+      {
+        "id": 3248,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%20Sled/RecycledContent/0468.pdf"
+      },
+      {
+        "id": 3270,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%20Sled/LCA/S-P-01494_EPD_Catifa_46_ENG.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1113,
+    "company": {
+      "id": 152,
+      "name": "STYLECRAFT"
+    },
+    "image": "products/STYLECRAFT/Arper_CATIFA46_V39__MF00066_0317_57658.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-04-01T04:03:11.604993+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1846,
+      "email": "alid@stylecraft.com.au"
+    },
+    "updated_by": {
+      "id": 1846,
+      "email": "alid@stylecraft.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Arper",
+    "product_name": "Catifa 46 4W",
+    "product_code": "Art. 0376",
+    "product_description": "Chair with upholstered polypropylene shell on a 4 way castor base.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "540mm x 540mm 810mmH, 460mm S/H",
+    "price_per_unit": null,
+    "product_functional_unit": "unit",
+    "price_adjustment_structure": null,
+    "lead_time": "6-8 weeks",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4047,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%204W/certificates/Catifa_46_GREENGUARD_Gold_Certification.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 43.5,
+    "upfront_carbon_emissions": 43.5,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "51",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Scraps are collected and delivered to specialised companies for recycling or reuse",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Shell and base are easily separated and replaced if needed",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "Our scheduling system for deliveries across metro areas is geared to maximum vehicle efficiency.",
+    "minimisation_design_strategy": "Deliver packaging separated by material type to a collection point for recycling",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "https://www.arper.com/en_GB/sustainability-report",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://www.arper.com/en_GB/sustainability-report",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4047,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%204W/certificates/Catifa_46_GREENGUARD_Gold_Certification.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - Low Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2051,
+        "location_name": "Villa del Conte, PD, Italia",
+        "location_lat": 45.583576,
+        "location_lon": 11.858957,
+        "component": "Polypropylene ",
+        "component_percentage": 29.45
+      },
+      {
+        "id": 2053,
+        "location_name": "Taiwan ",
+        "location_lat": 45.583576,
+        "location_lon": 11.858957,
+        "component": "Aluminum",
+        "component_percentage": 27.63
+      },
+      {
+        "id": 2054,
+        "location_name": "Treviso, TV, Italia",
+        "location_lat": 45.666934,
+        "location_lon": 12.243061,
+        "component": "Steel ",
+        "component_percentage": 29.69
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2455,
+        "location_name": "Taiwan ",
+        "location_lat": 45.666934,
+        "location_lon": 12.243061,
+        "material": "Aluminum",
+        "product_percentage": 27.63
+      },
+      {
+        "id": 2456,
+        "location_name": "Tainan, East District, Tainan, Taiwan",
+        "location_lat": 22.999476,
+        "location_lon": 120.229272,
+        "material": "Castors ",
+        "product_percentage": 6.38
+      },
+      {
+        "id": 2457,
+        "location_name": "Botlek Rotterdam, Paesi Bassi",
+        "location_lat": 51.874948,
+        "location_lon": 4.282547,
+        "material": "Polypropylene ",
+        "product_percentage": 19.14
+      },
+      {
+        "id": 2447,
+        "location_name": "Treviso, TV, Italia",
+        "location_lat": 45.666934,
+        "location_lon": 12.243061,
+        "material": "Steel ",
+        "product_percentage": 29.69
+      },
+      {
+        "id": 2459,
+        "location_name": "Gorla Maggiore, VA, Italia",
+        "location_lat": 45.665169,
+        "location_lon": 8.896841,
+        "material": "Polypropylene",
+        "product_percentage": 10.31
+      },
+      {
+        "id": 2451,
+        "location_name": "Ebeltoft, Danimarca",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Fabric",
+        "product_percentage": 3.68
+      },
+      {
+        "id": 2452,
+        "location_name": "Comun Nuovo, BG, Italia",
+        "location_lat": 45.623165,
+        "location_lon": 9.660186,
+        "material": "Polyurethane ",
+        "product_percentage": 2.45
+      },
+      {
+        "id": 2454,
+        "location_name": "Treviso, TV, Italia",
+        "location_lat": 45.666934,
+        "location_lon": 12.243061,
+        "material": "Glue",
+        "product_percentage": 0.61
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1760,
+        "location_name": "Santo Stino di Livenza, Metropolitan City of Venice, Italy",
+        "location_lat": 45.729765,
+        "location_lon": 12.681486,
+        "location_state": " Metropolitan City of Venice",
+        "location_city": "Santo Stino di Livenza"
+      },
+      {
+        "id": 1804,
+        "location_name": "Alexandria NSW, Australia",
+        "location_lat": -33.908027,
+        "location_lon": 151.190258,
+        "location_state": " Australia",
+        "location_city": "Alexandria NSW"
+      },
+      {
+        "id": 1805,
+        "location_name": "Williamstown VIC, Australia",
+        "location_lat": -37.858348,
+        "location_lon": 144.893764,
+        "location_state": " Australia",
+        "location_city": "Williamstown VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2425,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%204W/compliance/Omologazione_Divina_Duna_Palm_C46-C53_DLwYgY0.pdf",
+        "link": "",
+        "rating": "Divina - Class 1IM Italian Regulation"
+      },
+      {
+        "id": 2426,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%204W/compliance/Catifa_46_IGN_Elmosoft_OM_MYGwT9u.pdf",
+        "link": "",
+        "rating": "Elmosoft - Class 1IM Italian Regulation"
+      },
+      {
+        "id": 2427,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%204W/compliance/OM_C46_STD_Field_LBkj338.pdf",
+        "link": "",
+        "rating": "Field - Class 1IM Italian Regulation"
+      },
+      {
+        "id": 2428,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%204W/compliance/Catifa_46_IGN_Revive_OM_cAH7k81.pdf",
+        "link": "",
+        "rating": "Revive 1 - Class 1IM Italian Regulation"
+      },
+      {
+        "id": 2429,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%204W/compliance/Catifa46_IGN_Total_Steelcut_Trio_Omologazione_s54qwxx.pdf",
+        "link": "",
+        "rating": "Steelcut Trio - Class 1IM Italian Regulation"
+      },
+      {
+        "id": 2430,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%204W/compliance/Omolog_Catifa_46-53_Valencia_oKHEjlz.pdf",
+        "link": "",
+        "rating": "Valencia - Class 1IM Italian Regulation"
+      }
+    ],
+    "type_of_packaging": "Cardboard >99% and plastic < 1%. Packaging 100%recyclable",
+    "files": [
+      {
+        "id": 3247,
+        "category": "RecycledContent",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%204W/RecycledContent/0376.pdf"
+      },
+      {
+        "id": 3269,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%204W/LCA/S-P-01494_EPD_Catifa_46_ENG.pdf"
+      },
+      {
+        "id": 3246,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2046%204W/VOC/Catifa_46_GREENGUARD_Gold_Certification.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1114,
+    "company": {
+      "id": 152,
+      "name": "STYLECRAFT"
+    },
+    "image": "products/STYLECRAFT/Arper-CatifaCarta-ProductImage-002.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-04-01T04:04:14.783096+00:00",
+    "last_update": "2025-04-08T14:00:00+00:00",
+    "created_by": {
+      "id": 1846,
+      "email": "alid@stylecraft.com.au"
+    },
+    "updated_by": {
+      "id": 1846,
+      "email": "alid@stylecraft.com.au"
+    },
+    "user_role": "Distributor",
+    "manufacturer_name": "Arper",
+    "product_name": "Catifa 53 Papershell Sled",
+    "product_code": "Art. 3135",
+    "product_description": "Chair with Papershell on a sled base.",
+    "product_categories": [
+      {
+        "id": 23,
+        "category_name": "Furniture and Loose Equipment"
+      }
+    ],
+    "standard_dimensions": "620mm x 500mm x 780mmH, 450mm S/H",
+    "price_per_unit": null,
+    "product_functional_unit": null,
+    "price_adjustment_structure": null,
+    "lead_time": "14 week",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4049,
+        "certification": "GREENGUARD",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2053%20Papershell%20Sled/certificates/Catifa_53_GREENGUARD_Gold_Certification.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": "No",
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": 12.4,
+    "upfront_carbon_emissions": 12.4,
+    "upfront_carbon_assessment": "Yes",
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "https://www.catifacarta.com/?utm_source=website&utm_medium=website&utm_campaign=CatifaCartaShop",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "Scraps are collected and delivered to specialised companies for recycling or reuse",
+    "recycled_content_percentage": "26",
+    "recycled_content_description": "",
+    "recycling_process_description": "https://www.catifacarta.com/?utm_source=website&utm_medium=website&utm_campaign=CatifaCartaShop",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "0",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "https://www.catifacarta.com/?utm_source=website&utm_medium=website&utm_campaign=CatifaCartaShop",
+    "end_of_life_program": "Yes",
+    "end_of_life_program_description": "https://www.catifacarta.com/?utm_source=website&utm_medium=website&utm_campaign=CatifaCartaShop",
+    "water_reduction_techniques": "0",
+    "transport_emissions_minimisation_techniques": "Our scheduling system for deliveries across metro areas is geared to maximum vehicle efficiency.",
+    "minimisation_design_strategy": "Deliver packaging separated by material type to a collection point for recycling",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "https://arper-cdn.thron.com/delivery/public/document/arper/fce95cf4-a721-4d18-b129-483060cbb66d/ctwhie/WEB/2023-sustainability-report?utm_source=website&utm_medium=website&utm_campaign=sustainability-",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": "https://arper-cdn.thron.com/delivery/public/document/arper/fce95cf4-a721-4d18-b129-483060cbb66d/ctwhie/WEB/2023-sustainability-report?utm_source=website&utm_medium=website&utm_campaign=sustainability-",
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4049,
+        "certification": "GREENGUARD",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2053%20Papershell%20Sled/certificates/Catifa_53_GREENGUARD_Gold_Certification.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "No",
+    "volatile_organic_compounds_evidence": null,
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 10,
+    "manufacturers_warranty_years": 7,
+    "factory_finished": false,
+    "factory_finished_description": "",
+    "manufacturing_locations": [
+      {
+        "id": 2059,
+        "location_name": "Pasiano di Pordenone, PN, Italia",
+        "location_lat": 45.850229,
+        "location_lon": 12.628099,
+        "component": "Steel base",
+        "component_percentage": 56.29
+      },
+      {
+        "id": 2058,
+        "location_name": "Tibro, Svezia",
+        "location_lat": 58.424323,
+        "location_lon": 14.161642,
+        "component": "Shell",
+        "component_percentage": 42.18
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2469,
+        "location_name": "Tibro, Svezia",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Paparshell",
+        "product_percentage": 42.18
+      },
+      {
+        "id": 2470,
+        "location_name": "Milano, MI, Italia",
+        "location_lat": 45.468503,
+        "location_lon": 9.182403,
+        "material": "Steel",
+        "product_percentage": 56.29
+      },
+      {
+        "id": 2471,
+        "location_name": "Treviso, TV, Italia",
+        "location_lat": 45.666934,
+        "location_lon": 12.243061,
+        "material": "Polycarbonate",
+        "product_percentage": 0.11
+      },
+      {
+        "id": 2472,
+        "location_name": "Treviso, TV, Italia",
+        "location_lat": 45.666934,
+        "location_lon": 12.243061,
+        "material": "LDPE",
+        "product_percentage": 0.08
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1762,
+        "location_name": "Santo Stino di Livenza, Metropolitan City of Venice, Italy",
+        "location_lat": 45.729765,
+        "location_lon": 12.681486,
+        "location_state": " Metropolitan City of Venice",
+        "location_city": "Santo Stino di Livenza"
+      },
+      {
+        "id": 1802,
+        "location_name": "Alexandria NSW, Australia",
+        "location_lat": -33.908027,
+        "location_lon": 151.190258,
+        "location_state": " Australia",
+        "location_city": "Alexandria NSW"
+      },
+      {
+        "id": 1803,
+        "location_name": "Williamstown VIC, Australia",
+        "location_lat": -37.858348,
+        "location_lon": 144.893764,
+        "location_state": " Australia",
+        "location_city": "Williamstown VIC"
+      }
+    ],
+    "specific_installation": "No",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 90,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 100,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "Yes",
+    "independent_lca_link": null,
+    "independent_lca_scope": "Cradle to Grave/Full LCA (A1-C4)",
+    "incomplete_details": "",
+    "other_comments": "",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2438,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2053%20Papershell%20Sled/compliance/Report_Test_Classe_2_LAPI.pdf",
+        "link": "",
+        "rating": "Report Test Class 2 italian Regulation"
+      },
+      {
+        "id": 2439,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2053%20Papershell%20Sled/compliance/FLO2014481_Flooring__-__Catifa_Carta_46103.1_-_Report_ID_759291.pdf",
+        "link": "",
+        "rating": "Test Report BS5852 Cigarette + Match Test - UK Regulation"
+      },
+      {
+        "id": 2440,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2053%20Papershell%20Sled/compliance/24-0382_01_726410846_ARPER_S.p.a._nach_VKF_final.pdf",
+        "link": "",
+        "rating": "Class 5.3 Swisse Regulation"
+      },
+      {
+        "id": 2441,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2053%20Papershell%20Sled/compliance/PV250004_DSSF2441002_Arper.pdf",
+        "link": "",
+        "rating": "Class M3 France "
+      }
+    ],
+    "type_of_packaging": "Cardboard >99% and plastic < 1%. Packaging 100%recyclable",
+    "files": [
+      {
+        "id": 3271,
+        "category": "LCA",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/STYLECRAFT/Catifa%2053%20Papershell%20Sled/LCA/LCA_Catifa_Carta_pirolisi_english.docx"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1290 @@
+[
+  {
+    "id": 1248,
+    "company": {
+      "id": 176,
+      "name": "INNOVATE GROUP LTD - TRADING AS FORTÉ"
+    },
+    "image": "products/INNOVATE GROUP LTD - TRADING AS FORTÉ/Screenshot_2025-06-10_094748.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-05-25T23:07:40.506296+00:00",
+    "last_update": "2025-06-10T14:00:00+00:00",
+    "created_by": {
+      "id": 2246,
+      "email": "kylie@forte.co.nz"
+    },
+    "updated_by": {
+      "id": 2246,
+      "email": "kylie@forte.co.nz"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Forté",
+    "product_name": "Moda 15Mm",
+    "product_code": "MOD",
+    "product_description": "15/4 T x 220 W x 2200mm L Feature Grade European Oak Brushed Surface UV Matte Lacquer",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "15/4 T x 220 W x 2200mm L (up to 25% Shorts)",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Stocked",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4618,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/certificates/SGS_FSC-STD-40-004_V3-1_NZFR_000063_EN_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "76",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Can be sanded multiple times, then recycled/reused when no longer required",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "UNKNOWN",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Layout Planning to minimize Wastage requirements. As a Multi width & length product, this also minimizes wastage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Meet the requirements for FSC as to Social Responsibility. A copy of our Social Corporate Responsibility Policy & Wood Sourcing Policy can be provided upon request.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4618,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/certificates/SGS_FSC-STD-40-004_V3-1_NZFR_000063_EN_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Moda Feature & Light Feature Plank - Multiple Colour Selections Available\r\n15/4 T x 220 W x 2200mm L (up to 25% Shorts)\r\nSustainably Sourced Feature Grade European Oak\r\nBrushed Surface\r\nUV Matte Lacquer",
+    "manufacturing_locations": [
+      {
+        "id": 2360,
+        "location_name": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
+        "location_lat": 10.823099,
+        "location_lon": 106.629664,
+        "component": "Oak Multilayered Engineered Flooring Plank",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2874,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "4mm Solid European Oak Wear Layer",
+        "product_percentage": 27.0
+      },
+      {
+        "id": 2875,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Multilayer Eucalypt Plywood Core",
+        "product_percentage": 73.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1938,
+        "location_name": "Auckland, New Zealand ",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "location_state": " New Zealand ",
+        "location_city": "Auckland"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Glue Down method of installation. This can be removed at end of life and the planks themselves recycled / re-used",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "This product also holds an NZ Codemark with an AU Codemark pending. \r\nForté are a Toitū EnviroMark certified company.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2624,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/compliance/Heritage__-_OD_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2629,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/compliance/MODA_COLLECTION_TIMBER_FLOORING_LIGHT_BROWN-_S96_06-05-2024_2.pdf",
+        "link": "",
+        "rating": "Low"
+      },
+      {
+        "id": 2630,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/compliance/Consult_733__Forte_ETF.pdf",
+        "link": "",
+        "rating": "Pass"
+      },
+      {
+        "id": 2631,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/compliance/MODA_COLLECTION_TIMBER_FLOORING_LIGHT_BROWN-_S96_06-05-2024_2_lJO6FQs.pdf",
+        "link": "",
+        "rating": "Low"
+      }
+    ],
+    "type_of_packaging": "Cardboard Boxing, with foam packing dividers. Boxes & foam can we recycled",
+    "files": [
+      {
+        "id": 3566,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/VOC/Forte_NZ_Formaldehyde_2098.11_CHoH__7-40_25857_3.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1261,
+    "company": {
+      "id": 176,
+      "name": "INNOVATE GROUP LTD - TRADING AS FORTÉ"
+    },
+    "image": "products/INNOVATE GROUP LTD - TRADING AS FORTÉ/Forté_Haven_Valencia_Feature_Plank_Angled_GTmTzyA.jpg",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-06-09T03:59:13.218860+00:00",
+    "last_update": "2025-06-09T14:00:00+00:00",
+    "created_by": {
+      "id": 2246,
+      "email": "kylie@forte.co.nz"
+    },
+    "updated_by": {
+      "id": 2246,
+      "email": "kylie@forte.co.nz"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Forté",
+    "product_name": "Haven 14Mm, 15Mm & 21Mm",
+    "product_code": "HA",
+    "product_description": "14/3 T x 190 W x 1900mm L Sustainably Sourced Feature Grade European Oak Lightly Brushed",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "14/3 T x 220 W x 2200mm L",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Stocked",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4620,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/certificates/SGS_FSC-STD-40-004_V3-1_NZFR_000063_EN_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4621,
+        "certification": "Other",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Haven%2014Mm%2C%2015Mm%20%26%2021Mm/certificates/Forte_Smartfloor_Collection_-__Formaldehyde.pdf",
+        "link": "",
+        "rating": "E0",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "95",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "Yes",
+    "compostable_percentage": "76",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Can be sanded multiple times, then recycled when no longer required",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "UNKNOWN",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Layout Planning to minimize Wastage requirements",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Meet the requirements for FSC as to Social Responsibility",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4620,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/certificates/SGS_FSC-STD-40-004_V3-1_NZFR_000063_EN_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4621,
+        "certification": "Other",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Haven%2014Mm%2C%2015Mm%20%26%2021Mm/certificates/Forte_Smartfloor_Collection_-__Formaldehyde.pdf",
+        "link": "",
+        "rating": "E0"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Haven Plank - Multiple Colour Selections & Formats Available\r\n14/3 T x 190 W x 1900mm L \r\n15/4 T x 190 W x 2200mm L\r\n20/6 T x 190 W x 1900 mm L\r\n14/3 T x 120 W x 600mm L (Herringbone)\r\n14/3 T x 120 W x 600mm L (Chevron)\r\nSustainably Sourced Feature, or Light Feature Grade European Oak\r\nLightly Brushed Surface\r\nUV Cured PureMatte Lacquer",
+    "manufacturing_locations": [
+      {
+        "id": 2353,
+        "location_name": "Shanghai, China",
+        "location_lat": 31.230416,
+        "location_lon": 121.473701,
+        "component": "Engineered Timber Flooring Planks",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2864,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "4mm Solid European Oak Wear Layer",
+        "product_percentage": 21.5
+      },
+      {
+        "id": 2865,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Eucalypt Ply Wood Core",
+        "product_percentage": 78.5
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1939,
+        "location_name": "Auckland, New Zealand ",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "location_state": " New Zealand ",
+        "location_city": "Auckland"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Glue Down method of installation. This can be removed at end of life and the planks themselves recycled / re-used",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "This product also holds an NZ Codemark with an AU Codemark pending.\r\nForté are a Toitū EnviroMark certified company.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2621,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Haven%2014Mm%2C%2015Mm%20%26%2021Mm/compliance/Consult_761_-_Forte_ETF_-_Smartfloor.pdf",
+        "link": "Compliant",
+        "rating": "undefined"
+      },
+      {
+        "id": 2622,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Haven%2014Mm%2C%2015Mm%20%26%2021Mm/compliance/Consult_761_-_Forte_ETF_-_Smartfloor_uyW6763.pdf",
+        "link": "",
+        "rating": "Compliant"
+      },
+      {
+        "id": 2623,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Haven%2014Mm%2C%2015Mm%20%26%2021Mm/compliance/HAVEN_COLLECTION_LIGHT_BROWN_TIMBER_FLOORING_19X20CM-_S96_05-05-2025.pdf",
+        "link": "",
+        "rating": "High (however, under reassessment)"
+      }
+    ],
+    "type_of_packaging": "Cardboard Boxing, with foam packing dividers. Boxes & foam can be recycled",
+    "files": [
+      {
+        "id": 3558,
+        "category": "ModernSlaveryActionPlan",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/ModernSlaveryActionPlan/CSR_Policy.pdf"
+      },
+      {
+        "id": 3559,
+        "category": "ModernSlaveryAssessment",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/ModernSlaveryAssessment/Wood_Sourcing_Policy_2025.pdf"
+      },
+      {
+        "id": 3560,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Haven%2014Mm%2C%2015Mm%20%26%2021Mm/VOC/Forte_Smartfloor_Collection_-__Formaldehyde.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1265,
+    "company": {
+      "id": 176,
+      "name": "INNOVATE GROUP LTD - TRADING AS FORTÉ"
+    },
+    "image": "products/INNOVATE GROUP LTD - TRADING AS FORTÉ/Screenshot_2025-06-10_094748.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-06-11T02:35:01.169786+00:00",
+    "last_update": "2025-06-10T14:00:00+00:00",
+    "created_by": {
+      "id": 2246,
+      "email": "kylie@forte.co.nz"
+    },
+    "updated_by": {
+      "id": 2246,
+      "email": "kylie@forte.co.nz"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Forté",
+    "product_name": "Heritage 18/5 Mm Rustic Plank",
+    "product_code": "HE",
+    "product_description": "Heritage Mixed Width Plank - Multiple Colour Selections Available 18/5 T x 190-350 W x 2500-3000mm L",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "18/5 T x 190-350 W x 2500-3000mm L (up to 25% Shorts)",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Indent - 150 Days",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4624,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/certificates/SGS_FSC-STD-40-004_V3-1_NZFR_000063_EN_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "76",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Can be sanded multiple times, then recycled/reused when no longer required",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "UNKNOWN",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Layout Planning to minimize Wastage requirements. As a Multi width & length product, this also minimizes wastage",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Meet the requirements for FSC as to Social Responsibility: Please reach out for a copy of our Corporate Social Responsibility Policy & our Wood Sourcing Policy",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4624,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/certificates/SGS_FSC-STD-40-004_V3-1_NZFR_000063_EN_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Heritage Mixed Width Plank - Multiple Colour Selections Available\r\n18/5 T x 190-350 W x 2500-3000mm L \r\nSustainably Sourced Rustic Grade European Oak\r\nBandsawn & French Polished Surface \r\nMatte Oxidative Lacquer",
+    "manufacturing_locations": [
+      {
+        "id": 2358,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "component": "Compound Oak on Oak Engineered Flooring Plank",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2872,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "5mm Solid European Oak Wear Layer",
+        "product_percentage": 28.0
+      },
+      {
+        "id": 2873,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Solid European Oak Core",
+        "product_percentage": 72.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1943,
+        "location_name": "Auckland, New Zealand ",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "location_state": " New Zealand ",
+        "location_city": "Auckland"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Glue Down method of installation. This can be removed at end of life and the planks themselves recycled / re-used",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "This product also holds an NZ Codemark with an AU Codemark pending. \r\nForté are a Toitū EnviroMark certified company.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2627,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/compliance/Heritage__-_OD_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2628,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/compliance/HERITAGE_COLLECTION_BROWN_TIMBER_FLOORING_20X25CM-_S96_05-05-2025_1.pdf",
+        "link": "",
+        "rating": "Moderate"
+      }
+    ],
+    "type_of_packaging": "Cardboard Boxing, with foam packing dividers. Boxes & foam can we recycled",
+    "files": []
+  },
+  {
+    "id": 1266,
+    "company": {
+      "id": 176,
+      "name": "INNOVATE GROUP LTD - TRADING AS FORTÉ"
+    },
+    "image": "products/INNOVATE GROUP LTD - TRADING AS FORTÉ/Screenshot_2025-06-11_151004.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-06-11T03:06:48.178925+00:00",
+    "last_update": "2025-06-10T14:00:00+00:00",
+    "created_by": {
+      "id": 2246,
+      "email": "kylie@forte.co.nz"
+    },
+    "updated_by": {
+      "id": 2246,
+      "email": "kylie@forte.co.nz"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Forté",
+    "product_name": "Artiste Grande 19/5 Rustic Plank",
+    "product_code": "ARG",
+    "product_description": "19/5 T x 250 W x 2500mm L (25% shorts) Sustainably Sourced Rustic Grade European Oak Deep Brushed Su",
+    "product_categories": [
+      {
+        "id": 4,
+        "category_name": "Floor Finishes and Tiling"
+      }
+    ],
+    "standard_dimensions": "18/5 T x 190-350 W x 2500-3000mm L (up to 25% Shorts)",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Stocked",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4625,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/certificates/SGS_FSC-STD-40-004_V3-1_NZFR_000063_EN_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "76",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "Can be sanded multiple times, then recycled/reused when no longer required",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "UNKNOWN",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Layout Planning to minimize Wastage requirements.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Meet the requirements for FSC as to Social Responsibility: Please reach out for a copy of our Corporate Social Responsibility Policy & our Wood Sourcing Policy",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4625,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/certificates/SGS_FSC-STD-40-004_V3-1_NZFR_000063_EN_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Artiste Grande Rustic Plank - Multiple Colour Selections Available\r\n19/5 T x 250 W x 2500mm L (25% shorts)\r\nSustainably Sourced Rustic Grade European Oak\r\nDeep Brushed Surface\r\nUV Cured Matte Lacquer",
+    "manufacturing_locations": [
+      {
+        "id": 2361,
+        "location_name": "Bangkok, Thailand",
+        "location_lat": 13.756331,
+        "location_lon": 100.501765,
+        "component": "Compound Oak on Oak Engineered Flooring Plank",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2878,
+        "location_name": "",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Multilayered Plywood Core",
+        "product_percentage": 74.0
+      },
+      {
+        "id": 2879,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "5mm Solid European Oak Wear Layer",
+        "product_percentage": 26.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1944,
+        "location_name": "Auckland, New Zealand ",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "location_state": " New Zealand ",
+        "location_city": "Auckland"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Glue Down method of installation. This can be removed at end of life and the planks themselves recycled / re-used",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "This product also holds an NZ Codemark with an AU Codemark pending. \r\nForté are a Toitū EnviroMark certified company.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2632,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/compliance/Heritage__-_OD_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2634,
+        "requirement": "Fire Resistance FRL",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Artiste%20Grande%2019/5%20Rustic%20Plank/compliance/Consult_733__Forte_ETF.pdf",
+        "link": "",
+        "rating": "Excellent"
+      },
+      {
+        "id": 2635,
+        "requirement": "Slip Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Artiste%20Grande%2019/5%20Rustic%20Plank/compliance/ARTISTE_GRANDE_COLLECTION_LIGHT_BROWN_TIMBER_FLOORING_20X25CM-_S96_05-05-2025_1.pdf",
+        "link": "",
+        "rating": "Moderate"
+      }
+    ],
+    "type_of_packaging": "Cardboard Boxing, with foam packing dividers. Boxes & foam can we recycled",
+    "files": []
+  },
+  {
+    "id": 1267,
+    "company": {
+      "id": 176,
+      "name": "INNOVATE GROUP LTD - TRADING AS FORTÉ"
+    },
+    "image": "products/INNOVATE GROUP LTD - TRADING AS FORTÉ/Screenshot_2025-06-11_152434.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-06-11T03:24:09.246147+00:00",
+    "last_update": "2025-06-10T14:00:00+00:00",
+    "created_by": {
+      "id": 2246,
+      "email": "kylie@forte.co.nz"
+    },
+    "updated_by": {
+      "id": 2246,
+      "email": "kylie@forte.co.nz"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Forté",
+    "product_name": "Muuro Wall & Ceiling Panelling",
+    "product_code": "MU",
+    "product_description": "19/5 T x 250 W x 2500mm L (25% shorts) Sustainably Sourced Rustic Grade European Oak Deep Brushed Su",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      }
+    ],
+    "standard_dimensions": "10 T x 125 W x 2700mm L",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Stocked",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4629,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Muuro%20Wall%20%26%20Ceiling%20Panelling/certificates/SGS_PEFC_ST_2002_2020_NZFR_000064_EN_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "76",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "UNKNOWN",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Layout Planning to minimize Wastage requirements.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Meet the requirements for FSC as to Social Responsibility. A copy of our Social Corporate Responsibility Policy & Wood Sourcing Policy can be provided upon request.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4629,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Muuro%20Wall%20%26%20Ceiling%20Panelling/certificates/SGS_PEFC_ST_2002_2020_NZFR_000064_EN_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Yes",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Muuro Oak or Walnut Plank - Multiple Colour Selections Available\r\n10/0.6 T x 125 W x 2700mm L (fixed lengths)\r\n100% PEFC Clear Grade European Oak\r\nBrushed Surface\r\nBona Matte Lacquer\r\nUnfit X Locking Profile",
+    "manufacturing_locations": [
+      {
+        "id": 2363,
+        "location_name": "Santiago de Compostela, Municipality of Santiago de Compostela, Spain",
+        "location_lat": 42.876861,
+        "location_lon": -8.544173,
+        "component": "Oak or Walnut 2 Layered Engineered Panel",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2883,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "0.6mm Solid Oak or Walnut Wear Layer",
+        "product_percentage": 6.0
+      },
+      {
+        "id": 2884,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "Moisture Resistant HDF",
+        "product_percentage": 94.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1945,
+        "location_name": "Auckland, New Zealand ",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "location_state": " New Zealand ",
+        "location_city": "Auckland"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "Glue & Pin installation. This can be removed at end of life and the planks themselves recycled / re-used",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Forté are a Toitū EnviroMark certified company.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2636,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/compliance/Heritage__-_OD_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2640,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Muuro%20Wall%20%26%20Ceiling%20Panelling/compliance/Critical_Radiant_Flux_-_Muuro.pdf",
+        "link": "",
+        "rating": "Group 3 (or group 1 with intumescent coating)"
+      }
+    ],
+    "type_of_packaging": "Cardboard Boxing, with foam packing dividers. Boxes & foam can we recycled",
+    "files": [
+      {
+        "id": 3568,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Muuro%20Wall%20%26%20Ceiling%20Panelling/VOC/GC_Forte_NZ__29124_22370.pdf"
+      }
+    ]
+  },
+  {
+    "id": 1268,
+    "company": {
+      "id": 176,
+      "name": "INNOVATE GROUP LTD - TRADING AS FORTÉ"
+    },
+    "image": "products/INNOVATE GROUP LTD - TRADING AS FORTÉ/Screenshot_2025-06-11_155401.png",
+    "featured": false,
+    "active": false,
+    "timestamp": "2025-06-11T03:53:07.863004+00:00",
+    "last_update": "2025-06-10T14:00:00+00:00",
+    "created_by": {
+      "id": 2246,
+      "email": "kylie@forte.co.nz"
+    },
+    "updated_by": {
+      "id": 2246,
+      "email": "kylie@forte.co.nz"
+    },
+    "user_role": "Manufacturer",
+    "manufacturer_name": "Forté",
+    "product_name": "Alor Veneer Cabinetry Panel",
+    "product_code": "AL",
+    "product_description": "Alor Oak, Walnut or Ash Veneer Panel Core A: MR MDF Green Dyed Panel",
+    "product_categories": [
+      {
+        "id": 3,
+        "category_name": "Internal Wall Linings, finishes and partition systems"
+      },
+      {
+        "id": 17,
+        "category_name": "Joinery and benchtop materials and systems"
+      }
+    ],
+    "standard_dimensions": "10 T x 125 W x 2700mm L",
+    "price_per_unit": null,
+    "product_functional_unit": "m2",
+    "price_adjustment_structure": null,
+    "lead_time": "Stocked",
+    "factory_location": null,
+    "sustainability_rating": null,
+    "environmental_impact": null,
+    "certifications": [
+      {
+        "id": 4632,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Muuro%20Wall%20%26%20Ceiling%20Panelling/certificates/SGS_PEFC_ST_2002_2020_NZFR_000064_EN_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      },
+      {
+        "id": 4634,
+        "certification": "Forestry Stewardship Council",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Alor%20Veneer%20Cabinetry%20Panel/certificates/SGS_FSC-STD-40-004_V3-1_NZFR_000063_EN_1.pdf",
+        "link": "",
+        "rating": "undefined",
+        "custom_certification_name": "undefined"
+      }
+    ],
+    "technical_specifications": null,
+    "availability": null,
+    "minimum_order_quantity": null,
+    "maximum_order_quantity": null,
+    "shipping_restrictions": null,
+    "warranty_period": null,
+    "maintenance_requirements": null,
+    "installation_requirements": null,
+    "compatibility_notes": null,
+    "alternative_products": null,
+    "related_products": null,
+    "tags": null,
+    "notes": null,
+    "carbon_neutral": null,
+    "carbon_offset_included": null,
+    "carbon_offsets": null,
+    "carbon_functional_unit": null,
+    "embodied_energy": null,
+    "embodied_energy_provided": null,
+    "embodied_water_content": null,
+    "embodied_water_content_provided": "No",
+    "net_carbon_emissions": null,
+    "upfront_carbon_emissions": null,
+    "upfront_carbon_assessment": null,
+    "recyclable_percentage": "76",
+    "recyclable_percentage_description": "",
+    "recyclable_offcuts": "Yes",
+    "recyclable_offcuts_description": "",
+    "recycled_content_percentage": "0",
+    "recycled_content_description": "",
+    "recycling_process_description": "",
+    "recycling_process_locally_possible": "No",
+    "compostable_percentage": "76",
+    "compostable_conditions": "",
+    "biodegradable_percentage": null,
+    "biodegradable_conditions": "",
+    "reusable": "Yes",
+    "reusable_description": "",
+    "end_of_life_program": "No",
+    "end_of_life_program_description": "",
+    "water_reduction_techniques": "UNKNOWN",
+    "transport_emissions_minimisation_techniques": "",
+    "minimisation_design_strategy": "Layout Planning to minimize Wastage requirements.",
+    "modern_slavery_assessment_complete": "Yes",
+    "modern_slavery_action_plan_complete": "Yes",
+    "modern_slavery_action_plan_comment": "",
+    "modern_slavery_comments": "Meet the requirements for FSC as to Social Responsibility. A copy of our Social Corporate Responsibility Policy & Wood Sourcing Policy can be provided upon request.",
+    "modern_slavery_incidents": "No",
+    "modern_slavery_link": null,
+    "human_rights_assessment_complete": null,
+    "detailed_certifications": [
+      {
+        "id": 4632,
+        "certification": "Programme for the Endorsement of Forest Certification",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Muuro%20Wall%20%26%20Ceiling%20Panelling/certificates/SGS_PEFC_ST_2002_2020_NZFR_000064_EN_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 4634,
+        "certification": "Forestry Stewardship Council",
+        "custom_certification_name": "undefined",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Alor%20Veneer%20Cabinetry%20Panel/certificates/SGS_FSC-STD-40-004_V3-1_NZFR_000063_EN_1.pdf",
+        "link": "",
+        "rating": "undefined"
+      }
+    ],
+    "certifier_name": null,
+    "risk_of_harm_posed": "No",
+    "risk_of_harm_posed_description": "",
+    "installation_risks": "No",
+    "installation_risks_description": "",
+    "substances_of_concern": "No",
+    "substances_of_concern_description": "",
+    "volatile_organic_compounds": "Yes - No Emissions",
+    "volatile_organic_compounds_evidence": "Pending",
+    "volatile_organic_compounds_link": null,
+    "expected_lifespan_years": 25,
+    "manufacturers_warranty_years": 25,
+    "factory_finished": true,
+    "factory_finished_description": "Alor Oak, Walnut, Ash Veneer Panel - Multiple Colour Selections Available\r\nCore A: MR MDF Green Dyed Panel\r\nDimensions: 19 T x 2440 L x 1220mm W or 19 T x 3050 L x 1220 W\r\n1F1B Panel with UV-Lacquer Finish\r\nLightly Brushed Surface",
+    "manufacturing_locations": [
+      {
+        "id": 2365,
+        "location_name": "Brussels, Belgium",
+        "location_lat": 50.847703,
+        "location_lon": 4.3572,
+        "component": "1 Face 1 Back Oak or Walnut or Ash Veneer Panel",
+        "component_percentage": 100.0
+      }
+    ],
+    "material_locations": [
+      {
+        "id": 2888,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "0.6mm Solid Oak or Walnut or Ash Wear Layer - BACK",
+        "product_percentage": 3.0
+      },
+      {
+        "id": 2889,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "0.6mm Solid Oak or Walnut or Ash Wear Layer - FACE",
+        "product_percentage": 3.0
+      },
+      {
+        "id": 2890,
+        "location_name": "Europe",
+        "location_lat": null,
+        "location_lon": null,
+        "material": "MR MDF Core",
+        "product_percentage": 94.0
+      }
+    ],
+    "storage_locations": [
+      {
+        "id": 1946,
+        "location_name": "Auckland, New Zealand ",
+        "location_lat": -36.850883,
+        "location_lon": 174.764488,
+        "location_state": " New Zealand ",
+        "location_city": "Auckland"
+      }
+    ],
+    "specific_installation": "Yes",
+    "specific_installation_methods": "",
+    "applied_finish_required": false,
+    "applied_finish_required_description": "",
+    "section_A_score": 100,
+    "section_B_score": 0,
+    "section_C_score": 100,
+    "section_D_score": 62,
+    "section_E_score": 100,
+    "section_F_score": 100,
+    "section_G_score": 100,
+    "responsible_products_rating": null,
+    "independent_lca": "No",
+    "independent_lca_link": null,
+    "independent_lca_scope": null,
+    "incomplete_details": "",
+    "other_comments": "Forté are a Toitū EnviroMark certified company.",
+    "disclaimer_agreement": true,
+    "compliance_requirements": [
+      {
+        "id": 2641,
+        "requirement": "Combustibility / Flammability",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Moda%2015Mm/compliance/Heritage__-_OD_2.pdf",
+        "link": "",
+        "rating": "undefined"
+      },
+      {
+        "id": 2642,
+        "requirement": "Fire Hazard Properties Group Rating",
+        "file": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Muuro%20Wall%20%26%20Ceiling%20Panelling/compliance/Critical_Radiant_Flux_-_Muuro.pdf",
+        "link": "",
+        "rating": "Group 3 (or group 1 with intumescent coating)"
+      }
+    ],
+    "type_of_packaging": "Timber Pallets & Carboard Packers - Recyclable",
+    "files": [
+      {
+        "id": 3570,
+        "category": "VOC",
+        "url": "https://architectsdeclareapp.s3.amazonaws.com/media/products/INNOVATE%20GROUP%20LTD%20-%20TRADING%20AS%20FORT%C3%89/Muuro%20Wall%20%26%20Ceiling%20Panelling/VOC/GC_Forte_NZ__29124_22370.pdf"
+      }
+    ]
+  }
+]
